@@ -162,9 +162,9 @@ export default async function ProductPage({ params }: ProductPageProps) {
               />
 
               {/* Gerflor Brand Link */}
-              {brand?.slug === 'gerflor' && (
+              {brand?.slug === 'gerflor' && product.externalLink && (
                 <a
-                  href="https://www.gerflor-cee.com/"
+                  href={product.externalLink}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="mt-4 btn-secondary w-full text-center inline-block"
