@@ -371,7 +371,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: true,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-30-new-collection',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -393,7 +393,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: true,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-40-new-collection',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -415,7 +415,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: true,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-40-clic-new-collection',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -437,7 +437,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: false,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-40-clic-acoustic-new-collection',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -459,7 +459,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: false,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-40-zen',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -481,7 +481,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: true,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-55-new-collection',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -503,7 +503,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: true,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-55-clic-new-collection',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -525,7 +525,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: false,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-55-clic-acoustic-new-collection',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -547,7 +547,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: false,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-55-looselay',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -569,7 +569,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: false,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-55-looselay-acoustic',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -591,7 +591,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: false,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-55-zen',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -613,7 +613,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: true,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-70-new-collection',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -635,7 +635,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: true,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-70-clic-5mm-new-collection',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -657,7 +657,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: false,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-70-connect',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -679,7 +679,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: false,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-70-megaclic',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -701,7 +701,7 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: false,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-70-zen',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
@@ -723,7 +723,30 @@ export const products: Product[] = [
     priceUnit: 'm²',
     inStock: true,
     featured: false,
-    externalLink: '', // Dodati link
+    externalLink: 'https://www.gerflor-cee.com/products/creation-saga2',
+    createdAt: new Date('2024-03-20'),
+    updatedAt: new Date('2024-03-20'),
+  },
+  {
+    id: '25',
+    name: 'Gerflor Creation 70 Loose Lay',
+    slug: 'gerflor-creation-70-loose-lay',
+    sku: 'GER-C70LL',
+    categoryId: '2',
+    brandId: '6',
+    shortDescription: 'LVT kolekcija Loose Lay sistem - Novo 2025',
+    description: 'Creation 70 Loose Lay LVT kolekcija - vinil bez lepljenja. Novitet 2025. godine. Pogledajte kompletnu ponudu na Gerflor sajtu.',
+    images: [{ id: '25-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 70 Loose Lay', isPrimary: true, order: 1 }],
+    specs: [
+      { key: 'type', label: 'Tip', value: 'LVT Loose Lay' },
+      { key: 'new', label: 'Novitet', value: '2025' },
+      { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
+    ],
+    price: 0,
+    priceUnit: 'm²',
+    inStock: true,
+    featured: true,
+    externalLink: 'https://www.gerflor-cee.com/products/new-2025-creation-70-looselay',
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
