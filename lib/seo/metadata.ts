@@ -55,7 +55,7 @@ export function generateProductMetadata(params: {
     title: params.title,
     description: params.description,
     openGraph: {
-      type: 'product',
+      type: 'website',
       title: params.title,
       description: params.description,
       url: params.url,
