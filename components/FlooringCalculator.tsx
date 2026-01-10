@@ -5,13 +5,11 @@ import { useState } from 'react';
 interface FlooringCalculatorProps {
   productName: string;
   coveragePerPackage?: number; // m² po pakovanju
-  onSendInquiry?: (area: number, packagesNeeded: number) => void;
 }
 
 export default function FlooringCalculator({ 
   productName, 
   coveragePerPackage = 2.25,
-  onSendInquiry 
 }: FlooringCalculatorProps) {
   const [area, setArea] = useState<string>('');
   const [calculated, setCalculated] = useState(false);
@@ -145,17 +143,11 @@ export default function FlooringCalculator({
           </div>
 
           {/* CTA dugme */}
-          {onSendInquiry && (
-            <button
-              onClick={() => onSendInquiry(areaNumber, packagesNeeded)}
-              className="btn-primary w-full text-base py-3 shadow-lg hover:shadow-xl transition-shadow"
-            >
-              <svg className="w-5 h-5 mr-2 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-              </svg>
-              Pošalji upit za {packagesNeeded} paketa
-            </button>
-          )}
+          <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4">
+            <p className="text-sm text-gray-700 text-center">
+              💡 <strong>Kliknite na dugme "Pošalji upit"</strong> gore na stranici da pošaljete upit za {packagesNeeded} paketa
+            </p>
+          </div>
         </div>
       )}
     </div>

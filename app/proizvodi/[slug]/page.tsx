@@ -191,10 +191,6 @@ export default async function ProductPage({ params }: ProductPageProps) {
           <FlooringCalculator 
             productName={product.name}
             coveragePerPackage={2.25}
-            onSendInquiry={(area, packages) => {
-              // This will be handled by the InquiryButton which is already on the page
-              // We could enhance this later to pass calculator data to the modal
-            }}
           />
         </div>
 
