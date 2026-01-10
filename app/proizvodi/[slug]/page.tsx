@@ -152,27 +152,28 @@ export default async function ProductPage({ params }: ProductPageProps) {
               </div>
 
               {/* Inquiry Button */}
-              {brand?.slug === 'gerflor' ? (
+              <InquiryButton 
+                product={{
+                  id: product.id,
+                  name: product.name,
+                  sku: product.sku,
+                  url: productUrl,
+                }}
+              />
+
+              {/* Gerflor Brand Link */}
+              {brand?.slug === 'gerflor' && (
                 <a
                   href="https://www.gerflor-cee.com/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="btn-primary w-full text-lg py-4 text-center inline-block"
+                  className="mt-4 btn-secondary w-full text-center inline-block"
                 >
                   <svg className="w-5 h-5 mr-2 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
                   </svg>
-                  Pogledaj kompletnu kolekciju
+                  Pogledaj kompletnu kolekciju na Gerflor sajtu
                 </a>
-              ) : (
-                <InquiryButton 
-                  product={{
-                    id: product.id,
-                    name: product.name,
-                    sku: product.sku,
-                    url: productUrl,
-                  }}
-                />
               )}
 
               <div className="mt-6 grid grid-cols-3 gap-4 text-center text-sm">

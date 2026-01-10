@@ -40,8 +40,7 @@ export default async function BrandPage({ params }: BrandPageProps) {
 
   const products = await getProductsByBrand(brand.id);
 
-  // Check if this is Gerflor with external collections
-  const isGerflorWithExternal = brand.slug === 'gerflor' && products.some(p => p.externalLink);
+  const isGerflor = brand.slug === 'gerflor';
 
   return (
     <div className="min-h-screen bg-gray-50 py-12">
@@ -75,7 +74,7 @@ export default async function BrandPage({ params }: BrandPageProps) {
         </div>
 
         {/* Gerflor Special Notice */}
-        {isGerflorWithExternal && (
+        {isGerflor && (
           <div className="bg-gradient-to-r from-primary-50 to-primary-100 border-l-4 border-primary-600 rounded-lg p-6 mb-8">
             <div className="flex items-start gap-4">
               <div className="flex-shrink-0 bg-primary-600 text-white rounded-full w-10 h-10 flex items-center justify-center">
@@ -83,13 +82,21 @@ export default async function BrandPage({ params }: BrandPageProps) {
               </div>
               <div>
                 <h2 className="text-xl font-bold text-gray-900 mb-2">
-                  Gerflor Kolekcije - Kompletna Ponuda
+                  Gerflor Kolekcije - Zvanični Zastupnik
                 </h2>
-                <p className="text-gray-700">
-                  Kao zvanični zastupnik Gerflor brenda za Srbiju, nudimo pristup celokupnoj paleti njihovih premium vinilnih podova. 
-                  Kliknite na bilo koju kolekciju ispod da biste videli sve dostupne dezene, specifikacije i mogućnosti primene na 
-                  zvaničnom Gerflor sajtu. Za konkretne upite, cene i dostupnost u Srbiji, kontaktirajte nas direktno.
+                <p className="text-gray-700 mb-3">
+                  Kao zvanični zastupnik Gerflor brenda za Srbiju, nudimo kompletnu paletu njihovih premium vinilnih podova. 
+                  Kliknite na bilo koju kolekciju ispod da biste videli detalje, specifikacije i pošaljite upit za cene i dostupnost.
                 </p>
+                <a
+                  href="https://www.gerflor-cee.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 text-primary-600 hover:text-primary-700 font-medium"
+                >
+                  Pogledaj kompletnu kolekciju na Gerflor sajtu
+                  <FaExternalLinkAlt className="text-sm" />
+                </a>
               </div>
             </div>
           </div>
@@ -98,7 +105,7 @@ export default async function BrandPage({ params }: BrandPageProps) {
         {/* Products Grid */}
         <div>
           <h2 className="text-2xl font-bold text-gray-900 mb-6">
-            {isGerflorWithExternal ? 'Dostupne Kolekcije' : 'Proizvodi'} ({products.length})
+            {isGerflor ? 'Dostupne Kolekcije' : 'Proizvodi'} ({products.length})
           </h2>
           
           {products.length === 0 ? (

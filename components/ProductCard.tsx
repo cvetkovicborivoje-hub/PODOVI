@@ -11,12 +11,8 @@ export default async function ProductCard({ product }: ProductCardProps) {
   const brand = await brandRepository.findById(product.brandId);
   const primaryImage = product.images.find(img => img.isPrimary) || product.images[0];
 
-  // If product has external link, use it; otherwise use internal link
-  const href = product.externalLink || `/proizvodi/${product.slug}`;
-  const isExternal = !!product.externalLink;
-
-  const cardContent = (
-    <>
+  return (
+    <Link href={`/proizvodi/${product.slug}`} className="card hover:shadow-xl transition-shadow duration-300">
       <div className="relative h-64 bg-gray-100">
         {primaryImage ? (
           <div className="w-full h-full flex items-center justify-center p-4">
@@ -69,25 +65,10 @@ export default async function ProductCard({ product }: ProductCardProps) {
         )}
         <div className="mt-4">
           <span className="text-primary-600 font-medium text-sm">
-            {isExternal ? 'Pogledaj kolekciju →' : 'Detaljnije →'}
+            Detaljnije →
           </span>
         </div>
       </div>
-    </>
-  );
-
-  return isExternal ? (
-    <a 
-      href={href} 
-      target="_blank" 
-      rel="noopener noreferrer"
-      className="card hover:shadow-xl transition-shadow duration-300"
-    >
-      {cardContent}
-    </a>
-  ) : (
-    <Link href={href} className="card hover:shadow-xl transition-shadow duration-300">
-      {cardContent}
     </Link>
   );
 }
