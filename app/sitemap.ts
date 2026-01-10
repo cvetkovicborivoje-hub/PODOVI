@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next';
 import { productRepository } from '@/lib/repositories/product-repository';
 import { categoryRepository } from '@/lib/repositories/category-repository';
+import { brandRepository } from '@/lib/repositories/brand-repository';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://podovi.rs';
@@ -48,6 +49,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }));
 
+  // Brand pages
+  const brands = await brandRepository.findAll();
+  const brandPages: MetadataRoute.Sitemap = brands.map((brand) => ({
+    url: `${baseUrl}/brendovi/${brand.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.8,
+  }));
+
   // Product pages
   const products = await productRepository.findAll();
   const productPages: MetadataRoute.Sitemap = products.map((product) => ({
@@ -57,5 +67,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.7,
   }));
 
-  return [...staticPages, ...categoryPages, ...productPages];
+  return [...staticPages, ...categoryPages, ...brandPages, ...productPages];
 }

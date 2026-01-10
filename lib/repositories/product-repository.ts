@@ -6,6 +6,7 @@ export interface IProductRepository {
   findBySlug(slug: string): Promise<Product | null>;
   findById(id: string): Promise<Product | null>;
   findByCategory(categoryId: string, filters?: ProductFilters): Promise<Product[]>;
+  findByBrand(brandId: string): Promise<Product[]>;
   findFeatured(): Promise<Product[]>;
 }
 
@@ -59,9 +60,18 @@ export class MockProductRepository implements IProductRepository {
     return this.findAll({ ...filters, categoryId });
   }
 
+  async findByBrand(brandId: string): Promise<Product[]> {
+    return this.products.filter(p => p.brandId === brandId);
+  }
+
   async findFeatured(): Promise<Product[]> {
     return this.products.filter(p => p.featured);
   }
 }
 
 export const productRepository = new MockProductRepository();
+
+// Helper functions for easier imports
+export async function getProductsByBrand(brandId: string): Promise<Product[]> {
+  return productRepository.findByBrand(brandId);
+}

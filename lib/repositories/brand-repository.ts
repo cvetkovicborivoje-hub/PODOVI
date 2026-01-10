@@ -24,3 +24,8 @@ export class MockBrandRepository implements IBrandRepository {
 }
 
 export const brandRepository = new MockBrandRepository();
+
+// Helper functions for easier imports
+export async function getBrandBySlug(slug: string): Promise<Brand | null> {
+  return brandRepository.findBySlug(slug);
+}
