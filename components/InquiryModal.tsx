@@ -1,0 +1,298 @@
+"use client";
+
+import { useState, FormEvent } from 'react';
+import { InquiryFormData, PreferredContact } from '@/types';
+
+interface InquiryModalProps {
+  isOpen: boolean;
+  onClose: () => void;
+  product: {
+    id: string;
+    name: string;
+    sku: string;
+    url: string;
+  };
+}
+
+export default function InquiryModal({ isOpen, onClose, product }: InquiryModalProps) {
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [isSuccess, setIsSuccess] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+
+  const [formData, setFormData] = useState<InquiryFormData>({
+    productId: product.id,
+    productName: product.name,
+    productSku: product.sku,
+    productUrl: product.url,
+    fullName: '',
+    phone: '',
+    email: '',
+    city: '',
+    quantityM2: '',
+    message: '',
+    preferredContact: [],
+  });
+
+  const handleSubmit = async (e: FormEvent) => {
+    e.preventDefault();
+    setIsSubmitting(true);
+    setError(null);
+
+    try {
+      const response = await fetch('/api/inquiries', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(formData),
+      });
+
+      if (!response.ok) {
+        const data = await response.json();
+        throw new Error(data.error || 'Greška pri slanju upita');
+      }
+
+      setIsSuccess(true);
+      setTimeout(() => {
+        onClose();
+        setIsSuccess(false);
+        // Reset form
+        setFormData({
+          ...formData,
+          fullName: '',
+          phone: '',
+          email: '',
+          city: '',
+          quantityM2: '',
+          message: '',
+          preferredContact: [],
+        });
+      }, 2000);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Greška pri slanju upita');
+    } finally {
+      setIsSubmitting(false);
+    }
+  };
+
+  const togglePreferredContact = (method: PreferredContact) => {
+    setFormData(prev => ({
+      ...prev,
+      preferredContact: prev.preferredContact.includes(method)
+        ? prev.preferredContact.filter(m => m !== method)
+        : [...prev.preferredContact, method],
+    }));
+  };
+
+  if (!isOpen) return null;
+
+  return (
+    <div className="fixed inset-0 z-50 overflow-y-auto">
+      <div className="flex items-center justify-center min-h-screen px-4 pt-4 pb-20 text-center sm:block sm:p-0">
+        {/* Overlay */}
+        <div 
+          className="fixed inset-0 transition-opacity bg-gray-500 bg-opacity-75"
+          onClick={onClose}
+        />
+
+        {/* Modal */}
+        <div className="inline-block align-bottom bg-white rounded-lg text-left overflow-hidden shadow-xl transform transition-all sm:my-8 sm:align-middle sm:max-w-2xl sm:w-full">
+          {isSuccess ? (
+            <div className="p-8 text-center">
+              <div className="inline-flex items-center justify-center w-16 h-16 bg-green-100 text-green-600 rounded-full mb-4">
+                <svg className="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                </svg>
+              </div>
+              <h3 className="text-2xl font-bold text-gray-900 mb-2">
+                Upit uspešno poslat!
+              </h3>
+              <p className="text-gray-600">
+                Kontaktiraćemo vas u najkraćem mogućem roku.
+              </p>
+            </div>
+          ) : (
+            <>
+              <div className="bg-white px-6 pt-6 pb-4">
+                <div className="flex items-start justify-between mb-4">
+                  <div>
+                    <h3 className="text-2xl font-bold text-gray-900">
+                      Pošalji upit
+                    </h3>
+                    <p className="text-sm text-gray-600 mt-1">
+                      {product.name}
+                    </p>
+                    <p className="text-xs text-gray-500 mt-1">
+                      SKU: {product.sku}
+                    </p>
+                  </div>
+                  <button
+                    onClick={onClose}
+                    className="text-gray-400 hover:text-gray-500"
+                  >
+                    <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                  </button>
+                </div>
+
+                <form onSubmit={handleSubmit} className="space-y-4">
+                  {/* Full Name */}
+                  <div>
+                    <label htmlFor="fullName" className="label">
+                      Ime i prezime <span className="text-red-500">*</span>
+                    </label>
+                    <input
+                      type="text"
+                      id="fullName"
+                      required
+                      value={formData.fullName}
+                      onChange={(e) => setFormData({ ...formData, fullName: e.target.value })}
+                      className="input"
+                    />
+                  </div>
+
+                  {/* Phone and Email */}
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                    <div>
+                      <label htmlFor="phone" className="label">
+                        Telefon <span className="text-red-500">*</span>
+                      </label>
+                      <input
+                        type="tel"
+                        id="phone"
+                        required
+                        value={formData.phone}
+                        onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
+                        className="input"
+                        placeholder="+381..."
+                      />
+                    </div>
+                    <div>
+                      <label htmlFor="email" className="label">
+                        Email <span className="text-red-500">*</span>
+                      </label>
+                      <input
+                        type="email"
+                        id="email"
+                        required
+                        value={formData.email}
+                        onChange={(e) => setFormData({ ...formData, email: e.target.value })}
+                        className="input"
+                      />
+                    </div>
+                  </div>
+
+                  {/* City and Quantity */}
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                    <div>
+                      <label htmlFor="city" className="label">
+                        Grad <span className="text-red-500">*</span>
+                      </label>
+                      <input
+                        type="text"
+                        id="city"
+                        required
+                        value={formData.city}
+                        onChange={(e) => setFormData({ ...formData, city: e.target.value })}
+                        className="input"
+                      />
+                    </div>
+                    <div>
+                      <label htmlFor="quantityM2" className="label">
+                        Količina (m²)
+                      </label>
+                      <input
+                        type="number"
+                        id="quantityM2"
+                        value={formData.quantityM2}
+                        onChange={(e) => setFormData({ ...formData, quantityM2: e.target.value })}
+                        className="input"
+                        placeholder="Opciono"
+                      />
+                    </div>
+                  </div>
+
+                  {/* Message */}
+                  <div>
+                    <label htmlFor="message" className="label">
+                      Poruka <span className="text-red-500">*</span>
+                    </label>
+                    <textarea
+                      id="message"
+                      required
+                      rows={4}
+                      value={formData.message}
+                      onChange={(e) => setFormData({ ...formData, message: e.target.value })}
+                      className="input"
+                      placeholder="Ostavite dodatne informacije ili pitanja..."
+                    />
+                  </div>
+
+                  {/* Preferred Contact */}
+                  <div>
+                    <label className="label">
+                      Preferirani način kontakta <span className="text-red-500">*</span>
+                    </label>
+                    <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
+                      {[
+                        { value: 'call' as PreferredContact, label: 'Poziv', icon: '📞' },
+                        { value: 'email' as PreferredContact, label: 'Email', icon: '📧' },
+                        { value: 'viber' as PreferredContact, label: 'Viber', icon: '💬' },
+                        { value: 'whatsapp' as PreferredContact, label: 'WhatsApp', icon: '💬' },
+                      ].map((method) => (
+                        <button
+                          key={method.value}
+                          type="button"
+                          onClick={() => togglePreferredContact(method.value)}
+                          className={`p-3 rounded-lg border-2 text-sm font-medium transition-colors ${
+                            formData.preferredContact.includes(method.value)
+                              ? 'border-primary-600 bg-primary-50 text-primary-700'
+                              : 'border-gray-200 bg-white text-gray-700 hover:border-gray-300'
+                          }`}
+                        >
+                          <span className="block mb-1">{method.icon}</span>
+                          {method.label}
+                        </button>
+                      ))}
+                    </div>
+                    {formData.preferredContact.length === 0 && (
+                      <p className="text-xs text-red-500 mt-1">
+                        Izaberite najmanje jedan način kontakta
+                      </p>
+                    )}
+                  </div>
+
+                  {error && (
+                    <div className="bg-red-50 border border-red-200 text-red-600 px-4 py-3 rounded-lg text-sm">
+                      {error}
+                    </div>
+                  )}
+
+                  {/* Submit */}
+                  <div className="flex gap-3 pt-4">
+                    <button
+                      type="button"
+                      onClick={onClose}
+                      className="btn-outline flex-1"
+                      disabled={isSubmitting}
+                    >
+                      Otkaži
+                    </button>
+                    <button
+                      type="submit"
+                      className="btn-primary flex-1"
+                      disabled={isSubmitting || formData.preferredContact.length === 0}
+                    >
+                      {isSubmitting ? 'Slanje...' : 'Pošalji upit'}
+                    </button>
+                  </div>
+                </form>
+              </div>
+            </>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+}
