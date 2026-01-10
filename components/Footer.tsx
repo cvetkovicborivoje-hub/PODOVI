@@ -63,8 +63,13 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/kategorije/podne-obloge" className="hover:text-white transition">
-                  Podne obloge
+                <Link href="/kategorije/tekstilne-ploce" className="hover:text-white transition">
+                  Tekstilne ploče
+                </Link>
+              </li>
+              <li>
+                <Link href="/kategorije/deking" className="hover:text-white transition">
+                  Deking
                 </Link>
               </li>
             </ul>
