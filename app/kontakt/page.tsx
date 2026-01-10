@@ -81,8 +81,9 @@ export default function ContactPage() {
                 </div>
                 <div className="ml-4">
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">Telefon</h3>
-                  <p className="text-gray-600">+381 11 123 4567</p>
-                  <p className="text-gray-600">+381 11 765 4321</p>
+                  <a href="tel:+381212982444" className="text-gray-600 hover:text-primary-600 transition">
+                    +381 21 2982 444
+                  </a>
                 </div>
               </div>
             </div>
@@ -96,8 +97,9 @@ export default function ContactPage() {
                 </div>
                 <div className="ml-4">
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">Email</h3>
-                  <p className="text-gray-600">info@podovi.rs</p>
-                  <p className="text-gray-600">prodaja@podovi.rs</p>
+                  <a href="mailto:podovidoo@gmail.com" className="text-gray-600 hover:text-primary-600 transition">
+                    podovidoo@gmail.com
+                  </a>
                 </div>
               </div>
             </div>
@@ -112,11 +114,21 @@ export default function ContactPage() {
                 </div>
                 <div className="ml-4">
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">Adresa</h3>
-                  <p className="text-gray-600">
-                    Bulevar Kralja Aleksandra 123<br />
-                    11000 Beograd<br />
-                    Srbija
-                  </p>
+                  <a 
+                    href="https://www.google.com/maps/place/Podovi+doo/@45.2573343,19.8190724,17z/data=!3m1!4b1!4m6!3m5!1s0x475b112b635bb5e5:0xd096487f1e881485!8m2!3d45.2573306!4d19.8239433!16s%2Fg%2F11ymw3vs8b?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-gray-600 hover:text-primary-600 transition inline-flex items-center group"
+                  >
+                    <span>
+                      Hajduk Veljkova 11<br />
+                      21000 Novi Sad<br />
+                      Srbija
+                    </span>
+                    <svg className="w-4 h-4 ml-2 opacity-0 group-hover:opacity-100 transition-opacity" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                    </svg>
+                  </a>
                 </div>
               </div>
             </div>

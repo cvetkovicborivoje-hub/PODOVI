@@ -38,22 +38,23 @@ export function generateOrganizationSchema() {
   return {
     '@context': 'https://schema.org',
     '@type': 'Organization',
-    name: 'Podovi.rs',
+    name: 'Podovi DOO',
     description: 'Vodeći uvoznik i distributer kvalitetnih podnih obloga u Srbiji',
     url: 'https://podovi.rs',
     logo: 'https://podovi.rs/logo.png',
+    email: 'podovidoo@gmail.com',
     contactPoint: {
       '@type': 'ContactPoint',
-      telephone: '+381-11-123-4567',
+      telephone: '+381-21-2982-444',
       contactType: 'customer service',
       areaServed: 'RS',
       availableLanguage: 'Serbian',
     },
     address: {
       '@type': 'PostalAddress',
-      streetAddress: 'Bulevar Kralja Aleksandra 123',
-      addressLocality: 'Beograd',
-      postalCode: '11000',
+      streetAddress: 'Hajduk Veljkova 11',
+      addressLocality: 'Novi Sad',
+      postalCode: '21000',
       addressCountry: 'RS',
     },
   };
