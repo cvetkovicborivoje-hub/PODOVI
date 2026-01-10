@@ -14,14 +14,14 @@ export default function Header() {
           <Link href="/" className="flex items-center group">
             <div className="relative">
               <div className="text-2xl md:text-3xl font-bold lowercase tracking-tight">
-                <span className="text-gray-900 relative inline-block">
+                <span className="text-gray-900 relative inline-block pb-2">
                   podovi
-                  <div className="absolute -bottom-1 left-0 w-full h-1 bg-gradient-to-r from-primary-600 via-primary-500 to-primary-600 
-                                  transform origin-left transition-transform duration-300 group-hover:scale-x-105"></div>
+                  <div className="absolute -bottom-0 left-0 w-full h-1 bg-gradient-to-r from-primary-600 via-primary-500 to-primary-600 
+                                  transform origin-center transition-transform duration-300 group-hover:scale-x-110 rounded-full"></div>
                 </span>
               </div>
               {/* Subtle shadow effect */}
-              <div className="absolute -bottom-0.5 left-0 w-full h-1 bg-primary-600/20 blur-sm"></div>
+              <div className="absolute bottom-0 left-0 w-full h-1 bg-primary-600/20 blur-sm"></div>
             </div>
           </Link>
 
