@@ -12,9 +12,13 @@ interface InquiryModalProps {
     sku: string;
     url: string;
   };
+  calculatedData?: {
+    area: number;
+    packages: number;
+  };
 }
 
-export default function InquiryModal({ isOpen, onClose, product }: InquiryModalProps) {
+export default function InquiryModal({ isOpen, onClose, product, calculatedData }: InquiryModalProps) {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSuccess, setIsSuccess] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -29,7 +33,9 @@ export default function InquiryModal({ isOpen, onClose, product }: InquiryModalP
     email: '',
     city: '',
     quantityM2: '',
-    message: '',
+    message: calculatedData 
+      ? `Zainteresovan/a sam za ${calculatedData.packages} paketa (${calculatedData.area.toFixed(2)} m² + 5% otpada).`
+      : '',
     preferredContact: [],
   });
 

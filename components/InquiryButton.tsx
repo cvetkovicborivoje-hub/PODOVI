@@ -10,9 +10,13 @@ interface InquiryButtonProps {
     sku: string;
     url: string;
   };
+  calculatedData?: {
+    area: number;
+    packages: number;
+  };
 }
 
-export default function InquiryButton({ product }: InquiryButtonProps) {
+export default function InquiryButton({ product, calculatedData }: InquiryButtonProps) {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   return (
@@ -31,6 +35,7 @@ export default function InquiryButton({ product }: InquiryButtonProps) {
         isOpen={isModalOpen}
         onClose={() => setIsModalOpen(false)}
         product={product}
+        calculatedData={calculatedData}
       />
     </>
   );

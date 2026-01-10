@@ -3,6 +3,7 @@ import { productRepository } from '@/lib/repositories/product-repository';
 import { brandRepository } from '@/lib/repositories/brand-repository';
 import { categoryRepository } from '@/lib/repositories/category-repository';
 import InquiryButton from '@/components/InquiryButton';
+import FlooringCalculator from '@/components/FlooringCalculator';
 
 interface ProductPageProps {
   params: { slug: string };
@@ -182,6 +183,19 @@ export default async function ProductPage({ params }: ProductPageProps) {
               </div>
             </div>
           </div>
+        </div>
+
+        {/* Calculator and Product Description/Specs */}
+        <div className="grid grid-cols-1 gap-8 mb-8">
+          {/* Calculator */}
+          <FlooringCalculator 
+            productName={product.name}
+            coveragePerPackage={2.25}
+            onSendInquiry={(area, packages) => {
+              // This will be handled by the InquiryButton which is already on the page
+              // We could enhance this later to pass calculator data to the modal
+            }}
+          />
         </div>
 
         {/* Product Description and Specs */}
