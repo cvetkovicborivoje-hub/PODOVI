@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: ProductPageProps) {
     openGraph: {
       title: product.name,
       description: product.shortDescription,
-      type: 'product',
+      type: 'website',
     },
   };
 }
