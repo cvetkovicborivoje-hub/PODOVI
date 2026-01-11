@@ -13,7 +13,7 @@ export default async function CategoriesPage() {
     <div className="container py-12">
       <div className="mb-12">
         <h1 className="text-4xl font-bold text-gray-900 mb-4">
-          Kategorije podova
+          Vrste podova
         </h1>
         <p className="text-lg text-gray-600">
           Izaberite kategoriju koja najbolje odgovara vašim potrebama i pregledajte našu ponudu

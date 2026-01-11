@@ -53,7 +53,7 @@ export default async function HomePage() {
         <div className="container">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-              Kategorije podova
+              Vrste podova
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
               Izaberite kategoriju koja najbolje odgovara vašim potrebama
