@@ -400,7 +400,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija - pogledajte sve dezene',
     description: 'Creation 40 LVT kolekcija - vinil u plankama i pločicama. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '9-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 40', isPrimary: true, order: 1 }],
+    images: [{ id: '9-1', url: '/images/products/lvt/creation-40.jpg', alt: 'Gerflor Creation 40', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -422,7 +422,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija sa clic sistemom',
     description: 'Creation 40 Clic LVT kolekcija - vinil sa clic sistemom. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '10-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 40 Clic', isPrimary: true, order: 1 }],
+    images: [{ id: '10-1', url: '/images/products/lvt/creation-40-clic.jpg', alt: 'Gerflor Creation 40 Clic', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT Clic' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
