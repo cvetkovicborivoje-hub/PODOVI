@@ -43,7 +43,7 @@ export default async function HomePage() {
         <div className="container">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">
-              Kategorije proizvoda
+              Kategorije podova
             </h2>
             <p className="text-lg text-gray-600">
               Izaberite kategoriju koja najbolje odgovara vašim potrebama
