@@ -444,7 +444,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija sa clic sistemom i akustikom',
     description: 'Creation 40 Clic Acoustic LVT kolekcija - vinil sa clic sistemom i zvučnom izolacijom. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '11-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 40 Clic Acoustic', isPrimary: true, order: 1 }],
+    images: [{ id: '11-1', url: '/images/products/lvt/creation-40-clic-acoustic.jpg', alt: 'Gerflor Creation 40 Clic Acoustic', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT Clic Acoustic' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -466,7 +466,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija Zen dizajn',
     description: 'Creation 40 Zen LVT kolekcija - vinil sa Zen dizajnom. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '12-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 40 Zen', isPrimary: true, order: 1 }],
+    images: [{ id: '12-1', url: '/images/products/lvt/creation-40-zen.jpg', alt: 'Gerflor Creation 40 Zen', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT Zen' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -488,7 +488,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija - pogledajte sve dezene',
     description: 'Creation 55 LVT kolekcija - vinil u plankama i pločicama. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '13-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 55', isPrimary: true, order: 1 }],
+    images: [{ id: '13-1', url: '/images/products/lvt/creation-55.jpg', alt: 'Gerflor Creation 55', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -510,7 +510,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija sa clic sistemom',
     description: 'Creation 55 Clic LVT kolekcija - vinil sa clic sistemom. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '14-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 55 Clic', isPrimary: true, order: 1 }],
+    images: [{ id: '14-1', url: '/images/products/lvt/creation-55-clic.jpg', alt: 'Gerflor Creation 55 Clic', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT Clic' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -532,7 +532,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija sa clic sistemom i akustikom',
     description: 'Creation 55 Clic Acoustic LVT kolekcija - vinil sa clic sistemom i zvučnom izolacijom. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '15-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 55 Clic Acoustic', isPrimary: true, order: 1 }],
+    images: [{ id: '15-1', url: '/images/products/lvt/creation-55-clic-acoustic.jpg', alt: 'Gerflor Creation 55 Clic Acoustic', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT Clic Acoustic' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -554,7 +554,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija Looselay sistem',
     description: 'Creation 55 Looselay LVT kolekcija - vinil bez lepljenja. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '16-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 55 Looselay', isPrimary: true, order: 1 }],
+    images: [{ id: '16-1', url: '/images/products/lvt/creation-55-looselay.jpg', alt: 'Gerflor Creation 55 Looselay', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT Looselay' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -576,7 +576,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija Looselay sa akustikom',
     description: 'Creation 55 Looselay Acoustic LVT kolekcija - vinil bez lepljenja sa zvučnom izolacijom. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '17-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 55 Looselay Acoustic', isPrimary: true, order: 1 }],
+    images: [{ id: '17-1', url: '/images/products/lvt/creation-55-looselay-acoustic.jpg', alt: 'Gerflor Creation 55 Looselay Acoustic', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT Looselay Acoustic' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -598,7 +598,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija Zen dizajn',
     description: 'Creation 55 Zen LVT kolekcija - vinil sa Zen dizajnom. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '18-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 55 Zen', isPrimary: true, order: 1 }],
+    images: [{ id: '18-1', url: '/images/products/lvt/creation-55-zen.jpg', alt: 'Gerflor Creation 55 Zen', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT Zen' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -620,7 +620,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija - pogledajte sve dezene',
     description: 'Creation 70 LVT kolekcija - vinil u plankama i pločicama. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '19-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 70', isPrimary: true, order: 1 }],
+    images: [{ id: '19-1', url: '/images/products/lvt/creation-70.jpg', alt: 'Gerflor Creation 70', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -642,7 +642,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija sa clic sistemom',
     description: 'Creation 70 Clic LVT kolekcija - vinil sa clic sistemom. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '20-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 70 Clic', isPrimary: true, order: 1 }],
+    images: [{ id: '20-1', url: '/images/products/lvt/creation-70-clic.jpg', alt: 'Gerflor Creation 70 Clic', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT Clic' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -664,7 +664,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija Connect sistem',
     description: 'Creation 70 Connect LVT kolekcija - vinil sa Connect sistemom. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '21-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 70 Connect', isPrimary: true, order: 1 }],
+    images: [{ id: '21-1', url: '/images/products/lvt/creation-70-connect.jpg', alt: 'Gerflor Creation 70 Connect', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT Connect' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -686,7 +686,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija Megaclic sistem',
     description: 'Creation 70 Megaclic LVT kolekcija - vinil sa Megaclic sistemom. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '22-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 70 Megaclic', isPrimary: true, order: 1 }],
+    images: [{ id: '22-1', url: '/images/products/lvt/creation-70-megaclic.jpg', alt: 'Gerflor Creation 70 Megaclic', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT Megaclic' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -708,7 +708,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija Zen dizajn',
     description: 'Creation 70 Zen LVT kolekcija - vinil sa Zen dizajnom. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '23-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 70 Zen', isPrimary: true, order: 1 }],
+    images: [{ id: '23-1', url: '/images/products/lvt/creation-70-zen.jpg', alt: 'Gerflor Creation 70 Zen', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT Zen' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -730,7 +730,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija Saga²',
     description: 'Creation Saga² LVT kolekcija - vinil u plankama i pločicama. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '24-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation Saga²', isPrimary: true, order: 1 }],
+    images: [{ id: '24-1', url: '/images/products/lvt/creation-saga.jpg', alt: 'Gerflor Creation Saga²', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -752,7 +752,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija Looselay sistem',
     description: 'Creation 70 Looselay LVT kolekcija - vinil bez lepljenja. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '25-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 70 Looselay', isPrimary: true, order: 1 }],
+    images: [{ id: '25-1', url: '/images/products/lvt/creation-70-looselay.jpg', alt: 'Gerflor Creation 70 Looselay', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT Looselay' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
