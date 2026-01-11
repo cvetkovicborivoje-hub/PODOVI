@@ -378,7 +378,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'LVT kolekcija - pogledajte sve dezene',
     description: 'Creation 30 LVT kolekcija - vinil u plankama i pločicama. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '8-1', url: '/images/products/gerflor-lvt.jpg', alt: 'Gerflor Creation 30', isPrimary: true, order: 1 }],
+    images: [{ id: '8-1', url: '/images/products/lvt/creation-30.jpg', alt: 'Gerflor Creation 30', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'LVT' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
