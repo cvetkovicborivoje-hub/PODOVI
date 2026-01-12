@@ -775,7 +775,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'Linoleum kolekcija - pogledajte sve boje',
     description: 'DLW Colorette linoleum kolekcija. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '26-1', url: '/images/products/gerflor-linoleum.jpg', alt: 'DLW Colorette', isPrimary: true, order: 1 }],
+    images: [{ id: '26-1', url: '/images/products/linoleum/dlw-colorette.jpg', alt: 'DLW Colorette', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'Linoleum' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -797,7 +797,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'Linoleum kolekcija sa zvučnom izolacijom',
     description: 'DLW Colorette Acoustic Plus linoleum kolekcija sa zvučnom izolacijom. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '27-1', url: '/images/products/gerflor-linoleum.jpg', alt: 'DLW Colorette Acoustic Plus', isPrimary: true, order: 1 }],
+    images: [{ id: '27-1', url: '/images/products/linoleum/dlw-colorette-acoustic-plus.jpg', alt: 'DLW Colorette Acoustic Plus', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'Linoleum Acoustic' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -819,7 +819,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'Linoleum kolekcija Lino Art Moon dizajn',
     description: 'DLW Lino Art Moon linoleum kolekcija. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '28-1', url: '/images/products/gerflor-linoleum.jpg', alt: 'DLW Lino Art Moon', isPrimary: true, order: 1 }],
+    images: [{ id: '28-1', url: '/images/products/linoleum/dlw-lino-art-moon.jpg', alt: 'DLW Lino Art Moon', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'Linoleum' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -841,7 +841,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'Linoleum kolekcija Lino Art Urban dizajn',
     description: 'DLW Lino Art Urban linoleum kolekcija. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '29-1', url: '/images/products/gerflor-linoleum.jpg', alt: 'DLW Lino Art Urban', isPrimary: true, order: 1 }],
+    images: [{ id: '29-1', url: '/images/products/linoleum/dlw-lino-art-urban.jpg', alt: 'DLW Lino Art Urban', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'Linoleum' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -863,7 +863,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'Linoleum kolekcija Linodur',
     description: 'DLW Linodur linoleum kolekcija. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '30-1', url: '/images/products/gerflor-linoleum.jpg', alt: 'DLW Linodur', isPrimary: true, order: 1 }],
+    images: [{ id: '30-1', url: '/images/products/linoleum/dlw-linodur.jpg', alt: 'DLW Linodur', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'Linoleum' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -885,7 +885,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'Linoleum kolekcija Marmorette 2mm',
     description: 'DLW Marmorette 2mm linoleum kolekcija. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '31-1', url: '/images/products/gerflor-linoleum.jpg', alt: 'DLW Marmorette 2mm', isPrimary: true, order: 1 }],
+    images: [{ id: '31-1', url: '/images/products/linoleum/dlw-marmorette-2mm.jpg', alt: 'DLW Marmorette 2mm', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'Linoleum' },
       { key: 'thickness', label: 'Debljina', value: '2.0 mm' },
@@ -908,7 +908,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'Linoleum kolekcija Marmorette 2.5mm',
     description: 'DLW Marmorette 2.5mm linoleum kolekcija. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '32-1', url: '/images/products/gerflor-linoleum.jpg', alt: 'DLW Marmorette 2.5mm', isPrimary: true, order: 1 }],
+    images: [{ id: '32-1', url: '/images/products/linoleum/dlw-marmorette-2.5mm.jpg', alt: 'DLW Marmorette 2.5mm', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'Linoleum' },
       { key: 'thickness', label: 'Debljina', value: '2.5 mm' },
@@ -931,7 +931,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'Linoleum kolekcija Marmorette 3.2mm',
     description: 'DLW Marmorette 3.2mm linoleum kolekcija. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '33-1', url: '/images/products/gerflor-linoleum.jpg', alt: 'DLW Marmorette 3.2mm', isPrimary: true, order: 1 }],
+    images: [{ id: '33-1', url: '/images/products/linoleum/dlw-marmorette-3.2mm.jpg', alt: 'DLW Marmorette 3.2mm', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'Linoleum' },
       { key: 'thickness', label: 'Debljina', value: '3.2 mm' },
@@ -954,7 +954,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'Linoleum kolekcija Marmorette sa zvučnom izolacijom',
     description: 'DLW Marmorette Acoustic linoleum kolekcija sa zvučnom izolacijom. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '34-1', url: '/images/products/gerflor-linoleum.jpg', alt: 'DLW Marmorette Acoustic', isPrimary: true, order: 1 }],
+    images: [{ id: '34-1', url: '/images/products/linoleum/dlw-marmorette-acoustic.jpg', alt: 'DLW Marmorette Acoustic', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'Linoleum Acoustic' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -976,7 +976,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'Linoleum kolekcija Marmorette sa vrhunskom zvučnom izolacijom',
     description: 'DLW Marmorette Acoustic Plus linoleum kolekcija sa vrhunskom zvučnom izolacijom. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '35-1', url: '/images/products/gerflor-linoleum.jpg', alt: 'DLW Marmorette Acoustic Plus', isPrimary: true, order: 1 }],
+    images: [{ id: '35-1', url: '/images/products/linoleum/dlw-marmorette-acoustic-plus.jpg', alt: 'DLW Marmorette Acoustic Plus', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'Linoleum Acoustic Plus' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -998,7 +998,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'Linoleum kolekcija Marmorette BFL-S1',
     description: 'DLW Marmorette BFL-S1 linoleum kolekcija. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '36-1', url: '/images/products/gerflor-linoleum.jpg', alt: 'DLW Marmorette BFL-S1', isPrimary: true, order: 1 }],
+    images: [{ id: '36-1', url: '/images/products/linoleum/dlw-marmorette-bfl-s1.jpg', alt: 'DLW Marmorette BFL-S1', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'Linoleum BFL-S1' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -1020,7 +1020,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'Linoleum kolekcija Marmorette LCH',
     description: 'DLW Marmorette LCH linoleum kolekcija. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '37-1', url: '/images/products/gerflor-linoleum.jpg', alt: 'DLW Marmorette LCH', isPrimary: true, order: 1 }],
+    images: [{ id: '37-1', url: '/images/products/linoleum/dlw-marmorette-lch.jpg', alt: 'DLW Marmorette LCH', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'Linoleum LCH' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -1042,7 +1042,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'Linoleum kolekcija Marmorette R10',
     description: 'DLW Marmorette R10 linoleum kolekcija. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '38-1', url: '/images/products/gerflor-linoleum.jpg', alt: 'DLW Marmorette R10', isPrimary: true, order: 1 }],
+    images: [{ id: '38-1', url: '/images/products/linoleum/dlw-marmorette-r10.jpg', alt: 'DLW Marmorette R10', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'Linoleum R10' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -1064,7 +1064,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'Linoleum kolekcija Uni Walton',
     description: 'DLW Uni Walton linoleum kolekcija. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '39-1', url: '/images/products/gerflor-linoleum.jpg', alt: 'DLW Uni Walton', isPrimary: true, order: 1 }],
+    images: [{ id: '39-1', url: '/images/products/linoleum/dlw-uni-walton.jpg', alt: 'DLW Uni Walton', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'Linoleum' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
@@ -1086,7 +1086,7 @@ export const products: Product[] = [
     brandId: '6',
     shortDescription: 'Linoleum kolekcija Uni Walton sa zvučnom izolacijom',
     description: 'DLW Uni Walton Acoustic Plus linoleum kolekcija sa zvučnom izolacijom. Pogledajte kompletnu ponudu na Gerflor sajtu.',
-    images: [{ id: '40-1', url: '/images/products/gerflor-linoleum.jpg', alt: 'DLW Uni Walton Acoustic Plus', isPrimary: true, order: 1 }],
+    images: [{ id: '40-1', url: '/images/products/linoleum/dlw-uni-walton-acoustic-plus.jpg', alt: 'DLW Uni Walton Acoustic Plus', isPrimary: true, order: 1 }],
     specs: [
       { key: 'type', label: 'Tip', value: 'Linoleum Acoustic Plus' },
       { key: 'link', label: 'Katalog', value: 'www.gerflor-cee.com' },
