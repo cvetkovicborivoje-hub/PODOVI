@@ -2,27 +2,27 @@ import { Category, Brand, Product } from '@/types';
 
 export const categories: Category[] = [
   {
-    id: '1',
-    name: 'Laminat',
-    slug: 'laminat',
-    description: 'Visokokvalitetni laminat podovi za svaki prostor',
-    image: '/images/categories/laminat.jpg',
-    order: 1,
-  },
-  {
-    id: '2',
-    name: 'Vinil',
-    slug: 'vinil',
-    description: 'Vodootporni vinil podovi sa autentičnim izgledom',
-    image: '/images/categories/vinil.jpg',
-    order: 2,
-  },
-  {
     id: '3',
     name: 'Parket',
     slug: 'parket',
     description: 'Prirodni drveni parketi za elegantne prostore',
     image: '/images/categories/parket.jpg',
+    order: 1,
+  },
+  {
+    id: '1',
+    name: 'Laminat',
+    slug: 'laminat',
+    description: 'Visokokvalitetni laminat podovi za svaki prostor',
+    image: '/images/categories/laminat.jpg',
+    order: 2,
+  },
+  {
+    id: '6',
+    name: 'LVT',
+    slug: 'lvt',
+    description: 'Luxury Vinyl Tile - Premium vinil podovi sa autentičnim dizajnom',
+    image: '/images/categories/lvt.jpg',
     order: 3,
   },
   {
@@ -42,11 +42,11 @@ export const categories: Category[] = [
     order: 5,
   },
   {
-    id: '6',
-    name: 'LVT',
-    slug: 'lvt',
-    description: 'Luxury Vinyl Tile - Premium vinil podovi sa autentičnim dizajnom',
-    image: '/images/categories/lvt.jpg',
+    id: '2',
+    name: 'Vinil',
+    slug: 'vinil',
+    description: 'Vodootporni vinil podovi sa autentičnim izgledom',
+    image: '/images/categories/vinil.jpg',
     order: 6,
   },
   {
