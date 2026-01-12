@@ -13,8 +13,8 @@ export const metadata: Metadata = {
   keywords: "podovi, laminat, vinil, parket, podne obloge, Srbija",
   authors: [{ name: "Podovi" }],
   openGraph: {
-    title: "Podovi - Katalog podnih obloga",
-    description: "Pronađite savršen pod za vaš prostor. Širok izbor laminata, vinila, parketa i drugih podnih obloga od vodećih brendova.",
+    title: "063 299 444",
+    description: "Najveći izbor podova u Srbiji",
     type: "website",
     locale: "sr_RS",
     url: "https://podovi.online",
@@ -30,8 +30,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Podovi - Katalog podnih obloga",
-    description: "Pronađite savršen pod za vaš prostor. Širok izbor laminata, vinila, parketa i drugih podnih obloga od vodećih brendova.",
+    title: "063 299 444",
+    description: "Najveći izbor podova u Srbiji",
     images: ["/og-image.jpg"],
   },
 };
