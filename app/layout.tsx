@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   authors: [{ name: "Podovi" }],
   openGraph: {
     title: "Vaš Pod. Vaš Stil. Vaša Priča.",
-    description: "Sve vrste podova, prateći asortiman i alati za podove. Laminat · LVT · Parket · Linoleum. 063 299 444",
+    description: "Sve vrste podova, prateći asortiman i alati za podove.",
     type: "website",
     locale: "sr_RS",
     url: "https://podovi.online",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Vaš Pod. Vaš Stil. Vaša Priča.",
-    description: "Sve vrste podova, prateći asortiman i alati za podove. Laminat · LVT · Parket · Linoleum. 063 299 444",
+    description: "Sve vrste podova, prateći asortiman i alati za podove.",
     images: ["/og-image.jpg"],
   },
 };
