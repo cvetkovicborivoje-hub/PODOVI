@@ -17,6 +17,22 @@ export const metadata: Metadata = {
     description: "Pronađite savršen pod za vaš prostor. Širok izbor laminata, vinila, parketa i drugih podnih obloga od vodećih brendova.",
     type: "website",
     locale: "sr_RS",
+    url: "https://podovi.online",
+    siteName: "Podovi.online",
+    images: [
+      {
+        url: "/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Podovi - Katalog podnih obloga",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Podovi - Katalog podnih obloga",
+    description: "Pronađite savršen pod za vaš prostor. Širok izbor laminata, vinila, parketa i drugih podnih obloga od vodećih brendova.",
+    images: ["/og-image.jpg"],
   },
 };
 
