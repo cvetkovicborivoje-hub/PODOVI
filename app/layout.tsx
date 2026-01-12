@@ -13,8 +13,8 @@ export const metadata: Metadata = {
   keywords: "podovi, laminat, vinil, parket, podne obloge, Srbija",
   authors: [{ name: "Podovi" }],
   openGraph: {
-    title: "063 299 444",
-    description: "Najveći izbor podova u Srbiji",
+    title: "Najveći izbor podova u Srbiji",
+    description: "📞 063 299 444 | 💬 WhatsApp | 🌐 podovi.online",
     type: "website",
     locale: "sr_RS",
     url: "https://podovi.online",
@@ -30,8 +30,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "063 299 444",
-    description: "Najveći izbor podova u Srbiji",
+    title: "Najveći izbor podova u Srbiji",
+    description: "📞 063 299 444 | 💬 WhatsApp | 🌐 podovi.online",
     images: ["/og-image.jpg"],
   },
 };
