@@ -56,7 +56,7 @@ export default async function HomePage() {
               Vrste podova
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Izaberite vrstu poda koja najbolje odgovara vašim potrebama
+              Izaberite pod koji najbolje odgovara vašim potrebama
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6">

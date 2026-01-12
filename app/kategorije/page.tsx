@@ -16,7 +16,7 @@ export default async function CategoriesPage() {
           Vrste podova
         </h1>
         <p className="text-lg text-gray-600">
-          Izaberite vrstu poda koja najbolje odgovara vašim potrebama i pregledajte našu ponudu
+          Izaberite pod koji najbolje odgovara vašim potrebama i pregledajte našu ponudu
         </p>
       </div>
 
