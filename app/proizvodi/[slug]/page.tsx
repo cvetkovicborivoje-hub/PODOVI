@@ -196,23 +196,14 @@ export default async function ProductPage({ params }: Props) {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
                     </svg>
                   </a>
-                  <a
-                    href={`/documents/lvt/${product.slug.replace('gerflor-', '')}`}
-                    className="flex items-center gap-3 p-4 border-2 border-gray-200 rounded-xl hover:border-primary-600 hover:bg-primary-50 transition-all group"
-                  >
-                    <div className="flex-shrink-0 w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center group-hover:bg-primary-600 transition-colors">
-                      <svg className="w-6 h-6 text-blue-600 group-hover:text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z" />
-                      </svg>
-                    </div>
-                    <div className="flex-1 min-w-0">
-                      <p className="font-semibold text-gray-900 group-hover:text-primary-600">Lokalni fajlovi</p>
-                      <p className="text-sm text-gray-500">PDF dokumenti</p>
-                    </div>
-                    <svg className="w-5 h-5 text-gray-400 group-hover:text-primary-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                    </svg>
-                  </a>
+                  <div className="col-span-2 p-4 bg-gray-50 rounded-xl border border-gray-200">
+                    <p className="text-sm text-gray-700 mb-3">
+                      <strong>Napomena:</strong> Kompletna dokumentacija dostupna na Gerflor zvaničnom sajtu.
+                    </p>
+                    <p className="text-xs text-gray-500">
+                      Tehnički podaci, uputstva za instalaciju, sertifikati i svi PDF dokumenti možete preuzeti klikom na dugme iznad.
+                    </p>
+                  </div>
                 </div>
               </div>
             )}
