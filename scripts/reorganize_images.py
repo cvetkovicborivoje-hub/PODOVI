@@ -65,9 +65,14 @@ for color in data['colors']:
     # Sort by size (smaller = texture, larger = lifestyle)
     images.sort(key=lambda x: x['size'])
     
-    # Determine which is which
+    # Determine which is which based on filename keywords
     texture_img = None
     lifestyle_img = None
+    
+    # Keywords for identifying image types
+    lifestyle_keywords = ['room scene', 'bedroom', 'office', 'chambre', 'dining', 'kitchen', 
+                          'living', 'salle', 'interior', 'interieur']
+    texture_keywords = ['sky view', 'vdc', 'texture', 'close', 'swatch', 'sample', 'emboss']
     
     if len(images) == 1:
         # Only one image - use it for both
@@ -75,30 +80,34 @@ for color in data['colors']:
         lifestyle_img = images[0]
         stats['only_one'] += 1
     else:
-        # Multiple images - use heuristics
-        # "JPG 72 dpi" or smaller = texture
-        # Larger or with room number = lifestyle
-        
+        # Multiple images - use filename analysis
         for img in images:
-            if 'JPG' in img['name'] or 'dpi' in img['name'].lower():
+            name_lower = img['name'].lower()
+            
+            # Check if it's a lifestyle image (room scene)
+            is_lifestyle = any(keyword in name_lower for keyword in lifestyle_keywords)
+            # Check if it's a texture (close-up)
+            is_texture = any(keyword in name_lower for keyword in texture_keywords)
+            
+            if is_texture and not texture_img:
                 texture_img = img
-                stats['texture_found'] += 1
-                break
+            elif is_lifestyle and not lifestyle_img:
+                lifestyle_img = img
         
+        # Fallback: if not found by keywords, use size
         if not texture_img:
             texture_img = images[0]  # Smallest
-            stats['texture_found'] += 1
-        
-        # Find lifestyle (largest or first that's not texture)
-        for img in images:
-            if img != texture_img:
-                lifestyle_img = img
-                stats['lifestyle_found'] += 1
-                break
-        
         if not lifestyle_img:
             lifestyle_img = images[-1]  # Largest
-            stats['lifestyle_found'] += 1
+        
+        # Make sure they're different
+        if texture_img == lifestyle_img and len(images) > 1:
+            # Use smallest for texture, largest for lifestyle
+            texture_img = images[0]
+            lifestyle_img = images[-1]
+        
+        stats['texture_found'] += 1
+        stats['lifestyle_found'] += 1
     
     # Create organized folders
     collection_dir = os.path.join(OUTPUT_DIR, collection)
