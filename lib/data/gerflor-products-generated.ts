@@ -1,5 +1,6 @@
 // Auto-generated from scripts/all_products_smart_names.json
 // DO NOT EDIT MANUALLY
+// Updated: 2026-01-13 - Fixed images for 1278 and 0853
 
 import { Product } from '@/types';
 
