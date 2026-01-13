@@ -192,7 +192,7 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
                   </div>
                   <div className="p-6 bg-white">
                     <h3 className="text-2xl font-bold text-gray-900">
-                      {filteredColors[selectedColorIndex].full_name}
+                      {filteredColors[selectedColorIndex].name}
                     </h3>
                     <p className="text-gray-600 mt-2">
                       Šifra: {filteredColors[selectedColorIndex].code}
