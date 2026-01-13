@@ -24,6 +24,7 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
   const [colors, setColors] = useState<Color[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchTerm] = useState('');
+  const [selectedColorIndex, setSelectedColorIndex] = useState<number | null>(null);
 
   useEffect(() => {
     fetch('/data/lvt_colors_complete.json')
@@ -44,6 +45,26 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
         setLoading(false);
       });
   }, [collectionSlug]);
+
+  // Keyboard navigation
+  useEffect(() => {
+    if (selectedColorIndex === null) return;
+
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        setSelectedColorIndex(null);
+      } else if (e.key === 'ArrowLeft') {
+        e.preventDefault();
+        setSelectedColorIndex((prev) => prev !== null ? (prev - 1 + colors.length) % colors.length : null);
+      } else if (e.key === 'ArrowRight') {
+        e.preventDefault();
+        setSelectedColorIndex((prev) => prev !== null ? (prev + 1) % colors.length : null);
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [selectedColorIndex, colors.length]);
 
   const filteredColors = colors.filter(color =>
     color.full_name.toLowerCase().includes(searchTerm.toLowerCase()) ||
@@ -98,10 +119,11 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
 
       {/* Grid */}
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
-        {filteredColors.map((color) => (
-          <div
+        {filteredColors.map((color, index) => (
+          <button
             key={color.slug}
-            className="group bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow overflow-hidden border border-gray-200"
+            onClick={() => setSelectedColorIndex(index)}
+            className="group bg-white rounded-lg shadow-sm hover:shadow-lg transition-all overflow-hidden border border-gray-200 text-left cursor-pointer focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2"
           >
             {/* Image */}
             <div className="aspect-square relative overflow-hidden bg-gray-100">
@@ -116,6 +138,12 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
                   Bez slike
                 </div>
               )}
+              {/* Click indicator */}
+              <div className="absolute inset-0 bg-black/0 group-hover:bg-black/5 transition-colors flex items-center justify-center">
+                <svg className="w-8 h-8 text-white opacity-0 group-hover:opacity-100 transition-opacity" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0zM10 7v3m0 0v3m0-3h3m-3 0H7" />
+                </svg>
+              </div>
             </div>
 
             {/* Info */}
@@ -127,9 +155,114 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
                 {color.name}
               </p>
             </div>
-          </div>
+          </button>
         ))}
       </div>
+
+      {/* Gallery Modal */}
+      {selectedColorIndex !== null && (
+        <div 
+          className="fixed inset-0 bg-black/90 z-50 flex items-center justify-center p-4"
+          onClick={() => setSelectedColorIndex(null)}
+        >
+          <div 
+            className="max-w-6xl w-full relative"
+            onClick={(e) => e.stopPropagation()}
+          >
+            {/* Close button */}
+            <button
+              onClick={() => setSelectedColorIndex(null)}
+              className="absolute -top-12 right-0 text-white hover:text-gray-300 transition-colors z-10"
+            >
+              <svg className="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            </button>
+
+            {/* Main image */}
+            <div className="bg-white rounded-lg overflow-hidden shadow-2xl">
+              {filteredColors[selectedColorIndex] && (
+                <>
+                  <div className="relative aspect-video bg-gray-100">
+                    <img
+                      src={filteredColors[selectedColorIndex].texture_url || filteredColors[selectedColorIndex].image_url || ''}
+                      alt={filteredColors[selectedColorIndex].full_name}
+                      className="w-full h-full object-contain"
+                    />
+                  </div>
+                  <div className="p-6 bg-white">
+                    <h3 className="text-2xl font-bold text-gray-900">
+                      {filteredColors[selectedColorIndex].full_name}
+                    </h3>
+                    <p className="text-gray-600 mt-2">
+                      Šifra: {filteredColors[selectedColorIndex].code}
+                    </p>
+                  </div>
+                </>
+              )}
+            </div>
+
+            {/* Navigation arrows */}
+            {filteredColors.length > 1 && (
+              <>
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    setSelectedColorIndex((selectedColorIndex - 1 + filteredColors.length) % filteredColors.length);
+                  }}
+                  className="absolute left-4 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-gray-900 rounded-full p-3 shadow-lg transition-all"
+                >
+                  <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                  </svg>
+                </button>
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    setSelectedColorIndex((selectedColorIndex + 1) % filteredColors.length);
+                  }}
+                  className="absolute right-4 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-gray-900 rounded-full p-3 shadow-lg transition-all"
+                >
+                  <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                </button>
+              </>
+            )}
+
+            {/* Thumbnail strip */}
+            {filteredColors.length > 1 && (
+              <div className="mt-4 flex gap-2 overflow-x-auto pb-2">
+                {filteredColors.map((color, index) => (
+                  <button
+                    key={color.slug}
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      setSelectedColorIndex(index);
+                    }}
+                    className={`flex-shrink-0 w-20 h-20 rounded-lg overflow-hidden border-2 transition-all ${
+                      index === selectedColorIndex 
+                        ? 'border-primary-600 ring-2 ring-primary-400' 
+                        : 'border-transparent hover:border-gray-400'
+                    }`}
+                  >
+                    <img
+                      src={color.texture_url || color.image_url || ''}
+                      alt={color.full_name}
+                      className="w-full h-full object-cover"
+                    />
+                  </button>
+                ))}
+              </div>
+            )}
+
+            {/* Counter */}
+            <div className="absolute -bottom-12 left-1/2 -translate-x-1/2 text-white text-sm">
+              {selectedColorIndex + 1} / {filteredColors.length}
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* No results */}
       {filteredColors.length === 0 && (

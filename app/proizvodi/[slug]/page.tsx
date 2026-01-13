@@ -158,6 +158,13 @@ export default async function ProductPage({ params }: Props) {
           </div>
         </div>
 
+        {/* Color Grid - For LVT products - MOVED TO TOP */}
+        {product.categoryId === '6' && (
+          <div className="mt-12 bg-white rounded-2xl shadow-lg p-8">
+            <ColorGrid collectionSlug={product.slug} />
+          </div>
+        )}
+
         {/* Description & Specs */}
         <div className="mt-16 grid grid-cols-1 lg:grid-cols-3 gap-8">
           {/* Description */}
@@ -254,12 +261,6 @@ export default async function ProductPage({ params }: Props) {
           </div>
         )}
 
-        {/* Color Grid - For LVT products */}
-        {product.categoryId === '6' && (
-          <div className="mt-12 bg-white rounded-2xl shadow-lg p-8">
-            <ColorGrid collectionSlug={product.slug} />
-          </div>
-        )}
       </div>
     </div>
   );
