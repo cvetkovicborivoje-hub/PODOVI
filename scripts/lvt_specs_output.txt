@@ -1,0 +1,147 @@
+// Generated specs for LVT products
+============================================================
+
+Product ID 8 (creation-30):
+    specs: [
+      { key: 'thickness', label: 'Ukupna debljina', value: '2mm' },
+      { key: 'wear_layer', label: 'Sloj habanja', value: '0,30mm' },
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'usage_class', label: 'Klasa upotrebe', value: '23-31' },
+      { key: 'fire_class', label: 'Protivpožarna klasifikacija', value: 'Bfl-s1' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Lepljenje' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 9 (creation-40):
+    specs: [
+      { key: 'thickness', label: 'Ukupna debljina', value: '2mm' },
+      { key: 'wear_layer', label: 'Sloj habanja', value: '0,40mm' },
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'usage_class', label: 'Klasa upotrebe', value: '23-32' },
+      { key: 'fire_class', label: 'Protivpožarna klasifikacija', value: 'Bfl-s1' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Lepljenje' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 10 (creation-40-clic):
+    specs: [
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Click sistem' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 11 (creation-40-clic-acoustic):
+    specs: [
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'acoustic', label: 'Akustična izolacija', value: 'Da' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Click sistem' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 12 (creation-40-zen):
+    specs: [
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Lepljenje' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 13 (creation-55):
+    specs: [
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Lepljenje' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 14 (creation-55-clic):
+    specs: [
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Click sistem' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 15 (creation-55-clic-acoustic):
+    specs: [
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'acoustic', label: 'Akustična izolacija', value: 'Da' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Click sistem' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 16 (creation-55-looselay):
+    specs: [
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Loose lay' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 17 (creation-55-looselay-acoustic):
+    specs: [
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'acoustic', label: 'Akustična izolacija', value: 'Da' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Loose lay' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 18 (creation-55-zen):
+    specs: [
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Lepljenje' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 19 (creation-70):
+    specs: [
+      { key: 'thickness', label: 'Ukupna debljina', value: '2,5mm' },
+      { key: 'wear_layer', label: 'Sloj habanja', value: '0,70mm' },
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'usage_class', label: 'Klasa upotrebe', value: '34-43' },
+      { key: 'fire_class', label: 'Protivpožarna klasifikacija', value: 'Bfl-s1' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Lepljenje' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 20 (creation-70-clic):
+    specs: [
+      { key: 'wear_layer', label: 'Sloj habanja', value: '0,70mm' },
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'usage_class', label: 'Klasa upotrebe', value: '34-43' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Click sistem' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 21 (creation-70-connect):
+    specs: [
+      { key: 'format', label: 'Format', value: 'Tile' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Connect sistem' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 22 (creation-70-megaclic):
+    specs: [
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Click sistem' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 23 (creation-70-zen):
+    specs: [
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Lepljenje' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 24 (creation-saga):
+    specs: [
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Lepljenje' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+Product ID 25 (creation-70-looselay):
+    specs: [
+      { key: 'format', label: 'Format', value: 'Plank' },
+      { key: 'installation', label: 'Tip instalacije', value: 'Loose lay' },
+      { key: 'surface', label: 'Površinska obrada', value: 'Protecshield® PUR' }
+    ],
+
+============================================================

@@ -11,11 +11,11 @@ export default async function ProductCard({ product }: ProductCardProps) {
   const brand = await brandRepository.findById(product.brandId);
   const primaryImage = product.images.find(img => img.isPrimary) || product.images[0];
 
-  const href = product.externalLink || `/proizvodi/${product.slug}`;
-  const isExternal = !!product.externalLink;
-
-  const cardContent = (
-    <>
+  return (
+    <Link 
+      href={`/proizvodi/${product.slug}`}
+      className="group card hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-transparent hover:border-primary-100"
+    >
       <div className="relative h-64 bg-gray-100 overflow-hidden group-hover:scale-105 transition-transform duration-500">
         {primaryImage ? (
           <img
@@ -66,27 +66,12 @@ export default async function ProductCard({ product }: ProductCardProps) {
           </div>
         )}
         <div className="flex items-center text-primary-600 font-semibold text-sm group-hover:gap-2 transition-all duration-300">
-          <span>{isExternal ? 'Pogledaj kolekciju' : 'Detaljnije'}</span>
+          <span>Detaljnije</span>
           <svg className="w-4 h-4 transform group-hover:translate-x-1 transition-transform duration-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
           </svg>
         </div>
       </div>
-    </>
-  );
-
-  return isExternal ? (
-    <a 
-      href={href} 
-      target="_blank" 
-      rel="noopener noreferrer"
-      className="group card hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-transparent hover:border-primary-100"
-    >
-      {cardContent}
-    </a>
-  ) : (
-    <Link href={href} className="group card hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-transparent hover:border-primary-100">
-      {cardContent}
     </Link>
   );
 }

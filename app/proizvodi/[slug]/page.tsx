@@ -1,16 +1,14 @@
+import { Metadata } from 'next';
+import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { productRepository } from '@/lib/repositories/product-repository';
-import { brandRepository } from '@/lib/repositories/brand-repository';
-import { categoryRepository } from '@/lib/repositories/category-repository';
-import InquiryButton from '@/components/InquiryButton';
-import FlooringCalculator from '@/components/FlooringCalculator';
+import { getProductBySlug, getCategoryById, getBrandById } from '@/lib/repositories/mock-repository';
 
-interface ProductPageProps {
+interface Props {
   params: { slug: string };
 }
 
-export async function generateMetadata({ params }: ProductPageProps) {
-  const product = await productRepository.findBySlug(params.slug);
+export async function generateMetadata({ params }: Props): Metadata {
+  const product = await getProductBySlug(params.slug);
   
   if (!product) {
     return {
@@ -18,227 +16,171 @@ export async function generateMetadata({ params }: ProductPageProps) {
     };
   }
 
-  const brand = await brandRepository.findById(product.brandId);
-
   return {
-    title: `${product.name} - ${brand?.name} - Podovi`,
+    title: `${product.name} | Podovi.online`,
     description: product.shortDescription,
-    openGraph: {
-      title: product.name,
-      description: product.shortDescription,
-      type: 'website',
-    },
   };
 }
 
-export default async function ProductPage({ params }: ProductPageProps) {
-  const product = await productRepository.findBySlug(params.slug);
+export default async function ProductPage({ params }: Props) {
+  const product = await getProductBySlug(params.slug);
   
   if (!product) {
     notFound();
   }
 
-  const brand = await brandRepository.findById(product.brandId);
-  const category = await categoryRepository.findById(product.categoryId);
+  const category = await getCategoryById(product.categoryId);
+  const brand = await getBrandById(product.brandId);
   const primaryImage = product.images.find(img => img.isPrimary) || product.images[0];
 
-  // Generate product URL for inquiry form
-  const productUrl = `${process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'}/proizvodi/${product.slug}`;
-
   return (
-    <div className="bg-gray-50 min-h-screen">
-      {/* Breadcrumb */}
+    <div className="min-h-screen bg-gray-50">
+      {/* Breadcrumbs */}
       <div className="bg-white border-b">
         <div className="container py-4">
-          <nav className="text-sm text-gray-600">
-            <a href="/" className="hover:text-primary-600">Početna</a>
-            <span className="mx-2">/</span>
-            <a href="/kategorije" className="hover:text-primary-600">Kategorije</a>
+          <nav className="flex items-center space-x-2 text-sm">
+            <Link href="/" className="text-gray-500 hover:text-primary-600">
+              Početna
+            </Link>
+            <span className="text-gray-400">/</span>
             {category && (
               <>
-                <span className="mx-2">/</span>
-                <a href={`/kategorije/${category.slug}`} className="hover:text-primary-600">
+                <Link
+                  href={`/kategorije/${category.slug}`}
+                  className="text-gray-500 hover:text-primary-600"
+                >
                   {category.name}
-                </a>
+                </Link>
+                <span className="text-gray-400">/</span>
               </>
             )}
-            <span className="mx-2">/</span>
-            <span className="text-gray-900">{product.name}</span>
+            <span className="text-gray-900 font-medium">{product.name}</span>
           </nav>
         </div>
       </div>
 
-      {/* Product Details */}
-      <div className="container py-8">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-12">
-          {/* Left: Images */}
-          <div>
-            <div className="bg-white rounded-lg shadow-md overflow-hidden mb-4">
+      {/* Product Content */}
+      <div className="container py-12">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
+          {/* Image Section */}
+          <div className="bg-white rounded-2xl shadow-lg p-8">
+            <div className="aspect-square relative overflow-hidden rounded-xl bg-gray-100">
               {primaryImage ? (
-                <div className="aspect-square flex items-center justify-center p-8 bg-gray-50">
-                  <div className="text-center text-gray-400">
-                    <svg className="w-32 h-32 mx-auto mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
-                    </svg>
-                    <p>{primaryImage.alt}</p>
-                  </div>
-                </div>
+                <img
+                  src={primaryImage.url}
+                  alt={primaryImage.alt}
+                  className="w-full h-full object-cover"
+                />
               ) : (
-                <div className="aspect-square flex items-center justify-center bg-gray-100 text-gray-400">
-                  Bez slike
+                <div className="w-full h-full flex items-center justify-center text-gray-400">
+                  <span>Bez slike</span>
                 </div>
               )}
             </div>
-
-            {product.images.length > 1 && (
-              <div className="grid grid-cols-4 gap-2">
-                {product.images.map((image) => (
-                  <div key={image.id} className="bg-white rounded-lg shadow-sm overflow-hidden aspect-square">
-                    <div className="w-full h-full flex items-center justify-center bg-gray-50 p-2">
-                      <svg className="w-8 h-8 text-gray-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
-                      </svg>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            )}
           </div>
 
-          {/* Right: Product Info */}
-          <div>
-            <div className="bg-white rounded-lg shadow-md p-8">
-              {brand && (
-                <p className="text-sm text-gray-500 mb-2 uppercase tracking-wide">
+          {/* Info Section */}
+          <div className="space-y-8">
+            {/* Brand */}
+            {brand && (
+              <div className="flex items-center space-x-3">
+                <span className="text-sm text-gray-500">Brend:</span>
+                <Link
+                  href={`/brendovi/${brand.slug}`}
+                  className="text-primary-600 hover:text-primary-700 font-semibold"
+                >
                   {brand.name}
-                </p>
-              )}
-              
-              <h1 className="text-3xl font-bold text-gray-900 mb-4">
+                </Link>
+              </div>
+            )}
+
+            {/* Title */}
+            <div>
+              <h1 className="text-4xl font-bold text-gray-900 mb-3">
                 {product.name}
               </h1>
+              <p className="text-xl text-gray-600">
+                {product.shortDescription}
+              </p>
+            </div>
 
-              <div className="flex items-center gap-3 mb-6">
-                <span className="text-sm text-gray-600">
-                  SKU: <span className="font-mono font-medium">{product.sku}</span>
-                </span>
-                {product.inStock ? (
-                  <span className="badge-success">Na stanju</span>
-                ) : (
-                  <span className="badge-warning">Nema na stanju</span>
-                )}
-              </div>
-
-              {product.price && (
-                <div className="mb-8 pb-8 border-b">
-                  <div className="flex items-baseline">
-                    <span className="text-4xl font-bold text-primary-600">
-                      {product.price.toLocaleString('sr-RS')}
-                    </span>
-                    <span className="text-xl text-gray-600 ml-2">
-                      RSD/{product.priceUnit}
-                    </span>
-                  </div>
-                  <p className="text-sm text-gray-500 mt-2">
-                    *Cena je informativna. Za tačnu cenu i dostupnost pošaljite upit.
-                  </p>
+            {/* Price (if available) */}
+            {product.price && product.price > 0 && (
+              <div className="bg-primary-50 border border-primary-200 rounded-xl p-6">
+                <div className="flex items-baseline space-x-2">
+                  <span className="text-4xl font-bold text-primary-600">
+                    {product.price.toLocaleString('sr-RS')}
+                  </span>
+                  <span className="text-lg text-gray-600">RSD</span>
+                  {product.priceUnit && (
+                    <span className="text-lg text-gray-500">/ {product.priceUnit}</span>
+                  )}
                 </div>
-              )}
-
-              <div className="mb-8">
-                <p className="text-gray-700 leading-relaxed">
-                  {product.shortDescription}
-                </p>
               </div>
+            )}
 
-              {/* Inquiry Button */}
-              <InquiryButton 
-                product={{
-                  id: product.id,
-                  name: product.name,
-                  sku: product.sku,
-                  url: productUrl,
-                }}
-              />
+            {/* Availability */}
+            <div className="flex items-center space-x-2">
+              <div
+                className={`w-3 h-3 rounded-full ${
+                  product.inStock ? 'bg-green-500' : 'bg-red-500'
+                }`}
+              ></div>
+              <span className="text-gray-700">
+                {product.inStock ? 'Na stanju' : 'Nije dostupno'}
+              </span>
+            </div>
 
-              {/* Gerflor Brand Link */}
-              {brand?.slug === 'gerflor' && product.externalLink && (
+            {/* CTA Buttons */}
+            <div className="flex flex-col sm:flex-row gap-4">
+              <Link
+                href={`/kontakt?product=${product.slug}`}
+                className="btn bg-primary-600 text-white hover:bg-primary-700 text-center text-lg px-8 py-4 flex-1"
+              >
+                Pošaljite upit
+              </Link>
+              {product.externalLink && (
                 <a
                   href={product.externalLink}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="mt-4 btn-secondary w-full text-center inline-block"
+                  className="btn border-2 border-gray-300 text-gray-700 hover:border-primary-600 hover:text-primary-600 text-center text-lg px-8 py-4 flex-1"
                 >
-                  <svg className="w-5 h-5 mr-2 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                  </svg>
-                  Pogledaj kompletnu kolekciju na Gerflor sajtu
+                  Pogledaj na sajtu proizvođača
                 </a>
               )}
-
-              <div className="mt-6 grid grid-cols-3 gap-4 text-center text-sm">
-                <div className="p-3 bg-gray-50 rounded-lg">
-                  <svg className="w-6 h-6 mx-auto mb-1 text-primary-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-                  </svg>
-                  <span className="text-gray-600">Kvalitet</span>
-                </div>
-                <div className="p-3 bg-gray-50 rounded-lg">
-                  <svg className="w-6 h-6 mx-auto mb-1 text-primary-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-                  </svg>
-                  <span className="text-gray-600">Brza dostava</span>
-                </div>
-                <div className="p-3 bg-gray-50 rounded-lg">
-                  <svg className="w-6 h-6 mx-auto mb-1 text-primary-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M18.364 5.636l-3.536 3.536m0 5.656l3.536 3.536M9.172 9.172L5.636 5.636m3.536 9.192l-3.536 3.536M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-5 0a4 4 0 11-8 0 4 4 0 018 0z" />
-                  </svg>
-                  <span className="text-gray-600">Podrška</span>
-                </div>
-              </div>
             </div>
           </div>
         </div>
 
-        {/* Calculator and Product Description/Specs */}
-        <div className="grid grid-cols-1 gap-8 mb-8">
-          {/* Calculator */}
-          <FlooringCalculator 
-            productName={product.name}
-            coveragePerPackage={2.25}
-          />
-        </div>
-
-        {/* Product Description and Specs */}
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+        {/* Description & Specs */}
+        <div className="mt-16 grid grid-cols-1 lg:grid-cols-3 gap-8">
           {/* Description */}
-          <div className="lg:col-span-2">
-            <div className="bg-white rounded-lg shadow-md p-8">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">Opis proizvoda</h2>
-              <div className="prose max-w-none text-gray-700">
-                <p>{product.description}</p>
-              </div>
+          <div className="lg:col-span-2 bg-white rounded-2xl shadow-lg p-8">
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">Opis proizvoda</h2>
+            <div className="prose prose-lg max-w-none text-gray-700">
+              <p>{product.description}</p>
             </div>
           </div>
 
           {/* Specifications */}
-          <div>
-            <div className="bg-white rounded-lg shadow-md p-8">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">Specifikacije</h2>
-              <dl className="space-y-3">
+          {product.specs && product.specs.length > 0 && (
+            <div className="bg-white rounded-2xl shadow-lg p-8">
+              <h2 className="text-2xl font-bold text-gray-900 mb-6">Specifikacije</h2>
+              <dl className="space-y-4">
                 {product.specs.map((spec) => (
-                  <div key={spec.key} className="border-b border-gray-200 pb-3 last:border-0 last:pb-0">
+                  <div key={spec.key} className="border-b border-gray-200 pb-4 last:border-0">
                     <dt className="text-sm font-medium text-gray-500 mb-1">
                       {spec.label}
                     </dt>
-                    <dd className="text-sm text-gray-900 font-medium">
+                    <dd className="text-base font-semibold text-gray-900">
                       {spec.value}
                     </dd>
                   </div>
                 ))}
               </dl>
             </div>
-          </div>
+          )}
         </div>
       </div>
     </div>
