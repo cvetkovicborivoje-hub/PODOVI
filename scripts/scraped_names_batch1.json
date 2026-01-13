@@ -1,0 +1,905 @@
+{
+  "total": 90,
+  "products": [
+    {
+      "collection": "creation-30",
+      "color_slug": "ballerina-41870347",
+      "zip_name": "ballerina-41870347.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/ballerina-41870347.jpg",
+      "image_count": 2,
+      "code": "0347",
+      "real_name": "BALLERINA",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-0347-ballerina-41870347"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "beige-41741712",
+      "zip_name": "beige-41741712.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/beige-41741712.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1712-beige-41741712"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "beige-41751278",
+      "zip_name": "beige-41751278.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/beige-41751278.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1278-beige-41751278"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "beige-41761272",
+      "zip_name": "beige-41761272.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/beige-41761272.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1272-beige-41761272"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "beige-41870853",
+      "zip_name": "beige-41870853.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/beige-41870853.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-0853-beige-41870853"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "blond-41871704",
+      "zip_name": "blond-41871704.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/blond-41871704.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1704-blond-41871704"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "board-41870455",
+      "zip_name": "board-41870455.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/board-41870455.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-0455-board-41870455"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "brown-41730850",
+      "zip_name": "brown-41730850.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/brown-41730850.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-0850-brown-41730850"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "brown-41731605",
+      "zip_name": "brown-41731605.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/brown-41731605.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1605-brown-41731605"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "brown-41871568",
+      "zip_name": "brown-41871568.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/brown-41871568.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1568-brown-41871568"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "brown-41871597",
+      "zip_name": "brown-41871597.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/brown-41871597.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1597-brown-41871597"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "brown-41871705",
+      "zip_name": "brown-41871705.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/brown-41871705.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1705-brown-41871705"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "chestnut-41761274",
+      "zip_name": "chestnut-41761274.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/chestnut-41761274.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1274-chestnut-41761274"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "clear-41831599",
+      "zip_name": "clear-41831599.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/clear-41831599.jpg",
+      "image_count": 1,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1599-clear-41831599"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "clear-41831603",
+      "zip_name": "clear-41831603.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/clear-41831603.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1603-clear-41831603"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "clear-41871567",
+      "zip_name": "clear-41871567.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/clear-41871567.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1567-clear-41871567"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "cream-41831600",
+      "zip_name": "cream-41831600.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/cream-41831600.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1600-cream-41831600"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "cream-41871598",
+      "zip_name": "cream-41871598.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/cream-41871598.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1598-cream-41871598"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "dark-41741711",
+      "zip_name": "dark-41741711.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/dark-41741711.jpg",
+      "image_count": 3,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1711-dark-41741711"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "dark-41831601",
+      "zip_name": "dark-41831601.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/dark-41831601.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1601-dark-41831601"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "golden-41731606",
+      "zip_name": "golden-41731606.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/golden-41731606.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1606-golden-41731606"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "golden-41761271",
+      "zip_name": "golden-41761271.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/golden-41761271.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1271-golden-41761271"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "greige-41871708",
+      "zip_name": "greige-41871708.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/greige-41871708.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1708-greige-41871708"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "grey-41751279",
+      "zip_name": "grey-41751279.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/grey-41751279.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1279-grey-41751279"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "honey-41870851",
+      "zip_name": "honey-41870851.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/honey-41870851.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-0851-honey-41870851"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "honey-41870870",
+      "zip_name": "honey-41870870.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/honey-41870870.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-0870-honey-41870870"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "honey-41871706",
+      "zip_name": "honey-41871706.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/honey-41871706.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1706-honey-41871706"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "honey-41871709",
+      "zip_name": "honey-41871709.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/honey-41871709.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1709-honey-41871709"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "lime-41870584",
+      "zip_name": "lime-41870584.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/lime-41870584.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-0584-lime-41870584"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "natural-41731607",
+      "zip_name": "natural-41731607.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/natural-41731607.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1607-natural-41731607"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "natural-41761273",
+      "zip_name": "natural-41761273.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/natural-41761273.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1273-natural-41761273"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "natural-41870545",
+      "zip_name": "natural-41870545.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/natural-41870545.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-0545-natural-41870545"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "natural-41871561",
+      "zip_name": "natural-41871561.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/natural-41871561.jpg",
+      "image_count": 1,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1561-natural-41871561"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "nature-41871707",
+      "zip_name": "nature-41871707.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/nature-41871707.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1707-nature-41871707"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "oak-41870441",
+      "zip_name": "oak-41870441.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/oak-41870441.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-0441-oak-41870441"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "pearl-41831602",
+      "zip_name": "pearl-41831602.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/pearl-41831602.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1602-pearl-41831602"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "quartet-41870503",
+      "zip_name": "quartet-41870503.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/quartet-41870503.jpg",
+      "image_count": 2,
+      "code": "0503",
+      "real_name": "QUARTET",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-0503-quartet-41870503"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "ranch-41870456",
+      "zip_name": "ranch-41870456.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/ranch-41870456.jpg",
+      "image_count": 2,
+      "code": "0456",
+      "real_name": "RANCH",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-0456-ranch-41870456"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "smoked-41751714",
+      "zip_name": "smoked-41751714.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/smoked-41751714.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1714-smoked-41751714"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "smoked-41871710",
+      "zip_name": "smoked-41871710.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/smoked-41871710.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1710-smoked-41871710"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "taupe-41741713",
+      "zip_name": "taupe-41741713.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/taupe-41741713.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1713-taupe-41741713"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "taupe-41831604",
+      "zip_name": "taupe-41831604.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/taupe-41831604.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1604-taupe-41831604"
+    },
+    {
+      "collection": "creation-30",
+      "color_slug": "twist-41870504",
+      "zip_name": "twist-41870504.zip",
+      "image_url": "/images/products/lvt/colors/creation-30/twist-41870504.jpg",
+      "image_count": 2,
+      "code": "0504",
+      "real_name": "TWIST",
+      "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-0504-twist-41870504"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "ballerina-41840347",
+      "zip_name": "ballerina-41840347.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/ballerina-41840347.jpg",
+      "image_count": 2,
+      "code": "0347",
+      "real_name": "BALLERINA",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0347-ballerina-41840347"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "beige-41840853",
+      "zip_name": "beige-41840853.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/beige-41840853.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0853-beige-41840853"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "beige-41891272",
+      "zip_name": "beige-41891272.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/beige-41891272.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1272-beige-41891272"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "board-41840455",
+      "zip_name": "board-41840455.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/board-41840455.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0455-board-41840455"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "brown-41841568",
+      "zip_name": "brown-41841568.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/brown-41841568.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1568-brown-41841568"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "brown-41841597",
+      "zip_name": "brown-41841597.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/brown-41841597.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1597-brown-41841597"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "brown-41900850",
+      "zip_name": "brown-41900850.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/brown-41900850.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0850-brown-41900850"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "brown-41901605",
+      "zip_name": "brown-41901605.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/brown-41901605.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1605-brown-41901605"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "chestnut-41891274",
+      "zip_name": "chestnut-41891274.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/chestnut-41891274.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1274-chestnut-41891274"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "clear-41841567",
+      "zip_name": "clear-41841567.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/clear-41841567.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1567-clear-41841567"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "clear-41881599",
+      "zip_name": "clear-41881599.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/clear-41881599.jpg",
+      "image_count": 3,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1599-clear-41881599"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "clear-41881603",
+      "zip_name": "clear-41881603.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/clear-41881603.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1603-clear-41881603"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "cream-41841598",
+      "zip_name": "cream-41841598.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/cream-41841598.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1598-cream-41841598"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "cream-41881600",
+      "zip_name": "cream-41881600.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/cream-41881600.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1600-cream-41881600"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "dark-41881601",
+      "zip_name": "dark-41881601.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/dark-41881601.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1601-dark-41881601"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "golden-41891271",
+      "zip_name": "golden-41891271.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/golden-41891271.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1271-golden-41891271"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "golden-41901606",
+      "zip_name": "golden-41901606.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/golden-41901606.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1606-golden-41901606"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "honey-41840851",
+      "zip_name": "honey-41840851.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/honey-41840851.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0851-honey-41840851"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "honey-41840870",
+      "zip_name": "honey-41840870.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/honey-41840870.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0870-honey-41840870"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "lime-41840584",
+      "zip_name": "lime-41840584.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/lime-41840584.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0584-lime-41840584"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "natural-41840545",
+      "zip_name": "natural-41840545.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/natural-41840545.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0545-natural-41840545"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "natural-41841561",
+      "zip_name": "natural-41841561.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/natural-41841561.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1561-natural-41841561"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "natural-41891273",
+      "zip_name": "natural-41891273.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/natural-41891273.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1273-natural-41891273"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "natural-41901607",
+      "zip_name": "natural-41901607.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/natural-41901607.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1607-natural-41901607"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "oak-41840441",
+      "zip_name": "oak-41840441.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/oak-41840441.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0441-oak-41840441"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "pearl-41881602",
+      "zip_name": "pearl-41881602.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/pearl-41881602.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1602-pearl-41881602"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "quartet-41840503",
+      "zip_name": "quartet-41840503.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/quartet-41840503.jpg",
+      "image_count": 2,
+      "code": "0503",
+      "real_name": "QUARTET",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0503-quartet-41840503"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "ranch-41840456",
+      "zip_name": "ranch-41840456.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/ranch-41840456.jpg",
+      "image_count": 2,
+      "code": "0456",
+      "real_name": "RANCH",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0456-ranch-41840456"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "taupe-41881604",
+      "zip_name": "taupe-41881604.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/taupe-41881604.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1604-taupe-41881604"
+    },
+    {
+      "collection": "creation-40",
+      "color_slug": "twist-41840504",
+      "zip_name": "twist-41840504.zip",
+      "image_url": "/images/products/lvt/colors/creation-40/twist-41840504.jpg",
+      "image_count": 2,
+      "code": "0504",
+      "real_name": "TWIST",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0504-twist-41840504"
+    },
+    {
+      "collection": "creation-40-clic",
+      "color_slug": "beige-61391272",
+      "zip_name": "beige-61391272.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/beige-61391272.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1272-beige-61391272"
+    },
+    {
+      "collection": "creation-40-clic",
+      "color_slug": "brown-60601597",
+      "zip_name": "brown-60601597.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/brown-60601597.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1597-brown-60601597"
+    },
+    {
+      "collection": "creation-40-clic",
+      "color_slug": "brown-60621605",
+      "zip_name": "brown-60621605.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/brown-60621605.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1605-brown-60621605"
+    },
+    {
+      "collection": "creation-40-clic",
+      "color_slug": "chestnut-61391274",
+      "zip_name": "chestnut-61391274.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/chestnut-61391274.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1274-chestnut-61391274"
+    },
+    {
+      "collection": "creation-40-clic",
+      "color_slug": "clear-60611603",
+      "zip_name": "clear-60611603.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/clear-60611603.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1603-clear-60611603"
+    },
+    {
+      "collection": "creation-40-clic",
+      "color_slug": "golden-60621606",
+      "zip_name": "golden-60621606.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/golden-60621606.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1606-golden-60621606"
+    },
+    {
+      "collection": "creation-40-clic",
+      "color_slug": "golden-61391271",
+      "zip_name": "golden-61391271.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/golden-61391271.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1271-golden-61391271"
+    },
+    {
+      "collection": "creation-40-clic",
+      "color_slug": "natural-60600545",
+      "zip_name": "natural-60600545.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/natural-60600545.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-0545-natural-60600545"
+    },
+    {
+      "collection": "creation-40-clic",
+      "color_slug": "natural-61391273",
+      "zip_name": "natural-61391273.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/natural-61391273.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1273-natural-61391273"
+    },
+    {
+      "collection": "creation-40-clic",
+      "color_slug": "taupe-60611604",
+      "zip_name": "taupe-60611604.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/taupe-60611604.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1604-taupe-60611604"
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "color_slug": "ballerina-61300347",
+      "zip_name": "ballerina-61300347.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/ballerina-61300347.jpg",
+      "image_count": 2,
+      "code": "0347",
+      "real_name": "BALLERINA",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-acoustic-new-collection-0347-ballerina-61300347"
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "color_slug": "beige-61300853",
+      "zip_name": "beige-61300853.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/beige-61300853.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-acoustic-new-collection-0853-beige-61300853"
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "color_slug": "beige-61321712",
+      "zip_name": "beige-61321712.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/beige-61321712.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-acoustic-new-collection-1712-beige-61321712"
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "color_slug": "beige-61351272",
+      "zip_name": "beige-61351272.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/beige-61351272.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-acoustic-new-collection-1272-beige-61351272"
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "color_slug": "blond-61301704",
+      "zip_name": "blond-61301704.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/blond-61301704.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-acoustic-new-collection-1704-blond-61301704"
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "color_slug": "board-61300455",
+      "zip_name": "board-61300455.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/board-61300455.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-acoustic-new-collection-0455-board-61300455"
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "color_slug": "brown-61301568",
+      "zip_name": "brown-61301568.zip",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/brown-61301568.jpg",
+      "image_count": 2,
+      "code": "Unknown",
+      "real_name": "404",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-acoustic-new-collection-1568-brown-61301568"
+    }
+  ]
+}

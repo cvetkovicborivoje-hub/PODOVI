@@ -1,0 +1,115 @@
+{
+  "total": 10,
+  "products": [
+    {
+      "collection": "Gerflor Creation 30",
+      "collection_slug": "creation-30",
+      "code": "0347",
+      "name": "BALLERINA",
+      "sku": "41870347",
+      "color_slug": "ballerina-41870347",
+      "image_url": "/images/products/lvt/colors/creation-30/ballerina-41870347.jpg",
+      "real_name": "404",
+      "url_used": "https://www.gerflor-cee.com/products/creation-30-0347-ballerina-41870347"
+    },
+    {
+      "collection": "Gerflor Creation 30",
+      "collection_slug": "creation-30",
+      "code": "1712",
+      "name": "BACKYARD LIGHT BEIGE",
+      "sku": "41741712",
+      "color_slug": "beige-41741712",
+      "image_url": "/images/products/lvt/colors/creation-30/beige-41741712.jpg",
+      "real_name": "404",
+      "url_used": "https://www.gerflor-cee.com/products/creation-30-1712-beige-41741712"
+    },
+    {
+      "collection": "Gerflor Creation 30",
+      "collection_slug": "creation-30",
+      "code": "1278",
+      "name": "CHARMING OAK BEIGE",
+      "sku": "41751278",
+      "color_slug": "beige-41751278",
+      "image_url": "/images/products/lvt/colors/creation-30/beige-41751278.jpg",
+      "real_name": "404",
+      "url_used": "https://www.gerflor-cee.com/products/creation-30-1278-beige-41751278"
+    },
+    {
+      "collection": "Gerflor Creation 30",
+      "collection_slug": "creation-30",
+      "code": "1272",
+      "name": "LOUNGE OAK BEIGE",
+      "sku": "41761272",
+      "color_slug": "beige-41761272",
+      "image_url": "/images/products/lvt/colors/creation-30/beige-41761272.jpg",
+      "real_name": "404",
+      "url_used": "https://www.gerflor-cee.com/products/creation-30-1272-beige-41761272"
+    },
+    {
+      "collection": "Gerflor Creation 30",
+      "collection_slug": "creation-30",
+      "code": "0853",
+      "name": "BOSTONIAN OAK BEIGE",
+      "sku": "41870853",
+      "color_slug": "beige-41870853",
+      "image_url": "/images/products/lvt/colors/creation-30/beige-41870853.jpg",
+      "real_name": "404",
+      "url_used": "https://www.gerflor-cee.com/products/creation-30-0853-beige-41870853"
+    },
+    {
+      "collection": "Gerflor Creation 30",
+      "collection_slug": "creation-30",
+      "code": "1704",
+      "name": "AQUINOAH BLOND",
+      "sku": "41871704",
+      "color_slug": "blond-41871704",
+      "image_url": "/images/products/lvt/colors/creation-30/blond-41871704.jpg",
+      "real_name": "404",
+      "url_used": "https://www.gerflor-cee.com/products/creation-30-1704-blond-41871704"
+    },
+    {
+      "collection": "Gerflor Creation 30",
+      "collection_slug": "creation-30",
+      "code": "0455",
+      "name": "LONGBOARD",
+      "sku": "41870455",
+      "color_slug": "board-41870455",
+      "image_url": "/images/products/lvt/colors/creation-30/board-41870455.jpg",
+      "real_name": "404",
+      "url_used": "https://www.gerflor-cee.com/products/creation-30-0455-board-41870455"
+    },
+    {
+      "collection": "Gerflor Creation 30",
+      "collection_slug": "creation-30",
+      "code": "0850",
+      "name": "CEDAR BROWN",
+      "sku": "41730850",
+      "color_slug": "brown-41730850",
+      "image_url": "/images/products/lvt/colors/creation-30/brown-41730850.jpg",
+      "real_name": "404",
+      "url_used": "https://www.gerflor-cee.com/products/creation-30-0850-brown-41730850"
+    },
+    {
+      "collection": "Gerflor Creation 30",
+      "collection_slug": "creation-30",
+      "code": "1605",
+      "name": "CEDAR DARK BROWN",
+      "sku": "41731605",
+      "color_slug": "brown-41731605",
+      "image_url": "/images/products/lvt/colors/creation-30/brown-41731605.jpg",
+      "real_name": "404",
+      "url_used": "https://www.gerflor-cee.com/products/creation-30-1605-brown-41731605"
+    },
+    {
+      "collection": "Gerflor Creation 30",
+      "collection_slug": "creation-30",
+      "code": "1568",
+      "name": "TAMO LIGHT BROWN",
+      "sku": "41871568",
+      "color_slug": "brown-41871568",
+      "image_url": "/images/products/lvt/colors/creation-30/brown-41871568.jpg",
+      "real_name": "404",
+      "url_used": "https://www.gerflor-cee.com/products/creation-30-1568-brown-41871568"
+    }
+  ]
+}
