@@ -1,6 +1,7 @@
 import { Product } from '@/types';
 
 // Auto-generated Gerflor products with REAL names from ZIP files
+// Last updated: 2026-01-13 12:19 - Force cache refresh
 export const gerflor_products: Product[] = [
   {
     id: 'gerflor-creation-30-ballerina-41870347',

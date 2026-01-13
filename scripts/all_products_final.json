@@ -1,0 +1,505 @@
+{
+  "total": 50,
+  "products": [
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "0347",
+      "name": "BALLERINA",
+      "sku": "41840347",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0347-ballerina-41840347",
+      "image_url": "/images/products/lvt/colors/creation-40/ballerina-41840347.jpg",
+      "color_slug": "ballerina-41840347"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "0441",
+      "name": "HONEY OAK",
+      "sku": "41840441",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0441-honey-oak-41840441",
+      "image_url": "/images/products/lvt/colors/creation-40/oak-41840441.jpg",
+      "color_slug": "oak-41840441"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "0455",
+      "name": "LONG BOARD",
+      "sku": "41840455",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0455-long-board-41840455",
+      "image_url": "/images/products/lvt/colors/creation-40/board-41840455.jpg",
+      "color_slug": "board-41840455"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "0456",
+      "name": "RANCH",
+      "sku": "41840456",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0456-ranch-41840456",
+      "image_url": "/images/products/lvt/colors/creation-40/ranch-41840456.jpg",
+      "color_slug": "ranch-41840456"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "0503",
+      "name": "QUARTET",
+      "sku": "41840503",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0503-quartet-41840503",
+      "image_url": "/images/products/lvt/colors/creation-40/quartet-41840503.jpg",
+      "color_slug": "quartet-41840503"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "0504",
+      "name": "TWIST",
+      "sku": "41840504",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0504-twist-41840504",
+      "image_url": "/images/products/lvt/colors/creation-40/twist-41840504.jpg",
+      "color_slug": "twist-41840504"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "0545",
+      "name": "QUARTET NATURAL",
+      "sku": "41840545",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0545-quartet-natural-41840545",
+      "image_url": "/images/products/lvt/colors/creation-40/natural-41840545.jpg",
+      "color_slug": "natural-41840545"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "0584",
+      "name": "WHITE LIME",
+      "sku": "41840584",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0584-white-lime-41840584",
+      "image_url": "/images/products/lvt/colors/creation-40/lime-41840584.jpg",
+      "color_slug": "lime-41840584"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "0850",
+      "name": "CEDAR BROWN",
+      "sku": "41900850",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0850-cedar-brown-41900850",
+      "image_url": "/images/products/lvt/colors/creation-40/brown-41900850.jpg",
+      "color_slug": "brown-41900850"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "0851",
+      "name": "BOSTONIAN OAK HONEY",
+      "sku": "41840851",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0851-bostonian-oak-honey-41840851",
+      "image_url": "/images/products/lvt/colors/creation-40/honey-41840851.jpg",
+      "color_slug": "honey-41840851"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "0853",
+      "name": "BOSTONIAN OAK BEIGE",
+      "sku": "41840853",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0853-bostonian-oak-beige-41840853",
+      "image_url": "/images/products/lvt/colors/creation-40/beige-41840853.jpg",
+      "color_slug": "beige-41840853"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "0870",
+      "name": "QUARTET HONEY",
+      "sku": "41840870",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-0870-quartet-honey-41840870",
+      "image_url": "/images/products/lvt/colors/creation-40/honey-41840870.jpg",
+      "color_slug": "honey-41840870"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1271",
+      "name": "LOUNGE OAK GOLDEN",
+      "sku": "41891271",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1271-lounge-oak-golden-41891271",
+      "image_url": "/images/products/lvt/colors/creation-40/golden-41891271.jpg",
+      "color_slug": "golden-41891271"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1272",
+      "name": "LOUNGE OAK BEIGE",
+      "sku": "41891272",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1272-lounge-oak-beige-41891272",
+      "image_url": "/images/products/lvt/colors/creation-40/beige-41891272.jpg",
+      "color_slug": "beige-41891272"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1273",
+      "name": "LOUNGE OAK NATURAL",
+      "sku": "41891273",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1273-lounge-oak-natural-41891273",
+      "image_url": "/images/products/lvt/colors/creation-40/natural-41891273.jpg",
+      "color_slug": "natural-41891273"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1274",
+      "name": "LOUNGE OAK CHESTNUT",
+      "sku": "41891274",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1274-lounge-oak-chestnut-41891274",
+      "image_url": "/images/products/lvt/colors/creation-40/chestnut-41891274.jpg",
+      "color_slug": "chestnut-41891274"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1561",
+      "name": "TAMO NATURAL",
+      "sku": "41841561",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1561-tamo-natural-41841561",
+      "image_url": "/images/products/lvt/colors/creation-40/natural-41841561.jpg",
+      "color_slug": "natural-41841561"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1567",
+      "name": "TAMO CLEAR",
+      "sku": "41841567",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1567-tamo-clear-41841567",
+      "image_url": "/images/products/lvt/colors/creation-40/clear-41841567.jpg",
+      "color_slug": "clear-41841567"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1568",
+      "name": "TAMO LIGHT BROWN",
+      "sku": "41841568",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1568-tamo-light-brown-41841568",
+      "image_url": "/images/products/lvt/colors/creation-40/brown-41841568.jpg",
+      "color_slug": "brown-41841568"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1597",
+      "name": "QUARTET DARK BROWN",
+      "sku": "41841597",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1597-quartet-dark-brown-41841597",
+      "image_url": "/images/products/lvt/colors/creation-40/brown-41841597.jpg",
+      "color_slug": "brown-41841597"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1598",
+      "name": "TAMO CREAM",
+      "sku": "41841598",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1598-tamo-cream-41841598",
+      "image_url": "/images/products/lvt/colors/creation-40/cream-41841598.jpg",
+      "color_slug": "cream-41841598"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1599",
+      "name": "BLOOM UNI CLEAR",
+      "sku": "41881599",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1599-bloom-uni-clear-41881599",
+      "image_url": "/images/products/lvt/colors/creation-40/clear-41881599.jpg",
+      "color_slug": "clear-41881599"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1600",
+      "name": "BLOOM UNI CREAM",
+      "sku": "41881600",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1600-bloom-uni-cream-41881600",
+      "image_url": "/images/products/lvt/colors/creation-40/cream-41881600.jpg",
+      "color_slug": "cream-41881600"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1601",
+      "name": "BLOOM UNI DARK",
+      "sku": "41881601",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1601-bloom-uni-dark-41881601",
+      "image_url": "/images/products/lvt/colors/creation-40/dark-41881601.jpg",
+      "color_slug": "dark-41881601"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1602",
+      "name": "BLOOM UNI PEARL",
+      "sku": "41881602",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1602-bloom-uni-pearl-41881602",
+      "image_url": "/images/products/lvt/colors/creation-40/pearl-41881602.jpg",
+      "color_slug": "pearl-41881602"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1603",
+      "name": "CURTON STONE CLEAR",
+      "sku": "41881603",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1603-curton-stone-clear-41881603",
+      "image_url": "/images/products/lvt/colors/creation-40/clear-41881603.jpg",
+      "color_slug": "clear-41881603"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1604",
+      "name": "CURTON STONE TAUPE",
+      "sku": "41881604",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1604-curton-stone-taupe-41881604",
+      "image_url": "/images/products/lvt/colors/creation-40/taupe-41881604.jpg",
+      "color_slug": "taupe-41881604"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1605",
+      "name": "CEDAR DARK BROWN",
+      "sku": "41901605",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1605-cedar-dark-brown-41901605",
+      "image_url": "/images/products/lvt/colors/creation-40/brown-41901605.jpg",
+      "color_slug": "brown-41901605"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1606",
+      "name": "CEDAR GOLDEN",
+      "sku": "41901606",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1606-cedar-golden-41901606",
+      "image_url": "/images/products/lvt/colors/creation-40/golden-41901606.jpg",
+      "color_slug": "golden-41901606"
+    },
+    {
+      "collection": "Creation 40",
+      "collection_slug": "creation-40",
+      "code": "1607",
+      "name": "CEDAR NATURAL",
+      "sku": "41901607",
+      "url": "https://www.gerflor-cee.com/products/creation-40-new-collection-1607-cedar-natural-41901607",
+      "image_url": "/images/products/lvt/colors/creation-40/natural-41901607.jpg",
+      "color_slug": "natural-41901607"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "Unknown",
+      "name": "COLLECTION-BALLERINA",
+      "sku": null,
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-ballerina",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/collection-ballerina.jpg",
+      "color_slug": "collection-ballerina"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "Unknown",
+      "name": "HONEY-OAK",
+      "sku": null,
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-honey-oak",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/honey-oak.jpg",
+      "color_slug": "honey-oak"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "Unknown",
+      "name": "LONG-BOARD",
+      "sku": null,
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-long-board",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/long-board.jpg",
+      "color_slug": "long-board"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "Unknown",
+      "name": "COLLECTION-RANCH",
+      "sku": null,
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-ranch",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/collection-ranch.jpg",
+      "color_slug": "collection-ranch"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "Unknown",
+      "name": "COLLECTION-QUARTET",
+      "sku": null,
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-quartet",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/collection-quartet.jpg",
+      "color_slug": "collection-quartet"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "Unknown",
+      "name": "COLLECTION-TWIST",
+      "sku": null,
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-twist",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/collection-twist.jpg",
+      "color_slug": "collection-twist"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "0545",
+      "name": "QUARTET NATURAL",
+      "sku": "60600545",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-0545-quartet-natural-60600545",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/natural-60600545.jpg",
+      "color_slug": "natural-60600545"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "Unknown",
+      "name": "WHITE-LIME",
+      "sku": null,
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-white-lime",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/white-lime.jpg",
+      "color_slug": "white-lime"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "Unknown",
+      "name": "CEDAR-BROWN",
+      "sku": null,
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-cedar-brown",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/cedar-brown.jpg",
+      "color_slug": "cedar-brown"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "Unknown",
+      "name": "QUARTET-HONEY",
+      "sku": null,
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-quartet-honey",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/quartet-honey.jpg",
+      "color_slug": "quartet-honey"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "1271",
+      "name": "LOUNGE OAK GOLDEN",
+      "sku": "61391271",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1271-lounge-oak-golden-61391271",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/golden-61391271.jpg",
+      "color_slug": "golden-61391271"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "1272",
+      "name": "LOUNGE OAK BEIGE",
+      "sku": "61391272",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1272-lounge-oak-beige-61391272",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/beige-61391272.jpg",
+      "color_slug": "beige-61391272"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "1273",
+      "name": "LOUNGE OAK NATURAL",
+      "sku": "61391273",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1273-lounge-oak-natural-61391273",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/natural-61391273.jpg",
+      "color_slug": "natural-61391273"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "1274",
+      "name": "LOUNGE OAK CHESTNUT",
+      "sku": "61391274",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1274-lounge-oak-chestnut-61391274",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/chestnut-61391274.jpg",
+      "color_slug": "chestnut-61391274"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "1597",
+      "name": "QUARTET DARK BROWN",
+      "sku": "60601597",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1597-quartet-dark-brown-60601597",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/brown-60601597.jpg",
+      "color_slug": "brown-60601597"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "1603",
+      "name": "CURTON STONE CLEAR",
+      "sku": "60611603",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1603-curton-stone-clear-60611603",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/clear-60611603.jpg",
+      "color_slug": "clear-60611603"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "1604",
+      "name": "CURTON STONE TAUPE",
+      "sku": "60611604",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1604-curton-stone-taupe-60611604",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/taupe-60611604.jpg",
+      "color_slug": "taupe-60611604"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "1605",
+      "name": "CEDAR DARK BROWN",
+      "sku": "60621605",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1605-cedar-dark-brown-60621605",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/brown-60621605.jpg",
+      "color_slug": "brown-60621605"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "1606",
+      "name": "CEDAR GOLDEN",
+      "sku": "60621606",
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-1606-cedar-golden-60621606",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/golden-60621606.jpg",
+      "color_slug": "golden-60621606"
+    },
+    {
+      "collection": "Creation 40 Clic",
+      "collection_slug": "creation-40-clic",
+      "code": "Unknown",
+      "name": "CEDAR-NATURAL",
+      "sku": null,
+      "url": "https://www.gerflor-cee.com/products/creation-40-clic-new-collection-cedar-natural",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/cedar-natural.jpg",
+      "color_slug": "cedar-natural"
+    }
+  ]
+}
