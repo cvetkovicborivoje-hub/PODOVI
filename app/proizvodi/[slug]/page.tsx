@@ -4,6 +4,8 @@ import { notFound } from 'next/navigation';
 import { productRepository } from '@/lib/repositories/product-repository';
 import { categoryRepository } from '@/lib/repositories/category-repository';
 import { brandRepository } from '@/lib/repositories/brand-repository';
+import CertificationBadges from '@/components/CertificationBadges';
+import EcoFeatures from '@/components/EcoFeatures';
 
 interface Props {
   params: { slug: string };
@@ -228,6 +230,29 @@ export default async function ProductPage({ params }: Props) {
             </div>
           )}
         </div>
+
+        {/* Certifications & Eco Features - Full Width Below */}
+        {product.slug.includes('creation') && (
+          <div className="mt-12 grid grid-cols-1 lg:grid-cols-2 gap-8">
+            {/* Certifications */}
+            <div className="bg-white rounded-2xl shadow-lg p-8">
+              <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+                <svg className="w-6 h-6 text-primary-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
+                </svg>
+                Sertifikati kvaliteta
+              </h3>
+              <CertificationBadges certifications={["FloorScore", "Indoor Air Comfort Gold", "M1", "A+", "CE", "REACH", "EPD"]} />
+            </div>
+
+            {/* Eco Features */}
+            <EcoFeatures 
+              features={["Bez ftalata", "100% reciklabilno", "30% recikliranog sadržaja", "Niske VOC emisije"]} 
+              underfloorHeating={true}
+            />
+          </div>
+        )}
+      </div>
       </div>
     </div>
   );
