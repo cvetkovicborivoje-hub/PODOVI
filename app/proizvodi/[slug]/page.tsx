@@ -1,14 +1,16 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getProductBySlug, getCategoryById, getBrandById } from '@/lib/repositories/mock-repository';
+import { productRepository } from '@/lib/repositories/product-repository';
+import { categoryRepository } from '@/lib/repositories/category-repository';
+import { brandRepository } from '@/lib/repositories/brand-repository';
 
 interface Props {
   params: { slug: string };
 }
 
 export async function generateMetadata({ params }: Props): Metadata {
-  const product = await getProductBySlug(params.slug);
+  const product = await productRepository.findBySlug(params.slug);
   
   if (!product) {
     return {
@@ -23,14 +25,14 @@ export async function generateMetadata({ params }: Props): Metadata {
 }
 
 export default async function ProductPage({ params }: Props) {
-  const product = await getProductBySlug(params.slug);
+  const product = await productRepository.findBySlug(params.slug);
   
   if (!product) {
     notFound();
   }
 
-  const category = await getCategoryById(product.categoryId);
-  const brand = await getBrandById(product.brandId);
+  const category = await categoryRepository.findById(product.categoryId);
+  const brand = await brandRepository.findById(product.brandId);
   const primaryImage = product.images.find(img => img.isPrimary) || product.images[0];
 
   return (
