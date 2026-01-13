@@ -1,0 +1,5836 @@
+{
+  "total": 583,
+  "collections": 18,
+  "colors": [
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "0347",
+      "name": "BALLERINA",
+      "full_name": "0347 BALLERINA",
+      "slug": "ballerina-41870347",
+      "image_url": "/images/products/lvt/colors/creation-30/ballerina-41870347.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1712",
+      "name": "BEIGE",
+      "full_name": "1712 BEIGE",
+      "slug": "beige-41741712",
+      "image_url": "/images/products/lvt/colors/creation-30/beige-41741712.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1278",
+      "name": "BEIGE",
+      "full_name": "1278 BEIGE",
+      "slug": "beige-41751278",
+      "image_url": "/images/products/lvt/colors/creation-30/beige-41751278.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1272",
+      "name": "BEIGE",
+      "full_name": "1272 BEIGE",
+      "slug": "beige-41761272",
+      "image_url": "/images/products/lvt/colors/creation-30/beige-41761272.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "0853",
+      "name": "BEIGE",
+      "full_name": "0853 BEIGE",
+      "slug": "beige-41870853",
+      "image_url": "/images/products/lvt/colors/creation-30/beige-41870853.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1704",
+      "name": "BLOND",
+      "full_name": "1704 BLOND",
+      "slug": "blond-41871704",
+      "image_url": "/images/products/lvt/colors/creation-30/blond-41871704.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "0455",
+      "name": "BOARD",
+      "full_name": "0455 BOARD",
+      "slug": "board-41870455",
+      "image_url": "/images/products/lvt/colors/creation-30/board-41870455.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "0850",
+      "name": "BROWN",
+      "full_name": "0850 BROWN",
+      "slug": "brown-41730850",
+      "image_url": "/images/products/lvt/colors/creation-30/brown-41730850.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1605",
+      "name": "BROWN",
+      "full_name": "1605 BROWN",
+      "slug": "brown-41731605",
+      "image_url": "/images/products/lvt/colors/creation-30/brown-41731605.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1568",
+      "name": "BROWN",
+      "full_name": "1568 BROWN",
+      "slug": "brown-41871568",
+      "image_url": "/images/products/lvt/colors/creation-30/brown-41871568.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1597",
+      "name": "BROWN",
+      "full_name": "1597 BROWN",
+      "slug": "brown-41871597",
+      "image_url": "/images/products/lvt/colors/creation-30/brown-41871597.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1705",
+      "name": "BROWN",
+      "full_name": "1705 BROWN",
+      "slug": "brown-41871705",
+      "image_url": "/images/products/lvt/colors/creation-30/brown-41871705.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1274",
+      "name": "CHESTNUT",
+      "full_name": "1274 CHESTNUT",
+      "slug": "chestnut-41761274",
+      "image_url": "/images/products/lvt/colors/creation-30/chestnut-41761274.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1599",
+      "name": "CLEAR",
+      "full_name": "1599 CLEAR",
+      "slug": "clear-41831599",
+      "image_url": "/images/products/lvt/colors/creation-30/clear-41831599.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1603",
+      "name": "CLEAR",
+      "full_name": "1603 CLEAR",
+      "slug": "clear-41831603",
+      "image_url": "/images/products/lvt/colors/creation-30/clear-41831603.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1567",
+      "name": "CLEAR",
+      "full_name": "1567 CLEAR",
+      "slug": "clear-41871567",
+      "image_url": "/images/products/lvt/colors/creation-30/clear-41871567.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1600",
+      "name": "CREAM",
+      "full_name": "1600 CREAM",
+      "slug": "cream-41831600",
+      "image_url": "/images/products/lvt/colors/creation-30/cream-41831600.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1598",
+      "name": "CREAM",
+      "full_name": "1598 CREAM",
+      "slug": "cream-41871598",
+      "image_url": "/images/products/lvt/colors/creation-30/cream-41871598.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1711",
+      "name": "DARK",
+      "full_name": "1711 DARK",
+      "slug": "dark-41741711",
+      "image_url": "/images/products/lvt/colors/creation-30/dark-41741711.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1601",
+      "name": "DARK",
+      "full_name": "1601 DARK",
+      "slug": "dark-41831601",
+      "image_url": "/images/products/lvt/colors/creation-30/dark-41831601.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1606",
+      "name": "GOLDEN",
+      "full_name": "1606 GOLDEN",
+      "slug": "golden-41731606",
+      "image_url": "/images/products/lvt/colors/creation-30/golden-41731606.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1271",
+      "name": "GOLDEN",
+      "full_name": "1271 GOLDEN",
+      "slug": "golden-41761271",
+      "image_url": "/images/products/lvt/colors/creation-30/golden-41761271.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1708",
+      "name": "GREIGE",
+      "full_name": "1708 GREIGE",
+      "slug": "greige-41871708",
+      "image_url": "/images/products/lvt/colors/creation-30/greige-41871708.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1279",
+      "name": "GREY",
+      "full_name": "1279 GREY",
+      "slug": "grey-41751279",
+      "image_url": "/images/products/lvt/colors/creation-30/grey-41751279.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "0851",
+      "name": "HONEY",
+      "full_name": "0851 HONEY",
+      "slug": "honey-41870851",
+      "image_url": "/images/products/lvt/colors/creation-30/honey-41870851.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "0870",
+      "name": "HONEY",
+      "full_name": "0870 HONEY",
+      "slug": "honey-41870870",
+      "image_url": "/images/products/lvt/colors/creation-30/honey-41870870.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1706",
+      "name": "HONEY",
+      "full_name": "1706 HONEY",
+      "slug": "honey-41871706",
+      "image_url": "/images/products/lvt/colors/creation-30/honey-41871706.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1709",
+      "name": "HONEY",
+      "full_name": "1709 HONEY",
+      "slug": "honey-41871709",
+      "image_url": "/images/products/lvt/colors/creation-30/honey-41871709.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "0584",
+      "name": "LIME",
+      "full_name": "0584 LIME",
+      "slug": "lime-41870584",
+      "image_url": "/images/products/lvt/colors/creation-30/lime-41870584.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1607",
+      "name": "NATURAL",
+      "full_name": "1607 NATURAL",
+      "slug": "natural-41731607",
+      "image_url": "/images/products/lvt/colors/creation-30/natural-41731607.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1273",
+      "name": "NATURAL",
+      "full_name": "1273 NATURAL",
+      "slug": "natural-41761273",
+      "image_url": "/images/products/lvt/colors/creation-30/natural-41761273.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "0545",
+      "name": "NATURAL",
+      "full_name": "0545 NATURAL",
+      "slug": "natural-41870545",
+      "image_url": "/images/products/lvt/colors/creation-30/natural-41870545.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1561",
+      "name": "NATURAL",
+      "full_name": "1561 NATURAL",
+      "slug": "natural-41871561",
+      "image_url": "/images/products/lvt/colors/creation-30/natural-41871561.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1707",
+      "name": "NATURE",
+      "full_name": "1707 NATURE",
+      "slug": "nature-41871707",
+      "image_url": "/images/products/lvt/colors/creation-30/nature-41871707.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "0441",
+      "name": "OAK",
+      "full_name": "0441 OAK",
+      "slug": "oak-41870441",
+      "image_url": "/images/products/lvt/colors/creation-30/oak-41870441.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1602",
+      "name": "PEARL",
+      "full_name": "1602 PEARL",
+      "slug": "pearl-41831602",
+      "image_url": "/images/products/lvt/colors/creation-30/pearl-41831602.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "0503",
+      "name": "QUARTET",
+      "full_name": "0503 QUARTET",
+      "slug": "quartet-41870503",
+      "image_url": "/images/products/lvt/colors/creation-30/quartet-41870503.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "0456",
+      "name": "RANCH",
+      "full_name": "0456 RANCH",
+      "slug": "ranch-41870456",
+      "image_url": "/images/products/lvt/colors/creation-30/ranch-41870456.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1714",
+      "name": "SMOKED",
+      "full_name": "1714 SMOKED",
+      "slug": "smoked-41751714",
+      "image_url": "/images/products/lvt/colors/creation-30/smoked-41751714.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1710",
+      "name": "SMOKED",
+      "full_name": "1710 SMOKED",
+      "slug": "smoked-41871710",
+      "image_url": "/images/products/lvt/colors/creation-30/smoked-41871710.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1713",
+      "name": "TAUPE",
+      "full_name": "1713 TAUPE",
+      "slug": "taupe-41741713",
+      "image_url": "/images/products/lvt/colors/creation-30/taupe-41741713.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "1604",
+      "name": "TAUPE",
+      "full_name": "1604 TAUPE",
+      "slug": "taupe-41831604",
+      "image_url": "/images/products/lvt/colors/creation-30/taupe-41831604.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-30",
+      "collection_name": "Creation 30",
+      "code": "0504",
+      "name": "TWIST",
+      "full_name": "0504 TWIST",
+      "slug": "twist-41870504",
+      "image_url": "/images/products/lvt/colors/creation-30/twist-41870504.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "0347",
+      "name": "BALLERINA",
+      "full_name": "0347 BALLERINA",
+      "slug": "ballerina-41840347",
+      "image_url": "/images/products/lvt/colors/creation-40/ballerina-41840347.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "0853",
+      "name": "BEIGE",
+      "full_name": "0853 BEIGE",
+      "slug": "beige-41840853",
+      "image_url": "/images/products/lvt/colors/creation-40/beige-41840853.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1272",
+      "name": "BEIGE",
+      "full_name": "1272 BEIGE",
+      "slug": "beige-41891272",
+      "image_url": "/images/products/lvt/colors/creation-40/beige-41891272.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "0455",
+      "name": "BOARD",
+      "full_name": "0455 BOARD",
+      "slug": "board-41840455",
+      "image_url": "/images/products/lvt/colors/creation-40/board-41840455.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1568",
+      "name": "BROWN",
+      "full_name": "1568 BROWN",
+      "slug": "brown-41841568",
+      "image_url": "/images/products/lvt/colors/creation-40/brown-41841568.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1597",
+      "name": "BROWN",
+      "full_name": "1597 BROWN",
+      "slug": "brown-41841597",
+      "image_url": "/images/products/lvt/colors/creation-40/brown-41841597.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "0850",
+      "name": "BROWN",
+      "full_name": "0850 BROWN",
+      "slug": "brown-41900850",
+      "image_url": "/images/products/lvt/colors/creation-40/brown-41900850.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1605",
+      "name": "BROWN",
+      "full_name": "1605 BROWN",
+      "slug": "brown-41901605",
+      "image_url": "/images/products/lvt/colors/creation-40/brown-41901605.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1274",
+      "name": "CHESTNUT",
+      "full_name": "1274 CHESTNUT",
+      "slug": "chestnut-41891274",
+      "image_url": "/images/products/lvt/colors/creation-40/chestnut-41891274.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1567",
+      "name": "CLEAR",
+      "full_name": "1567 CLEAR",
+      "slug": "clear-41841567",
+      "image_url": "/images/products/lvt/colors/creation-40/clear-41841567.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1599",
+      "name": "CLEAR",
+      "full_name": "1599 CLEAR",
+      "slug": "clear-41881599",
+      "image_url": "/images/products/lvt/colors/creation-40/clear-41881599.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1603",
+      "name": "CLEAR",
+      "full_name": "1603 CLEAR",
+      "slug": "clear-41881603",
+      "image_url": "/images/products/lvt/colors/creation-40/clear-41881603.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1598",
+      "name": "CREAM",
+      "full_name": "1598 CREAM",
+      "slug": "cream-41841598",
+      "image_url": "/images/products/lvt/colors/creation-40/cream-41841598.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1600",
+      "name": "CREAM",
+      "full_name": "1600 CREAM",
+      "slug": "cream-41881600",
+      "image_url": "/images/products/lvt/colors/creation-40/cream-41881600.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1601",
+      "name": "DARK",
+      "full_name": "1601 DARK",
+      "slug": "dark-41881601",
+      "image_url": "/images/products/lvt/colors/creation-40/dark-41881601.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1271",
+      "name": "GOLDEN",
+      "full_name": "1271 GOLDEN",
+      "slug": "golden-41891271",
+      "image_url": "/images/products/lvt/colors/creation-40/golden-41891271.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1606",
+      "name": "GOLDEN",
+      "full_name": "1606 GOLDEN",
+      "slug": "golden-41901606",
+      "image_url": "/images/products/lvt/colors/creation-40/golden-41901606.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "0851",
+      "name": "HONEY",
+      "full_name": "0851 HONEY",
+      "slug": "honey-41840851",
+      "image_url": "/images/products/lvt/colors/creation-40/honey-41840851.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "0870",
+      "name": "HONEY",
+      "full_name": "0870 HONEY",
+      "slug": "honey-41840870",
+      "image_url": "/images/products/lvt/colors/creation-40/honey-41840870.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "0584",
+      "name": "LIME",
+      "full_name": "0584 LIME",
+      "slug": "lime-41840584",
+      "image_url": "/images/products/lvt/colors/creation-40/lime-41840584.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "0545",
+      "name": "NATURAL",
+      "full_name": "0545 NATURAL",
+      "slug": "natural-41840545",
+      "image_url": "/images/products/lvt/colors/creation-40/natural-41840545.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1561",
+      "name": "NATURAL",
+      "full_name": "1561 NATURAL",
+      "slug": "natural-41841561",
+      "image_url": "/images/products/lvt/colors/creation-40/natural-41841561.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1273",
+      "name": "NATURAL",
+      "full_name": "1273 NATURAL",
+      "slug": "natural-41891273",
+      "image_url": "/images/products/lvt/colors/creation-40/natural-41891273.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1607",
+      "name": "NATURAL",
+      "full_name": "1607 NATURAL",
+      "slug": "natural-41901607",
+      "image_url": "/images/products/lvt/colors/creation-40/natural-41901607.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "0441",
+      "name": "OAK",
+      "full_name": "0441 OAK",
+      "slug": "oak-41840441",
+      "image_url": "/images/products/lvt/colors/creation-40/oak-41840441.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1602",
+      "name": "PEARL",
+      "full_name": "1602 PEARL",
+      "slug": "pearl-41881602",
+      "image_url": "/images/products/lvt/colors/creation-40/pearl-41881602.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "0503",
+      "name": "QUARTET",
+      "full_name": "0503 QUARTET",
+      "slug": "quartet-41840503",
+      "image_url": "/images/products/lvt/colors/creation-40/quartet-41840503.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "0456",
+      "name": "RANCH",
+      "full_name": "0456 RANCH",
+      "slug": "ranch-41840456",
+      "image_url": "/images/products/lvt/colors/creation-40/ranch-41840456.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "1604",
+      "name": "TAUPE",
+      "full_name": "1604 TAUPE",
+      "slug": "taupe-41881604",
+      "image_url": "/images/products/lvt/colors/creation-40/taupe-41881604.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40",
+      "collection_name": "Creation 40",
+      "code": "0504",
+      "name": "TWIST",
+      "full_name": "0504 TWIST",
+      "slug": "twist-41840504",
+      "image_url": "/images/products/lvt/colors/creation-40/twist-41840504.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "1272",
+      "name": "BEIGE",
+      "full_name": "1272 BEIGE",
+      "slug": "beige-61391272",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/beige-61391272.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "1597",
+      "name": "BROWN",
+      "full_name": "1597 BROWN",
+      "slug": "brown-60601597",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/brown-60601597.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "1605",
+      "name": "BROWN",
+      "full_name": "1605 BROWN",
+      "slug": "brown-60621605",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/brown-60621605.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "rown",
+      "name": "CEDAR",
+      "full_name": "rown CEDAR",
+      "slug": "cedar-brown",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/cedar-brown.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "ural",
+      "name": "CEDAR",
+      "full_name": "ural CEDAR",
+      "slug": "cedar-natural",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/cedar-natural.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "1274",
+      "name": "CHESTNUT",
+      "full_name": "1274 CHESTNUT",
+      "slug": "chestnut-61391274",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/chestnut-61391274.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "1603",
+      "name": "CLEAR",
+      "full_name": "1603 CLEAR",
+      "slug": "clear-60611603",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/clear-60611603.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "rina",
+      "name": "COLLECTION",
+      "full_name": "rina COLLECTION",
+      "slug": "collection-ballerina",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/collection-ballerina.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "rtet",
+      "name": "COLLECTION",
+      "full_name": "rtet COLLECTION",
+      "slug": "collection-quartet",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/collection-quartet.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "anch",
+      "name": "COLLECTION",
+      "full_name": "anch COLLECTION",
+      "slug": "collection-ranch",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/collection-ranch.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "wist",
+      "name": "COLLECTION",
+      "full_name": "wist COLLECTION",
+      "slug": "collection-twist",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/collection-twist.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "1606",
+      "name": "GOLDEN",
+      "full_name": "1606 GOLDEN",
+      "slug": "golden-60621606",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/golden-60621606.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "1271",
+      "name": "GOLDEN",
+      "full_name": "1271 GOLDEN",
+      "slug": "golden-61391271",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/golden-61391271.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "oak",
+      "name": "HONEY",
+      "full_name": "oak HONEY",
+      "slug": "honey-oak",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/honey-oak.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "oard",
+      "name": "LONG",
+      "full_name": "oard LONG",
+      "slug": "long-board",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/long-board.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "0545",
+      "name": "NATURAL",
+      "full_name": "0545 NATURAL",
+      "slug": "natural-60600545",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/natural-60600545.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "1273",
+      "name": "NATURAL",
+      "full_name": "1273 NATURAL",
+      "slug": "natural-61391273",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/natural-61391273.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "oney",
+      "name": "QUARTET",
+      "full_name": "oney QUARTET",
+      "slug": "quartet-honey",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/quartet-honey.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "1604",
+      "name": "TAUPE",
+      "full_name": "1604 TAUPE",
+      "slug": "taupe-60611604",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/taupe-60611604.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic",
+      "collection_name": "Creation 40 Clic",
+      "code": "lime",
+      "name": "WHITE",
+      "full_name": "lime WHITE",
+      "slug": "white-lime",
+      "image_url": "/images/products/lvt/colors/creation-40-clic/white-lime.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "0347",
+      "name": "BALLERINA",
+      "full_name": "0347 BALLERINA",
+      "slug": "ballerina-61300347",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/ballerina-61300347.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "0853",
+      "name": "BEIGE",
+      "full_name": "0853 BEIGE",
+      "slug": "beige-61300853",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/beige-61300853.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1712",
+      "name": "BEIGE",
+      "full_name": "1712 BEIGE",
+      "slug": "beige-61321712",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/beige-61321712.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1272",
+      "name": "BEIGE",
+      "full_name": "1272 BEIGE",
+      "slug": "beige-61351272",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/beige-61351272.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1704",
+      "name": "BLOND",
+      "full_name": "1704 BLOND",
+      "slug": "blond-61301704",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/blond-61301704.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "0455",
+      "name": "BOARD",
+      "full_name": "0455 BOARD",
+      "slug": "board-61300455",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/board-61300455.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1568",
+      "name": "BROWN",
+      "full_name": "1568 BROWN",
+      "slug": "brown-61301568",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/brown-61301568.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1597",
+      "name": "BROWN",
+      "full_name": "1597 BROWN",
+      "slug": "brown-61301597",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/brown-61301597.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1705",
+      "name": "BROWN",
+      "full_name": "1705 BROWN",
+      "slug": "brown-61301705",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/brown-61301705.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "0850",
+      "name": "BROWN",
+      "full_name": "0850 BROWN",
+      "slug": "brown-61310850",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/brown-61310850.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1605",
+      "name": "BROWN",
+      "full_name": "1605 BROWN",
+      "slug": "brown-61311605",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/brown-61311605.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1274",
+      "name": "CHESTNUT",
+      "full_name": "1274 CHESTNUT",
+      "slug": "chestnut-61351274",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/chestnut-61351274.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1567",
+      "name": "CLEAR",
+      "full_name": "1567 CLEAR",
+      "slug": "clear-61301567",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/clear-61301567.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1599",
+      "name": "CLEAR",
+      "full_name": "1599 CLEAR",
+      "slug": "clear-61321599",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/clear-61321599.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1603",
+      "name": "CLEAR",
+      "full_name": "1603 CLEAR",
+      "slug": "clear-61321603",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/clear-61321603.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1598",
+      "name": "CREAM",
+      "full_name": "1598 CREAM",
+      "slug": "cream-61301598",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/cream-61301598.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1600",
+      "name": "CREAM",
+      "full_name": "1600 CREAM",
+      "slug": "cream-61321600",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/cream-61321600.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1601",
+      "name": "DARK",
+      "full_name": "1601 DARK",
+      "slug": "dark-61321601",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/dark-61321601.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1711",
+      "name": "DARK",
+      "full_name": "1711 DARK",
+      "slug": "dark-61321711",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/dark-61321711.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1606",
+      "name": "GOLDEN",
+      "full_name": "1606 GOLDEN",
+      "slug": "golden-61311606",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/golden-61311606.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1271",
+      "name": "GOLDEN",
+      "full_name": "1271 GOLDEN",
+      "slug": "golden-61351271",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/golden-61351271.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1708",
+      "name": "GREIGE",
+      "full_name": "1708 GREIGE",
+      "slug": "greige-61301708",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/greige-61301708.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "0851",
+      "name": "HONEY",
+      "full_name": "0851 HONEY",
+      "slug": "honey-61300851",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/honey-61300851.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "0870",
+      "name": "HONEY",
+      "full_name": "0870 HONEY",
+      "slug": "honey-61300870",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/honey-61300870.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1706",
+      "name": "HONEY",
+      "full_name": "1706 HONEY",
+      "slug": "honey-61301706",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/honey-61301706.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1709",
+      "name": "HONEY",
+      "full_name": "1709 HONEY",
+      "slug": "honey-61301709",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/honey-61301709.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "0584",
+      "name": "LIME",
+      "full_name": "0584 LIME",
+      "slug": "lime-61300584",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/lime-61300584.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "0545",
+      "name": "NATURAL",
+      "full_name": "0545 NATURAL",
+      "slug": "natural-61300545",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/natural-61300545.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1561",
+      "name": "NATURAL",
+      "full_name": "1561 NATURAL",
+      "slug": "natural-61301561",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/natural-61301561.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1607",
+      "name": "NATURAL",
+      "full_name": "1607 NATURAL",
+      "slug": "natural-61311607",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/natural-61311607.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1273",
+      "name": "NATURAL",
+      "full_name": "1273 NATURAL",
+      "slug": "natural-61351273",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/natural-61351273.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1707",
+      "name": "NATURE",
+      "full_name": "1707 NATURE",
+      "slug": "nature-61301707",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/nature-61301707.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "0441",
+      "name": "OAK",
+      "full_name": "0441 OAK",
+      "slug": "oak-61300441",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/oak-61300441.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1602",
+      "name": "PEARL",
+      "full_name": "1602 PEARL",
+      "slug": "pearl-61321602",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/pearl-61321602.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "0503",
+      "name": "QUARTET",
+      "full_name": "0503 QUARTET",
+      "slug": "quartet-61300503",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/quartet-61300503.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "0456",
+      "name": "RANCH",
+      "full_name": "0456 RANCH",
+      "slug": "ranch-61300456",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/ranch-61300456.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1604",
+      "name": "TAUPE",
+      "full_name": "1604 TAUPE",
+      "slug": "taupe-61321604",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/taupe-61321604.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "1713",
+      "name": "TAUPE",
+      "full_name": "1713 TAUPE",
+      "slug": "taupe-61321713",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/taupe-61321713.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-clic-acoustic",
+      "collection_name": "Creation 40 Clic Acoustic",
+      "code": "0504",
+      "name": "TWIST",
+      "full_name": "0504 TWIST",
+      "slug": "twist-61300504",
+      "image_url": "/images/products/lvt/colors/creation-40-clic-acoustic/twist-61300504.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "0953",
+      "name": "ANTHRACITE",
+      "full_name": "0953 ANTHRACITE",
+      "slug": "anthracite-38770953",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/anthracite-38770953.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1416",
+      "name": "BEIGE",
+      "full_name": "1416 BEIGE",
+      "slug": "beige-38771416",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/beige-38771416.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1418",
+      "name": "BEIGE",
+      "full_name": "1418 BEIGE",
+      "slug": "beige-38771418",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/beige-38771418.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1063",
+      "name": "BROWN",
+      "full_name": "1063 BROWN",
+      "slug": "brown-38801063",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/brown-38801063.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1486",
+      "name": "CLEAR",
+      "full_name": "1486 CLEAR",
+      "slug": "clear-38801486",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/clear-38801486.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1421",
+      "name": "DARK",
+      "full_name": "1421 DARK",
+      "slug": "dark-38771421",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/dark-38771421.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1419",
+      "name": "GOLDEN",
+      "full_name": "1419 GOLDEN",
+      "slug": "golden-38771419",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/golden-38771419.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1413",
+      "name": "GREY",
+      "full_name": "1413 GREY",
+      "slug": "grey-38801413",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/grey-38801413.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1489",
+      "name": "GREY",
+      "full_name": "1489 GREY",
+      "slug": "grey-38801489",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/grey-38801489.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1480",
+      "name": "HONEY",
+      "full_name": "1480 HONEY",
+      "slug": "honey-38771480",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/honey-38771480.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1478",
+      "name": "KRAFT",
+      "full_name": "1478 KRAFT",
+      "slug": "kraft-38771478",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/kraft-38771478.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1479",
+      "name": "KRAFT",
+      "full_name": "1479 KRAFT",
+      "slug": "kraft-38771479",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/kraft-38771479.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1422",
+      "name": "MEDIUM",
+      "full_name": "1422 MEDIUM",
+      "slug": "medium-38771422",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/medium-38771422.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1415",
+      "name": "OAK",
+      "full_name": "1415 OAK",
+      "slug": "oak-38771415",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/oak-38771415.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1420",
+      "name": "PEARL",
+      "full_name": "1420 PEARL",
+      "slug": "pearl-38771420",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/pearl-38771420.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "0963",
+      "name": "PERLE",
+      "full_name": "0963 PERLE",
+      "slug": "perle-38800963",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/perle-38800963.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "0773",
+      "name": "RANCH",
+      "full_name": "0773 RANCH",
+      "slug": "ranch-38770773",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/ranch-38770773.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1485",
+      "name": "SOURIS",
+      "full_name": "1485 SOURIS",
+      "slug": "souris-38801485",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/souris-38801485.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1414",
+      "name": "STATION",
+      "full_name": "1414 STATION",
+      "slug": "station-38801414",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/station-38801414.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1481",
+      "name": "TAUPE",
+      "full_name": "1481 TAUPE",
+      "slug": "taupe-38771481",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/taupe-38771481.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1412",
+      "name": "TAUPE",
+      "full_name": "1412 TAUPE",
+      "slug": "taupe-38801412",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/taupe-38801412.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-40-zen",
+      "collection_name": "Creation 40 Zen",
+      "code": "1417",
+      "name": "TWIST",
+      "full_name": "1417 TWIST",
+      "slug": "twist-38771417",
+      "image_url": "/images/products/lvt/colors/creation-40-zen/twist-38771417.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1726",
+      "name": "AMBER",
+      "full_name": "1726 AMBER",
+      "slug": "amber-41931726",
+      "image_url": "/images/products/lvt/colors/creation-55/amber-41931726.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1744",
+      "name": "AMBER",
+      "full_name": "1744 AMBER",
+      "slug": "amber-41931744",
+      "image_url": "/images/products/lvt/colors/creation-55/amber-41931744.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1747",
+      "name": "AMBER",
+      "full_name": "1747 AMBER",
+      "slug": "amber-41931747",
+      "image_url": "/images/products/lvt/colors/creation-55/amber-41931747.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "0347",
+      "name": "BALLERINA",
+      "full_name": "0347 BALLERINA",
+      "slug": "ballerina-41820347",
+      "image_url": "/images/products/lvt/colors/creation-55/ballerina-41820347.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "0347",
+      "name": "BALLERINA",
+      "full_name": "0347 BALLERINA",
+      "slug": "ballerina-41970347",
+      "image_url": "/images/products/lvt/colors/creation-55/ballerina-41970347.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "0853",
+      "name": "BEIGE",
+      "full_name": "0853 BEIGE",
+      "slug": "beige-41820853",
+      "image_url": "/images/products/lvt/colors/creation-55/beige-41820853.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1712",
+      "name": "BEIGE",
+      "full_name": "1712 BEIGE",
+      "slug": "beige-41931712",
+      "image_url": "/images/products/lvt/colors/creation-55/beige-41931712.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1748",
+      "name": "BEIGE",
+      "full_name": "1748 BEIGE",
+      "slug": "beige-41931748",
+      "image_url": "/images/products/lvt/colors/creation-55/beige-41931748.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1704",
+      "name": "BLOND",
+      "full_name": "1704 BLOND",
+      "slug": "blond-41821704",
+      "image_url": "/images/products/lvt/colors/creation-55/blond-41821704.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1751",
+      "name": "BLOND",
+      "full_name": "1751 BLOND",
+      "slug": "blond-41931751",
+      "image_url": "/images/products/lvt/colors/creation-55/blond-41931751.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1704",
+      "name": "BLOND",
+      "full_name": "1704 BLOND",
+      "slug": "blond-41971704",
+      "image_url": "/images/products/lvt/colors/creation-55/blond-41971704.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1704",
+      "name": "BLOND",
+      "full_name": "1704 BLOND",
+      "slug": "blond-42541704",
+      "image_url": "/images/products/lvt/colors/creation-55/blond-42541704.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "0455",
+      "name": "BOARD",
+      "full_name": "0455 BOARD",
+      "slug": "board-41820455",
+      "image_url": "/images/products/lvt/colors/creation-55/board-41820455.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1729",
+      "name": "BONE",
+      "full_name": "1729 BONE",
+      "slug": "bone-41811729",
+      "image_url": "/images/products/lvt/colors/creation-55/bone-41811729.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1568",
+      "name": "BROWN",
+      "full_name": "1568 BROWN",
+      "slug": "brown-41821568",
+      "image_url": "/images/products/lvt/colors/creation-55/brown-41821568.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1597",
+      "name": "BROWN",
+      "full_name": "1597 BROWN",
+      "slug": "brown-41821597",
+      "image_url": "/images/products/lvt/colors/creation-55/brown-41821597.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1705",
+      "name": "BROWN",
+      "full_name": "1705 BROWN",
+      "slug": "brown-41821705",
+      "image_url": "/images/products/lvt/colors/creation-55/brown-41821705.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "0850",
+      "name": "BROWN",
+      "full_name": "0850 BROWN",
+      "slug": "brown-41910850",
+      "image_url": "/images/products/lvt/colors/creation-55/brown-41910850.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1605",
+      "name": "BROWN",
+      "full_name": "1605 BROWN",
+      "slug": "brown-41911605",
+      "image_url": "/images/products/lvt/colors/creation-55/brown-41911605.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1599",
+      "name": "CLEAR",
+      "full_name": "1599 CLEAR",
+      "slug": "clear-41811599",
+      "image_url": "/images/products/lvt/colors/creation-55/clear-41811599.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1603",
+      "name": "CLEAR",
+      "full_name": "1603 CLEAR",
+      "slug": "clear-41811603",
+      "image_url": "/images/products/lvt/colors/creation-55/clear-41811603.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1567",
+      "name": "CLEAR",
+      "full_name": "1567 CLEAR",
+      "slug": "clear-41821567",
+      "image_url": "/images/products/lvt/colors/creation-55/clear-41821567.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1701",
+      "name": "CLEAR",
+      "full_name": "1701 CLEAR",
+      "slug": "clear-41821701",
+      "image_url": "/images/products/lvt/colors/creation-55/clear-41821701.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1727",
+      "name": "COBALT",
+      "full_name": "1727 COBALT",
+      "slug": "cobalt-41931727",
+      "image_url": "/images/products/lvt/colors/creation-55/cobalt-41931727.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1745",
+      "name": "COBALT",
+      "full_name": "1745 COBALT",
+      "slug": "cobalt-41931745",
+      "image_url": "/images/products/lvt/colors/creation-55/cobalt-41931745.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1749",
+      "name": "COBALT",
+      "full_name": "1749 COBALT",
+      "slug": "cobalt-41931749",
+      "image_url": "/images/products/lvt/colors/creation-55/cobalt-41931749.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1600",
+      "name": "CREAM",
+      "full_name": "1600 CREAM",
+      "slug": "cream-41811600",
+      "image_url": "/images/products/lvt/colors/creation-55/cream-41811600.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1730",
+      "name": "CREAM",
+      "full_name": "1730 CREAM",
+      "slug": "cream-41811730",
+      "image_url": "/images/products/lvt/colors/creation-55/cream-41811730.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1598",
+      "name": "CREAM",
+      "full_name": "1598 CREAM",
+      "slug": "cream-41821598",
+      "image_url": "/images/products/lvt/colors/creation-55/cream-41821598.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1565",
+      "name": "CREAM",
+      "full_name": "1565 CREAM",
+      "slug": "cream-41931565",
+      "image_url": "/images/products/lvt/colors/creation-55/cream-41931565.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1601",
+      "name": "DARK",
+      "full_name": "1601 DARK",
+      "slug": "dark-41811601",
+      "image_url": "/images/products/lvt/colors/creation-55/dark-41811601.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1711",
+      "name": "DARK",
+      "full_name": "1711 DARK",
+      "slug": "dark-41931711",
+      "image_url": "/images/products/lvt/colors/creation-55/dark-41931711.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1278",
+      "name": "EIR",
+      "full_name": "1278 EIR",
+      "slug": "eir-41951278",
+      "image_url": "/images/products/lvt/colors/creation-55/eir-41951278.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1279",
+      "name": "EIR",
+      "full_name": "1279 EIR",
+      "slug": "eir-41951279",
+      "image_url": "/images/products/lvt/colors/creation-55/eir-41951279.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1271",
+      "name": "EIR",
+      "full_name": "1271 EIR",
+      "slug": "eir-41961271",
+      "image_url": "/images/products/lvt/colors/creation-55/eir-41961271.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1272",
+      "name": "EIR",
+      "full_name": "1272 EIR",
+      "slug": "eir-41961272",
+      "image_url": "/images/products/lvt/colors/creation-55/eir-41961272.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1273",
+      "name": "EIR",
+      "full_name": "1273 EIR",
+      "slug": "eir-41961273",
+      "image_url": "/images/products/lvt/colors/creation-55/eir-41961273.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1274",
+      "name": "EIR",
+      "full_name": "1274 EIR",
+      "slug": "eir-41961274",
+      "image_url": "/images/products/lvt/colors/creation-55/eir-41961274.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1606",
+      "name": "GOLDEN",
+      "full_name": "1606 GOLDEN",
+      "slug": "golden-41911606",
+      "image_url": "/images/products/lvt/colors/creation-55/golden-41911606.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1708",
+      "name": "GREIGE",
+      "full_name": "1708 GREIGE",
+      "slug": "greige-41821708",
+      "image_url": "/images/products/lvt/colors/creation-55/greige-41821708.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "0851",
+      "name": "HONEY",
+      "full_name": "0851 HONEY",
+      "slug": "honey-41820851",
+      "image_url": "/images/products/lvt/colors/creation-55/honey-41820851.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "0870",
+      "name": "HONEY",
+      "full_name": "0870 HONEY",
+      "slug": "honey-41820870",
+      "image_url": "/images/products/lvt/colors/creation-55/honey-41820870.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1702",
+      "name": "HONEY",
+      "full_name": "1702 HONEY",
+      "slug": "honey-41821702",
+      "image_url": "/images/products/lvt/colors/creation-55/honey-41821702.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1706",
+      "name": "HONEY",
+      "full_name": "1706 HONEY",
+      "slug": "honey-41821706",
+      "image_url": "/images/products/lvt/colors/creation-55/honey-41821706.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1709",
+      "name": "HONEY",
+      "full_name": "1709 HONEY",
+      "slug": "honey-41821709",
+      "image_url": "/images/products/lvt/colors/creation-55/honey-41821709.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1750",
+      "name": "HONEY",
+      "full_name": "1750 HONEY",
+      "slug": "honey-41931750",
+      "image_url": "/images/products/lvt/colors/creation-55/honey-41931750.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1706",
+      "name": "HONEY",
+      "full_name": "1706 HONEY",
+      "slug": "honey-41971706",
+      "image_url": "/images/products/lvt/colors/creation-55/honey-41971706.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1706",
+      "name": "HONEY",
+      "full_name": "1706 HONEY",
+      "slug": "honey-42541706",
+      "image_url": "/images/products/lvt/colors/creation-55/honey-42541706.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1283",
+      "name": "LIGHT",
+      "full_name": "1283 LIGHT",
+      "slug": "light-41941283",
+      "image_url": "/images/products/lvt/colors/creation-55/light-41941283.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "0584",
+      "name": "LIME",
+      "full_name": "0584 LIME",
+      "slug": "lime-41820584",
+      "image_url": "/images/products/lvt/colors/creation-55/lime-41820584.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1743",
+      "name": "MARBLE",
+      "full_name": "1743 MARBLE",
+      "slug": "marble-41811743",
+      "image_url": "/images/products/lvt/colors/creation-55/marble-41811743.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1757",
+      "name": "MARBLE",
+      "full_name": "1757 MARBLE",
+      "slug": "marble-42101757",
+      "image_url": "/images/products/lvt/colors/creation-55/marble-42101757.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1284",
+      "name": "MEDIUM",
+      "full_name": "1284 MEDIUM",
+      "slug": "medium-41941284",
+      "image_url": "/images/products/lvt/colors/creation-55/medium-41941284.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "0545",
+      "name": "NATURAL",
+      "full_name": "0545 NATURAL",
+      "slug": "natural-41820545",
+      "image_url": "/images/products/lvt/colors/creation-55/natural-41820545.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1561",
+      "name": "NATURAL",
+      "full_name": "1561 NATURAL",
+      "slug": "natural-41821561",
+      "image_url": "/images/products/lvt/colors/creation-55/natural-41821561.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1607",
+      "name": "NATURAL",
+      "full_name": "1607 NATURAL",
+      "slug": "natural-41911607",
+      "image_url": "/images/products/lvt/colors/creation-55/natural-41911607.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1703",
+      "name": "NATURE",
+      "full_name": "1703 NATURE",
+      "slug": "nature-41821703",
+      "image_url": "/images/products/lvt/colors/creation-55/nature-41821703.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1707",
+      "name": "NATURE",
+      "full_name": "1707 NATURE",
+      "slug": "nature-41821707",
+      "image_url": "/images/products/lvt/colors/creation-55/nature-41821707.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1707",
+      "name": "NATURE",
+      "full_name": "1707 NATURE",
+      "slug": "nature-41971707",
+      "image_url": "/images/products/lvt/colors/creation-55/nature-41971707.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1742",
+      "name": "NOIR",
+      "full_name": "1742 NOIR",
+      "slug": "noir-41811742",
+      "image_url": "/images/products/lvt/colors/creation-55/noir-41811742.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "0441",
+      "name": "OAK",
+      "full_name": "0441 OAK",
+      "slug": "oak-41820441",
+      "image_url": "/images/products/lvt/colors/creation-55/oak-41820441.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1602",
+      "name": "PEARL",
+      "full_name": "1602 PEARL",
+      "slug": "pearl-41811602",
+      "image_url": "/images/products/lvt/colors/creation-55/pearl-41811602.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "0503",
+      "name": "QUARTET",
+      "full_name": "0503 QUARTET",
+      "slug": "quartet-41820503",
+      "image_url": "/images/products/lvt/colors/creation-55/quartet-41820503.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "0503",
+      "name": "QUARTET",
+      "full_name": "0503 QUARTET",
+      "slug": "quartet-41970503",
+      "image_url": "/images/products/lvt/colors/creation-55/quartet-41970503.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "0456",
+      "name": "RANCH",
+      "full_name": "0456 RANCH",
+      "slug": "ranch-41820456",
+      "image_url": "/images/products/lvt/colors/creation-55/ranch-41820456.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1710",
+      "name": "SMOKED",
+      "full_name": "1710 SMOKED",
+      "slug": "smoked-41821710",
+      "image_url": "/images/products/lvt/colors/creation-55/smoked-41821710.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1714",
+      "name": "SMOKED",
+      "full_name": "1714 SMOKED",
+      "slug": "smoked-41951714",
+      "image_url": "/images/products/lvt/colors/creation-55/smoked-41951714.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1604",
+      "name": "TAUPE",
+      "full_name": "1604 TAUPE",
+      "slug": "taupe-41811604",
+      "image_url": "/images/products/lvt/colors/creation-55/taupe-41811604.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "1713",
+      "name": "TAUPE",
+      "full_name": "1713 TAUPE",
+      "slug": "taupe-41931713",
+      "image_url": "/images/products/lvt/colors/creation-55/taupe-41931713.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "0504",
+      "name": "TWIST",
+      "full_name": "0504 TWIST",
+      "slug": "twist-41820504",
+      "image_url": "/images/products/lvt/colors/creation-55/twist-41820504.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55",
+      "collection_name": "Creation 55",
+      "code": "0504",
+      "name": "TWIST",
+      "full_name": "0504 TWIST",
+      "slug": "twist-41970504",
+      "image_url": "/images/products/lvt/colors/creation-55/twist-41970504.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "eir",
+      "name": "BEIGE",
+      "full_name": "eir BEIGE",
+      "slug": "beige-eir",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/beige-eir.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "1704",
+      "name": "BLOND",
+      "full_name": "1704 BLOND",
+      "slug": "blond-60661704",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/blond-60661704.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "1597",
+      "name": "BROWN",
+      "full_name": "1597 BROWN",
+      "slug": "brown-60661597",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/brown-60661597.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "rown",
+      "name": "CEDAR",
+      "full_name": "rown CEDAR",
+      "slug": "cedar-brown",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/cedar-brown.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "lden",
+      "name": "CEDAR",
+      "full_name": "lden CEDAR",
+      "slug": "cedar-golden",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/cedar-golden.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "eir",
+      "name": "CHESTNUT",
+      "full_name": "eir CHESTNUT",
+      "slug": "chestnut-eir",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/chestnut-eir.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "1701",
+      "name": "CLEAR",
+      "full_name": "1701 CLEAR",
+      "slug": "clear-60661701",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/clear-60661701.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "1599",
+      "name": "CLEAR",
+      "full_name": "1599 CLEAR",
+      "slug": "clear-60891599",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/clear-60891599.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "1603",
+      "name": "CLEAR",
+      "full_name": "1603 CLEAR",
+      "slug": "clear-60891603",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/clear-60891603.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "rina",
+      "name": "COLLECTION",
+      "full_name": "rina COLLECTION",
+      "slug": "collection-ballerina",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/collection-ballerina.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "rtet",
+      "name": "COLLECTION",
+      "full_name": "rtet COLLECTION",
+      "slug": "collection-quartet",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/collection-quartet.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "anch",
+      "name": "COLLECTION",
+      "full_name": "anch COLLECTION",
+      "slug": "collection-ranch",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/collection-ranch.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "wist",
+      "name": "COLLECTION",
+      "full_name": "wist COLLECTION",
+      "slug": "collection-twist",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/collection-twist.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "1601",
+      "name": "DARK",
+      "full_name": "1601 DARK",
+      "slug": "dark-60891601",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/dark-60891601.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "rown",
+      "name": "DARK",
+      "full_name": "rown DARK",
+      "slug": "dark-brown",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/dark-brown.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "eir",
+      "name": "GOLDEN",
+      "full_name": "eir GOLDEN",
+      "slug": "golden-eir",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/golden-eir.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "1706",
+      "name": "HONEY",
+      "full_name": "1706 HONEY",
+      "slug": "honey-60661706",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/honey-60661706.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "1709",
+      "name": "HONEY",
+      "full_name": "1709 HONEY",
+      "slug": "honey-60661709",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/honey-60661709.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "oak",
+      "name": "HONEY",
+      "full_name": "oak HONEY",
+      "slug": "honey-oak",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/honey-oak.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "oard",
+      "name": "LONG",
+      "full_name": "oard LONG",
+      "slug": "long-board",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/long-board.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "1607",
+      "name": "NATURAL",
+      "full_name": "1607 NATURAL",
+      "slug": "natural-60621607",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/natural-60621607.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "0545",
+      "name": "NATURAL",
+      "full_name": "0545 NATURAL",
+      "slug": "natural-60660545",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/natural-60660545.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "eir",
+      "name": "NATURAL",
+      "full_name": "eir NATURAL",
+      "slug": "natural-eir",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/natural-eir.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "1703",
+      "name": "NATURE",
+      "full_name": "1703 NATURE",
+      "slug": "nature-60661703",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/nature-60661703.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "1707",
+      "name": "NATURE",
+      "full_name": "1707 NATURE",
+      "slug": "nature-60661707",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/nature-60661707.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "1602",
+      "name": "PEARL",
+      "full_name": "1602 PEARL",
+      "slug": "pearl-60891602",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/pearl-60891602.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "oney",
+      "name": "QUARTET",
+      "full_name": "oney QUARTET",
+      "slug": "quartet-honey",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/quartet-honey.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "1710",
+      "name": "SMOKED",
+      "full_name": "1710 SMOKED",
+      "slug": "smoked-60661710",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/smoked-60661710.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "1604",
+      "name": "TAUPE",
+      "full_name": "1604 TAUPE",
+      "slug": "taupe-60891604",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/taupe-60891604.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic",
+      "collection_name": "Creation 55 Clic",
+      "code": "lime",
+      "name": "WHITE",
+      "full_name": "lime WHITE",
+      "slug": "white-lime",
+      "image_url": "/images/products/lvt/colors/creation-55-clic/white-lime.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1744",
+      "name": "AMBER",
+      "full_name": "1744 AMBER",
+      "slug": "amber-61261744",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/amber-61261744.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "0347",
+      "name": "BALLERINA",
+      "full_name": "0347 BALLERINA",
+      "slug": "ballerina-41920347",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/ballerina-41920347.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "0347",
+      "name": "BALLERINA",
+      "full_name": "0347 BALLERINA",
+      "slug": "ballerina-61240347",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/ballerina-61240347.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "0853",
+      "name": "BEIGE",
+      "full_name": "0853 BEIGE",
+      "slug": "beige-61240853",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/beige-61240853.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1712",
+      "name": "BEIGE",
+      "full_name": "1712 BEIGE",
+      "slug": "beige-61261712",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/beige-61261712.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1272",
+      "name": "BEIGE",
+      "full_name": "1272 BEIGE",
+      "slug": "beige-61361272",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/beige-61361272.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1278",
+      "name": "BEIGE",
+      "full_name": "1278 BEIGE",
+      "slug": "beige-61401278",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/beige-61401278.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1704",
+      "name": "BLOND",
+      "full_name": "1704 BLOND",
+      "slug": "blond-41921704",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/blond-41921704.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1704",
+      "name": "BLOND",
+      "full_name": "1704 BLOND",
+      "slug": "blond-61241704",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/blond-61241704.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "0455",
+      "name": "BOARD",
+      "full_name": "0455 BOARD",
+      "slug": "board-61240455",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/board-61240455.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1568",
+      "name": "BROWN",
+      "full_name": "1568 BROWN",
+      "slug": "brown-61241568",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/brown-61241568.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1597",
+      "name": "BROWN",
+      "full_name": "1597 BROWN",
+      "slug": "brown-61241597",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/brown-61241597.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1705",
+      "name": "BROWN",
+      "full_name": "1705 BROWN",
+      "slug": "brown-61241705",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/brown-61241705.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "0850",
+      "name": "BROWN",
+      "full_name": "0850 BROWN",
+      "slug": "brown-61250850",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/brown-61250850.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1605",
+      "name": "BROWN",
+      "full_name": "1605 BROWN",
+      "slug": "brown-61251605",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/brown-61251605.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1274",
+      "name": "CHESTNUT",
+      "full_name": "1274 CHESTNUT",
+      "slug": "chestnut-61361274",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/chestnut-61361274.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1567",
+      "name": "CLEAR",
+      "full_name": "1567 CLEAR",
+      "slug": "clear-61241567",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/clear-61241567.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1701",
+      "name": "CLEAR",
+      "full_name": "1701 CLEAR",
+      "slug": "clear-61241701",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/clear-61241701.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1599",
+      "name": "CLEAR",
+      "full_name": "1599 CLEAR",
+      "slug": "clear-61261599",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/clear-61261599.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1603",
+      "name": "CLEAR",
+      "full_name": "1603 CLEAR",
+      "slug": "clear-61261603",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/clear-61261603.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1745",
+      "name": "COBALT",
+      "full_name": "1745 COBALT",
+      "slug": "cobalt-61261745",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/cobalt-61261745.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1598",
+      "name": "CREAM",
+      "full_name": "1598 CREAM",
+      "slug": "cream-61241598",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/cream-61241598.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1565",
+      "name": "CREAM",
+      "full_name": "1565 CREAM",
+      "slug": "cream-61261565",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/cream-61261565.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1600",
+      "name": "CREAM",
+      "full_name": "1600 CREAM",
+      "slug": "cream-61261600",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/cream-61261600.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1601",
+      "name": "DARK",
+      "full_name": "1601 DARK",
+      "slug": "dark-61261601",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/dark-61261601.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1711",
+      "name": "DARK",
+      "full_name": "1711 DARK",
+      "slug": "dark-61261711",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/dark-61261711.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1606",
+      "name": "GOLDEN",
+      "full_name": "1606 GOLDEN",
+      "slug": "golden-61251606",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/golden-61251606.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1271",
+      "name": "GOLDEN",
+      "full_name": "1271 GOLDEN",
+      "slug": "golden-61361271",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/golden-61361271.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1708",
+      "name": "GREIGE",
+      "full_name": "1708 GREIGE",
+      "slug": "greige-61241708",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/greige-61241708.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1279",
+      "name": "GREY",
+      "full_name": "1279 GREY",
+      "slug": "grey-61401279",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/grey-61401279.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1706",
+      "name": "HONEY",
+      "full_name": "1706 HONEY",
+      "slug": "honey-41921706",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/honey-41921706.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "0851",
+      "name": "HONEY",
+      "full_name": "0851 HONEY",
+      "slug": "honey-61240851",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/honey-61240851.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "0870",
+      "name": "HONEY",
+      "full_name": "0870 HONEY",
+      "slug": "honey-61240870",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/honey-61240870.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1706",
+      "name": "HONEY",
+      "full_name": "1706 HONEY",
+      "slug": "honey-61241706",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/honey-61241706.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1709",
+      "name": "HONEY",
+      "full_name": "1709 HONEY",
+      "slug": "honey-61241709",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/honey-61241709.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1283",
+      "name": "LIGHT",
+      "full_name": "1283 LIGHT",
+      "slug": "light-61261283",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/light-61261283.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "0584",
+      "name": "LIME",
+      "full_name": "0584 LIME",
+      "slug": "lime-61240584",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/lime-61240584.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1743",
+      "name": "MARBLE",
+      "full_name": "1743 MARBLE",
+      "slug": "marble-61261743",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/marble-61261743.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1284",
+      "name": "MEDIUM",
+      "full_name": "1284 MEDIUM",
+      "slug": "medium-61261284",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/medium-61261284.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "0545",
+      "name": "NATURAL",
+      "full_name": "0545 NATURAL",
+      "slug": "natural-61240545",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/natural-61240545.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1561",
+      "name": "NATURAL",
+      "full_name": "1561 NATURAL",
+      "slug": "natural-61241561",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/natural-61241561.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1607",
+      "name": "NATURAL",
+      "full_name": "1607 NATURAL",
+      "slug": "natural-61251607",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/natural-61251607.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1273",
+      "name": "NATURAL",
+      "full_name": "1273 NATURAL",
+      "slug": "natural-61361273",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/natural-61361273.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1707",
+      "name": "NATURE",
+      "full_name": "1707 NATURE",
+      "slug": "nature-41921707",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/nature-41921707.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1703",
+      "name": "NATURE",
+      "full_name": "1703 NATURE",
+      "slug": "nature-61241703",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/nature-61241703.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1707",
+      "name": "NATURE",
+      "full_name": "1707 NATURE",
+      "slug": "nature-61241707",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/nature-61241707.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "0441",
+      "name": "OAK",
+      "full_name": "0441 OAK",
+      "slug": "oak-61240441",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/oak-61240441.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1602",
+      "name": "PEARL",
+      "full_name": "1602 PEARL",
+      "slug": "pearl-61261602",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/pearl-61261602.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "0503",
+      "name": "QUARTET",
+      "full_name": "0503 QUARTET",
+      "slug": "quartet-41920503",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/quartet-41920503.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "0503",
+      "name": "QUARTET",
+      "full_name": "0503 QUARTET",
+      "slug": "quartet-61240503",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/quartet-61240503.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "0456",
+      "name": "RANCH",
+      "full_name": "0456 RANCH",
+      "slug": "ranch-61240456",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/ranch-61240456.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1710",
+      "name": "SMOKED",
+      "full_name": "1710 SMOKED",
+      "slug": "smoked-61241710",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/smoked-61241710.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1604",
+      "name": "TAUPE",
+      "full_name": "1604 TAUPE",
+      "slug": "taupe-61261604",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/taupe-61261604.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "1713",
+      "name": "TAUPE",
+      "full_name": "1713 TAUPE",
+      "slug": "taupe-61261713",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/taupe-61261713.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "0504",
+      "name": "TWIST",
+      "full_name": "0504 TWIST",
+      "slug": "twist-41920504",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/twist-41920504.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-clic-acoustic",
+      "collection_name": "Creation 55 Clic Acoustic",
+      "code": "0504",
+      "name": "TWIST",
+      "full_name": "0504 TWIST",
+      "slug": "twist-61240504",
+      "image_url": "/images/products/lvt/colors/creation-55-clic-acoustic/twist-61240504.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "0347",
+      "name": "BALLERINA",
+      "full_name": "0347 BALLERINA",
+      "slug": "ballerina-39750347",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/ballerina-39750347.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "0455",
+      "name": "BOARD",
+      "full_name": "0455 BOARD",
+      "slug": "board-39750455",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/board-39750455.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1568",
+      "name": "BROWN",
+      "full_name": "1568 BROWN",
+      "slug": "brown-39751568",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/brown-39751568.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1568",
+      "name": "BROWN",
+      "full_name": "1568 BROWN",
+      "slug": "brown-39781568",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/brown-39781568.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1567",
+      "name": "CLEAR",
+      "full_name": "1567 CLEAR",
+      "slug": "clear-39751567",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/clear-39751567.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1567",
+      "name": "CLEAR",
+      "full_name": "1567 CLEAR",
+      "slug": "clear-39781567",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/clear-39781567.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1563",
+      "name": "CREAM",
+      "full_name": "1563 CREAM",
+      "slug": "cream-39741563",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/cream-39741563.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1565",
+      "name": "CREAM",
+      "full_name": "1565 CREAM",
+      "slug": "cream-39741565",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/cream-39741565.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1563",
+      "name": "CREAM",
+      "full_name": "1563 CREAM",
+      "slug": "cream-39781563",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/cream-39781563.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1560",
+      "name": "DAINTY",
+      "full_name": "1560 DAINTY",
+      "slug": "dainty-39751560",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/dainty-39751560.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "0796",
+      "name": "GOLDEN",
+      "full_name": "0796 GOLDEN",
+      "slug": "golden-39750796",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/golden-39750796.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1058",
+      "name": "GREY",
+      "full_name": "1058 GREY",
+      "slug": "grey-39741058",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/grey-39741058.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1058",
+      "name": "GREY",
+      "full_name": "1058 GREY",
+      "slug": "grey-39781058",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/grey-39781058.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1559",
+      "name": "LIGHT",
+      "full_name": "1559 LIGHT",
+      "slug": "light-39751559",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/light-39751559.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1559",
+      "name": "LIGHT",
+      "full_name": "1559 LIGHT",
+      "slug": "light-39781559",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/light-39781559.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1283",
+      "name": "LIGHT",
+      "full_name": "1283 LIGHT",
+      "slug": "light-39791283",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/light-39791283.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1284",
+      "name": "MEDIUM",
+      "full_name": "1284 MEDIUM",
+      "slug": "medium-39791284",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/medium-39791284.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1561",
+      "name": "NATURAL",
+      "full_name": "1561 NATURAL",
+      "slug": "natural-39751561",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/natural-39751561.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "0441",
+      "name": "OAK",
+      "full_name": "0441 OAK",
+      "slug": "oak-39750441",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/oak-39750441.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "0456",
+      "name": "RANCH",
+      "full_name": "0456 RANCH",
+      "slug": "ranch-39750456",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/ranch-39750456.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "0436",
+      "name": "RIVERSIDE",
+      "full_name": "0436 RIVERSIDE",
+      "slug": "riverside-39740436",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/riverside-39740436.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "0374",
+      "name": "STATION",
+      "full_name": "0374 STATION",
+      "slug": "station-39790374",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/station-39790374.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "0868",
+      "name": "TAUPE",
+      "full_name": "0868 TAUPE",
+      "slug": "taupe-39740868",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/taupe-39740868.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1083",
+      "name": "TAUPE",
+      "full_name": "1083 TAUPE",
+      "slug": "taupe-39741083",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/taupe-39741083.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "0087",
+      "name": "TAUPE",
+      "full_name": "0087 TAUPE",
+      "slug": "taupe-39790087",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/taupe-39790087.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1564",
+      "name": "TERRA",
+      "full_name": "1564 TERRA",
+      "slug": "terra-39741564",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/terra-39741564.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "1566",
+      "name": "TERRA",
+      "full_name": "1566 TERRA",
+      "slug": "terra-39741566",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/terra-39741566.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-55-looselay",
+      "collection_name": "Creation 55 Looselay",
+      "code": "0504",
+      "name": "TWIST",
+      "full_name": "0504 TWIST",
+      "slug": "twist-39750504",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay/twist-39750504.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay-acoustic",
+      "collection_name": "Creation 55 Looselay Acoustic",
+      "code": "0347",
+      "name": "BALLERINA",
+      "full_name": "0347 BALLERINA",
+      "slug": "ballerina-36640347",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay-acoustic/ballerina-36640347.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-55-looselay-acoustic",
+      "collection_name": "Creation 55 Looselay Acoustic",
+      "code": "0455",
+      "name": "BOARD",
+      "full_name": "0455 BOARD",
+      "slug": "board-36640455",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay-acoustic/board-36640455.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay-acoustic",
+      "collection_name": "Creation 55 Looselay Acoustic",
+      "code": "1560",
+      "name": "DAINTY",
+      "full_name": "1560 DAINTY",
+      "slug": "dainty-36641560",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay-acoustic/dainty-36641560.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-55-looselay-acoustic",
+      "collection_name": "Creation 55 Looselay Acoustic",
+      "code": "1559",
+      "name": "LIGHT",
+      "full_name": "1559 LIGHT",
+      "slug": "light-36641559",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay-acoustic/light-36641559.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay-acoustic",
+      "collection_name": "Creation 55 Looselay Acoustic",
+      "code": "1283",
+      "name": "LIGHT",
+      "full_name": "1283 LIGHT",
+      "slug": "light-39831283",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay-acoustic/light-39831283.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay-acoustic",
+      "collection_name": "Creation 55 Looselay Acoustic",
+      "code": "1284",
+      "name": "MEDIUM",
+      "full_name": "1284 MEDIUM",
+      "slug": "medium-39831284",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay-acoustic/medium-39831284.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay-acoustic",
+      "collection_name": "Creation 55 Looselay Acoustic",
+      "code": "1561",
+      "name": "NATURAL",
+      "full_name": "1561 NATURAL",
+      "slug": "natural-36641561",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay-acoustic/natural-36641561.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-looselay-acoustic",
+      "collection_name": "Creation 55 Looselay Acoustic",
+      "code": "0456",
+      "name": "RANCH",
+      "full_name": "0456 RANCH",
+      "slug": "ranch-36640456",
+      "image_url": "/images/products/lvt/colors/creation-55-looselay-acoustic/ranch-36640456.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "0953",
+      "name": "ANTHRACITE",
+      "full_name": "0953 ANTHRACITE",
+      "slug": "anthracite-39290953",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/anthracite-39290953.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1416",
+      "name": "BEIGE",
+      "full_name": "1416 BEIGE",
+      "slug": "beige-39291416",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/beige-39291416.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1418",
+      "name": "BEIGE",
+      "full_name": "1418 BEIGE",
+      "slug": "beige-39291418",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/beige-39291418.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1483",
+      "name": "BLACK",
+      "full_name": "1483 BLACK",
+      "slug": "black-39301483",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/black-39301483.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1063",
+      "name": "BROWN",
+      "full_name": "1063 BROWN",
+      "slug": "brown-39301063",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/brown-39301063.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1484",
+      "name": "BROWN",
+      "full_name": "1484 BROWN",
+      "slug": "brown-39301484",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/brown-39301484.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1482",
+      "name": "CLEAR",
+      "full_name": "1482 CLEAR",
+      "slug": "clear-39301482",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/clear-39301482.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1486",
+      "name": "CLEAR",
+      "full_name": "1486 CLEAR",
+      "slug": "clear-39301486",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/clear-39301486.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1421",
+      "name": "DARK",
+      "full_name": "1421 DARK",
+      "slug": "dark-39291421",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/dark-39291421.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1488",
+      "name": "DENIM",
+      "full_name": "1488 DENIM",
+      "slug": "denim-39301488",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/denim-39301488.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1419",
+      "name": "GOLDEN",
+      "full_name": "1419 GOLDEN",
+      "slug": "golden-39291419",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/golden-39291419.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1487",
+      "name": "GREEN",
+      "full_name": "1487 GREEN",
+      "slug": "green-39301487",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/green-39301487.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1413",
+      "name": "GREY",
+      "full_name": "1413 GREY",
+      "slug": "grey-39301413",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/grey-39301413.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1489",
+      "name": "GREY",
+      "full_name": "1489 GREY",
+      "slug": "grey-39301489",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/grey-39301489.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1480",
+      "name": "HONEY",
+      "full_name": "1480 HONEY",
+      "slug": "honey-39291480",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/honey-39291480.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1478",
+      "name": "KRAFT",
+      "full_name": "1478 KRAFT",
+      "slug": "kraft-39291478",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/kraft-39291478.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1479",
+      "name": "KRAFT",
+      "full_name": "1479 KRAFT",
+      "slug": "kraft-39291479",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/kraft-39291479.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1422",
+      "name": "MEDIUM",
+      "full_name": "1422 MEDIUM",
+      "slug": "medium-39291422",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/medium-39291422.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "0817",
+      "name": "METAL",
+      "full_name": "0817 METAL",
+      "slug": "metal-39300817",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/metal-39300817.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1064",
+      "name": "NATURE",
+      "full_name": "1064 NATURE",
+      "slug": "nature-39301064",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/nature-39301064.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1415",
+      "name": "OAK",
+      "full_name": "1415 OAK",
+      "slug": "oak-39291415",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/oak-39291415.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1420",
+      "name": "PEARL",
+      "full_name": "1420 PEARL",
+      "slug": "pearl-39291420",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/pearl-39291420.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "0963",
+      "name": "PERLE",
+      "full_name": "0963 PERLE",
+      "slug": "perle-39300963",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/perle-39300963.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1066",
+      "name": "POUDRE",
+      "full_name": "1066 POUDRE",
+      "slug": "poudre-39301066",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/poudre-39301066.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "0773",
+      "name": "RANCH",
+      "full_name": "0773 RANCH",
+      "slug": "ranch-39290773",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/ranch-39290773.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1485",
+      "name": "SOURIS",
+      "full_name": "1485 SOURIS",
+      "slug": "souris-39301485",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/souris-39301485.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1414",
+      "name": "STATION",
+      "full_name": "1414 STATION",
+      "slug": "station-39301414",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/station-39301414.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1481",
+      "name": "TAUPE",
+      "full_name": "1481 TAUPE",
+      "slug": "taupe-39291481",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/taupe-39291481.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1412",
+      "name": "TAUPE",
+      "full_name": "1412 TAUPE",
+      "slug": "taupe-39301412",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/taupe-39301412.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-55-zen",
+      "collection_name": "Creation 55 Zen",
+      "code": "1417",
+      "name": "TWIST",
+      "full_name": "1417 TWIST",
+      "slug": "twist-39291417",
+      "image_url": "/images/products/lvt/colors/creation-55-zen/twist-39291417.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "0577",
+      "name": "ALBION",
+      "full_name": "0577 ALBION",
+      "slug": "albion-41860577",
+      "image_url": "/images/products/lvt/colors/creation-70/albion-41860577.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1724",
+      "name": "AMBER",
+      "full_name": "1724 AMBER",
+      "slug": "amber-42011724",
+      "image_url": "/images/products/lvt/colors/creation-70/amber-42011724.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1726",
+      "name": "AMBER",
+      "full_name": "1726 AMBER",
+      "slug": "amber-42011726",
+      "image_url": "/images/products/lvt/colors/creation-70/amber-42011726.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "0347",
+      "name": "BALLERINA",
+      "full_name": "0347 BALLERINA",
+      "slug": "ballerina-41860347",
+      "image_url": "/images/products/lvt/colors/creation-70/ballerina-41860347.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1272",
+      "name": "BEIGE",
+      "full_name": "1272 BEIGE",
+      "slug": "beige-42001272",
+      "image_url": "/images/products/lvt/colors/creation-70/beige-42001272.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1712",
+      "name": "BEIGE",
+      "full_name": "1712 BEIGE",
+      "slug": "beige-42011712",
+      "image_url": "/images/products/lvt/colors/creation-70/beige-42011712.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1068",
+      "name": "BEIGE",
+      "full_name": "1068 BEIGE",
+      "slug": "beige-42021068",
+      "image_url": "/images/products/lvt/colors/creation-70/beige-42021068.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1715",
+      "name": "BEIGE",
+      "full_name": "1715 BEIGE",
+      "slug": "beige-42031715",
+      "image_url": "/images/products/lvt/colors/creation-70/beige-42031715.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1722",
+      "name": "BLACK",
+      "full_name": "1722 BLACK",
+      "slug": "black-41991722",
+      "image_url": "/images/products/lvt/colors/creation-70/black-41991722.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1597",
+      "name": "BROWN",
+      "full_name": "1597 BROWN",
+      "slug": "brown-41861597",
+      "image_url": "/images/products/lvt/colors/creation-70/brown-41861597.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "0850",
+      "name": "BROWN",
+      "full_name": "0850 BROWN",
+      "slug": "brown-42030850",
+      "image_url": "/images/products/lvt/colors/creation-70/brown-42030850.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1605",
+      "name": "BROWN",
+      "full_name": "1605 BROWN",
+      "slug": "brown-42031605",
+      "image_url": "/images/products/lvt/colors/creation-70/brown-42031605.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1716",
+      "name": "BROWN",
+      "full_name": "1716 BROWN",
+      "slug": "brown-42031716",
+      "image_url": "/images/products/lvt/colors/creation-70/brown-42031716.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1717",
+      "name": "BROWN",
+      "full_name": "1717 BROWN",
+      "slug": "brown-42031717",
+      "image_url": "/images/products/lvt/colors/creation-70/brown-42031717.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1720",
+      "name": "CARAMEL",
+      "full_name": "1720 CARAMEL",
+      "slug": "caramel-42031720",
+      "image_url": "/images/products/lvt/colors/creation-70/caramel-42031720.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1274",
+      "name": "CHESTNUT",
+      "full_name": "1274 CHESTNUT",
+      "slug": "chestnut-42001274",
+      "image_url": "/images/products/lvt/colors/creation-70/chestnut-42001274.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1701",
+      "name": "CLEAR",
+      "full_name": "1701 CLEAR",
+      "slug": "clear-41861701",
+      "image_url": "/images/products/lvt/colors/creation-70/clear-41861701.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1755",
+      "name": "CLEAR",
+      "full_name": "1755 CLEAR",
+      "slug": "clear-41991755",
+      "image_url": "/images/products/lvt/colors/creation-70/clear-41991755.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1603",
+      "name": "CLEAR",
+      "full_name": "1603 CLEAR",
+      "slug": "clear-42021603",
+      "image_url": "/images/products/lvt/colors/creation-70/clear-42021603.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "0556",
+      "name": "CLIFTON",
+      "full_name": "0556 CLIFTON",
+      "slug": "clifton-41860556",
+      "image_url": "/images/products/lvt/colors/creation-70/clifton-41860556.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1725",
+      "name": "COBALT",
+      "full_name": "1725 COBALT",
+      "slug": "cobalt-42011725",
+      "image_url": "/images/products/lvt/colors/creation-70/cobalt-42011725.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1727",
+      "name": "COBALT",
+      "full_name": "1727 COBALT",
+      "slug": "cobalt-42011727",
+      "image_url": "/images/products/lvt/colors/creation-70/cobalt-42011727.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1565",
+      "name": "CREAM",
+      "full_name": "1565 CREAM",
+      "slug": "cream-42011565",
+      "image_url": "/images/products/lvt/colors/creation-70/cream-42011565.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1575",
+      "name": "CREAM",
+      "full_name": "1575 CREAM",
+      "slug": "cream-42011575",
+      "image_url": "/images/products/lvt/colors/creation-70/cream-42011575.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1711",
+      "name": "DARK",
+      "full_name": "1711 DARK",
+      "slug": "dark-42011711",
+      "image_url": "/images/products/lvt/colors/creation-70/dark-42011711.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1069",
+      "name": "DARK",
+      "full_name": "1069 DARK",
+      "slug": "dark-42021069",
+      "image_url": "/images/products/lvt/colors/creation-70/dark-42021069.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1271",
+      "name": "GOLDEN",
+      "full_name": "1271 GOLDEN",
+      "slug": "golden-42001271",
+      "image_url": "/images/products/lvt/colors/creation-70/golden-42001271.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1606",
+      "name": "GOLDEN",
+      "full_name": "1606 GOLDEN",
+      "slug": "golden-42031606",
+      "image_url": "/images/products/lvt/colors/creation-70/golden-42031606.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1721",
+      "name": "GREIGE",
+      "full_name": "1721 GREIGE",
+      "slug": "greige-42031721",
+      "image_url": "/images/products/lvt/colors/creation-70/greige-42031721.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1723",
+      "name": "GREY",
+      "full_name": "1723 GREY",
+      "slug": "grey-42011723",
+      "image_url": "/images/products/lvt/colors/creation-70/grey-42011723.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "0085",
+      "name": "GREY",
+      "full_name": "0085 GREY",
+      "slug": "grey-42020085",
+      "image_url": "/images/products/lvt/colors/creation-70/grey-42020085.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1718",
+      "name": "GREY",
+      "full_name": "1718 GREY",
+      "slug": "grey-42031718",
+      "image_url": "/images/products/lvt/colors/creation-70/grey-42031718.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "0870",
+      "name": "HONEY",
+      "full_name": "0870 HONEY",
+      "slug": "honey-41860870",
+      "image_url": "/images/products/lvt/colors/creation-70/honey-41860870.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1702",
+      "name": "HONEY",
+      "full_name": "1702 HONEY",
+      "slug": "honey-41861702",
+      "image_url": "/images/products/lvt/colors/creation-70/honey-41861702.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1719",
+      "name": "HONEY",
+      "full_name": "1719 HONEY",
+      "slug": "honey-42031719",
+      "image_url": "/images/products/lvt/colors/creation-70/honey-42031719.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "0455",
+      "name": "ISLAND",
+      "full_name": "0455 ISLAND",
+      "slug": "island-41860455",
+      "image_url": "/images/products/lvt/colors/creation-70/island-41860455.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1283",
+      "name": "LIGHT",
+      "full_name": "1283 LIGHT",
+      "slug": "light-41991283",
+      "image_url": "/images/products/lvt/colors/creation-70/light-41991283.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "0584",
+      "name": "LIME",
+      "full_name": "0584 LIME",
+      "slug": "lime-41860584",
+      "image_url": "/images/products/lvt/colors/creation-70/lime-41860584.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1284",
+      "name": "MEDIUM",
+      "full_name": "1284 MEDIUM",
+      "slug": "medium-41991284",
+      "image_url": "/images/products/lvt/colors/creation-70/medium-41991284.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "0504",
+      "name": "MIDWEST",
+      "full_name": "0504 MIDWEST",
+      "slug": "midwest-41860504",
+      "image_url": "/images/products/lvt/colors/creation-70/midwest-41860504.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1273",
+      "name": "NATURAL",
+      "full_name": "1273 NATURAL",
+      "slug": "natural-42001273",
+      "image_url": "/images/products/lvt/colors/creation-70/natural-42001273.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1607",
+      "name": "NATURAL",
+      "full_name": "1607 NATURAL",
+      "slug": "natural-42031607",
+      "image_url": "/images/products/lvt/colors/creation-70/natural-42031607.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1703",
+      "name": "NATURE",
+      "full_name": "1703 NATURE",
+      "slug": "nature-41861703",
+      "image_url": "/images/products/lvt/colors/creation-70/nature-41861703.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "0441",
+      "name": "OAK",
+      "full_name": "0441 OAK",
+      "slug": "oak-41860441",
+      "image_url": "/images/products/lvt/colors/creation-70/oak-41860441.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1056",
+      "name": "PEARL",
+      "full_name": "1056 PEARL",
+      "slug": "pearl-42031056",
+      "image_url": "/images/products/lvt/colors/creation-70/pearl-42031056.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1758",
+      "name": "POP",
+      "full_name": "1758 POP",
+      "slug": "pop-42131758",
+      "image_url": "/images/products/lvt/colors/creation-70/pop-42131758.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "0456",
+      "name": "PORTOBELLO",
+      "full_name": "0456 PORTOBELLO",
+      "slug": "portobello-41860456",
+      "image_url": "/images/products/lvt/colors/creation-70/portobello-41860456.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "0503",
+      "name": "QUARTET",
+      "full_name": "0503 QUARTET",
+      "slug": "quartet-41860503",
+      "image_url": "/images/products/lvt/colors/creation-70/quartet-41860503.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "0545",
+      "name": "SERENA",
+      "full_name": "0545 SERENA",
+      "slug": "serena-41860545",
+      "image_url": "/images/products/lvt/colors/creation-70/serena-41860545.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1713",
+      "name": "TAUPE",
+      "full_name": "1713 TAUPE",
+      "slug": "taupe-42011713",
+      "image_url": "/images/products/lvt/colors/creation-70/taupe-42011713.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "0087",
+      "name": "TAUPE",
+      "full_name": "0087 TAUPE",
+      "slug": "taupe-42020087",
+      "image_url": "/images/products/lvt/colors/creation-70/taupe-42020087.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "1604",
+      "name": "TAUPE",
+      "full_name": "1604 TAUPE",
+      "slug": "taupe-42021604",
+      "image_url": "/images/products/lvt/colors/creation-70/taupe-42021604.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70",
+      "collection_name": "Creation 70",
+      "code": "0522",
+      "name": "VILLAGE",
+      "full_name": "0522 VILLAGE",
+      "slug": "village-42010522",
+      "image_url": "/images/products/lvt/colors/creation-70/village-42010522.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "0577",
+      "name": "ALBION",
+      "full_name": "0577 ALBION",
+      "slug": "albion-61270577",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/albion-61270577.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "0347",
+      "name": "BALLERINA",
+      "full_name": "0347 BALLERINA",
+      "slug": "ballerina-61270347",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/ballerina-61270347.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1715",
+      "name": "BEIGE",
+      "full_name": "1715 BEIGE",
+      "slug": "beige-61281715",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/beige-61281715.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1272",
+      "name": "BEIGE",
+      "full_name": "1272 BEIGE",
+      "slug": "beige-61331272",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/beige-61331272.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1722",
+      "name": "BLACK",
+      "full_name": "1722 BLACK",
+      "slug": "black-61291722",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/black-61291722.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1597",
+      "name": "BROWN",
+      "full_name": "1597 BROWN",
+      "slug": "brown-61271597",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/brown-61271597.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "0850",
+      "name": "BROWN",
+      "full_name": "0850 BROWN",
+      "slug": "brown-61280850",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/brown-61280850.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1605",
+      "name": "BROWN",
+      "full_name": "1605 BROWN",
+      "slug": "brown-61281605",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/brown-61281605.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1717",
+      "name": "BROWN",
+      "full_name": "1717 BROWN",
+      "slug": "brown-61281717",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/brown-61281717.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1720",
+      "name": "CARAMEL",
+      "full_name": "1720 CARAMEL",
+      "slug": "caramel-61281720",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/caramel-61281720.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1274",
+      "name": "CHESTNUT",
+      "full_name": "1274 CHESTNUT",
+      "slug": "chestnut-61331274",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/chestnut-61331274.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1603",
+      "name": "CLEAR",
+      "full_name": "1603 CLEAR",
+      "slug": "clear-61291603",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/clear-61291603.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1711",
+      "name": "DARK",
+      "full_name": "1711 DARK",
+      "slug": "dark-61291711",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/dark-61291711.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1606",
+      "name": "GOLDEN",
+      "full_name": "1606 GOLDEN",
+      "slug": "golden-61281606",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/golden-61281606.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1271",
+      "name": "GOLDEN",
+      "full_name": "1271 GOLDEN",
+      "slug": "golden-61331271",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/golden-61331271.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1718",
+      "name": "GREY",
+      "full_name": "1718 GREY",
+      "slug": "grey-61281718",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/grey-61281718.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1723",
+      "name": "GREY",
+      "full_name": "1723 GREY",
+      "slug": "grey-61291723",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/grey-61291723.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "0870",
+      "name": "HONEY",
+      "full_name": "0870 HONEY",
+      "slug": "honey-61270870",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/honey-61270870.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "0455",
+      "name": "ISLAND",
+      "full_name": "0455 ISLAND",
+      "slug": "island-61270455",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/island-61270455.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1283",
+      "name": "LIGHT",
+      "full_name": "1283 LIGHT",
+      "slug": "light-61291283",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/light-61291283.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "0584",
+      "name": "LIME",
+      "full_name": "0584 LIME",
+      "slug": "lime-61270584",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/lime-61270584.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1284",
+      "name": "MEDIUM",
+      "full_name": "1284 MEDIUM",
+      "slug": "medium-61291284",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/medium-61291284.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "0504",
+      "name": "MIDWEST",
+      "full_name": "0504 MIDWEST",
+      "slug": "midwest-61270504",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/midwest-61270504.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1607",
+      "name": "NATURAL",
+      "full_name": "1607 NATURAL",
+      "slug": "natural-61281607",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/natural-61281607.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1273",
+      "name": "NATURAL",
+      "full_name": "1273 NATURAL",
+      "slug": "natural-61331273",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/natural-61331273.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1703",
+      "name": "NATURE",
+      "full_name": "1703 NATURE",
+      "slug": "nature-61271703",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/nature-61271703.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "0441",
+      "name": "OAK",
+      "full_name": "0441 OAK",
+      "slug": "oak-61270441",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/oak-61270441.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1056",
+      "name": "PEARL",
+      "full_name": "1056 PEARL",
+      "slug": "pearl-61281056",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/pearl-61281056.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "0456",
+      "name": "PORTOBELLO",
+      "full_name": "0456 PORTOBELLO",
+      "slug": "portobello-61270456",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/portobello-61270456.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "0503",
+      "name": "QUARTET",
+      "full_name": "0503 QUARTET",
+      "slug": "quartet-61270503",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/quartet-61270503.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "0545",
+      "name": "SERENA",
+      "full_name": "0545 SERENA",
+      "slug": "serena-61270545",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/serena-61270545.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1604",
+      "name": "TAUPE",
+      "full_name": "1604 TAUPE",
+      "slug": "taupe-61291604",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/taupe-61291604.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "1713",
+      "name": "TAUPE",
+      "full_name": "1713 TAUPE",
+      "slug": "taupe-61291713",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/taupe-61291713.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-clic",
+      "collection_name": "Creation 70 Clic",
+      "code": "oney",
+      "name": "WOOD",
+      "full_name": "oney WOOD",
+      "slug": "wood-honey",
+      "image_url": "/images/products/lvt/colors/creation-70-clic/wood-honey.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-connect",
+      "collection_name": "Creation 70 Connect",
+      "code": "0062",
+      "name": "BEIGE",
+      "full_name": "0062 BEIGE",
+      "slug": "beige-36900062",
+      "image_url": "/images/products/lvt/colors/creation-70-connect/beige-36900062.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-connect",
+      "collection_name": "Creation 70 Connect",
+      "code": "1089",
+      "name": "BURGUNDY",
+      "full_name": "1089 BURGUNDY",
+      "slug": "burgundy-36901089",
+      "image_url": "/images/products/lvt/colors/creation-70-connect/burgundy-36901089.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-connect",
+      "collection_name": "Creation 70 Connect",
+      "code": "1492",
+      "name": "GOLDEN",
+      "full_name": "1492 GOLDEN",
+      "slug": "golden-36901492",
+      "image_url": "/images/products/lvt/colors/creation-70-connect/golden-36901492.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-connect",
+      "collection_name": "Creation 70 Connect",
+      "code": "0063",
+      "name": "GREY",
+      "full_name": "0063 GREY",
+      "slug": "grey-36900063",
+      "image_url": "/images/products/lvt/colors/creation-70-connect/grey-36900063.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-connect",
+      "collection_name": "Creation 70 Connect",
+      "code": "0085",
+      "name": "GREY",
+      "full_name": "0085 GREY",
+      "slug": "grey-36900085",
+      "image_url": "/images/products/lvt/colors/creation-70-connect/grey-36900085.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-connect",
+      "collection_name": "Creation 70 Connect",
+      "code": "0088",
+      "name": "GREY",
+      "full_name": "0088 GREY",
+      "slug": "grey-36900088",
+      "image_url": "/images/products/lvt/colors/creation-70-connect/grey-36900088.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-connect",
+      "collection_name": "Creation 70 Connect",
+      "code": "1088",
+      "name": "GREY",
+      "full_name": "1088 GREY",
+      "slug": "grey-36901088",
+      "image_url": "/images/products/lvt/colors/creation-70-connect/grey-36901088.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-connect",
+      "collection_name": "Creation 70 Connect",
+      "code": "0090",
+      "name": "LIGHT",
+      "full_name": "0090 LIGHT",
+      "slug": "light-36900090",
+      "image_url": "/images/products/lvt/colors/creation-70-connect/light-36900090.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-connect",
+      "collection_name": "Creation 70 Connect",
+      "code": "0091",
+      "name": "NATURAL",
+      "full_name": "0091 NATURAL",
+      "slug": "natural-36900091",
+      "image_url": "/images/products/lvt/colors/creation-70-connect/natural-36900091.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-connect",
+      "collection_name": "Creation 70 Connect",
+      "code": "0087",
+      "name": "TAUPE",
+      "full_name": "0087 TAUPE",
+      "slug": "taupe-36900087",
+      "image_url": "/images/products/lvt/colors/creation-70-connect/taupe-36900087.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-connect",
+      "collection_name": "Creation 70 Connect",
+      "code": "0089",
+      "name": "TAUPE",
+      "full_name": "0089 TAUPE",
+      "slug": "taupe-36900089",
+      "image_url": "/images/products/lvt/colors/creation-70-connect/taupe-36900089.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "0060",
+      "name": "ARENA",
+      "full_name": "0060 ARENA",
+      "slug": "arena-39770060",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/arena-39770060.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1572",
+      "name": "BLUE",
+      "full_name": "1572 BLUE",
+      "slug": "blue-39761572",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/blue-39761572.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "0455",
+      "name": "BOARD",
+      "full_name": "0455 BOARD",
+      "slug": "board-39770455",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/board-39770455.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1568",
+      "name": "BROWN",
+      "full_name": "1568 BROWN",
+      "slug": "brown-39771568",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/brown-39771568.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1568",
+      "name": "BROWN",
+      "full_name": "1568 BROWN",
+      "slug": "brown-39821568",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/brown-39821568.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1567",
+      "name": "CLEAR",
+      "full_name": "1567 CLEAR",
+      "slug": "clear-39771567",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/clear-39771567.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1569",
+      "name": "CLEAR",
+      "full_name": "1569 CLEAR",
+      "slug": "clear-39801569",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/clear-39801569.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1567",
+      "name": "CLEAR",
+      "full_name": "1567 CLEAR",
+      "slug": "clear-39821567",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/clear-39821567.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1569",
+      "name": "CLEAR",
+      "full_name": "1569 CLEAR",
+      "slug": "clear-39821569",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/clear-39821569.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1565",
+      "name": "CREAM",
+      "full_name": "1565 CREAM",
+      "slug": "cream-39761565",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/cream-39761565.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1575",
+      "name": "CREAM",
+      "full_name": "1575 CREAM",
+      "slug": "cream-39761575",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/cream-39761575.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1560",
+      "name": "DAINTY",
+      "full_name": "1560 DAINTY",
+      "slug": "dainty-39771560",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/dainty-39771560.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1570",
+      "name": "DARK",
+      "full_name": "1570 DARK",
+      "slug": "dark-39801570",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/dark-39801570.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1577",
+      "name": "DARK",
+      "full_name": "1577 DARK",
+      "slug": "dark-39801577",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/dark-39801577.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1570",
+      "name": "DARK",
+      "full_name": "1570 DARK",
+      "slug": "dark-39821570",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/dark-39821570.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1573",
+      "name": "GREEN",
+      "full_name": "1573 GREEN",
+      "slug": "green-39761573",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/green-39761573.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1571",
+      "name": "GREEN",
+      "full_name": "1571 GREEN",
+      "slug": "green-39801571",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/green-39801571.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "0085",
+      "name": "GREY",
+      "full_name": "0085 GREY",
+      "slug": "grey-39800085",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/grey-39800085.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1578",
+      "name": "HONEY",
+      "full_name": "1578 HONEY",
+      "slug": "honey-39811578",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/honey-39811578.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1579",
+      "name": "HONEY",
+      "full_name": "1579 HONEY",
+      "slug": "honey-39811579",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/honey-39811579.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1580",
+      "name": "HONEY",
+      "full_name": "1580 HONEY",
+      "slug": "honey-39811580",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/honey-39811580.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1559",
+      "name": "LIGHT",
+      "full_name": "1559 LIGHT",
+      "slug": "light-39771559",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/light-39771559.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1283",
+      "name": "LIGHT",
+      "full_name": "1283 LIGHT",
+      "slug": "light-39801283",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/light-39801283.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1559",
+      "name": "LIGHT",
+      "full_name": "1559 LIGHT",
+      "slug": "light-39821559",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/light-39821559.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1576",
+      "name": "MEDIUM",
+      "full_name": "1576 MEDIUM",
+      "slug": "medium-39761576",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/medium-39761576.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1284",
+      "name": "MEDIUM",
+      "full_name": "1284 MEDIUM",
+      "slug": "medium-39801284",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/medium-39801284.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1561",
+      "name": "NATURAL",
+      "full_name": "1561 NATURAL",
+      "slug": "natural-39771561",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/natural-39771561.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "0456",
+      "name": "RANCH",
+      "full_name": "0456 RANCH",
+      "slug": "ranch-39770456",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/ranch-39770456.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1566",
+      "name": "TERRA",
+      "full_name": "1566 TERRA",
+      "slug": "terra-39761566",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/terra-39761566.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "1574",
+      "name": "TERRA",
+      "full_name": "1574 TERRA",
+      "slug": "terra-39761574",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/terra-39761574.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-looselay",
+      "collection_name": "Creation 70 Looselay",
+      "code": "0504",
+      "name": "TWIST",
+      "full_name": "0504 TWIST",
+      "slug": "twist-39770504",
+      "image_url": "/images/products/lvt/colors/creation-70-looselay/twist-39770504.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "0577",
+      "name": "ALBION",
+      "full_name": "0577 ALBION",
+      "slug": "albion-42180577",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/albion-42180577.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1762",
+      "name": "BEIGE",
+      "full_name": "1762 BEIGE",
+      "slug": "beige-42181762",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/beige-42181762.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1768",
+      "name": "BEIGE",
+      "full_name": "1768 BEIGE",
+      "slug": "beige-42201768",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/beige-42201768.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1766",
+      "name": "CHESTNUT",
+      "full_name": "1766 CHESTNUT",
+      "slug": "chestnut-42181766",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/chestnut-42181766.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1764",
+      "name": "CLEAR",
+      "full_name": "1764 CLEAR",
+      "slug": "clear-42181764",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/clear-42181764.jpg",
+      "image_count": 4
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1069",
+      "name": "DARK",
+      "full_name": "1069 DARK",
+      "slug": "dark-42201069",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/dark-42201069.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1769",
+      "name": "DENIM",
+      "full_name": "1769 DENIM",
+      "slug": "denim-42201769",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/denim-42201769.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1064",
+      "name": "GREEN",
+      "full_name": "1064 GREEN",
+      "slug": "green-42201064",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/green-42201064.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "0085",
+      "name": "GREY",
+      "full_name": "0085 GREY",
+      "slug": "grey-42200085",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/grey-42200085.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1770",
+      "name": "GREY",
+      "full_name": "1770 GREY",
+      "slug": "grey-42201770",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/grey-42201770.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1771",
+      "name": "GREY",
+      "full_name": "1771 GREY",
+      "slug": "grey-42201771",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/grey-42201771.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1772",
+      "name": "GREY",
+      "full_name": "1772 GREY",
+      "slug": "grey-42201772",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/grey-42201772.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1773",
+      "name": "GREY",
+      "full_name": "1773 GREY",
+      "slug": "grey-42201773",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/grey-42201773.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1774",
+      "name": "GREY",
+      "full_name": "1774 GREY",
+      "slug": "grey-42201774",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/grey-42201774.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1763",
+      "name": "HONEY",
+      "full_name": "1763 HONEY",
+      "slug": "honey-42181763",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/honey-42181763.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "0358",
+      "name": "ISLAND",
+      "full_name": "0358 ISLAND",
+      "slug": "island-42180358",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/island-42180358.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "0538",
+      "name": "MIDWEST",
+      "full_name": "0538 MIDWEST",
+      "slug": "midwest-42180538",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/midwest-42180538.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1765",
+      "name": "NATURAL",
+      "full_name": "1765 NATURAL",
+      "slug": "natural-42181765",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/natural-42181765.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1767",
+      "name": "NATURAL",
+      "full_name": "1767 NATURAL",
+      "slug": "natural-42181767",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/natural-42181767.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "0357",
+      "name": "PORTOBELLO",
+      "full_name": "0357 PORTOBELLO",
+      "slug": "portobello-42180357",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/portobello-42180357.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "0088",
+      "name": "PURE",
+      "full_name": "0088 PURE",
+      "slug": "pure-42200088",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/pure-42200088.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "0800",
+      "name": "ROADSTER",
+      "full_name": "0800 ROADSTER",
+      "slug": "roadster-42180800",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/roadster-42180800.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "1052",
+      "name": "SAND",
+      "full_name": "1052 SAND",
+      "slug": "sand-42181052",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/sand-42181052.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-megaclic",
+      "collection_name": "Creation 70 Megaclic",
+      "code": "0545",
+      "name": "SERENA",
+      "full_name": "0545 SERENA",
+      "slug": "serena-42180545",
+      "image_url": "/images/products/lvt/colors/creation-70-megaclic/serena-42180545.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "0953",
+      "name": "ANTHRACITE",
+      "full_name": "0953 ANTHRACITE",
+      "slug": "anthracite-39220953",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/anthracite-39220953.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1416",
+      "name": "BEIGE",
+      "full_name": "1416 BEIGE",
+      "slug": "beige-39221416",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/beige-39221416.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1418",
+      "name": "BEIGE",
+      "full_name": "1418 BEIGE",
+      "slug": "beige-39221418",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/beige-39221418.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1483",
+      "name": "BLACK",
+      "full_name": "1483 BLACK",
+      "slug": "black-39241483",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/black-39241483.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1063",
+      "name": "BROWN",
+      "full_name": "1063 BROWN",
+      "slug": "brown-39241063",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/brown-39241063.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1484",
+      "name": "BROWN",
+      "full_name": "1484 BROWN",
+      "slug": "brown-39241484",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/brown-39241484.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1482",
+      "name": "CLEAR",
+      "full_name": "1482 CLEAR",
+      "slug": "clear-39241482",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/clear-39241482.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1486",
+      "name": "CLEAR",
+      "full_name": "1486 CLEAR",
+      "slug": "clear-39241486",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/clear-39241486.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1421",
+      "name": "DARK",
+      "full_name": "1421 DARK",
+      "slug": "dark-39221421",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/dark-39221421.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1488",
+      "name": "DENIM",
+      "full_name": "1488 DENIM",
+      "slug": "denim-39241488",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/denim-39241488.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1419",
+      "name": "GOLDEN",
+      "full_name": "1419 GOLDEN",
+      "slug": "golden-39221419",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/golden-39221419.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1487",
+      "name": "GREEN",
+      "full_name": "1487 GREEN",
+      "slug": "green-39241487",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/green-39241487.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1413",
+      "name": "GREY",
+      "full_name": "1413 GREY",
+      "slug": "grey-39241413",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/grey-39241413.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1489",
+      "name": "GREY",
+      "full_name": "1489 GREY",
+      "slug": "grey-39241489",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/grey-39241489.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1480",
+      "name": "HONEY",
+      "full_name": "1480 HONEY",
+      "slug": "honey-39221480",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/honey-39221480.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1478",
+      "name": "KRAFT",
+      "full_name": "1478 KRAFT",
+      "slug": "kraft-39221478",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/kraft-39221478.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1479",
+      "name": "KRAFT",
+      "full_name": "1479 KRAFT",
+      "slug": "kraft-39221479",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/kraft-39221479.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1422",
+      "name": "MEDIUM",
+      "full_name": "1422 MEDIUM",
+      "slug": "medium-39221422",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/medium-39221422.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "0817",
+      "name": "METAL",
+      "full_name": "0817 METAL",
+      "slug": "metal-39240817",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/metal-39240817.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1064",
+      "name": "NATURE",
+      "full_name": "1064 NATURE",
+      "slug": "nature-39241064",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/nature-39241064.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1415",
+      "name": "OAK",
+      "full_name": "1415 OAK",
+      "slug": "oak-39221415",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/oak-39221415.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1420",
+      "name": "PEARL",
+      "full_name": "1420 PEARL",
+      "slug": "pearl-39221420",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/pearl-39221420.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "0963",
+      "name": "PERLE",
+      "full_name": "0963 PERLE",
+      "slug": "perle-39240963",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/perle-39240963.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1066",
+      "name": "POUDRE",
+      "full_name": "1066 POUDRE",
+      "slug": "poudre-39241066",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/poudre-39241066.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "0773",
+      "name": "RANCH",
+      "full_name": "0773 RANCH",
+      "slug": "ranch-39220773",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/ranch-39220773.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1485",
+      "name": "SOURIS",
+      "full_name": "1485 SOURIS",
+      "slug": "souris-39241485",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/souris-39241485.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1414",
+      "name": "STATION",
+      "full_name": "1414 STATION",
+      "slug": "station-39241414",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/station-39241414.jpg",
+      "image_count": 3
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1481",
+      "name": "TAUPE",
+      "full_name": "1481 TAUPE",
+      "slug": "taupe-39221481",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/taupe-39221481.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1412",
+      "name": "TAUPE",
+      "full_name": "1412 TAUPE",
+      "slug": "taupe-39241412",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/taupe-39241412.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-70-zen",
+      "collection_name": "Creation 70 Zen",
+      "code": "1417",
+      "name": "TWIST",
+      "full_name": "1417 TWIST",
+      "slug": "twist-39221417",
+      "image_url": "/images/products/lvt/colors/creation-70-zen/twist-39221417.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1581",
+      "name": "ABRICOT",
+      "full_name": "1581 ABRICOT",
+      "slug": "abricot-35021581",
+      "image_url": "/images/products/lvt/colors/creation-saga2/abricot-35021581.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1584",
+      "name": "AMANDE",
+      "full_name": "1584 AMANDE",
+      "slug": "amande-35021584",
+      "image_url": "/images/products/lvt/colors/creation-saga2/amande-35021584.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1588",
+      "name": "ANCIEN",
+      "full_name": "1588 ANCIEN",
+      "slug": "ancien-35021588",
+      "image_url": "/images/products/lvt/colors/creation-saga2/ancien-35021588.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1587",
+      "name": "BEIGE",
+      "full_name": "1587 BEIGE",
+      "slug": "beige-35021587",
+      "image_url": "/images/products/lvt/colors/creation-saga2/beige-35021587.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1608",
+      "name": "BEIGE",
+      "full_name": "1608 BEIGE",
+      "slug": "beige-39881608",
+      "image_url": "/images/products/lvt/colors/creation-saga2/beige-39881608.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "0030",
+      "name": "BLUE",
+      "full_name": "0030 BLUE",
+      "slug": "blue-35020030",
+      "image_url": "/images/products/lvt/colors/creation-saga2/blue-35020030.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1582",
+      "name": "CHINE",
+      "full_name": "1582 CHINE",
+      "slug": "chine-35021582",
+      "image_url": "/images/products/lvt/colors/creation-saga2/chine-35021582.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1585",
+      "name": "CHINE",
+      "full_name": "1585 CHINE",
+      "slug": "chine-35021585",
+      "image_url": "/images/products/lvt/colors/creation-saga2/chine-35021585.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1567",
+      "name": "CLEAR",
+      "full_name": "1567 CLEAR",
+      "slug": "clear-35021567",
+      "image_url": "/images/products/lvt/colors/creation-saga2/clear-35021567.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1563",
+      "name": "CREAM",
+      "full_name": "1563 CREAM",
+      "slug": "cream-35021563",
+      "image_url": "/images/products/lvt/colors/creation-saga2/cream-35021563.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1565",
+      "name": "CREAM",
+      "full_name": "1565 CREAM",
+      "slug": "cream-35021565",
+      "image_url": "/images/products/lvt/colors/creation-saga2/cream-35021565.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1560",
+      "name": "DAINTY",
+      "full_name": "1560 DAINTY",
+      "slug": "dainty-35021560",
+      "image_url": "/images/products/lvt/colors/creation-saga2/dainty-35021560.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1609",
+      "name": "GREEN",
+      "full_name": "1609 GREEN",
+      "slug": "green-39881609",
+      "image_url": "/images/products/lvt/colors/creation-saga2/green-39881609.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "0088",
+      "name": "GREY",
+      "full_name": "0088 GREY",
+      "slug": "grey-35020088",
+      "image_url": "/images/products/lvt/colors/creation-saga2/grey-35020088.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1586",
+      "name": "GREY",
+      "full_name": "1586 GREY",
+      "slug": "grey-35021586",
+      "image_url": "/images/products/lvt/colors/creation-saga2/grey-35021586.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1610",
+      "name": "GREY",
+      "full_name": "1610 GREY",
+      "slug": "grey-39881610",
+      "image_url": "/images/products/lvt/colors/creation-saga2/grey-39881610.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1283",
+      "name": "LIGHT",
+      "full_name": "1283 LIGHT",
+      "slug": "light-35021283",
+      "image_url": "/images/products/lvt/colors/creation-saga2/light-35021283.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1559",
+      "name": "LIGHT",
+      "full_name": "1559 LIGHT",
+      "slug": "light-35021559",
+      "image_url": "/images/products/lvt/colors/creation-saga2/light-35021559.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1284",
+      "name": "MEDIUM",
+      "full_name": "1284 MEDIUM",
+      "slug": "medium-35021284",
+      "image_url": "/images/products/lvt/colors/creation-saga2/medium-35021284.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1561",
+      "name": "NATURAL",
+      "full_name": "1561 NATURAL",
+      "slug": "natural-35021561",
+      "image_url": "/images/products/lvt/colors/creation-saga2/natural-35021561.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "0089",
+      "name": "TAUPE",
+      "full_name": "0089 TAUPE",
+      "slug": "taupe-35020089",
+      "image_url": "/images/products/lvt/colors/creation-saga2/taupe-35020089.jpg",
+      "image_count": 2
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1564",
+      "name": "TERRA",
+      "full_name": "1564 TERRA",
+      "slug": "terra-35021564",
+      "image_url": "/images/products/lvt/colors/creation-saga2/terra-35021564.jpg",
+      "image_count": 1
+    },
+    {
+      "collection": "creation-saga2",
+      "collection_name": "Creation Saga2",
+      "code": "1566",
+      "name": "TERRA",
+      "full_name": "1566 TERRA",
+      "slug": "terra-35021566",
+      "image_url": "/images/products/lvt/colors/creation-saga2/terra-35021566.jpg",
+      "image_count": 1
+    }
+  ]
+}

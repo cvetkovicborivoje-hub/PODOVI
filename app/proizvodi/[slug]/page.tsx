@@ -6,6 +6,7 @@ import { categoryRepository } from '@/lib/repositories/category-repository';
 import { brandRepository } from '@/lib/repositories/brand-repository';
 import CertificationBadges from '@/components/CertificationBadges';
 import EcoFeatures from '@/components/EcoFeatures';
+import ColorGrid from '@/components/ColorGrid';
 
 interface Props {
   params: { slug: string };
@@ -250,6 +251,13 @@ export default async function ProductPage({ params }: Props) {
               features={["Bez ftalata", "100% reciklabilno", "30% recikliranog sadržaja", "Niske VOC emisije"]} 
               underfloorHeating={true}
             />
+          </div>
+        )}
+
+        {/* Color Grid - For LVT products */}
+        {product.categoryId === 6 && (
+          <div className="mt-12 bg-white rounded-2xl shadow-lg p-8">
+            <ColorGrid collectionSlug={product.slug} />
           </div>
         )}
       </div>

@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://www.gerflor-cee.com/products/creation-70-megaclic",
+    "name": "CREATION 70 MEGACLIC",
+    "collection": null,
+    "sku": null,
+    "dimensions": "",
+    "image_url": null,
+    "downloaded": false,
+    "download_filename": null
+  },
+  {
+    "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1274-lounge-oak-chestnut-41761274",
+    "name": "1274 LOUNGE OAK CHESTNUT",
+    "collection": null,
+    "sku": null,
+    "dimensions": "23 cm X 150 cm",
+    "image_url": null,
+    "downloaded": false,
+    "download_filename": null
+  },
+  {
+    "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-0347-ballerina-41870347",
+    "name": "0347 BALLERINA",
+    "collection": null,
+    "sku": null,
+    "dimensions": "18.4 cm X 121.9 cm",
+    "image_url": null,
+    "downloaded": false,
+    "download_filename": null
+  },
+  {
+    "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-0456-ranch-41870456",
+    "name": "0456 RANCH",
+    "collection": null,
+    "sku": null,
+    "dimensions": "18.4 cm X 121.9 cm",
+    "image_url": null,
+    "downloaded": true,
+    "download_filename": "product-sku-media-resources-1768279653.zip"
+  },
+  {
+    "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1273-lounge-oak-natural-41761273",
+    "name": "1273 LOUNGE OAK NATURAL",
+    "collection": null,
+    "sku": null,
+    "dimensions": "23 cm X 150 cm",
+    "image_url": null,
+    "downloaded": false,
+    "download_filename": null
+  },
+  {
+    "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-1278-charming-oak-beige-41751278",
+    "name": "1278 CHARMING OAK BEIGE",
+    "collection": null,
+    "sku": null,
+    "dimensions": "18.4 cm X 121.9 cm",
+    "image_url": null,
+    "downloaded": false,
+    "download_filename": null
+  },
+  {
+    "url": "https://www.gerflor-cee.com/products/creation-55-looselay",
+    "name": "CREATION 55 LOOSELAY",
+    "collection": null,
+    "sku": null,
+    "dimensions": "",
+    "image_url": null,
+    "downloaded": false,
+    "download_filename": null
+  },
+  {
+    "url": "https://www.gerflor-cee.com/products/creation-saga2",
+    "name": "CREATION SAGA²",
+    "collection": null,
+    "sku": null,
+    "dimensions": "",
+    "image_url": null,
+    "downloaded": false,
+    "download_filename": null
+  },
+  {
+    "url": "https://www.gerflor-cee.com/products/creation-30-new-collection-0503-quartet-41870503",
+    "name": "0503 QUARTET",
+    "collection": null,
+    "sku": null,
+    "dimensions": "18.4 cm X 121.9 cm",
+    "image_url": null,
+    "downloaded": false,
+    "download_filename": null
+  },
+  {
+    "url": "https://www.gerflor-cee.com/products/creation-70-connect",
+    "name": "CREATION 70 CONNECT",
+    "collection": null,
+    "sku": null,
+    "dimensions": "",
+    "image_url": null,
+    "downloaded": false,
+    "download_filename": null
+  }
+]
