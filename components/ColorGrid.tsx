@@ -27,8 +27,12 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
     fetch('/data/lvt_colors_complete.json')
       .then(res => res.json())
       .then(data => {
+        // Extract collection name from slug
+        // e.g., "gerflor-creation-30" → "creation-30"
+        const collectionName = collectionSlug.replace('gerflor-', '');
+        
         const filtered = data.colors.filter(
-          (c: Color) => c.collection === collectionSlug
+          (c: Color) => c.collection === collectionName || c.collection === collectionSlug
         );
         setColors(filtered);
         setLoading(false);
