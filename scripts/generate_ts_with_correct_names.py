@@ -54,24 +54,33 @@ for product in products:
         category = 'LVT'
         subcategory = f'Gerflor {collection.replace("-", " ").title()}'
     
-    # Generate product entry
+    # Generate product entry (PRAVILNI Product format)
     ts_content += f"""  {{
     id: '{collection}-{color_slug}',
-    name: '{name}',
-    code: '{code}',
-    brand: 'gerflor',
-    category: '{category}',
-    subcategory: '{subcategory}',
-    image: {{
+    name: '{code} {name}',
+    slug: '{collection}-{color_slug}',
+    sku: '{code}',
+    categoryId: '6',  // LVT category
+    brandId: '6',  // Gerflor brand
+    shortDescription: 'Gerflor {collection.replace("-", " ").title()} - {name}',
+    description: 'Gerflor {collection.replace("-", " ").title()} - {name} (Šifra: {code})',
+    images: [{{
+      id: '{collection}-{color_slug}-img-1',
       url: '{image_url}',
       alt: '{name}',
-    }},
-    description: 'Gerflor {collection.replace("-", " ").title()} - {name}',
-    specifications: {{
-      'Kolekcija': '{collection.replace("-", " ").title()}',
-      'Šifra': '{code}',
-      'Boja': '{name}',
-    }},
+      isPrimary: true,
+      order: 1,
+    }}],
+    specs: [
+      {{ key: 'collection', label: 'Kolekcija', value: '{collection.replace("-", " ").title()}' }},
+      {{ key: 'code', label: 'Šifra', value: '{code}' }},
+      {{ key: 'color', label: 'Boja', value: '{name}' }},
+    ],
+    inStock: true,
+    featured: false,
+    externalLink: 'https://www.gerflor-cee.com/products/{collection}',
+    createdAt: new Date('2024-01-01'),
+    updatedAt: new Date('2024-01-01'),
   }},
 """
 
