@@ -10,7 +10,9 @@ interface Color {
   name: string;
   full_name: string;
   slug: string;
-  image_url: string;
+  image_url?: string;
+  texture_url?: string;
+  lifestyle_url?: string;
   image_count: number;
 }
 
@@ -103,9 +105,9 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
           >
             {/* Image */}
             <div className="aspect-square relative overflow-hidden bg-gray-100">
-              {color.image_url ? (
+              {(color.texture_url || color.image_url) ? (
                 <img
-                  src={color.image_url}
+                  src={color.texture_url || color.image_url}
                   alt={color.full_name}
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />
