@@ -255,7 +255,7 @@ export default async function ProductPage({ params }: Props) {
         )}
 
         {/* Color Grid - For LVT products */}
-        {product.categoryId === 6 && (
+        {product.categoryId === '6' && (
           <div className="mt-12 bg-white rounded-2xl shadow-lg p-8">
             <ColorGrid collectionSlug={product.slug} />
           </div>
