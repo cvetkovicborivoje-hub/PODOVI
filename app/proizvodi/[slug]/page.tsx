@@ -9,7 +9,7 @@ interface Props {
   params: { slug: string };
 }
 
-export async function generateMetadata({ params }: Props): Metadata {
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const product = await productRepository.findBySlug(params.slug);
   
   if (!product) {
