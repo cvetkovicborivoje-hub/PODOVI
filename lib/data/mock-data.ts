@@ -1,4 +1,5 @@
 import { Category, Brand, Product } from '@/types';
+import { gerflor_products } from './gerflor-products-generated';
 
 export const categories: Category[] = [
   {
@@ -1203,4 +1204,6 @@ export const products: Product[] = [
     createdAt: new Date('2024-03-20'),
     updatedAt: new Date('2024-03-20'),
   },
+  // Auto-imported Gerflor products (583 items)
+  ...gerflor_products,
 ];
