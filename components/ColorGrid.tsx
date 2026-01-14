@@ -186,10 +186,13 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
               {filteredColors[selectedColorIndex] && (
                 <>
                   <div className="relative aspect-video bg-gray-100">
-                    <img
+                    <Image
                       src={filteredColors[selectedColorIndex].texture_url || filteredColors[selectedColorIndex].image_url || ''}
                       alt={filteredColors[selectedColorIndex].full_name}
-                      className="w-full h-full object-contain"
+                      fill
+                      className="object-contain"
+                      sizes="90vw"
+                      priority
                     />
                   </div>
                   <div className="p-6 bg-white">
