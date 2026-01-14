@@ -128,10 +128,12 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
             {/* Image */}
             <div className="aspect-square relative overflow-hidden bg-gray-100">
               {(color.texture_url || color.image_url) ? (
-                <img
-                  src={color.texture_url || color.image_url}
+                <Image
+                  src={color.texture_url || color.image_url || ''}
                   alt={color.full_name}
-                  className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
+                  fill
+                  className="object-cover group-hover:scale-110 transition-transform duration-300"
+                  sizes="(max-width: 768px) 50vw, (max-width: 1200px) 33vw, 20vw"
                 />
               ) : (
                 <div className="w-full h-full flex items-center justify-center text-gray-400 text-sm">
@@ -246,10 +248,12 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
                         : 'border-transparent hover:border-gray-400'
                     }`}
                   >
-                    <img
+                    <Image
                       src={color.texture_url || color.image_url || ''}
                       alt={color.full_name}
-                      className="w-full h-full object-cover"
+                      fill
+                      className="object-cover"
+                      sizes="(max-width: 768px) 20vw, 10vw"
                     />
                   </button>
                 ))}

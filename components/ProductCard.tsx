@@ -18,10 +18,12 @@ export default async function ProductCard({ product }: ProductCardProps) {
     >
       <div className="relative h-64 bg-gray-100 overflow-hidden group-hover:scale-105 transition-transform duration-500">
         {primaryImage ? (
-          <img
+          <Image
             src={primaryImage.url}
             alt={primaryImage.alt}
-            className="w-full h-full object-cover"
+            fill
+            className="object-cover"
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           />
         ) : (
           <div className="w-full h-full flex items-center justify-center text-gray-400">
