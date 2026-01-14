@@ -8,15 +8,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-ballerina-41870347',
     name: '0347 BALLERINA',
-    slug: 'creation-30-ballerina-41870347',
-    sku: '0347',
+    slug: 'creation-30-ballerina-41870347', sku: '0347',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - BALLERINA',
     description: 'Gerflor Creation 30 - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-30-ballerina-41870347-img-1',
-      url: '/images/products/lvt/colors/creation-30/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/0347-ballerina/pod/0347-ballerina-pod.jpg?v=9',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -35,15 +34,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-beige-41741712',
     name: '1712 BACKYARD LIGHT BEIGE',
-    slug: 'creation-30-beige-41741712',
-    sku: '1712',
+    slug: 'creation-30-beige-41741712', sku: '1712',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - BACKYARD LIGHT BEIGE',
     description: 'Gerflor Creation 30 - BACKYARD LIGHT BEIGE (Šifra: 1712)',
     images: [{
       id: 'creation-30-beige-41741712-img-1',
-      url: '/images/products/lvt/colors/creation-30/1712-backyard-light-beige/pod/1712-backyard-light-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1712-backyard-light-beige/pod/1712-backyard-light-beige-pod.jpg?v=9',
       alt: 'BACKYARD LIGHT BEIGE',
       isPrimary: true,
       order: 1,
@@ -62,15 +60,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-beige-41751278',
     name: '1278 CHARMING OAK BEIGE',
-    slug: 'creation-30-beige-41751278',
-    sku: '1278',
+    slug: 'creation-30-beige-41751278', sku: '1278',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - CHARMING OAK BEIGE',
     description: 'Gerflor Creation 30 - CHARMING OAK BEIGE (Šifra: 1278)',
     images: [{
       id: 'creation-30-beige-41751278-img-1',
-      url: '/images/products/lvt/colors/creation-30/1278-charming-oak-beige/pod/1278-charming-oak-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1278-charming-oak-beige/pod/1278-charming-oak-beige-pod.jpg?v=9',
       alt: 'CHARMING OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -89,15 +86,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-beige-41761272',
     name: '1272 LOUNGE OAK BEIGE',
-    slug: 'creation-30-beige-41761272',
-    sku: '1272',
+    slug: 'creation-30-beige-41761272', sku: '1272',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - LOUNGE OAK BEIGE',
     description: 'Gerflor Creation 30 - LOUNGE OAK BEIGE (Šifra: 1272)',
     images: [{
       id: 'creation-30-beige-41761272-img-1',
-      url: '/images/products/lvt/colors/creation-30/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=9',
       alt: 'LOUNGE OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -116,15 +112,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-beige-41870853',
     name: '0853 BOSTONIAN OAK BEIGE',
-    slug: 'creation-30-beige-41870853',
-    sku: '0853',
+    slug: 'creation-30-beige-41870853', sku: '0853',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - BOSTONIAN OAK BEIGE',
     description: 'Gerflor Creation 30 - BOSTONIAN OAK BEIGE (Šifra: 0853)',
     images: [{
       id: 'creation-30-beige-41870853-img-1',
-      url: '/images/products/lvt/colors/creation-30/0853-bostonian-oak-beige/pod/0853-bostonian-oak-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/0853-bostonian-oak-beige/pod/0853-bostonian-oak-beige-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -143,15 +138,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-blond-41871704',
     name: '1704 AQUINOAH BLOND',
-    slug: 'creation-30-blond-41871704',
-    sku: '1704',
+    slug: 'creation-30-blond-41871704', sku: '1704',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - AQUINOAH BLOND',
     description: 'Gerflor Creation 30 - AQUINOAH BLOND (Šifra: 1704)',
     images: [{
       id: 'creation-30-blond-41871704-img-1',
-      url: '/images/products/lvt/colors/creation-30/1704-aquinoah-blond/pod/1704-aquinoah-blond-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1704-aquinoah-blond/pod/1704-aquinoah-blond-pod.jpg?v=9',
       alt: 'AQUINOAH BLOND',
       isPrimary: true,
       order: 1,
@@ -170,15 +164,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-board-41870455',
     name: '0455 LONG BOARD',
-    slug: 'creation-30-board-41870455',
-    sku: '0455',
+    slug: 'creation-30-board-41870455', sku: '0455',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - LONG BOARD',
     description: 'Gerflor Creation 30 - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-30-board-41870455-img-1',
-      url: '/images/products/lvt/colors/creation-30/0455-long-board/pod/0455-long-board-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/0455-long-board/pod/0455-long-board-pod.jpg?v=9',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -197,15 +190,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-brown-41730850',
     name: '0850 CEDAR BROWN',
-    slug: 'creation-30-brown-41730850',
-    sku: '0850',
+    slug: 'creation-30-brown-41730850', sku: '0850',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - CEDAR BROWN',
     description: 'Gerflor Creation 30 - CEDAR BROWN (Šifra: 0850)',
     images: [{
       id: 'creation-30-brown-41730850-img-1',
-      url: '/images/products/lvt/colors/creation-30/0850-cedar-brown/pod/0850-cedar-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/0850-cedar-brown/pod/0850-cedar-brown-pod.jpg?v=9',
       alt: 'CEDAR BROWN',
       isPrimary: true,
       order: 1,
@@ -224,15 +216,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-brown-41731605',
     name: '1605 CEDAR DARK BROWN',
-    slug: 'creation-30-brown-41731605',
-    sku: '1605',
+    slug: 'creation-30-brown-41731605', sku: '1605',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - CEDAR DARK BROWN',
     description: 'Gerflor Creation 30 - CEDAR DARK BROWN (Šifra: 1605)',
     images: [{
       id: 'creation-30-brown-41731605-img-1',
-      url: '/images/products/lvt/colors/creation-30/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=9',
       alt: 'CEDAR DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -251,15 +242,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-brown-41871568',
     name: '1568 TAMO LIGHT BROWN',
-    slug: 'creation-30-brown-41871568',
-    sku: '1568',
+    slug: 'creation-30-brown-41871568', sku: '1568',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - TAMO LIGHT BROWN',
     description: 'Gerflor Creation 30 - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-30-brown-41871568-img-1',
-      url: '/images/products/lvt/colors/creation-30/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=9',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -278,15 +268,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-brown-41871597',
     name: '1597 QUARTET DARK BROWN',
-    slug: 'creation-30-brown-41871597',
-    sku: '1597',
+    slug: 'creation-30-brown-41871597', sku: '1597',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - QUARTET DARK BROWN',
     description: 'Gerflor Creation 30 - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-30-brown-41871597-img-1',
-      url: '/images/products/lvt/colors/creation-30/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=9',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -305,15 +294,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-brown-41871705',
     name: '1705 AQUINOAH BROWN',
-    slug: 'creation-30-brown-41871705',
-    sku: '1705',
+    slug: 'creation-30-brown-41871705', sku: '1705',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - AQUINOAH BROWN',
     description: 'Gerflor Creation 30 - AQUINOAH BROWN (Šifra: 1705)',
     images: [{
       id: 'creation-30-brown-41871705-img-1',
-      url: '/images/products/lvt/colors/creation-30/1705-aquinoah-brown/pod/1705-aquinoah-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1705-aquinoah-brown/pod/1705-aquinoah-brown-pod.jpg?v=9',
       alt: 'AQUINOAH BROWN',
       isPrimary: true,
       order: 1,
@@ -332,15 +320,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-chestnut-41761274',
     name: '1274 LOUNGE OAK CHESTNUT',
-    slug: 'creation-30-chestnut-41761274',
-    sku: '1274',
+    slug: 'creation-30-chestnut-41761274', sku: '1274',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - LOUNGE OAK CHESTNUT',
     description: 'Gerflor Creation 30 - LOUNGE OAK CHESTNUT (Šifra: 1274)',
     images: [{
       id: 'creation-30-chestnut-41761274-img-1',
-      url: '/images/products/lvt/colors/creation-30/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=9',
       alt: 'LOUNGE OAK CHESTNUT',
       isPrimary: true,
       order: 1,
@@ -359,15 +346,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-clear-41831599',
     name: '1599 BLOOM UNI CLEAR',
-    slug: 'creation-30-clear-41831599',
-    sku: '1599',
+    slug: 'creation-30-clear-41831599', sku: '1599',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - BLOOM UNI CLEAR',
     description: 'Gerflor Creation 30 - BLOOM UNI CLEAR (Šifra: 1599)',
     images: [{
       id: 'creation-30-clear-41831599-img-1',
-      url: '/images/products/lvt/colors/creation-30/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=9',
       alt: 'BLOOM UNI CLEAR',
       isPrimary: true,
       order: 1,
@@ -386,15 +372,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-clear-41831603',
     name: '1603 CURTON STONE CLEAR',
-    slug: 'creation-30-clear-41831603',
-    sku: '1603',
+    slug: 'creation-30-clear-41831603', sku: '1603',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - CURTON STONE CLEAR',
     description: 'Gerflor Creation 30 - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-30-clear-41831603-img-1',
-      url: '/images/products/lvt/colors/creation-30/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=9',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -413,15 +398,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-clear-41871567',
     name: '1567 TAMO CLEAR',
-    slug: 'creation-30-clear-41871567',
-    sku: '1567',
+    slug: 'creation-30-clear-41871567', sku: '1567',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - TAMO CLEAR',
     description: 'Gerflor Creation 30 - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-30-clear-41871567-img-1',
-      url: '/images/products/lvt/colors/creation-30/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=9',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -440,15 +424,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-cream-41831600',
     name: '1600 BLOOM UNI CREAM',
-    slug: 'creation-30-cream-41831600',
-    sku: '1600',
+    slug: 'creation-30-cream-41831600', sku: '1600',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - BLOOM UNI CREAM',
     description: 'Gerflor Creation 30 - BLOOM UNI CREAM (Šifra: 1600)',
     images: [{
       id: 'creation-30-cream-41831600-img-1',
-      url: '/images/products/lvt/colors/creation-30/1600-bloom-uni-cream/pod/1600-bloom-uni-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1600-bloom-uni-cream/pod/1600-bloom-uni-cream-pod.jpg?v=9',
       alt: 'BLOOM UNI CREAM',
       isPrimary: true,
       order: 1,
@@ -467,15 +450,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-cream-41871598',
     name: '1598 TAMO CREAM',
-    slug: 'creation-30-cream-41871598',
-    sku: '1598',
+    slug: 'creation-30-cream-41871598', sku: '1598',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - TAMO CREAM',
     description: 'Gerflor Creation 30 - TAMO CREAM (Šifra: 1598)',
     images: [{
       id: 'creation-30-cream-41871598-img-1',
-      url: '/images/products/lvt/colors/creation-30/1598-tamo-cream/pod/1598-tamo-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1598-tamo-cream/pod/1598-tamo-cream-pod.jpg?v=9',
       alt: 'TAMO CREAM',
       isPrimary: true,
       order: 1,
@@ -494,15 +476,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-dark-41741711',
     name: '1711 BACKYARD DARK',
-    slug: 'creation-30-dark-41741711',
-    sku: '1711',
+    slug: 'creation-30-dark-41741711', sku: '1711',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - BACKYARD DARK',
     description: 'Gerflor Creation 30 - BACKYARD DARK (Šifra: 1711)',
     images: [{
       id: 'creation-30-dark-41741711-img-1',
-      url: '/images/products/lvt/colors/creation-30/1711-backyard-dark/pod/1711-backyard-dark-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1711-backyard-dark/pod/1711-backyard-dark-pod.jpg?v=9',
       alt: 'BACKYARD DARK',
       isPrimary: true,
       order: 1,
@@ -521,15 +502,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-dark-41831601',
     name: '1601 BLOOM UNI DARK',
-    slug: 'creation-30-dark-41831601',
-    sku: '1601',
+    slug: 'creation-30-dark-41831601', sku: '1601',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - BLOOM UNI DARK',
     description: 'Gerflor Creation 30 - BLOOM UNI DARK (Šifra: 1601)',
     images: [{
       id: 'creation-30-dark-41831601-img-1',
-      url: '/images/products/lvt/colors/creation-30/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=9',
       alt: 'BLOOM UNI DARK',
       isPrimary: true,
       order: 1,
@@ -548,15 +528,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-golden-41731606',
     name: '1606 CEDAR GOLDEN',
-    slug: 'creation-30-golden-41731606',
-    sku: '1606',
+    slug: 'creation-30-golden-41731606', sku: '1606',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - CEDAR GOLDEN',
     description: 'Gerflor Creation 30 - CEDAR GOLDEN (Šifra: 1606)',
     images: [{
       id: 'creation-30-golden-41731606-img-1',
-      url: '/images/products/lvt/colors/creation-30/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=9',
       alt: 'CEDAR GOLDEN',
       isPrimary: true,
       order: 1,
@@ -575,15 +554,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-golden-41761271',
     name: '1271 LOUNGE OAK GOLDEN',
-    slug: 'creation-30-golden-41761271',
-    sku: '1271',
+    slug: 'creation-30-golden-41761271', sku: '1271',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - LOUNGE OAK GOLDEN',
     description: 'Gerflor Creation 30 - LOUNGE OAK GOLDEN (Šifra: 1271)',
     images: [{
       id: 'creation-30-golden-41761271-img-1',
-      url: '/images/products/lvt/colors/creation-30/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=9',
       alt: 'LOUNGE OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -602,15 +580,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-greige-41871708',
     name: '1708 SAVAGE OAK GREIGE',
-    slug: 'creation-30-greige-41871708',
-    sku: '1708',
+    slug: 'creation-30-greige-41871708', sku: '1708',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - SAVAGE OAK GREIGE',
     description: 'Gerflor Creation 30 - SAVAGE OAK GREIGE (Šifra: 1708)',
     images: [{
       id: 'creation-30-greige-41871708-img-1',
-      url: '/images/products/lvt/colors/creation-30/1708-savage-oak-greige/pod/1708-savage-oak-greige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1708-savage-oak-greige/pod/1708-savage-oak-greige-pod.jpg?v=9',
       alt: 'SAVAGE OAK GREIGE',
       isPrimary: true,
       order: 1,
@@ -629,15 +606,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-grey-41751279',
     name: '1279 CHARMING OAK GREY',
-    slug: 'creation-30-grey-41751279',
-    sku: '1279',
+    slug: 'creation-30-grey-41751279', sku: '1279',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - CHARMING OAK GREY',
     description: 'Gerflor Creation 30 - CHARMING OAK GREY (Šifra: 1279)',
     images: [{
       id: 'creation-30-grey-41751279-img-1',
-      url: '/images/products/lvt/colors/creation-30/1279-charming-oak-grey/pod/1279-charming-oak-grey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1279-charming-oak-grey/pod/1279-charming-oak-grey-pod.jpg?v=9',
       alt: 'CHARMING OAK GREY',
       isPrimary: true,
       order: 1,
@@ -656,15 +632,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-honey-41870851',
     name: '0851 BOSTONIAN OAK HONEY',
-    slug: 'creation-30-honey-41870851',
-    sku: '0851',
+    slug: 'creation-30-honey-41870851', sku: '0851',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - BOSTONIAN OAK HONEY',
     description: 'Gerflor Creation 30 - BOSTONIAN OAK HONEY (Šifra: 0851)',
     images: [{
       id: 'creation-30-honey-41870851-img-1',
-      url: '/images/products/lvt/colors/creation-30/0851-bostonian-oak-honey/pod/0851-bostonian-oak-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/0851-bostonian-oak-honey/pod/0851-bostonian-oak-honey-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -683,15 +658,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-honey-41870870',
     name: '0870 QUARTET HONEY',
-    slug: 'creation-30-honey-41870870',
-    sku: '0870',
+    slug: 'creation-30-honey-41870870', sku: '0870',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - QUARTET HONEY',
     description: 'Gerflor Creation 30 - QUARTET HONEY (Šifra: 0870)',
     images: [{
       id: 'creation-30-honey-41870870-img-1',
-      url: '/images/products/lvt/colors/creation-30/0870-quartet-honey/pod/0870-quartet-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/0870-quartet-honey/pod/0870-quartet-honey-pod.jpg?v=9',
       alt: 'QUARTET HONEY',
       isPrimary: true,
       order: 1,
@@ -710,15 +684,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-honey-41871706',
     name: '1706 AQUINOHA HONEY',
-    slug: 'creation-30-honey-41871706',
-    sku: '1706',
+    slug: 'creation-30-honey-41871706', sku: '1706',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - AQUINOHA HONEY',
     description: 'Gerflor Creation 30 - AQUINOHA HONEY (Šifra: 1706)',
     images: [{
       id: 'creation-30-honey-41871706-img-1',
-      url: '/images/products/lvt/colors/creation-30/1706-aquinoha-honey/pod/1706-aquinoha-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1706-aquinoha-honey/pod/1706-aquinoha-honey-pod.jpg?v=9',
       alt: 'AQUINOHA HONEY',
       isPrimary: true,
       order: 1,
@@ -737,15 +710,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-honey-41871709',
     name: '1709 SAVAGE OAK HONEY',
-    slug: 'creation-30-honey-41871709',
-    sku: '1709',
+    slug: 'creation-30-honey-41871709', sku: '1709',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - SAVAGE OAK HONEY',
     description: 'Gerflor Creation 30 - SAVAGE OAK HONEY (Šifra: 1709)',
     images: [{
       id: 'creation-30-honey-41871709-img-1',
-      url: '/images/products/lvt/colors/creation-30/1709-savage-oak-honey/pod/1709-savage-oak-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1709-savage-oak-honey/pod/1709-savage-oak-honey-pod.jpg?v=9',
       alt: 'SAVAGE OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -764,15 +736,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-lime-41870584',
     name: '0584 WHITE LIME',
-    slug: 'creation-30-lime-41870584',
-    sku: '0584',
+    slug: 'creation-30-lime-41870584', sku: '0584',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - WHITE LIME',
     description: 'Gerflor Creation 30 - WHITE LIME (Šifra: 0584)',
     images: [{
       id: 'creation-30-lime-41870584-img-1',
-      url: '/images/products/lvt/colors/creation-30/0584-white-lime/pod/0584-white-lime-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/0584-white-lime/pod/0584-white-lime-pod.jpg?v=9',
       alt: 'WHITE LIME',
       isPrimary: true,
       order: 1,
@@ -791,15 +762,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-natural-41731607',
     name: '1607 CEDAR NATURAL',
-    slug: 'creation-30-natural-41731607',
-    sku: '1607',
+    slug: 'creation-30-natural-41731607', sku: '1607',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - CEDAR NATURAL',
     description: 'Gerflor Creation 30 - CEDAR NATURAL (Šifra: 1607)',
     images: [{
       id: 'creation-30-natural-41731607-img-1',
-      url: '/images/products/lvt/colors/creation-30/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=9',
       alt: 'CEDAR NATURAL',
       isPrimary: true,
       order: 1,
@@ -818,15 +788,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-natural-41761273',
     name: '1273 LOUNGE OAK NATURAL',
-    slug: 'creation-30-natural-41761273',
-    sku: '1273',
+    slug: 'creation-30-natural-41761273', sku: '1273',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - LOUNGE OAK NATURAL',
     description: 'Gerflor Creation 30 - LOUNGE OAK NATURAL (Šifra: 1273)',
     images: [{
       id: 'creation-30-natural-41761273-img-1',
-      url: '/images/products/lvt/colors/creation-30/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=9',
       alt: 'LOUNGE OAK NATURAL',
       isPrimary: true,
       order: 1,
@@ -845,15 +814,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-natural-41870545',
     name: '0545 QUARTET NATURAL',
-    slug: 'creation-30-natural-41870545',
-    sku: '0545',
+    slug: 'creation-30-natural-41870545', sku: '0545',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - QUARTET NATURAL',
     description: 'Gerflor Creation 30 - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-30-natural-41870545-img-1',
-      url: '/images/products/lvt/colors/creation-30/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=9',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -872,15 +840,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-natural-41871561',
     name: '1561 TAMO NATURAL',
-    slug: 'creation-30-natural-41871561',
-    sku: '1561',
+    slug: 'creation-30-natural-41871561', sku: '1561',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - TAMO NATURAL',
     description: 'Gerflor Creation 30 - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-30-natural-41871561-img-1',
-      url: '/images/products/lvt/colors/creation-30/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=9',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -899,15 +866,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-nature-41871707',
     name: '1707 AQUINOAH NATURE LUNA COBALT',
-    slug: 'creation-30-nature-41871707',
-    sku: '1707',
+    slug: 'creation-30-nature-41871707', sku: '1707',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - AQUINOAH NATURE LUNA COBALT',
     description: 'Gerflor Creation 30 - AQUINOAH NATURE LUNA COBALT (Šifra: 1707)',
     images: [{
       id: 'creation-30-nature-41871707-img-1',
-      url: '/images/products/lvt/colors/creation-30/1707-aquinoah-nature-luna-cobalt/pod/1707-aquinoah-nature-luna-cobalt-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1707-aquinoah-nature-luna-cobalt/pod/1707-aquinoah-nature-luna-cobalt-pod.jpg?v=9',
       alt: 'AQUINOAH NATURE LUNA COBALT',
       isPrimary: true,
       order: 1,
@@ -926,15 +892,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-oak-41870441',
     name: '0441 HONEY OAK',
-    slug: 'creation-30-oak-41870441',
-    sku: '0441',
+    slug: 'creation-30-oak-41870441', sku: '0441',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - HONEY OAK',
     description: 'Gerflor Creation 30 - HONEY OAK (Šifra: 0441)',
     images: [{
       id: 'creation-30-oak-41870441-img-1',
-      url: '/images/products/lvt/colors/creation-30/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=9',
       alt: 'HONEY OAK',
       isPrimary: true,
       order: 1,
@@ -953,15 +918,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-pearl-41831602',
     name: '1602 BLOOM UNI PEARL',
-    slug: 'creation-30-pearl-41831602',
-    sku: '1602',
+    slug: 'creation-30-pearl-41831602', sku: '1602',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - BLOOM UNI PEARL',
     description: 'Gerflor Creation 30 - BLOOM UNI PEARL (Šifra: 1602)',
     images: [{
       id: 'creation-30-pearl-41831602-img-1',
-      url: '/images/products/lvt/colors/creation-30/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=9',
       alt: 'BLOOM UNI PEARL',
       isPrimary: true,
       order: 1,
@@ -980,15 +944,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-quartet-41870503',
     name: '0503 QUARTET',
-    slug: 'creation-30-quartet-41870503',
-    sku: '0503',
+    slug: 'creation-30-quartet-41870503', sku: '0503',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - QUARTET',
     description: 'Gerflor Creation 30 - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-30-quartet-41870503-img-1',
-      url: '/images/products/lvt/colors/creation-30/0503-quartet/pod/0503-quartet-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/0503-quartet/pod/0503-quartet-pod.jpg?v=9',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -1007,15 +970,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-ranch-41870456',
     name: '0456 RANCH',
-    slug: 'creation-30-ranch-41870456',
-    sku: '0456',
+    slug: 'creation-30-ranch-41870456', sku: '0456',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - RANCH',
     description: 'Gerflor Creation 30 - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-30-ranch-41870456-img-1',
-      url: '/images/products/lvt/colors/creation-30/0456-ranch/pod/0456-ranch-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/0456-ranch/pod/0456-ranch-pod.jpg?v=9',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -1034,15 +996,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-smoked-41751714',
     name: '1714 CHARMING OAK SMOKED',
-    slug: 'creation-30-smoked-41751714',
-    sku: '1714',
+    slug: 'creation-30-smoked-41751714', sku: '1714',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - CHARMING OAK SMOKED',
     description: 'Gerflor Creation 30 - CHARMING OAK SMOKED (Šifra: 1714)',
     images: [{
       id: 'creation-30-smoked-41751714-img-1',
-      url: '/images/products/lvt/colors/creation-30/1714-charming-oak-smoked/pod/1714-charming-oak-smoked-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1714-charming-oak-smoked/pod/1714-charming-oak-smoked-pod.jpg?v=9',
       alt: 'CHARMING OAK SMOKED',
       isPrimary: true,
       order: 1,
@@ -1061,15 +1022,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-smoked-41871710',
     name: '1710 SAVAGE OAK SMOKED',
-    slug: 'creation-30-smoked-41871710',
-    sku: '1710',
+    slug: 'creation-30-smoked-41871710', sku: '1710',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - SAVAGE OAK SMOKED',
     description: 'Gerflor Creation 30 - SAVAGE OAK SMOKED (Šifra: 1710)',
     images: [{
       id: 'creation-30-smoked-41871710-img-1',
-      url: '/images/products/lvt/colors/creation-30/1710-savage-oak-smoked/pod/1710-savage-oak-smoked-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1710-savage-oak-smoked/pod/1710-savage-oak-smoked-pod.jpg?v=9',
       alt: 'SAVAGE OAK SMOKED',
       isPrimary: true,
       order: 1,
@@ -1088,15 +1048,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-taupe-41741713',
     name: '1713 BACKYARD TAUPE',
-    slug: 'creation-30-taupe-41741713',
-    sku: '1713',
+    slug: 'creation-30-taupe-41741713', sku: '1713',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - BACKYARD TAUPE',
     description: 'Gerflor Creation 30 - BACKYARD TAUPE (Šifra: 1713)',
     images: [{
       id: 'creation-30-taupe-41741713-img-1',
-      url: '/images/products/lvt/colors/creation-30/1713-backyard-taupe/pod/1713-backyard-taupe-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1713-backyard-taupe/pod/1713-backyard-taupe-pod.jpg?v=9',
       alt: 'BACKYARD TAUPE',
       isPrimary: true,
       order: 1,
@@ -1115,15 +1074,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-taupe-41831604',
     name: '1604 CURTON STONE TAUPE',
-    slug: 'creation-30-taupe-41831604',
-    sku: '1604',
+    slug: 'creation-30-taupe-41831604', sku: '1604',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - CURTON STONE TAUPE',
     description: 'Gerflor Creation 30 - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-30-taupe-41831604-img-1',
-      url: '/images/products/lvt/colors/creation-30/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=9',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -1142,15 +1100,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-30-twist-41870504',
     name: '0504 TWIST',
-    slug: 'creation-30-twist-41870504',
-    sku: '0504',
+    slug: 'creation-30-twist-41870504', sku: '0504',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 30 - TWIST',
     description: 'Gerflor Creation 30 - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-30-twist-41870504-img-1',
-      url: '/images/products/lvt/colors/creation-30/0504-twist/pod/0504-twist-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-30/0504-twist/pod/0504-twist-pod.jpg?v=9',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -1169,15 +1126,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-ballerina-41840347',
     name: '0347 BALLERINA',
-    slug: 'creation-40-ballerina-41840347',
-    sku: '0347',
+    slug: 'creation-40-ballerina-41840347', sku: '0347',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - BALLERINA',
     description: 'Gerflor Creation 40 - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-40-ballerina-41840347-img-1',
-      url: '/images/products/lvt/colors/creation-40/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/0347-ballerina/pod/0347-ballerina-pod.jpg?v=9',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -1196,15 +1152,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-beige-41840853',
     name: '0853 BOSTONIAN OAK BEIGE',
-    slug: 'creation-40-beige-41840853',
-    sku: '0853',
+    slug: 'creation-40-beige-41840853', sku: '0853',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - BOSTONIAN OAK BEIGE',
     description: 'Gerflor Creation 40 - BOSTONIAN OAK BEIGE (Šifra: 0853)',
     images: [{
       id: 'creation-40-beige-41840853-img-1',
-      url: '/images/products/lvt/colors/creation-40/0853-bostonian-oak-beige/pod/0853-bostonian-oak-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/0853-bostonian-oak-beige/pod/0853-bostonian-oak-beige-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -1223,15 +1178,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-beige-41891272',
     name: '1272 LOUNGE OAK BEIGE',
-    slug: 'creation-40-beige-41891272',
-    sku: '1272',
+    slug: 'creation-40-beige-41891272', sku: '1272',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - LOUNGE OAK BEIGE',
     description: 'Gerflor Creation 40 - LOUNGE OAK BEIGE (Šifra: 1272)',
     images: [{
       id: 'creation-40-beige-41891272-img-1',
-      url: '/images/products/lvt/colors/creation-40/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=9',
       alt: 'LOUNGE OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -1250,15 +1204,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-board-41840455',
     name: '0455 LONG BOARD',
-    slug: 'creation-40-board-41840455',
-    sku: '0455',
+    slug: 'creation-40-board-41840455', sku: '0455',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - LONG BOARD',
     description: 'Gerflor Creation 40 - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-40-board-41840455-img-1',
-      url: '/images/products/lvt/colors/creation-40/0455-long-board/pod/0455-long-board-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/0455-long-board/pod/0455-long-board-pod.jpg?v=9',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -1277,15 +1230,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-brown-41841568',
     name: '1568 TAMO LIGHT BROWN',
-    slug: 'creation-40-brown-41841568',
-    sku: '1568',
+    slug: 'creation-40-brown-41841568', sku: '1568',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - TAMO LIGHT BROWN',
     description: 'Gerflor Creation 40 - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-40-brown-41841568-img-1',
-      url: '/images/products/lvt/colors/creation-40/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=9',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -1304,15 +1256,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-brown-41841597',
     name: '1597 QUARTET DARK BROWN',
-    slug: 'creation-40-brown-41841597',
-    sku: '1597',
+    slug: 'creation-40-brown-41841597', sku: '1597',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - QUARTET DARK BROWN',
     description: 'Gerflor Creation 40 - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-40-brown-41841597-img-1',
-      url: '/images/products/lvt/colors/creation-40/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=9',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -1331,15 +1282,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-brown-41900850',
     name: '0850 CEDAR BROWN',
-    slug: 'creation-40-brown-41900850',
-    sku: '0850',
+    slug: 'creation-40-brown-41900850', sku: '0850',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - CEDAR BROWN',
     description: 'Gerflor Creation 40 - CEDAR BROWN (Šifra: 0850)',
     images: [{
       id: 'creation-40-brown-41900850-img-1',
-      url: '/images/products/lvt/colors/creation-40/0850-cedar-brown/pod/0850-cedar-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/0850-cedar-brown/pod/0850-cedar-brown-pod.jpg?v=9',
       alt: 'CEDAR BROWN',
       isPrimary: true,
       order: 1,
@@ -1358,15 +1308,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-brown-41901605',
     name: '1605 CEDAR DARK BROWN',
-    slug: 'creation-40-brown-41901605',
-    sku: '1605',
+    slug: 'creation-40-brown-41901605', sku: '1605',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - CEDAR DARK BROWN',
     description: 'Gerflor Creation 40 - CEDAR DARK BROWN (Šifra: 1605)',
     images: [{
       id: 'creation-40-brown-41901605-img-1',
-      url: '/images/products/lvt/colors/creation-40/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=9',
       alt: 'CEDAR DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -1385,15 +1334,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-chestnut-41891274',
     name: '1274 LOUNGE OAK CHESTNUT',
-    slug: 'creation-40-chestnut-41891274',
-    sku: '1274',
+    slug: 'creation-40-chestnut-41891274', sku: '1274',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - LOUNGE OAK CHESTNUT',
     description: 'Gerflor Creation 40 - LOUNGE OAK CHESTNUT (Šifra: 1274)',
     images: [{
       id: 'creation-40-chestnut-41891274-img-1',
-      url: '/images/products/lvt/colors/creation-40/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=9',
       alt: 'LOUNGE OAK CHESTNUT',
       isPrimary: true,
       order: 1,
@@ -1412,15 +1360,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clear-41841567',
     name: '1567 TAMO CLEAR',
-    slug: 'creation-40-clear-41841567',
-    sku: '1567',
+    slug: 'creation-40-clear-41841567', sku: '1567',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - TAMO CLEAR',
     description: 'Gerflor Creation 40 - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-40-clear-41841567-img-1',
-      url: '/images/products/lvt/colors/creation-40/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=9',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -1439,15 +1386,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clear-41881599',
     name: '1599 BLOOM UNI CLEAR',
-    slug: 'creation-40-clear-41881599',
-    sku: '1599',
+    slug: 'creation-40-clear-41881599', sku: '1599',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - BLOOM UNI CLEAR',
     description: 'Gerflor Creation 40 - BLOOM UNI CLEAR (Šifra: 1599)',
     images: [{
       id: 'creation-40-clear-41881599-img-1',
-      url: '/images/products/lvt/colors/creation-40/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=9',
       alt: 'BLOOM UNI CLEAR',
       isPrimary: true,
       order: 1,
@@ -1466,15 +1412,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clear-41881603',
     name: '1603 CURTON STONE CLEAR',
-    slug: 'creation-40-clear-41881603',
-    sku: '1603',
+    slug: 'creation-40-clear-41881603', sku: '1603',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - CURTON STONE CLEAR',
     description: 'Gerflor Creation 40 - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-40-clear-41881603-img-1',
-      url: '/images/products/lvt/colors/creation-40/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=9',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -1493,15 +1438,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-cream-41841598',
     name: '1598 TAMO CREAM',
-    slug: 'creation-40-cream-41841598',
-    sku: '1598',
+    slug: 'creation-40-cream-41841598', sku: '1598',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - TAMO CREAM',
     description: 'Gerflor Creation 40 - TAMO CREAM (Šifra: 1598)',
     images: [{
       id: 'creation-40-cream-41841598-img-1',
-      url: '/images/products/lvt/colors/creation-40/1598-tamo-cream/pod/1598-tamo-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1598-tamo-cream/pod/1598-tamo-cream-pod.jpg?v=9',
       alt: 'TAMO CREAM',
       isPrimary: true,
       order: 1,
@@ -1520,15 +1464,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-cream-41881600',
     name: '1600 BLOOM UNI CREAM',
-    slug: 'creation-40-cream-41881600',
-    sku: '1600',
+    slug: 'creation-40-cream-41881600', sku: '1600',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - BLOOM UNI CREAM',
     description: 'Gerflor Creation 40 - BLOOM UNI CREAM (Šifra: 1600)',
     images: [{
       id: 'creation-40-cream-41881600-img-1',
-      url: '/images/products/lvt/colors/creation-40/1600-bloom-uni-cream/pod/1600-bloom-uni-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1600-bloom-uni-cream/pod/1600-bloom-uni-cream-pod.jpg?v=9',
       alt: 'BLOOM UNI CREAM',
       isPrimary: true,
       order: 1,
@@ -1547,15 +1490,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-dark-41881601',
     name: '1601 BLOOM UNI DARK',
-    slug: 'creation-40-dark-41881601',
-    sku: '1601',
+    slug: 'creation-40-dark-41881601', sku: '1601',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - BLOOM UNI DARK',
     description: 'Gerflor Creation 40 - BLOOM UNI DARK (Šifra: 1601)',
     images: [{
       id: 'creation-40-dark-41881601-img-1',
-      url: '/images/products/lvt/colors/creation-40/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=9',
       alt: 'BLOOM UNI DARK',
       isPrimary: true,
       order: 1,
@@ -1574,15 +1516,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-golden-41891271',
     name: '1271 LOUNGE OAK GOLDEN',
-    slug: 'creation-40-golden-41891271',
-    sku: '1271',
+    slug: 'creation-40-golden-41891271', sku: '1271',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - LOUNGE OAK GOLDEN',
     description: 'Gerflor Creation 40 - LOUNGE OAK GOLDEN (Šifra: 1271)',
     images: [{
       id: 'creation-40-golden-41891271-img-1',
-      url: '/images/products/lvt/colors/creation-40/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=9',
       alt: 'LOUNGE OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -1601,15 +1542,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-golden-41901606',
     name: '1606 CEDAR GOLDEN',
-    slug: 'creation-40-golden-41901606',
-    sku: '1606',
+    slug: 'creation-40-golden-41901606', sku: '1606',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - CEDAR GOLDEN',
     description: 'Gerflor Creation 40 - CEDAR GOLDEN (Šifra: 1606)',
     images: [{
       id: 'creation-40-golden-41901606-img-1',
-      url: '/images/products/lvt/colors/creation-40/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=9',
       alt: 'CEDAR GOLDEN',
       isPrimary: true,
       order: 1,
@@ -1628,15 +1568,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-honey-41840851',
     name: '0851 BOSTONIAN OAK HONEY',
-    slug: 'creation-40-honey-41840851',
-    sku: '0851',
+    slug: 'creation-40-honey-41840851', sku: '0851',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - BOSTONIAN OAK HONEY',
     description: 'Gerflor Creation 40 - BOSTONIAN OAK HONEY (Šifra: 0851)',
     images: [{
       id: 'creation-40-honey-41840851-img-1',
-      url: '/images/products/lvt/colors/creation-40/0851-bostonian-oak-honey/pod/0851-bostonian-oak-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/0851-bostonian-oak-honey/pod/0851-bostonian-oak-honey-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -1655,15 +1594,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-honey-41840870',
     name: '0870 QUARTET HONEY',
-    slug: 'creation-40-honey-41840870',
-    sku: '0870',
+    slug: 'creation-40-honey-41840870', sku: '0870',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - QUARTET HONEY',
     description: 'Gerflor Creation 40 - QUARTET HONEY (Šifra: 0870)',
     images: [{
       id: 'creation-40-honey-41840870-img-1',
-      url: '/images/products/lvt/colors/creation-40/0870-quartet-honey/pod/0870-quartet-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/0870-quartet-honey/pod/0870-quartet-honey-pod.jpg?v=9',
       alt: 'QUARTET HONEY',
       isPrimary: true,
       order: 1,
@@ -1682,15 +1620,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-lime-41840584',
     name: '0584 WHITE LIME',
-    slug: 'creation-40-lime-41840584',
-    sku: '0584',
+    slug: 'creation-40-lime-41840584', sku: '0584',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - WHITE LIME',
     description: 'Gerflor Creation 40 - WHITE LIME (Šifra: 0584)',
     images: [{
       id: 'creation-40-lime-41840584-img-1',
-      url: '/images/products/lvt/colors/creation-40/0584-white-lime/pod/0584-white-lime-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/0584-white-lime/pod/0584-white-lime-pod.jpg?v=9',
       alt: 'WHITE LIME',
       isPrimary: true,
       order: 1,
@@ -1709,15 +1646,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-natural-41840545',
     name: '0545 QUARTET NATURAL',
-    slug: 'creation-40-natural-41840545',
-    sku: '0545',
+    slug: 'creation-40-natural-41840545', sku: '0545',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - QUARTET NATURAL',
     description: 'Gerflor Creation 40 - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-40-natural-41840545-img-1',
-      url: '/images/products/lvt/colors/creation-40/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=9',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -1736,15 +1672,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-natural-41841561',
     name: '1561 TAMO NATURAL',
-    slug: 'creation-40-natural-41841561',
-    sku: '1561',
+    slug: 'creation-40-natural-41841561', sku: '1561',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - TAMO NATURAL',
     description: 'Gerflor Creation 40 - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-40-natural-41841561-img-1',
-      url: '/images/products/lvt/colors/creation-40/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=9',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -1763,15 +1698,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-natural-41891273',
     name: '1273 LOUNGE OAK NATURAL',
-    slug: 'creation-40-natural-41891273',
-    sku: '1273',
+    slug: 'creation-40-natural-41891273', sku: '1273',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - LOUNGE OAK NATURAL',
     description: 'Gerflor Creation 40 - LOUNGE OAK NATURAL (Šifra: 1273)',
     images: [{
       id: 'creation-40-natural-41891273-img-1',
-      url: '/images/products/lvt/colors/creation-40/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=9',
       alt: 'LOUNGE OAK NATURAL',
       isPrimary: true,
       order: 1,
@@ -1790,15 +1724,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-natural-41901607',
     name: '1607 CEDAR NATURAL',
-    slug: 'creation-40-natural-41901607',
-    sku: '1607',
+    slug: 'creation-40-natural-41901607', sku: '1607',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - CEDAR NATURAL',
     description: 'Gerflor Creation 40 - CEDAR NATURAL (Šifra: 1607)',
     images: [{
       id: 'creation-40-natural-41901607-img-1',
-      url: '/images/products/lvt/colors/creation-40/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=9',
       alt: 'CEDAR NATURAL',
       isPrimary: true,
       order: 1,
@@ -1817,15 +1750,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-oak-41840441',
     name: '0441 HONEY OAK',
-    slug: 'creation-40-oak-41840441',
-    sku: '0441',
+    slug: 'creation-40-oak-41840441', sku: '0441',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - HONEY OAK',
     description: 'Gerflor Creation 40 - HONEY OAK (Šifra: 0441)',
     images: [{
       id: 'creation-40-oak-41840441-img-1',
-      url: '/images/products/lvt/colors/creation-40/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=9',
       alt: 'HONEY OAK',
       isPrimary: true,
       order: 1,
@@ -1844,15 +1776,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-pearl-41881602',
     name: '1602 BLOOM UNI PEARL',
-    slug: 'creation-40-pearl-41881602',
-    sku: '1602',
+    slug: 'creation-40-pearl-41881602', sku: '1602',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - BLOOM UNI PEARL',
     description: 'Gerflor Creation 40 - BLOOM UNI PEARL (Šifra: 1602)',
     images: [{
       id: 'creation-40-pearl-41881602-img-1',
-      url: '/images/products/lvt/colors/creation-40/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=9',
       alt: 'BLOOM UNI PEARL',
       isPrimary: true,
       order: 1,
@@ -1871,15 +1802,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-quartet-41840503',
     name: '0503 QUARTET',
-    slug: 'creation-40-quartet-41840503',
-    sku: '0503',
+    slug: 'creation-40-quartet-41840503', sku: '0503',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - QUARTET',
     description: 'Gerflor Creation 40 - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-40-quartet-41840503-img-1',
-      url: '/images/products/lvt/colors/creation-40/0503-quartet/pod/0503-quartet-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/0503-quartet/pod/0503-quartet-pod.jpg?v=9',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -1898,15 +1828,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-ranch-41840456',
     name: '0456 RANCH',
-    slug: 'creation-40-ranch-41840456',
-    sku: '0456',
+    slug: 'creation-40-ranch-41840456', sku: '0456',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - RANCH',
     description: 'Gerflor Creation 40 - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-40-ranch-41840456-img-1',
-      url: '/images/products/lvt/colors/creation-40/0456-ranch/pod/0456-ranch-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/0456-ranch/pod/0456-ranch-pod.jpg?v=9',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -1925,15 +1854,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-taupe-41881604',
     name: '1604 CURTON STONE TAUPE',
-    slug: 'creation-40-taupe-41881604',
-    sku: '1604',
+    slug: 'creation-40-taupe-41881604', sku: '1604',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - CURTON STONE TAUPE',
     description: 'Gerflor Creation 40 - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-40-taupe-41881604-img-1',
-      url: '/images/products/lvt/colors/creation-40/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=9',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -1952,15 +1880,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-twist-41840504',
     name: '0504 TWIST',
-    slug: 'creation-40-twist-41840504',
-    sku: '0504',
+    slug: 'creation-40-twist-41840504', sku: '0504',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 - TWIST',
     description: 'Gerflor Creation 40 - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-40-twist-41840504-img-1',
-      url: '/images/products/lvt/colors/creation-40/0504-twist/pod/0504-twist-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40/0504-twist/pod/0504-twist-pod.jpg?v=9',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -1979,15 +1906,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-beige-61391272',
     name: '1272 LOUNGE OAK BEIGE',
-    slug: 'creation-40-clic-beige-61391272',
-    sku: '1272',
+    slug: 'creation-40-clic-beige-61391272', sku: '1272',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic - LOUNGE OAK BEIGE',
     description: 'Gerflor Creation 40 Clic - LOUNGE OAK BEIGE (Šifra: 1272)',
     images: [{
       id: 'creation-40-clic-beige-61391272-img-1',
-      url: '/images/products/lvt/colors/creation-40/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=9',
       alt: 'LOUNGE OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -2006,15 +1932,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-brown-60601597',
     name: '1597 QUARTET DARK BROWN',
-    slug: 'creation-40-clic-brown-60601597',
-    sku: '1597',
+    slug: 'creation-40-clic-brown-60601597', sku: '1597',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic - QUARTET DARK BROWN',
     description: 'Gerflor Creation 40 Clic - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-40-clic-brown-60601597-img-1',
-      url: '/images/products/lvt/colors/creation-40/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=9',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -2033,15 +1958,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-brown-60621605',
     name: '1605 CEDAR DARK BROWN',
-    slug: 'creation-40-clic-brown-60621605',
-    sku: '1605',
+    slug: 'creation-40-clic-brown-60621605', sku: '1605',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic - CEDAR DARK BROWN',
     description: 'Gerflor Creation 40 Clic - CEDAR DARK BROWN (Šifra: 1605)',
     images: [{
       id: 'creation-40-clic-brown-60621605-img-1',
-      url: '/images/products/lvt/colors/creation-40/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=9',
       alt: 'CEDAR DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -2114,15 +2038,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-chestnut-61391274',
     name: '1274 LOUNGE OAK CHESTNUT',
-    slug: 'creation-40-clic-chestnut-61391274',
-    sku: '1274',
+    slug: 'creation-40-clic-chestnut-61391274', sku: '1274',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic - LOUNGE OAK CHESTNUT',
     description: 'Gerflor Creation 40 Clic - LOUNGE OAK CHESTNUT (Šifra: 1274)',
     images: [{
       id: 'creation-40-clic-chestnut-61391274-img-1',
-      url: '/images/products/lvt/colors/creation-40/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=9',
       alt: 'LOUNGE OAK CHESTNUT',
       isPrimary: true,
       order: 1,
@@ -2141,15 +2064,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-clear-60611603',
     name: '1603 CURTON STONE CLEAR',
-    slug: 'creation-40-clic-clear-60611603',
-    sku: '1603',
+    slug: 'creation-40-clic-clear-60611603', sku: '1603',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic - CURTON STONE CLEAR',
     description: 'Gerflor Creation 40 Clic - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-40-clic-clear-60611603-img-1',
-      url: '/images/products/lvt/colors/creation-40/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=9',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -2276,15 +2198,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-golden-60621606',
     name: '1606 CEDAR GOLDEN',
-    slug: 'creation-40-clic-golden-60621606',
-    sku: '1606',
+    slug: 'creation-40-clic-golden-60621606', sku: '1606',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic - CEDAR GOLDEN',
     description: 'Gerflor Creation 40 Clic - CEDAR GOLDEN (Šifra: 1606)',
     images: [{
       id: 'creation-40-clic-golden-60621606-img-1',
-      url: '/images/products/lvt/colors/creation-40/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=9',
       alt: 'CEDAR GOLDEN',
       isPrimary: true,
       order: 1,
@@ -2303,15 +2224,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-golden-61391271',
     name: '1271 LOUNGE OAK GOLDEN',
-    slug: 'creation-40-clic-golden-61391271',
-    sku: '1271',
+    slug: 'creation-40-clic-golden-61391271', sku: '1271',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic - LOUNGE OAK GOLDEN',
     description: 'Gerflor Creation 40 Clic - LOUNGE OAK GOLDEN (Šifra: 1271)',
     images: [{
       id: 'creation-40-clic-golden-61391271-img-1',
-      url: '/images/products/lvt/colors/creation-40/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=9',
       alt: 'LOUNGE OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -2384,15 +2304,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-natural-60600545',
     name: '0545 QUARTET NATURAL',
-    slug: 'creation-40-clic-natural-60600545',
-    sku: '0545',
+    slug: 'creation-40-clic-natural-60600545', sku: '0545',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic - QUARTET NATURAL',
     description: 'Gerflor Creation 40 Clic - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-40-clic-natural-60600545-img-1',
-      url: '/images/products/lvt/colors/creation-40/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=9',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -2411,15 +2330,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-natural-61391273',
     name: '1273 LOUNGE OAK NATURAL',
-    slug: 'creation-40-clic-natural-61391273',
-    sku: '1273',
+    slug: 'creation-40-clic-natural-61391273', sku: '1273',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic - LOUNGE OAK NATURAL',
     description: 'Gerflor Creation 40 Clic - LOUNGE OAK NATURAL (Šifra: 1273)',
     images: [{
       id: 'creation-40-clic-natural-61391273-img-1',
-      url: '/images/products/lvt/colors/creation-40/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=9',
       alt: 'LOUNGE OAK NATURAL',
       isPrimary: true,
       order: 1,
@@ -2465,15 +2383,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-taupe-60611604',
     name: '1604 CURTON STONE TAUPE',
-    slug: 'creation-40-clic-taupe-60611604',
-    sku: '1604',
+    slug: 'creation-40-clic-taupe-60611604', sku: '1604',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic - CURTON STONE TAUPE',
     description: 'Gerflor Creation 40 Clic - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-40-clic-taupe-60611604-img-1',
-      url: '/images/products/lvt/colors/creation-40/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=9',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -2519,15 +2436,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-ballerina-61300347',
     name: '0347 BALLERINA',
-    slug: 'creation-40-clic-acoustic-ballerina-61300347',
-    sku: '0347',
+    slug: 'creation-40-clic-acoustic-ballerina-61300347', sku: '0347',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - BALLERINA',
     description: 'Gerflor Creation 40 Clic Acoustic - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-40-clic-acoustic-ballerina-61300347-img-1',
-      url: '/images/products/lvt/colors/creation-40/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/0347-ballerina/pod/0347-ballerina-pod.jpg?v=9',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -2546,15 +2462,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-beige-61300853',
     name: '0853 BOSTONIAN OAK BEIGE',
-    slug: 'creation-40-clic-acoustic-beige-61300853',
-    sku: '0853',
+    slug: 'creation-40-clic-acoustic-beige-61300853', sku: '0853',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - BOSTONIAN OAK BEIGE',
     description: 'Gerflor Creation 40 Clic Acoustic - BOSTONIAN OAK BEIGE (Šifra: 0853)',
     images: [{
       id: 'creation-40-clic-acoustic-beige-61300853-img-1',
-      url: '/images/products/lvt/colors/creation-40/0853-bostonian-oak-beige/pod/0853-bostonian-oak-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/0853-bostonian-oak-beige/pod/0853-bostonian-oak-beige-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -2573,15 +2488,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-beige-61321712',
     name: '1712 BACKYARD LIGHT BEIGE',
-    slug: 'creation-40-clic-acoustic-beige-61321712',
-    sku: '1712',
+    slug: 'creation-40-clic-acoustic-beige-61321712', sku: '1712',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - BACKYARD LIGHT BEIGE',
     description: 'Gerflor Creation 40 Clic Acoustic - BACKYARD LIGHT BEIGE (Šifra: 1712)',
     images: [{
       id: 'creation-40-clic-acoustic-beige-61321712-img-1',
-      url: '/images/products/lvt/colors/creation-40-clic-acoustic/beige-61321712.jpg',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1712-backyard-light-beige/pod/1712-backyard-light-beige-pod.jpg?v=9',
       alt: 'BACKYARD LIGHT BEIGE',
       isPrimary: true,
       order: 1,
@@ -2600,15 +2514,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-beige-61351272',
     name: '1272 LOUNGE OAK BEIGE',
-    slug: 'creation-40-clic-acoustic-beige-61351272',
-    sku: '1272',
+    slug: 'creation-40-clic-acoustic-beige-61351272', sku: '1272',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - LOUNGE OAK BEIGE',
     description: 'Gerflor Creation 40 Clic Acoustic - LOUNGE OAK BEIGE (Šifra: 1272)',
     images: [{
       id: 'creation-40-clic-acoustic-beige-61351272-img-1',
-      url: '/images/products/lvt/colors/creation-40/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=9',
       alt: 'LOUNGE OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -2627,15 +2540,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-blond-61301704',
     name: '1704 AQUINOAH BLOND',
-    slug: 'creation-40-clic-acoustic-blond-61301704',
-    sku: '1704',
+    slug: 'creation-40-clic-acoustic-blond-61301704', sku: '1704',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - AQUINOAH BLOND',
     description: 'Gerflor Creation 40 Clic Acoustic - AQUINOAH BLOND (Šifra: 1704)',
     images: [{
       id: 'creation-40-clic-acoustic-blond-61301704-img-1',
-      url: '/images/products/lvt/colors/creation-40-clic-acoustic/blond-61301704.jpg',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1704-aquinoah-blond/pod/1704-aquinoah-blond-pod.jpg?v=9',
       alt: 'AQUINOAH BLOND',
       isPrimary: true,
       order: 1,
@@ -2654,15 +2566,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-board-61300455',
     name: '0455 LONG BOARD',
-    slug: 'creation-40-clic-acoustic-board-61300455',
-    sku: '0455',
+    slug: 'creation-40-clic-acoustic-board-61300455', sku: '0455',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - LONG BOARD',
     description: 'Gerflor Creation 40 Clic Acoustic - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-40-clic-acoustic-board-61300455-img-1',
-      url: '/images/products/lvt/colors/creation-40/0455-long-board/pod/0455-long-board-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/0455-long-board/pod/0455-long-board-pod.jpg?v=9',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -2681,15 +2592,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-brown-61301568',
     name: '1568 TAMO LIGHT BROWN',
-    slug: 'creation-40-clic-acoustic-brown-61301568',
-    sku: '1568',
+    slug: 'creation-40-clic-acoustic-brown-61301568', sku: '1568',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - TAMO LIGHT BROWN',
     description: 'Gerflor Creation 40 Clic Acoustic - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-40-clic-acoustic-brown-61301568-img-1',
-      url: '/images/products/lvt/colors/creation-40/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=9',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -2708,15 +2618,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-brown-61301597',
     name: '1597 QUARTET DARK BROWN',
-    slug: 'creation-40-clic-acoustic-brown-61301597',
-    sku: '1597',
+    slug: 'creation-40-clic-acoustic-brown-61301597', sku: '1597',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - QUARTET DARK BROWN',
     description: 'Gerflor Creation 40 Clic Acoustic - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-40-clic-acoustic-brown-61301597-img-1',
-      url: '/images/products/lvt/colors/creation-40/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=9',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -2735,15 +2644,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-brown-61301705',
     name: '1705 AQUINOAH BROWN',
-    slug: 'creation-40-clic-acoustic-brown-61301705',
-    sku: '1705',
+    slug: 'creation-40-clic-acoustic-brown-61301705', sku: '1705',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - AQUINOAH BROWN',
     description: 'Gerflor Creation 40 Clic Acoustic - AQUINOAH BROWN (Šifra: 1705)',
     images: [{
       id: 'creation-40-clic-acoustic-brown-61301705-img-1',
-      url: '/images/products/lvt/colors/creation-40-clic-acoustic/brown-61301705.jpg',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1705-aquinoah-brown/pod/1705-aquinoah-brown-pod.jpg?v=9',
       alt: 'AQUINOAH BROWN',
       isPrimary: true,
       order: 1,
@@ -2762,15 +2670,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-brown-61310850',
     name: '0850 CEDAR BROWN',
-    slug: 'creation-40-clic-acoustic-brown-61310850',
-    sku: '0850',
+    slug: 'creation-40-clic-acoustic-brown-61310850', sku: '0850',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - CEDAR BROWN',
     description: 'Gerflor Creation 40 Clic Acoustic - CEDAR BROWN (Šifra: 0850)',
     images: [{
       id: 'creation-40-clic-acoustic-brown-61310850-img-1',
-      url: '/images/products/lvt/colors/creation-40/0850-cedar-brown/pod/0850-cedar-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/0850-cedar-brown/pod/0850-cedar-brown-pod.jpg?v=9',
       alt: 'CEDAR BROWN',
       isPrimary: true,
       order: 1,
@@ -2789,15 +2696,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-brown-61311605',
     name: '1605 CEDAR DARK BROWN',
-    slug: 'creation-40-clic-acoustic-brown-61311605',
-    sku: '1605',
+    slug: 'creation-40-clic-acoustic-brown-61311605', sku: '1605',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - CEDAR DARK BROWN',
     description: 'Gerflor Creation 40 Clic Acoustic - CEDAR DARK BROWN (Šifra: 1605)',
     images: [{
       id: 'creation-40-clic-acoustic-brown-61311605-img-1',
-      url: '/images/products/lvt/colors/creation-40/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=9',
       alt: 'CEDAR DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -2816,15 +2722,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-chestnut-61351274',
     name: '1274 LOUNGE OAK CHESTNUT',
-    slug: 'creation-40-clic-acoustic-chestnut-61351274',
-    sku: '1274',
+    slug: 'creation-40-clic-acoustic-chestnut-61351274', sku: '1274',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - LOUNGE OAK CHESTNUT',
     description: 'Gerflor Creation 40 Clic Acoustic - LOUNGE OAK CHESTNUT (Šifra: 1274)',
     images: [{
       id: 'creation-40-clic-acoustic-chestnut-61351274-img-1',
-      url: '/images/products/lvt/colors/creation-40/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=9',
       alt: 'LOUNGE OAK CHESTNUT',
       isPrimary: true,
       order: 1,
@@ -2843,15 +2748,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-clear-61301567',
     name: '1567 TAMO CLEAR',
-    slug: 'creation-40-clic-acoustic-clear-61301567',
-    sku: '1567',
+    slug: 'creation-40-clic-acoustic-clear-61301567', sku: '1567',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - TAMO CLEAR',
     description: 'Gerflor Creation 40 Clic Acoustic - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-40-clic-acoustic-clear-61301567-img-1',
-      url: '/images/products/lvt/colors/creation-40/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=9',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -2870,15 +2774,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-clear-61321599',
     name: '1599 BLOOM UNI CLEAR',
-    slug: 'creation-40-clic-acoustic-clear-61321599',
-    sku: '1599',
+    slug: 'creation-40-clic-acoustic-clear-61321599', sku: '1599',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - BLOOM UNI CLEAR',
     description: 'Gerflor Creation 40 Clic Acoustic - BLOOM UNI CLEAR (Šifra: 1599)',
     images: [{
       id: 'creation-40-clic-acoustic-clear-61321599-img-1',
-      url: '/images/products/lvt/colors/creation-40/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=9',
       alt: 'BLOOM UNI CLEAR',
       isPrimary: true,
       order: 1,
@@ -2897,15 +2800,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-clear-61321603',
     name: '1603 CURTON STONE CLEAR',
-    slug: 'creation-40-clic-acoustic-clear-61321603',
-    sku: '1603',
+    slug: 'creation-40-clic-acoustic-clear-61321603', sku: '1603',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - CURTON STONE CLEAR',
     description: 'Gerflor Creation 40 Clic Acoustic - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-40-clic-acoustic-clear-61321603-img-1',
-      url: '/images/products/lvt/colors/creation-40/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=9',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -2924,15 +2826,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-cream-61301598',
     name: '1598 TAMO CREAM',
-    slug: 'creation-40-clic-acoustic-cream-61301598',
-    sku: '1598',
+    slug: 'creation-40-clic-acoustic-cream-61301598', sku: '1598',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - TAMO CREAM',
     description: 'Gerflor Creation 40 Clic Acoustic - TAMO CREAM (Šifra: 1598)',
     images: [{
       id: 'creation-40-clic-acoustic-cream-61301598-img-1',
-      url: '/images/products/lvt/colors/creation-40/1598-tamo-cream/pod/1598-tamo-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1598-tamo-cream/pod/1598-tamo-cream-pod.jpg?v=9',
       alt: 'TAMO CREAM',
       isPrimary: true,
       order: 1,
@@ -2951,15 +2852,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-cream-61321600',
     name: '1600 BLOOM UNI CREAM',
-    slug: 'creation-40-clic-acoustic-cream-61321600',
-    sku: '1600',
+    slug: 'creation-40-clic-acoustic-cream-61321600', sku: '1600',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - BLOOM UNI CREAM',
     description: 'Gerflor Creation 40 Clic Acoustic - BLOOM UNI CREAM (Šifra: 1600)',
     images: [{
       id: 'creation-40-clic-acoustic-cream-61321600-img-1',
-      url: '/images/products/lvt/colors/creation-40/1600-bloom-uni-cream/pod/1600-bloom-uni-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1600-bloom-uni-cream/pod/1600-bloom-uni-cream-pod.jpg?v=9',
       alt: 'BLOOM UNI CREAM',
       isPrimary: true,
       order: 1,
@@ -2978,15 +2878,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-dark-61321601',
     name: '1601 BLOOM UNI DARK',
-    slug: 'creation-40-clic-acoustic-dark-61321601',
-    sku: '1601',
+    slug: 'creation-40-clic-acoustic-dark-61321601', sku: '1601',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - BLOOM UNI DARK',
     description: 'Gerflor Creation 40 Clic Acoustic - BLOOM UNI DARK (Šifra: 1601)',
     images: [{
       id: 'creation-40-clic-acoustic-dark-61321601-img-1',
-      url: '/images/products/lvt/colors/creation-40/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=9',
       alt: 'BLOOM UNI DARK',
       isPrimary: true,
       order: 1,
@@ -3005,15 +2904,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-dark-61321711',
     name: '1711 BACKYARD DARK',
-    slug: 'creation-40-clic-acoustic-dark-61321711',
-    sku: '1711',
+    slug: 'creation-40-clic-acoustic-dark-61321711', sku: '1711',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - BACKYARD DARK',
     description: 'Gerflor Creation 40 Clic Acoustic - BACKYARD DARK (Šifra: 1711)',
     images: [{
       id: 'creation-40-clic-acoustic-dark-61321711-img-1',
-      url: '/images/products/lvt/colors/creation-40-clic-acoustic/dark-61321711.jpg',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1711-backyard-dark/pod/1711-backyard-dark-pod.jpg?v=9',
       alt: 'BACKYARD DARK',
       isPrimary: true,
       order: 1,
@@ -3032,15 +2930,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-golden-61311606',
     name: '1606 CEDAR GOLDEN',
-    slug: 'creation-40-clic-acoustic-golden-61311606',
-    sku: '1606',
+    slug: 'creation-40-clic-acoustic-golden-61311606', sku: '1606',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - CEDAR GOLDEN',
     description: 'Gerflor Creation 40 Clic Acoustic - CEDAR GOLDEN (Šifra: 1606)',
     images: [{
       id: 'creation-40-clic-acoustic-golden-61311606-img-1',
-      url: '/images/products/lvt/colors/creation-40/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=9',
       alt: 'CEDAR GOLDEN',
       isPrimary: true,
       order: 1,
@@ -3059,15 +2956,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-golden-61351271',
     name: '1271 LOUNGE OAK GOLDEN',
-    slug: 'creation-40-clic-acoustic-golden-61351271',
-    sku: '1271',
+    slug: 'creation-40-clic-acoustic-golden-61351271', sku: '1271',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - LOUNGE OAK GOLDEN',
     description: 'Gerflor Creation 40 Clic Acoustic - LOUNGE OAK GOLDEN (Šifra: 1271)',
     images: [{
       id: 'creation-40-clic-acoustic-golden-61351271-img-1',
-      url: '/images/products/lvt/colors/creation-40/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=9',
       alt: 'LOUNGE OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -3086,15 +2982,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-greige-61301708',
     name: '1708 SAVAGE OAK GREIGE 2',
-    slug: 'creation-40-clic-acoustic-greige-61301708',
-    sku: '1708',
+    slug: 'creation-40-clic-acoustic-greige-61301708', sku: '1708',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - SAVAGE OAK GREIGE 2',
     description: 'Gerflor Creation 40 Clic Acoustic - SAVAGE OAK GREIGE 2 (Šifra: 1708)',
     images: [{
       id: 'creation-40-clic-acoustic-greige-61301708-img-1',
-      url: '/images/products/lvt/colors/creation-40-clic-acoustic/greige-61301708.jpg',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1708-savage-oak-greige-2/pod/1708-savage-oak-greige-2-pod.jpg?v=9',
       alt: 'SAVAGE OAK GREIGE 2',
       isPrimary: true,
       order: 1,
@@ -3113,15 +3008,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-honey-61300851',
     name: '0851 BOSTONIAN OAK HONEY',
-    slug: 'creation-40-clic-acoustic-honey-61300851',
-    sku: '0851',
+    slug: 'creation-40-clic-acoustic-honey-61300851', sku: '0851',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - BOSTONIAN OAK HONEY',
     description: 'Gerflor Creation 40 Clic Acoustic - BOSTONIAN OAK HONEY (Šifra: 0851)',
     images: [{
       id: 'creation-40-clic-acoustic-honey-61300851-img-1',
-      url: '/images/products/lvt/colors/creation-40/0851-bostonian-oak-honey/pod/0851-bostonian-oak-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/0851-bostonian-oak-honey/pod/0851-bostonian-oak-honey-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -3140,15 +3034,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-honey-61300870',
     name: '0870 QUARTET HONEY',
-    slug: 'creation-40-clic-acoustic-honey-61300870',
-    sku: '0870',
+    slug: 'creation-40-clic-acoustic-honey-61300870', sku: '0870',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - QUARTET HONEY',
     description: 'Gerflor Creation 40 Clic Acoustic - QUARTET HONEY (Šifra: 0870)',
     images: [{
       id: 'creation-40-clic-acoustic-honey-61300870-img-1',
-      url: '/images/products/lvt/colors/creation-40/0870-quartet-honey/pod/0870-quartet-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/0870-quartet-honey/pod/0870-quartet-honey-pod.jpg?v=9',
       alt: 'QUARTET HONEY',
       isPrimary: true,
       order: 1,
@@ -3167,15 +3060,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-honey-61301706',
     name: '1706 AQUINOHA HONEY2',
-    slug: 'creation-40-clic-acoustic-honey-61301706',
-    sku: '1706',
+    slug: 'creation-40-clic-acoustic-honey-61301706', sku: '1706',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - AQUINOHA HONEY2',
     description: 'Gerflor Creation 40 Clic Acoustic - AQUINOHA HONEY2 (Šifra: 1706)',
     images: [{
       id: 'creation-40-clic-acoustic-honey-61301706-img-1',
-      url: '/images/products/lvt/colors/creation-40-clic-acoustic/honey-61301706.jpg',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1706-aquinoha-honey2/pod/1706-aquinoha-honey2-pod.jpg?v=9',
       alt: 'AQUINOHA HONEY2',
       isPrimary: true,
       order: 1,
@@ -3194,15 +3086,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-honey-61301709',
     name: '1709 SAVAGE OAK HONEY',
-    slug: 'creation-40-clic-acoustic-honey-61301709',
-    sku: '1709',
+    slug: 'creation-40-clic-acoustic-honey-61301709', sku: '1709',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - SAVAGE OAK HONEY',
     description: 'Gerflor Creation 40 Clic Acoustic - SAVAGE OAK HONEY (Šifra: 1709)',
     images: [{
       id: 'creation-40-clic-acoustic-honey-61301709-img-1',
-      url: '/images/products/lvt/colors/creation-40-clic-acoustic/honey-61301709.jpg',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1709-savage-oak-honey/pod/1709-savage-oak-honey-pod.jpg?v=9',
       alt: 'SAVAGE OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -3221,15 +3112,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-lime-61300584',
     name: '0584 WHITE LIME',
-    slug: 'creation-40-clic-acoustic-lime-61300584',
-    sku: '0584',
+    slug: 'creation-40-clic-acoustic-lime-61300584', sku: '0584',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - WHITE LIME',
     description: 'Gerflor Creation 40 Clic Acoustic - WHITE LIME (Šifra: 0584)',
     images: [{
       id: 'creation-40-clic-acoustic-lime-61300584-img-1',
-      url: '/images/products/lvt/colors/creation-40/0584-white-lime/pod/0584-white-lime-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/0584-white-lime/pod/0584-white-lime-pod.jpg?v=9',
       alt: 'WHITE LIME',
       isPrimary: true,
       order: 1,
@@ -3248,15 +3138,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-natural-61300545',
     name: '0545 QUARTET NATURAL',
-    slug: 'creation-40-clic-acoustic-natural-61300545',
-    sku: '0545',
+    slug: 'creation-40-clic-acoustic-natural-61300545', sku: '0545',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - QUARTET NATURAL',
     description: 'Gerflor Creation 40 Clic Acoustic - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-40-clic-acoustic-natural-61300545-img-1',
-      url: '/images/products/lvt/colors/creation-40/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=9',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -3275,15 +3164,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-natural-61301561',
     name: '1561 TAMO NATURAL',
-    slug: 'creation-40-clic-acoustic-natural-61301561',
-    sku: '1561',
+    slug: 'creation-40-clic-acoustic-natural-61301561', sku: '1561',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - TAMO NATURAL',
     description: 'Gerflor Creation 40 Clic Acoustic - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-40-clic-acoustic-natural-61301561-img-1',
-      url: '/images/products/lvt/colors/creation-40/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=9',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -3302,15 +3190,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-natural-61311607',
     name: '1607 CEDAR NATURAL',
-    slug: 'creation-40-clic-acoustic-natural-61311607',
-    sku: '1607',
+    slug: 'creation-40-clic-acoustic-natural-61311607', sku: '1607',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - CEDAR NATURAL',
     description: 'Gerflor Creation 40 Clic Acoustic - CEDAR NATURAL (Šifra: 1607)',
     images: [{
       id: 'creation-40-clic-acoustic-natural-61311607-img-1',
-      url: '/images/products/lvt/colors/creation-40/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=9',
       alt: 'CEDAR NATURAL',
       isPrimary: true,
       order: 1,
@@ -3329,15 +3216,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-natural-61351273',
     name: '1273 LOUNGE OAK NATURAL',
-    slug: 'creation-40-clic-acoustic-natural-61351273',
-    sku: '1273',
+    slug: 'creation-40-clic-acoustic-natural-61351273', sku: '1273',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - LOUNGE OAK NATURAL',
     description: 'Gerflor Creation 40 Clic Acoustic - LOUNGE OAK NATURAL (Šifra: 1273)',
     images: [{
       id: 'creation-40-clic-acoustic-natural-61351273-img-1',
-      url: '/images/products/lvt/colors/creation-40/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=9',
       alt: 'LOUNGE OAK NATURAL',
       isPrimary: true,
       order: 1,
@@ -3356,15 +3242,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-nature-61301707',
     name: '1707 AQUINOAH NATURE LUNA COBALT',
-    slug: 'creation-40-clic-acoustic-nature-61301707',
-    sku: '1707',
+    slug: 'creation-40-clic-acoustic-nature-61301707', sku: '1707',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - AQUINOAH NATURE LUNA COBALT',
     description: 'Gerflor Creation 40 Clic Acoustic - AQUINOAH NATURE LUNA COBALT (Šifra: 1707)',
     images: [{
       id: 'creation-40-clic-acoustic-nature-61301707-img-1',
-      url: '/images/products/lvt/colors/creation-40-clic-acoustic/nature-61301707.jpg',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1707-aquinoah-nature-luna-cobalt/pod/1707-aquinoah-nature-luna-cobalt-pod.jpg?v=9',
       alt: 'AQUINOAH NATURE LUNA COBALT',
       isPrimary: true,
       order: 1,
@@ -3383,15 +3268,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-oak-61300441',
     name: '0441 HONEY OAK',
-    slug: 'creation-40-clic-acoustic-oak-61300441',
-    sku: '0441',
+    slug: 'creation-40-clic-acoustic-oak-61300441', sku: '0441',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - HONEY OAK',
     description: 'Gerflor Creation 40 Clic Acoustic - HONEY OAK (Šifra: 0441)',
     images: [{
       id: 'creation-40-clic-acoustic-oak-61300441-img-1',
-      url: '/images/products/lvt/colors/creation-40/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=9',
       alt: 'HONEY OAK',
       isPrimary: true,
       order: 1,
@@ -3410,15 +3294,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-pearl-61321602',
     name: '1602 BLOOM UNI PEARL',
-    slug: 'creation-40-clic-acoustic-pearl-61321602',
-    sku: '1602',
+    slug: 'creation-40-clic-acoustic-pearl-61321602', sku: '1602',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - BLOOM UNI PEARL',
     description: 'Gerflor Creation 40 Clic Acoustic - BLOOM UNI PEARL (Šifra: 1602)',
     images: [{
       id: 'creation-40-clic-acoustic-pearl-61321602-img-1',
-      url: '/images/products/lvt/colors/creation-40/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=9',
       alt: 'BLOOM UNI PEARL',
       isPrimary: true,
       order: 1,
@@ -3437,15 +3320,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-quartet-61300503',
     name: '0503 QUARTET',
-    slug: 'creation-40-clic-acoustic-quartet-61300503',
-    sku: '0503',
+    slug: 'creation-40-clic-acoustic-quartet-61300503', sku: '0503',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - QUARTET',
     description: 'Gerflor Creation 40 Clic Acoustic - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-40-clic-acoustic-quartet-61300503-img-1',
-      url: '/images/products/lvt/colors/creation-40/0503-quartet/pod/0503-quartet-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/0503-quartet/pod/0503-quartet-pod.jpg?v=9',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -3464,15 +3346,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-ranch-61300456',
     name: '0456 RANCH',
-    slug: 'creation-40-clic-acoustic-ranch-61300456',
-    sku: '0456',
+    slug: 'creation-40-clic-acoustic-ranch-61300456', sku: '0456',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - RANCH',
     description: 'Gerflor Creation 40 Clic Acoustic - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-40-clic-acoustic-ranch-61300456-img-1',
-      url: '/images/products/lvt/colors/creation-40/0456-ranch/pod/0456-ranch-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/0456-ranch/pod/0456-ranch-pod.jpg?v=9',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -3491,15 +3372,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-taupe-61321604',
     name: '1604 CURTON STONE TAUPE',
-    slug: 'creation-40-clic-acoustic-taupe-61321604',
-    sku: '1604',
+    slug: 'creation-40-clic-acoustic-taupe-61321604', sku: '1604',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - CURTON STONE TAUPE',
     description: 'Gerflor Creation 40 Clic Acoustic - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-40-clic-acoustic-taupe-61321604-img-1',
-      url: '/images/products/lvt/colors/creation-40/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=9',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -3518,15 +3398,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-taupe-61321713',
     name: '1713 BACKYARD TAUPE',
-    slug: 'creation-40-clic-acoustic-taupe-61321713',
-    sku: '1713',
+    slug: 'creation-40-clic-acoustic-taupe-61321713', sku: '1713',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - BACKYARD TAUPE',
     description: 'Gerflor Creation 40 Clic Acoustic - BACKYARD TAUPE (Šifra: 1713)',
     images: [{
       id: 'creation-40-clic-acoustic-taupe-61321713-img-1',
-      url: '/images/products/lvt/colors/creation-40-clic-acoustic/taupe-61321713.jpg',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/1713-backyard-taupe/pod/1713-backyard-taupe-pod.jpg?v=9',
       alt: 'BACKYARD TAUPE',
       isPrimary: true,
       order: 1,
@@ -3545,15 +3424,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-clic-acoustic-twist-61300504',
     name: '0504 TWIST',
-    slug: 'creation-40-clic-acoustic-twist-61300504',
-    sku: '0504',
+    slug: 'creation-40-clic-acoustic-twist-61300504', sku: '0504',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Clic Acoustic - TWIST',
     description: 'Gerflor Creation 40 Clic Acoustic - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-40-clic-acoustic-twist-61300504-img-1',
-      url: '/images/products/lvt/colors/creation-40/0504-twist/pod/0504-twist-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-40-clic-acoustic/0504-twist/pod/0504-twist-pod.jpg?v=9',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -3572,15 +3450,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-anthracite-38770953',
     name: '0953 RANCH ANTHRACITE',
-    slug: 'creation-40-zen-anthracite-38770953',
-    sku: '0953',
+    slug: 'creation-40-zen-anthracite-38770953', sku: '0953',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - RANCH ANTHRACITE',
     description: 'Gerflor Creation 40 Zen - RANCH ANTHRACITE (Šifra: 0953)',
     images: [{
       id: 'creation-40-zen-anthracite-38770953-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/anthracite-38770953.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/0953-ranch-anthracite/pod/0953-ranch-anthracite-pod.jpg?v=9',
       alt: 'RANCH ANTHRACITE',
       isPrimary: true,
       order: 1,
@@ -3599,15 +3476,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-beige-38771416',
     name: '1416 BOSTONIAN OAK BEIGE',
-    slug: 'creation-40-zen-beige-38771416',
-    sku: '1416',
+    slug: 'creation-40-zen-beige-38771416', sku: '1416',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - BOSTONIAN OAK BEIGE',
     description: 'Gerflor Creation 40 Zen - BOSTONIAN OAK BEIGE (Šifra: 1416)',
     images: [{
       id: 'creation-40-zen-beige-38771416-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/beige-38771416.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1416-bostonian-oak-beige/pod/1416-bostonian-oak-beige-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -3626,15 +3502,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-beige-38771418',
     name: '1418 SWISS OAK BEIGE',
-    slug: 'creation-40-zen-beige-38771418',
-    sku: '1418',
+    slug: 'creation-40-zen-beige-38771418', sku: '1418',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - SWISS OAK BEIGE',
     description: 'Gerflor Creation 40 Zen - SWISS OAK BEIGE (Šifra: 1418)',
     images: [{
       id: 'creation-40-zen-beige-38771418-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/beige-38771418.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1418-swiss-oak-beige/pod/1418-swiss-oak-beige-pod.jpg?v=9',
       alt: 'SWISS OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -3653,15 +3528,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-brown-38801063',
     name: '1063 FINESSE BROWN',
-    slug: 'creation-40-zen-brown-38801063',
-    sku: '1063',
+    slug: 'creation-40-zen-brown-38801063', sku: '1063',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - FINESSE BROWN',
     description: 'Gerflor Creation 40 Zen - FINESSE BROWN (Šifra: 1063)',
     images: [{
       id: 'creation-40-zen-brown-38801063-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/brown-38801063.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1063-finesse-brown/pod/1063-finesse-brown-pod.jpg?v=9',
       alt: 'FINESSE BROWN',
       isPrimary: true,
       order: 1,
@@ -3680,15 +3554,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-clear-38801486',
     name: '1486 PARKER CLEAR',
-    slug: 'creation-40-zen-clear-38801486',
-    sku: '1486',
+    slug: 'creation-40-zen-clear-38801486', sku: '1486',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - PARKER CLEAR',
     description: 'Gerflor Creation 40 Zen - PARKER CLEAR (Šifra: 1486)',
     images: [{
       id: 'creation-40-zen-clear-38801486-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/clear-38801486.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1486-parker-clear/pod/1486-parker-clear-pod.jpg?v=9',
       alt: 'PARKER CLEAR',
       isPrimary: true,
       order: 1,
@@ -3707,15 +3580,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-dark-38771421',
     name: '1421 BOSTONIAN OAK DARK',
-    slug: 'creation-40-zen-dark-38771421',
-    sku: '1421',
+    slug: 'creation-40-zen-dark-38771421', sku: '1421',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - BOSTONIAN OAK DARK',
     description: 'Gerflor Creation 40 Zen - BOSTONIAN OAK DARK (Šifra: 1421)',
     images: [{
       id: 'creation-40-zen-dark-38771421-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/dark-38771421.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1421-bostonian-oak-dark/pod/1421-bostonian-oak-dark-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK DARK',
       isPrimary: true,
       order: 1,
@@ -3734,15 +3606,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-golden-38771419',
     name: '1419 SWISS OAK GOLDEN',
-    slug: 'creation-40-zen-golden-38771419',
-    sku: '1419',
+    slug: 'creation-40-zen-golden-38771419', sku: '1419',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - SWISS OAK GOLDEN',
     description: 'Gerflor Creation 40 Zen - SWISS OAK GOLDEN (Šifra: 1419)',
     images: [{
       id: 'creation-40-zen-golden-38771419-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/golden-38771419.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1419-swiss-oak-golden/pod/1419-swiss-oak-golden-pod.jpg?v=9',
       alt: 'SWISS OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -3761,15 +3632,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-grey-38801413',
     name: '1413 BLOOM UNI GREY',
-    slug: 'creation-40-zen-grey-38801413',
-    sku: '1413',
+    slug: 'creation-40-zen-grey-38801413', sku: '1413',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - BLOOM UNI GREY',
     description: 'Gerflor Creation 40 Zen - BLOOM UNI GREY (Šifra: 1413)',
     images: [{
       id: 'creation-40-zen-grey-38801413-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/grey-38801413.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1413-bloom-uni-grey/pod/1413-bloom-uni-grey-pod.jpg?v=9',
       alt: 'BLOOM UNI GREY',
       isPrimary: true,
       order: 1,
@@ -3788,15 +3658,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-grey-38801489',
     name: '1489 FINESSE GREY',
-    slug: 'creation-40-zen-grey-38801489',
-    sku: '1489',
+    slug: 'creation-40-zen-grey-38801489', sku: '1489',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - FINESSE GREY',
     description: 'Gerflor Creation 40 Zen - FINESSE GREY (Šifra: 1489)',
     images: [{
       id: 'creation-40-zen-grey-38801489-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/grey-38801489.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1489-finesse-grey/pod/1489-finesse-grey-pod.jpg?v=9',
       alt: 'FINESSE GREY',
       isPrimary: true,
       order: 1,
@@ -3815,15 +3684,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-honey-38771480',
     name: '1480 NATURE OAK HONEY',
-    slug: 'creation-40-zen-honey-38771480',
-    sku: '1480',
+    slug: 'creation-40-zen-honey-38771480', sku: '1480',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - NATURE OAK HONEY',
     description: 'Gerflor Creation 40 Zen - NATURE OAK HONEY (Šifra: 1480)',
     images: [{
       id: 'creation-40-zen-honey-38771480-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/honey-38771480.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1480-nature-oak-honey/pod/1480-nature-oak-honey-pod.jpg?v=9',
       alt: 'NATURE OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -3842,15 +3710,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-kraft-38771478',
     name: '1478 BOSTONIAN OAK KRAFT',
-    slug: 'creation-40-zen-kraft-38771478',
-    sku: '1478',
+    slug: 'creation-40-zen-kraft-38771478', sku: '1478',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - BOSTONIAN OAK KRAFT',
     description: 'Gerflor Creation 40 Zen - BOSTONIAN OAK KRAFT (Šifra: 1478)',
     images: [{
       id: 'creation-40-zen-kraft-38771478-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/kraft-38771478.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1478-bostonian-oak-kraft/pod/1478-bostonian-oak-kraft-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK KRAFT',
       isPrimary: true,
       order: 1,
@@ -3869,15 +3736,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-kraft-38771479',
     name: '1479 NATURE OAK KRAFT',
-    slug: 'creation-40-zen-kraft-38771479',
-    sku: '1479',
+    slug: 'creation-40-zen-kraft-38771479', sku: '1479',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - NATURE OAK KRAFT',
     description: 'Gerflor Creation 40 Zen - NATURE OAK KRAFT (Šifra: 1479)',
     images: [{
       id: 'creation-40-zen-kraft-38771479-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/kraft-38771479.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1479-nature-oak-kraft/pod/1479-nature-oak-kraft-pod.jpg?v=9',
       alt: 'NATURE OAK KRAFT',
       isPrimary: true,
       order: 1,
@@ -3896,15 +3762,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-medium-38771422',
     name: '1422 BOSTONIAN OAK MEDIUM',
-    slug: 'creation-40-zen-medium-38771422',
-    sku: '1422',
+    slug: 'creation-40-zen-medium-38771422', sku: '1422',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - BOSTONIAN OAK MEDIUM',
     description: 'Gerflor Creation 40 Zen - BOSTONIAN OAK MEDIUM (Šifra: 1422)',
     images: [{
       id: 'creation-40-zen-medium-38771422-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/medium-38771422.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1422-bostonian-oak-medium/pod/1422-bostonian-oak-medium-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK MEDIUM',
       isPrimary: true,
       order: 1,
@@ -3923,15 +3788,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-oak-38771415',
     name: '1415 BOSTONIAN OAK',
-    slug: 'creation-40-zen-oak-38771415',
-    sku: '1415',
+    slug: 'creation-40-zen-oak-38771415', sku: '1415',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - BOSTONIAN OAK',
     description: 'Gerflor Creation 40 Zen - BOSTONIAN OAK (Šifra: 1415)',
     images: [{
       id: 'creation-40-zen-oak-38771415-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/oak-38771415.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1415-bostonian-oak/pod/1415-bostonian-oak-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK',
       isPrimary: true,
       order: 1,
@@ -3950,15 +3814,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-pearl-38771420',
     name: '1420 SWISS OAK PEARL',
-    slug: 'creation-40-zen-pearl-38771420',
-    sku: '1420',
+    slug: 'creation-40-zen-pearl-38771420', sku: '1420',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - SWISS OAK PEARL',
     description: 'Gerflor Creation 40 Zen - SWISS OAK PEARL (Šifra: 1420)',
     images: [{
       id: 'creation-40-zen-pearl-38771420-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/pearl-38771420.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1420-swiss-oak-pearl/pod/1420-swiss-oak-pearl-pod.jpg?v=9',
       alt: 'SWISS OAK PEARL',
       isPrimary: true,
       order: 1,
@@ -3977,15 +3840,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-perle-38800963',
     name: '0963 BLOOM UNI PERLE',
-    slug: 'creation-40-zen-perle-38800963',
-    sku: '0963',
+    slug: 'creation-40-zen-perle-38800963', sku: '0963',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - BLOOM UNI PERLE',
     description: 'Gerflor Creation 40 Zen - BLOOM UNI PERLE (Šifra: 0963)',
     images: [{
       id: 'creation-40-zen-perle-38800963-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/perle-38800963.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/0963-bloom-uni-perle/pod/0963-bloom-uni-perle-pod.jpg?v=9',
       alt: 'BLOOM UNI PERLE',
       isPrimary: true,
       order: 1,
@@ -4004,15 +3866,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-ranch-38770773',
     name: '0773 RANCH',
-    slug: 'creation-40-zen-ranch-38770773',
-    sku: '0773',
+    slug: 'creation-40-zen-ranch-38770773', sku: '0773',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - RANCH',
     description: 'Gerflor Creation 40 Zen - RANCH (Šifra: 0773)',
     images: [{
       id: 'creation-40-zen-ranch-38770773-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/ranch-38770773.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/0773-ranch/pod/0773-ranch-pod.jpg?v=9',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -4031,15 +3892,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-souris-38801485',
     name: '1485 BLOOM UNI SOURIS',
-    slug: 'creation-40-zen-souris-38801485',
-    sku: '1485',
+    slug: 'creation-40-zen-souris-38801485', sku: '1485',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - BLOOM UNI SOURIS',
     description: 'Gerflor Creation 40 Zen - BLOOM UNI SOURIS (Šifra: 1485)',
     images: [{
       id: 'creation-40-zen-souris-38801485-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/souris-38801485.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1485-bloom-uni-souris/pod/1485-bloom-uni-souris-pod.jpg?v=9',
       alt: 'BLOOM UNI SOURIS',
       isPrimary: true,
       order: 1,
@@ -4058,15 +3918,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-station-38801414',
     name: '1414 PARKER STATION',
-    slug: 'creation-40-zen-station-38801414',
-    sku: '1414',
+    slug: 'creation-40-zen-station-38801414', sku: '1414',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - PARKER STATION',
     description: 'Gerflor Creation 40 Zen - PARKER STATION (Šifra: 1414)',
     images: [{
       id: 'creation-40-zen-station-38801414-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/station-38801414.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1414-parker-station/pod/1414-parker-station-pod.jpg?v=9',
       alt: 'PARKER STATION',
       isPrimary: true,
       order: 1,
@@ -4085,15 +3944,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-taupe-38771481',
     name: '1481 NATURE OAK TAUPE',
-    slug: 'creation-40-zen-taupe-38771481',
-    sku: '1481',
+    slug: 'creation-40-zen-taupe-38771481', sku: '1481',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - NATURE OAK TAUPE',
     description: 'Gerflor Creation 40 Zen - NATURE OAK TAUPE (Šifra: 1481)',
     images: [{
       id: 'creation-40-zen-taupe-38771481-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/taupe-38771481.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1481-nature-oak-taupe/pod/1481-nature-oak-taupe-pod.jpg?v=9',
       alt: 'NATURE OAK TAUPE',
       isPrimary: true,
       order: 1,
@@ -4112,15 +3970,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-taupe-38801412',
     name: '1412 BLOOM UNI TAUPE',
-    slug: 'creation-40-zen-taupe-38801412',
-    sku: '1412',
+    slug: 'creation-40-zen-taupe-38801412', sku: '1412',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - BLOOM UNI TAUPE',
     description: 'Gerflor Creation 40 Zen - BLOOM UNI TAUPE (Šifra: 1412)',
     images: [{
       id: 'creation-40-zen-taupe-38801412-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/taupe-38801412.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1412-bloom-uni-taupe/pod/1412-bloom-uni-taupe-pod.jpg?v=9',
       alt: 'BLOOM UNI TAUPE',
       isPrimary: true,
       order: 1,
@@ -4139,15 +3996,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-40-zen-twist-38771417',
     name: '1417 TWIST',
-    slug: 'creation-40-zen-twist-38771417',
-    sku: '1417',
+    slug: 'creation-40-zen-twist-38771417', sku: '1417',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 40 Zen - TWIST',
     description: 'Gerflor Creation 40 Zen - TWIST (Šifra: 1417)',
     images: [{
       id: 'creation-40-zen-twist-38771417-img-1',
-      url: '/images/products/lvt/colors/creation-40-zen/twist-38771417.jpg',
+      url: '/images/products/lvt/colors/creation-40-zen/1417-twist/pod/1417-twist-pod.jpg?v=9',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -4166,15 +4022,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-amber-41931726',
     name: '1726 URBAN STREET AMBER CONFETTI AMBER2',
-    slug: 'creation-55-amber-41931726',
-    sku: '1726',
+    slug: 'creation-55-amber-41931726', sku: '1726',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - URBAN STREET AMBER CONFETTI AMBER2',
     description: 'Gerflor Creation 55 - URBAN STREET AMBER CONFETTI AMBER2 (Šifra: 1726)',
     images: [{
       id: 'creation-55-amber-41931726-img-1',
-      url: '/images/products/lvt/colors/creation-55/1726-urban-street-amber-confetti-amber2/pod/1726-urban-street-amber-confetti-amber2-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1726-urban-street-amber-confetti-amber2/pod/1726-urban-street-amber-confetti-amber2-pod.jpg?v=9',
       alt: 'URBAN STREET AMBER CONFETTI AMBER2',
       isPrimary: true,
       order: 1,
@@ -4193,15 +4048,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-amber-41931744',
     name: '1744 LIVING ROOM CONFETTI AMBER',
-    slug: 'creation-55-amber-41931744',
-    sku: '1744',
+    slug: 'creation-55-amber-41931744', sku: '1744',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - LIVING ROOM CONFETTI AMBER',
     description: 'Gerflor Creation 55 - LIVING ROOM CONFETTI AMBER (Šifra: 1744)',
     images: [{
       id: 'creation-55-amber-41931744-img-1',
-      url: '/images/products/lvt/colors/creation-55/1744-living-room-confetti-amber/pod/1744-living-room-confetti-amber-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1744-living-room-confetti-amber/pod/1744-living-room-confetti-amber-pod.jpg?v=9',
       alt: 'LIVING ROOM CONFETTI AMBER',
       isPrimary: true,
       order: 1,
@@ -4220,15 +4074,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-amber-41931747',
     name: '1747 LUNA AMBER',
-    slug: 'creation-55-amber-41931747',
-    sku: '1747',
+    slug: 'creation-55-amber-41931747', sku: '1747',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - LUNA AMBER',
     description: 'Gerflor Creation 55 - LUNA AMBER (Šifra: 1747)',
     images: [{
       id: 'creation-55-amber-41931747-img-1',
-      url: '/images/products/lvt/colors/creation-55/1747-luna-amber/pod/1747-luna-amber-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1747-luna-amber/pod/1747-luna-amber-pod.jpg?v=9',
       alt: 'LUNA AMBER',
       isPrimary: true,
       order: 1,
@@ -4247,15 +4100,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-ballerina-41820347',
     name: '0347 BALLERINA',
-    slug: 'creation-55-ballerina-41820347',
-    sku: '0347',
+    slug: 'creation-55-ballerina-41820347', sku: '0347',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - BALLERINA',
     description: 'Gerflor Creation 55 - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-55-ballerina-41820347-img-1',
-      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/0347-ballerina-pod.jpg?v=9',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -4274,15 +4126,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-ballerina-41970347',
     name: '0347 BALLERINA',
-    slug: 'creation-55-ballerina-41970347',
-    sku: '0347',
+    slug: 'creation-55-ballerina-41970347', sku: '0347',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - BALLERINA',
     description: 'Gerflor Creation 55 - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-55-ballerina-41970347-img-1',
-      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/0347-ballerina-pod.jpg?v=9',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -4301,15 +4152,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-beige-41820853',
     name: '0853 BOSTONIAN OAK BEIGE',
-    slug: 'creation-55-beige-41820853',
-    sku: '0853',
+    slug: 'creation-55-beige-41820853', sku: '0853',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - BOSTONIAN OAK BEIGE',
     description: 'Gerflor Creation 55 - BOSTONIAN OAK BEIGE (Šifra: 0853)',
     images: [{
       id: 'creation-55-beige-41820853-img-1',
-      url: '/images/products/lvt/colors/creation-55/0853-bostonian-oak-beige/pod/0853-bostonian-oak-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/0853-bostonian-oak-beige/pod/0853-bostonian-oak-beige-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -4328,15 +4178,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-beige-41931712',
     name: '1712 BACKYARD LIGHT BEIGE',
-    slug: 'creation-55-beige-41931712',
-    sku: '1712',
+    slug: 'creation-55-beige-41931712', sku: '1712',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - BACKYARD LIGHT BEIGE',
     description: 'Gerflor Creation 55 - BACKYARD LIGHT BEIGE (Šifra: 1712)',
     images: [{
       id: 'creation-55-beige-41931712-img-1',
-      url: '/images/products/lvt/colors/creation-55/1712-backyard-light-beige/pod/1712-backyard-light-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1712-backyard-light-beige/pod/1712-backyard-light-beige-pod.jpg?v=9',
       alt: 'BACKYARD LIGHT BEIGE',
       isPrimary: true,
       order: 1,
@@ -4355,15 +4204,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-beige-41931748',
     name: '1748 LUNA BEIGE',
-    slug: 'creation-55-beige-41931748',
-    sku: '1748',
+    slug: 'creation-55-beige-41931748', sku: '1748',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - LUNA BEIGE',
     description: 'Gerflor Creation 55 - LUNA BEIGE (Šifra: 1748)',
     images: [{
       id: 'creation-55-beige-41931748-img-1',
-      url: '/images/products/lvt/colors/creation-55/1748-luna-beige/pod/1748-luna-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1748-luna-beige/pod/1748-luna-beige-pod.jpg?v=9',
       alt: 'LUNA BEIGE',
       isPrimary: true,
       order: 1,
@@ -4382,15 +4230,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-blond-41821704',
     name: '1704 AQUINOAH BLOND',
-    slug: 'creation-55-blond-41821704',
-    sku: '1704',
+    slug: 'creation-55-blond-41821704', sku: '1704',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - AQUINOAH BLOND',
     description: 'Gerflor Creation 55 - AQUINOAH BLOND (Šifra: 1704)',
     images: [{
       id: 'creation-55-blond-41821704-img-1',
-      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/1704-aquinoah-blond-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond/pod/61526 - JPG 72 dpi-Aquinoah-Blond-sky-view-pod.jpg?v=9',
       alt: 'AQUINOAH BLOND',
       isPrimary: true,
       order: 1,
@@ -4409,15 +4256,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-blond-41931751',
     name: '1751 VERSAILLES BLOND',
-    slug: 'creation-55-blond-41931751',
-    sku: '1751',
+    slug: 'creation-55-blond-41931751', sku: '1751',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - VERSAILLES BLOND',
     description: 'Gerflor Creation 55 - VERSAILLES BLOND (Šifra: 1751)',
     images: [{
       id: 'creation-55-blond-41931751-img-1',
-      url: '/images/products/lvt/colors/creation-55/1751-versailles-blond/pod/1751-versailles-blond-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1751-versailles-blond/pod/1751-versailles-blond-pod.jpg?v=9',
       alt: 'VERSAILLES BLOND',
       isPrimary: true,
       order: 1,
@@ -4436,15 +4282,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-blond-41971704',
     name: '1704 AQUINOAH BLOND HB VDC',
-    slug: 'creation-55-blond-41971704',
-    sku: '1704',
+    slug: 'creation-55-blond-41971704', sku: '1704',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - AQUINOAH BLOND HB VDC',
     description: 'Gerflor Creation 55 - AQUINOAH BLOND HB VDC (Šifra: 1704)',
     images: [{
       id: 'creation-55-blond-41971704-img-1',
-      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/1704-aquinoah-blond-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond/pod/61526 - JPG 72 dpi-Aquinoah-Blond-sky-view-pod.jpg?v=9',
       alt: 'AQUINOAH BLOND HB VDC',
       isPrimary: true,
       order: 1,
@@ -4463,15 +4308,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-blond-42541704',
     name: '1704 AQUINOAH BLOND',
-    slug: 'creation-55-blond-42541704',
-    sku: '1704',
+    slug: 'creation-55-blond-42541704', sku: '1704',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - AQUINOAH BLOND',
     description: 'Gerflor Creation 55 - AQUINOAH BLOND (Šifra: 1704)',
     images: [{
       id: 'creation-55-blond-42541704-img-1',
-      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/1704-aquinoah-blond-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond/pod/61526 - JPG 72 dpi-Aquinoah-Blond-sky-view-pod.jpg?v=9',
       alt: 'AQUINOAH BLOND',
       isPrimary: true,
       order: 1,
@@ -4490,15 +4334,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-board-41820455',
     name: '0455 LONG BOARD',
-    slug: 'creation-55-board-41820455',
-    sku: '0455',
+    slug: 'creation-55-board-41820455', sku: '0455',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - LONG BOARD',
     description: 'Gerflor Creation 55 - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-55-board-41820455-img-1',
-      url: '/images/products/lvt/colors/creation-55/0455-long-board/pod/0455-long-board-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/0455-long-board/pod/0455-long-board-pod.jpg?v=9',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -4517,15 +4360,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-bone-41811729',
     name: '1729 PARADISO BONE',
-    slug: 'creation-55-bone-41811729',
-    sku: '1729',
+    slug: 'creation-55-bone-41811729', sku: '1729',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - PARADISO BONE',
     description: 'Gerflor Creation 55 - PARADISO BONE (Šifra: 1729)',
     images: [{
       id: 'creation-55-bone-41811729-img-1',
-      url: '/images/products/lvt/colors/creation-55/1729-paradiso-bone/pod/1729-paradiso-bone-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1729-paradiso-bone/pod/1729-paradiso-bone-pod.jpg?v=9',
       alt: 'PARADISO BONE',
       isPrimary: true,
       order: 1,
@@ -4544,15 +4386,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-brown-41821568',
     name: '1568 TAMO LIGHT BROWN',
-    slug: 'creation-55-brown-41821568',
-    sku: '1568',
+    slug: 'creation-55-brown-41821568', sku: '1568',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - TAMO LIGHT BROWN',
     description: 'Gerflor Creation 55 - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-55-brown-41821568-img-1',
-      url: '/images/products/lvt/colors/creation-55/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=9',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -4571,15 +4412,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-brown-41821597',
     name: '1597 QUARTET DARK BROWN',
-    slug: 'creation-55-brown-41821597',
-    sku: '1597',
+    slug: 'creation-55-brown-41821597', sku: '1597',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - QUARTET DARK BROWN',
     description: 'Gerflor Creation 55 - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-55-brown-41821597-img-1',
-      url: '/images/products/lvt/colors/creation-55/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=9',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -4598,15 +4438,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-brown-41821705',
     name: '1705 AQUINOAH BROWN',
-    slug: 'creation-55-brown-41821705',
-    sku: '1705',
+    slug: 'creation-55-brown-41821705', sku: '1705',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - AQUINOAH BROWN',
     description: 'Gerflor Creation 55 - AQUINOAH BROWN (Šifra: 1705)',
     images: [{
       id: 'creation-55-brown-41821705-img-1',
-      url: '/images/products/lvt/colors/creation-55/1705-aquinoah-brown/pod/1705-aquinoah-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1705-aquinoah-brown/pod/1705-aquinoah-brown-pod.jpg?v=9',
       alt: 'AQUINOAH BROWN',
       isPrimary: true,
       order: 1,
@@ -4625,15 +4464,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-brown-41910850',
     name: '0850 CEDAR BROWN',
-    slug: 'creation-55-brown-41910850',
-    sku: '0850',
+    slug: 'creation-55-brown-41910850', sku: '0850',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - CEDAR BROWN',
     description: 'Gerflor Creation 55 - CEDAR BROWN (Šifra: 0850)',
     images: [{
       id: 'creation-55-brown-41910850-img-1',
-      url: '/images/products/lvt/colors/creation-55/0850-cedar-brown/pod/0850-cedar-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/0850-cedar-brown/pod/0850-cedar-brown-pod.jpg?v=9',
       alt: 'CEDAR BROWN',
       isPrimary: true,
       order: 1,
@@ -4652,15 +4490,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-brown-41911605',
     name: '1605 CEDAR DARK BROWN',
-    slug: 'creation-55-brown-41911605',
-    sku: '1605',
+    slug: 'creation-55-brown-41911605', sku: '1605',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - CEDAR DARK BROWN',
     description: 'Gerflor Creation 55 - CEDAR DARK BROWN (Šifra: 1605)',
     images: [{
       id: 'creation-55-brown-41911605-img-1',
-      url: '/images/products/lvt/colors/creation-55/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=9',
       alt: 'CEDAR DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -4679,15 +4516,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clear-41811599',
     name: '1599 BLOOM UNI CLEAR',
-    slug: 'creation-55-clear-41811599',
-    sku: '1599',
+    slug: 'creation-55-clear-41811599', sku: '1599',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - BLOOM UNI CLEAR',
     description: 'Gerflor Creation 55 - BLOOM UNI CLEAR (Šifra: 1599)',
     images: [{
       id: 'creation-55-clear-41811599-img-1',
-      url: '/images/products/lvt/colors/creation-55/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=9',
       alt: 'BLOOM UNI CLEAR',
       isPrimary: true,
       order: 1,
@@ -4706,15 +4542,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clear-41811603',
     name: '1603 CURTON STONE CLEAR',
-    slug: 'creation-55-clear-41811603',
-    sku: '1603',
+    slug: 'creation-55-clear-41811603', sku: '1603',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - CURTON STONE CLEAR',
     description: 'Gerflor Creation 55 - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-55-clear-41811603-img-1',
-      url: '/images/products/lvt/colors/creation-55/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=9',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -4733,15 +4568,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clear-41821567',
     name: '1567 TAMO CLEAR',
-    slug: 'creation-55-clear-41821567',
-    sku: '1567',
+    slug: 'creation-55-clear-41821567', sku: '1567',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - TAMO CLEAR',
     description: 'Gerflor Creation 55 - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-55-clear-41821567-img-1',
-      url: '/images/products/lvt/colors/creation-55/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=9',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -4760,15 +4594,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clear-41821701',
     name: '1701 LINEAR WOOD CLEAR',
-    slug: 'creation-55-clear-41821701',
-    sku: '1701',
+    slug: 'creation-55-clear-41821701', sku: '1701',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - LINEAR WOOD CLEAR',
     description: 'Gerflor Creation 55 - LINEAR WOOD CLEAR (Šifra: 1701)',
     images: [{
       id: 'creation-55-clear-41821701-img-1',
-      url: '/images/products/lvt/colors/creation-55/1701-linear-wood-clear/pod/1701-linear-wood-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1701-linear-wood-clear/pod/1701-linear-wood-clear-pod.jpg?v=9',
       alt: 'LINEAR WOOD CLEAR',
       isPrimary: true,
       order: 1,
@@ -4787,15 +4620,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-cobalt-41931727',
     name: '1727 URBAN STREET COBALT ARTEFACTO C702',
-    slug: 'creation-55-cobalt-41931727',
-    sku: '1727',
+    slug: 'creation-55-cobalt-41931727', sku: '1727',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - URBAN STREET COBALT ARTEFACTO C702',
     description: 'Gerflor Creation 55 - URBAN STREET COBALT ARTEFACTO C702 (Šifra: 1727)',
     images: [{
       id: 'creation-55-cobalt-41931727-img-1',
-      url: '/images/products/lvt/colors/creation-55/1727-urban-street-cobalt-artefacto-c702/pod/1727-urban-street-cobalt-artefacto-c702-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1727-urban-street-cobalt-artefacto-c702/pod/1727-urban-street-cobalt-artefacto-c702-pod.jpg?v=9',
       alt: 'URBAN STREET COBALT ARTEFACTO C702',
       isPrimary: true,
       order: 1,
@@ -4814,15 +4646,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-cobalt-41931745',
     name: '1745 CONFETTI COBALT',
-    slug: 'creation-55-cobalt-41931745',
-    sku: '1745',
+    slug: 'creation-55-cobalt-41931745', sku: '1745',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - CONFETTI COBALT',
     description: 'Gerflor Creation 55 - CONFETTI COBALT (Šifra: 1745)',
     images: [{
       id: 'creation-55-cobalt-41931745-img-1',
-      url: '/images/products/lvt/colors/creation-55/1745-confetti-cobalt/pod/1745-confetti-cobalt-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1745-confetti-cobalt/pod/1745-confetti-cobalt-pod.jpg?v=9',
       alt: 'CONFETTI COBALT',
       isPrimary: true,
       order: 1,
@@ -4841,15 +4672,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-cobalt-41931749',
     name: '1749 LUNA COBALT',
-    slug: 'creation-55-cobalt-41931749',
-    sku: '1749',
+    slug: 'creation-55-cobalt-41931749', sku: '1749',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - LUNA COBALT',
     description: 'Gerflor Creation 55 - LUNA COBALT (Šifra: 1749)',
     images: [{
       id: 'creation-55-cobalt-41931749-img-1',
-      url: '/images/products/lvt/colors/creation-55/1749-luna-cobalt/pod/1749-luna-cobalt-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1749-luna-cobalt/pod/1749-luna-cobalt-pod.jpg?v=9',
       alt: 'LUNA COBALT',
       isPrimary: true,
       order: 1,
@@ -4868,15 +4698,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-cream-41811600',
     name: '1600 BLOOM UNI CREAM',
-    slug: 'creation-55-cream-41811600',
-    sku: '1600',
+    slug: 'creation-55-cream-41811600', sku: '1600',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - BLOOM UNI CREAM',
     description: 'Gerflor Creation 55 - BLOOM UNI CREAM (Šifra: 1600)',
     images: [{
       id: 'creation-55-cream-41811600-img-1',
-      url: '/images/products/lvt/colors/creation-55/1600-bloom-uni-cream/pod/1600-bloom-uni-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1600-bloom-uni-cream/pod/1600-bloom-uni-cream-pod.jpg?v=9',
       alt: 'BLOOM UNI CREAM',
       isPrimary: true,
       order: 1,
@@ -4895,15 +4724,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-cream-41811730',
     name: '1730 PARADISO CREAM',
-    slug: 'creation-55-cream-41811730',
-    sku: '1730',
+    slug: 'creation-55-cream-41811730', sku: '1730',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - PARADISO CREAM',
     description: 'Gerflor Creation 55 - PARADISO CREAM (Šifra: 1730)',
     images: [{
       id: 'creation-55-cream-41811730-img-1',
-      url: '/images/products/lvt/colors/creation-55/1730-paradiso-cream/pod/1730-paradiso-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1730-paradiso-cream/pod/1730-paradiso-cream-pod.jpg?v=9',
       alt: 'PARADISO CREAM',
       isPrimary: true,
       order: 1,
@@ -4922,15 +4750,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-cream-41821598',
     name: '1598 TAMO CREAM',
-    slug: 'creation-55-cream-41821598',
-    sku: '1598',
+    slug: 'creation-55-cream-41821598', sku: '1598',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - TAMO CREAM',
     description: 'Gerflor Creation 55 - TAMO CREAM (Šifra: 1598)',
     images: [{
       id: 'creation-55-cream-41821598-img-1',
-      url: '/images/products/lvt/colors/creation-55/1598-tamo-cream/pod/1598-tamo-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1598-tamo-cream/pod/1598-tamo-cream-pod.jpg?v=9',
       alt: 'TAMO CREAM',
       isPrimary: true,
       order: 1,
@@ -4949,15 +4776,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-cream-41931565',
     name: '1565 CREATION LOOSELAY 1565 URBAN STREET CREAM',
-    slug: 'creation-55-cream-41931565',
-    sku: '1565',
+    slug: 'creation-55-cream-41931565', sku: '1565',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - CREATION LOOSELAY 1565 URBAN STREET CREAM',
     description: 'Gerflor Creation 55 - CREATION LOOSELAY 1565 URBAN STREET CREAM (Šifra: 1565)',
     images: [{
       id: 'creation-55-cream-41931565-img-1',
-      url: '/images/products/lvt/colors/creation-55/1565-creation-looselay-1565-urban-street-cream/pod/1565-creation-looselay-1565-urban-street-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1565-creation-looselay-1565-urban-street-cream/pod/1565-creation-looselay-1565-urban-street-cream-pod.jpg?v=9',
       alt: 'CREATION LOOSELAY 1565 URBAN STREET CREAM',
       isPrimary: true,
       order: 1,
@@ -4976,15 +4802,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-dark-41811601',
     name: '1601 BLOOM UNI DARK',
-    slug: 'creation-55-dark-41811601',
-    sku: '1601',
+    slug: 'creation-55-dark-41811601', sku: '1601',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - BLOOM UNI DARK',
     description: 'Gerflor Creation 55 - BLOOM UNI DARK (Šifra: 1601)',
     images: [{
       id: 'creation-55-dark-41811601-img-1',
-      url: '/images/products/lvt/colors/creation-55/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=9',
       alt: 'BLOOM UNI DARK',
       isPrimary: true,
       order: 1,
@@ -5003,15 +4828,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-dark-41931711',
     name: '1711 BACKYARD DARK3',
-    slug: 'creation-55-dark-41931711',
-    sku: '1711',
+    slug: 'creation-55-dark-41931711', sku: '1711',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - BACKYARD DARK3',
     description: 'Gerflor Creation 55 - BACKYARD DARK3 (Šifra: 1711)',
     images: [{
       id: 'creation-55-dark-41931711-img-1',
-      url: '/images/products/lvt/colors/creation-55/1711-backyard-dark3/pod/1711-backyard-dark3-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1711-backyard-dark3/pod/1711-backyard-dark3-pod.jpg?v=9',
       alt: 'BACKYARD DARK3',
       isPrimary: true,
       order: 1,
@@ -5030,15 +4854,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-eir-41951278',
     name: '1278 CHARMING OAK BEIGE',
-    slug: 'creation-55-eir-41951278',
-    sku: '1278',
+    slug: 'creation-55-eir-41951278', sku: '1278',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - CHARMING OAK BEIGE',
     description: 'Gerflor Creation 55 - CHARMING OAK BEIGE (Šifra: 1278)',
     images: [{
       id: 'creation-55-eir-41951278-img-1',
-      url: '/images/products/lvt/colors/creation-55/1278-charming-oak-beige/pod/1278-charming-oak-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1278-charming-oak-beige/pod/1278-charming-oak-beige-pod.jpg?v=9',
       alt: 'CHARMING OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -5057,15 +4880,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-eir-41951279',
     name: '1279 CHARMING OAK GREY',
-    slug: 'creation-55-eir-41951279',
-    sku: '1279',
+    slug: 'creation-55-eir-41951279', sku: '1279',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - CHARMING OAK GREY',
     description: 'Gerflor Creation 55 - CHARMING OAK GREY (Šifra: 1279)',
     images: [{
       id: 'creation-55-eir-41951279-img-1',
-      url: '/images/products/lvt/colors/creation-55/1279-charming-oak-grey/pod/1279-charming-oak-grey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1279-charming-oak-grey/pod/1279-charming-oak-grey-pod.jpg?v=9',
       alt: 'CHARMING OAK GREY',
       isPrimary: true,
       order: 1,
@@ -5084,15 +4906,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-eir-41961271',
     name: '1271 LOUNGE OAK GOLDEN',
-    slug: 'creation-55-eir-41961271',
-    sku: '1271',
+    slug: 'creation-55-eir-41961271', sku: '1271',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - LOUNGE OAK GOLDEN',
     description: 'Gerflor Creation 55 - LOUNGE OAK GOLDEN (Šifra: 1271)',
     images: [{
       id: 'creation-55-eir-41961271-img-1',
-      url: '/images/products/lvt/colors/creation-55/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=9',
       alt: 'LOUNGE OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -5111,15 +4932,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-eir-41961272',
     name: '1272 LOUNGE OAK BEIGE',
-    slug: 'creation-55-eir-41961272',
-    sku: '1272',
+    slug: 'creation-55-eir-41961272', sku: '1272',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - LOUNGE OAK BEIGE',
     description: 'Gerflor Creation 55 - LOUNGE OAK BEIGE (Šifra: 1272)',
     images: [{
       id: 'creation-55-eir-41961272-img-1',
-      url: '/images/products/lvt/colors/creation-55/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=9',
       alt: 'LOUNGE OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -5138,15 +4958,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-eir-41961273',
     name: '1273 LOUNGE OAK NATURAL',
-    slug: 'creation-55-eir-41961273',
-    sku: '1273',
+    slug: 'creation-55-eir-41961273', sku: '1273',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - LOUNGE OAK NATURAL',
     description: 'Gerflor Creation 55 - LOUNGE OAK NATURAL (Šifra: 1273)',
     images: [{
       id: 'creation-55-eir-41961273-img-1',
-      url: '/images/products/lvt/colors/creation-55/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=9',
       alt: 'LOUNGE OAK NATURAL',
       isPrimary: true,
       order: 1,
@@ -5165,15 +4984,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-eir-41961274',
     name: '1274 LOUNGE OAK CHESTNUT',
-    slug: 'creation-55-eir-41961274',
-    sku: '1274',
+    slug: 'creation-55-eir-41961274', sku: '1274',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - LOUNGE OAK CHESTNUT',
     description: 'Gerflor Creation 55 - LOUNGE OAK CHESTNUT (Šifra: 1274)',
     images: [{
       id: 'creation-55-eir-41961274-img-1',
-      url: '/images/products/lvt/colors/creation-55/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=9',
       alt: 'LOUNGE OAK CHESTNUT',
       isPrimary: true,
       order: 1,
@@ -5192,15 +5010,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-golden-41911606',
     name: '1606 CEDAR GOLDEN',
-    slug: 'creation-55-golden-41911606',
-    sku: '1606',
+    slug: 'creation-55-golden-41911606', sku: '1606',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - CEDAR GOLDEN',
     description: 'Gerflor Creation 55 - CEDAR GOLDEN (Šifra: 1606)',
     images: [{
       id: 'creation-55-golden-41911606-img-1',
-      url: '/images/products/lvt/colors/creation-55/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=9',
       alt: 'CEDAR GOLDEN',
       isPrimary: true,
       order: 1,
@@ -5219,15 +5036,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-greige-41821708',
     name: '1708 SAVAGE OAK GREIGE 2',
-    slug: 'creation-55-greige-41821708',
-    sku: '1708',
+    slug: 'creation-55-greige-41821708', sku: '1708',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - SAVAGE OAK GREIGE 2',
     description: 'Gerflor Creation 55 - SAVAGE OAK GREIGE 2 (Šifra: 1708)',
     images: [{
       id: 'creation-55-greige-41821708-img-1',
-      url: '/images/products/lvt/colors/creation-55/1708-savage-oak-greige-2/pod/1708-savage-oak-greige-2-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1708-savage-oak-greige-2/pod/1708-savage-oak-greige-2-pod.jpg?v=9',
       alt: 'SAVAGE OAK GREIGE 2',
       isPrimary: true,
       order: 1,
@@ -5246,15 +5062,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-honey-41820851',
     name: '0851 BOSTONIAN OAK HONEY',
-    slug: 'creation-55-honey-41820851',
-    sku: '0851',
+    slug: 'creation-55-honey-41820851', sku: '0851',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - BOSTONIAN OAK HONEY',
     description: 'Gerflor Creation 55 - BOSTONIAN OAK HONEY (Šifra: 0851)',
     images: [{
       id: 'creation-55-honey-41820851-img-1',
-      url: '/images/products/lvt/colors/creation-55/0851-bostonian-oak-honey/pod/0851-bostonian-oak-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/0851-bostonian-oak-honey/pod/0851-bostonian-oak-honey-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -5273,15 +5088,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-honey-41820870',
     name: '0870 QUARTET HONEY',
-    slug: 'creation-55-honey-41820870',
-    sku: '0870',
+    slug: 'creation-55-honey-41820870', sku: '0870',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - QUARTET HONEY',
     description: 'Gerflor Creation 55 - QUARTET HONEY (Šifra: 0870)',
     images: [{
       id: 'creation-55-honey-41820870-img-1',
-      url: '/images/products/lvt/colors/creation-55/0870-quartet-honey/pod/0870-quartet-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/0870-quartet-honey/pod/0870-quartet-honey-pod.jpg?v=9',
       alt: 'QUARTET HONEY',
       isPrimary: true,
       order: 1,
@@ -5300,15 +5114,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-honey-41821702',
     name: '1702 LINEAR WOOD HONEY',
-    slug: 'creation-55-honey-41821702',
-    sku: '1702',
+    slug: 'creation-55-honey-41821702', sku: '1702',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - LINEAR WOOD HONEY',
     description: 'Gerflor Creation 55 - LINEAR WOOD HONEY (Šifra: 1702)',
     images: [{
       id: 'creation-55-honey-41821702-img-1',
-      url: '/images/products/lvt/colors/creation-55/1702-linear-wood-honey/pod/1702-linear-wood-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1702-linear-wood-honey/pod/1702-linear-wood-honey-pod.jpg?v=9',
       alt: 'LINEAR WOOD HONEY',
       isPrimary: true,
       order: 1,
@@ -5327,15 +5140,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-honey-41821706',
     name: '1706 AQUINOHA HONEY',
-    slug: 'creation-55-honey-41821706',
-    sku: '1706',
+    slug: 'creation-55-honey-41821706', sku: '1706',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - AQUINOHA HONEY',
     description: 'Gerflor Creation 55 - AQUINOHA HONEY (Šifra: 1706)',
     images: [{
       id: 'creation-55-honey-41821706-img-1',
-      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/1706-aquinoah-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1706-aquinoah-honey/pod/62041 - -Aquinoah honey HP-pod.jpg?v=9',
       alt: 'AQUINOHA HONEY',
       isPrimary: true,
       order: 1,
@@ -5354,15 +5166,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-honey-41821709',
     name: '1709 SAVAGE OAK HONEY',
-    slug: 'creation-55-honey-41821709',
-    sku: '1709',
+    slug: 'creation-55-honey-41821709', sku: '1709',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - SAVAGE OAK HONEY',
     description: 'Gerflor Creation 55 - SAVAGE OAK HONEY (Šifra: 1709)',
     images: [{
       id: 'creation-55-honey-41821709-img-1',
-      url: '/images/products/lvt/colors/creation-55/1709-savage-oak-honey/pod/1709-savage-oak-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1709-savage-oak-honey/pod/1709-savage-oak-honey-pod.jpg?v=9',
       alt: 'SAVAGE OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -5381,15 +5192,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-honey-41931750',
     name: '1750 VERSAILLE HONEY1750',
-    slug: 'creation-55-honey-41931750',
-    sku: '1750',
+    slug: 'creation-55-honey-41931750', sku: '1750',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - VERSAILLE HONEY1750',
     description: 'Gerflor Creation 55 - VERSAILLE HONEY1750 (Šifra: 1750)',
     images: [{
       id: 'creation-55-honey-41931750-img-1',
-      url: '/images/products/lvt/colors/creation-55/1750-versaille-honey1750/pod/1750-versaille-honey1750-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1750-versaille-honey1750/pod/1750-versaille-honey1750-pod.jpg?v=9',
       alt: 'VERSAILLE HONEY1750',
       isPrimary: true,
       order: 1,
@@ -5408,15 +5218,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-honey-41971706',
     name: '1706 AQUINOHA HONEY HB',
-    slug: 'creation-55-honey-41971706',
-    sku: '1706',
+    slug: 'creation-55-honey-41971706', sku: '1706',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - AQUINOHA HONEY HB',
     description: 'Gerflor Creation 55 - AQUINOHA HONEY HB (Šifra: 1706)',
     images: [{
       id: 'creation-55-honey-41971706-img-1',
-      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/1706-aquinoah-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1706-aquinoah-honey/pod/62041 - -Aquinoah honey HP-pod.jpg?v=9',
       alt: 'AQUINOHA HONEY HB',
       isPrimary: true,
       order: 1,
@@ -5435,15 +5244,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-honey-42541706',
     name: '1706 AQUINOAH HONEY',
-    slug: 'creation-55-honey-42541706',
-    sku: '1706',
+    slug: 'creation-55-honey-42541706', sku: '1706',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - AQUINOAH HONEY',
     description: 'Gerflor Creation 55 - AQUINOAH HONEY (Šifra: 1706)',
     images: [{
       id: 'creation-55-honey-42541706-img-1',
-      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/1706-aquinoah-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1706-aquinoah-honey/pod/62041 - -Aquinoah honey HP-pod.jpg?v=9',
       alt: 'AQUINOAH HONEY',
       isPrimary: true,
       order: 1,
@@ -5462,15 +5270,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-light-41941283',
     name: '1283 URBAN STREET LIGHT VDC C55',
-    slug: 'creation-55-light-41941283',
-    sku: '1283',
+    slug: 'creation-55-light-41941283', sku: '1283',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - URBAN STREET LIGHT VDC C55',
     description: 'Gerflor Creation 55 - URBAN STREET LIGHT VDC C55 (Šifra: 1283)',
     images: [{
       id: 'creation-55-light-41941283-img-1',
-      url: '/images/products/lvt/colors/creation-55/1283-urban-street-light-vdc-c55/pod/1283-urban-street-light-vdc-c55-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1283-urban-street-light-vdc-c55/pod/1283-urban-street-light-vdc-c55-pod.jpg?v=9',
       alt: 'URBAN STREET LIGHT VDC C55',
       isPrimary: true,
       order: 1,
@@ -5489,15 +5296,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-lime-41820584',
     name: '0584 WHITE LIME',
-    slug: 'creation-55-lime-41820584',
-    sku: '0584',
+    slug: 'creation-55-lime-41820584', sku: '0584',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - WHITE LIME',
     description: 'Gerflor Creation 55 - WHITE LIME (Šifra: 0584)',
     images: [{
       id: 'creation-55-lime-41820584-img-1',
-      url: '/images/products/lvt/colors/creation-55/0584-white-lime/pod/0584-white-lime-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/0584-white-lime/pod/0584-white-lime-pod.jpg?v=9',
       alt: 'WHITE LIME',
       isPrimary: true,
       order: 1,
@@ -5516,15 +5322,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-marble-41811743',
     name: '1743 WHITE MARBLE TAMO CREAM',
-    slug: 'creation-55-marble-41811743',
-    sku: '1743',
+    slug: 'creation-55-marble-41811743', sku: '1743',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - WHITE MARBLE TAMO CREAM',
     description: 'Gerflor Creation 55 - WHITE MARBLE TAMO CREAM (Šifra: 1743)',
     images: [{
       id: 'creation-55-marble-41811743-img-1',
-      url: '/images/products/lvt/colors/creation-55/1743-white-marble-tamo-cream/pod/1743-white-marble-tamo-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1743-white-marble-tamo-cream/pod/1743-white-marble-tamo-cream-pod.jpg?v=9',
       alt: 'WHITE MARBLE TAMO CREAM',
       isPrimary: true,
       order: 1,
@@ -5543,15 +5348,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-marble-42101757',
     name: '1757 RESIN MARBLE',
-    slug: 'creation-55-marble-42101757',
-    sku: '1757',
+    slug: 'creation-55-marble-42101757', sku: '1757',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - RESIN MARBLE',
     description: 'Gerflor Creation 55 - RESIN MARBLE (Šifra: 1757)',
     images: [{
       id: 'creation-55-marble-42101757-img-1',
-      url: '/images/products/lvt/colors/creation-55/1757-resin-marble/pod/1757-resin-marble-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1757-resin-marble/pod/1757-resin-marble-pod.jpg?v=9',
       alt: 'RESIN MARBLE',
       isPrimary: true,
       order: 1,
@@ -5570,15 +5374,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-medium-41941284',
     name: '1284 URBAN STREET MEDIUM',
-    slug: 'creation-55-medium-41941284',
-    sku: '1284',
+    slug: 'creation-55-medium-41941284', sku: '1284',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - URBAN STREET MEDIUM',
     description: 'Gerflor Creation 55 - URBAN STREET MEDIUM (Šifra: 1284)',
     images: [{
       id: 'creation-55-medium-41941284-img-1',
-      url: '/images/products/lvt/colors/creation-55/1284-urban-street-medium/pod/1284-urban-street-medium-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1284-urban-street-medium/pod/1284-urban-street-medium-pod.jpg?v=9',
       alt: 'URBAN STREET MEDIUM',
       isPrimary: true,
       order: 1,
@@ -5597,15 +5400,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-natural-41820545',
     name: '0545 QUARTET NATURAL',
-    slug: 'creation-55-natural-41820545',
-    sku: '0545',
+    slug: 'creation-55-natural-41820545', sku: '0545',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - QUARTET NATURAL',
     description: 'Gerflor Creation 55 - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-55-natural-41820545-img-1',
-      url: '/images/products/lvt/colors/creation-55/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=9',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -5624,15 +5426,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-natural-41821561',
     name: '1561 TAMO NATURAL',
-    slug: 'creation-55-natural-41821561',
-    sku: '1561',
+    slug: 'creation-55-natural-41821561', sku: '1561',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - TAMO NATURAL',
     description: 'Gerflor Creation 55 - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-55-natural-41821561-img-1',
-      url: '/images/products/lvt/colors/creation-55/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=9',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -5651,15 +5452,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-natural-41911607',
     name: '1607 CEDAR NATURAL',
-    slug: 'creation-55-natural-41911607',
-    sku: '1607',
+    slug: 'creation-55-natural-41911607', sku: '1607',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - CEDAR NATURAL',
     description: 'Gerflor Creation 55 - CEDAR NATURAL (Šifra: 1607)',
     images: [{
       id: 'creation-55-natural-41911607-img-1',
-      url: '/images/products/lvt/colors/creation-55/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=9',
       alt: 'CEDAR NATURAL',
       isPrimary: true,
       order: 1,
@@ -5678,15 +5478,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-nature-41821703',
     name: '1703 LINEAR WOOD NATURE',
-    slug: 'creation-55-nature-41821703',
-    sku: '1703',
+    slug: 'creation-55-nature-41821703', sku: '1703',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - LINEAR WOOD NATURE',
     description: 'Gerflor Creation 55 - LINEAR WOOD NATURE (Šifra: 1703)',
     images: [{
       id: 'creation-55-nature-41821703-img-1',
-      url: '/images/products/lvt/colors/creation-55/1703-linear-wood-nature/pod/1703-linear-wood-nature-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1703-linear-wood-nature/pod/1703-linear-wood-nature-pod.jpg?v=9',
       alt: 'LINEAR WOOD NATURE',
       isPrimary: true,
       order: 1,
@@ -5705,15 +5504,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-nature-41821707',
     name: '1707 AQUINOAH NATURE LUNA COBALT',
-    slug: 'creation-55-nature-41821707',
-    sku: '1707',
+    slug: 'creation-55-nature-41821707', sku: '1707',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - AQUINOAH NATURE LUNA COBALT',
     description: 'Gerflor Creation 55 - AQUINOAH NATURE LUNA COBALT (Šifra: 1707)',
     images: [{
       id: 'creation-55-nature-41821707-img-1',
-      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-luna-cobalt/pod/1707-aquinoah-nature-hb-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-hb/pod/61781 - JPG 72 dpi-Aquinoah nature - 152x762 - A4 - CMJN-pod.jpg?v=9',
       alt: 'AQUINOAH NATURE LUNA COBALT',
       isPrimary: true,
       order: 1,
@@ -5732,15 +5530,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-nature-41971707',
     name: '1707 AQUINOAH NATURE HB',
-    slug: 'creation-55-nature-41971707',
-    sku: '1707',
+    slug: 'creation-55-nature-41971707', sku: '1707',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - AQUINOAH NATURE HB',
     description: 'Gerflor Creation 55 - AQUINOAH NATURE HB (Šifra: 1707)',
     images: [{
       id: 'creation-55-nature-41971707-img-1',
-      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-luna-cobalt/pod/1707-aquinoah-nature-hb-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-hb/pod/61781 - JPG 72 dpi-Aquinoah nature - 152x762 - A4 - CMJN-pod.jpg?v=9',
       alt: 'AQUINOAH NATURE HB',
       isPrimary: true,
       order: 1,
@@ -5759,15 +5556,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-noir-41811742',
     name: '1742 SAHARA NOIR',
-    slug: 'creation-55-noir-41811742',
-    sku: '1742',
+    slug: 'creation-55-noir-41811742', sku: '1742',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - SAHARA NOIR',
     description: 'Gerflor Creation 55 - SAHARA NOIR (Šifra: 1742)',
     images: [{
       id: 'creation-55-noir-41811742-img-1',
-      url: '/images/products/lvt/colors/creation-55/1742-sahara-noir/pod/1742-sahara-noir-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1742-sahara-noir/pod/1742-sahara-noir-pod.jpg?v=9',
       alt: 'SAHARA NOIR',
       isPrimary: true,
       order: 1,
@@ -5786,15 +5582,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-oak-41820441',
     name: '0441 HONEY OAK',
-    slug: 'creation-55-oak-41820441',
-    sku: '0441',
+    slug: 'creation-55-oak-41820441', sku: '0441',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - HONEY OAK',
     description: 'Gerflor Creation 55 - HONEY OAK (Šifra: 0441)',
     images: [{
       id: 'creation-55-oak-41820441-img-1',
-      url: '/images/products/lvt/colors/creation-55/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=9',
       alt: 'HONEY OAK',
       isPrimary: true,
       order: 1,
@@ -5813,15 +5608,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-pearl-41811602',
     name: '1602 BLOOM UNI PEARL',
-    slug: 'creation-55-pearl-41811602',
-    sku: '1602',
+    slug: 'creation-55-pearl-41811602', sku: '1602',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - BLOOM UNI PEARL',
     description: 'Gerflor Creation 55 - BLOOM UNI PEARL (Šifra: 1602)',
     images: [{
       id: 'creation-55-pearl-41811602-img-1',
-      url: '/images/products/lvt/colors/creation-55/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=9',
       alt: 'BLOOM UNI PEARL',
       isPrimary: true,
       order: 1,
@@ -5840,15 +5634,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-quartet-41820503',
     name: '0503 QUARTET',
-    slug: 'creation-55-quartet-41820503',
-    sku: '0503',
+    slug: 'creation-55-quartet-41820503', sku: '0503',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - QUARTET',
     description: 'Gerflor Creation 55 - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-55-quartet-41820503-img-1',
-      url: '/images/products/lvt/colors/creation-55/0503-quartet/pod/0503-quartet-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/0503-quartet/pod/0503-quartet-pod.jpg?v=9',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -5867,15 +5660,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-quartet-41970503',
     name: '0503 QUARTET',
-    slug: 'creation-55-quartet-41970503',
-    sku: '0503',
+    slug: 'creation-55-quartet-41970503', sku: '0503',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - QUARTET',
     description: 'Gerflor Creation 55 - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-55-quartet-41970503-img-1',
-      url: '/images/products/lvt/colors/creation-55/0503-quartet/pod/0503-quartet-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/0503-quartet/pod/0503-quartet-pod.jpg?v=9',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -5894,15 +5686,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-ranch-41820456',
     name: '0456 RANCH',
-    slug: 'creation-55-ranch-41820456',
-    sku: '0456',
+    slug: 'creation-55-ranch-41820456', sku: '0456',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - RANCH',
     description: 'Gerflor Creation 55 - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-55-ranch-41820456-img-1',
-      url: '/images/products/lvt/colors/creation-55/0456-ranch/pod/0456-ranch-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/0456-ranch/pod/0456-ranch-pod.jpg?v=9',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -5921,15 +5712,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-smoked-41821710',
     name: '1710 SAVAGE OAK SMOKED',
-    slug: 'creation-55-smoked-41821710',
-    sku: '1710',
+    slug: 'creation-55-smoked-41821710', sku: '1710',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - SAVAGE OAK SMOKED',
     description: 'Gerflor Creation 55 - SAVAGE OAK SMOKED (Šifra: 1710)',
     images: [{
       id: 'creation-55-smoked-41821710-img-1',
-      url: '/images/products/lvt/colors/creation-55/1710-savage-oak-smoked/pod/1710-savage-oak-smoked-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1710-savage-oak-smoked/pod/1710-savage-oak-smoked-pod.jpg?v=9',
       alt: 'SAVAGE OAK SMOKED',
       isPrimary: true,
       order: 1,
@@ -5948,15 +5738,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-smoked-41951714',
     name: '1714 CHARMING OAK SMOKED',
-    slug: 'creation-55-smoked-41951714',
-    sku: '1714',
+    slug: 'creation-55-smoked-41951714', sku: '1714',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - CHARMING OAK SMOKED',
     description: 'Gerflor Creation 55 - CHARMING OAK SMOKED (Šifra: 1714)',
     images: [{
       id: 'creation-55-smoked-41951714-img-1',
-      url: '/images/products/lvt/colors/creation-55/1714-charming-oak-smoked/pod/1714-charming-oak-smoked-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1714-charming-oak-smoked/pod/1714-charming-oak-smoked-pod.jpg?v=9',
       alt: 'CHARMING OAK SMOKED',
       isPrimary: true,
       order: 1,
@@ -5975,15 +5764,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-taupe-41811604',
     name: '1604 CURTON STONE TAUPE',
-    slug: 'creation-55-taupe-41811604',
-    sku: '1604',
+    slug: 'creation-55-taupe-41811604', sku: '1604',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - CURTON STONE TAUPE',
     description: 'Gerflor Creation 55 - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-55-taupe-41811604-img-1',
-      url: '/images/products/lvt/colors/creation-55/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=9',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -6002,15 +5790,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-taupe-41931713',
     name: '1713 BACKYARD TAUPE',
-    slug: 'creation-55-taupe-41931713',
-    sku: '1713',
+    slug: 'creation-55-taupe-41931713', sku: '1713',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - BACKYARD TAUPE',
     description: 'Gerflor Creation 55 - BACKYARD TAUPE (Šifra: 1713)',
     images: [{
       id: 'creation-55-taupe-41931713-img-1',
-      url: '/images/products/lvt/colors/creation-55/1713-backyard-taupe/pod/1713-backyard-taupe-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/1713-backyard-taupe/pod/1713-backyard-taupe-pod.jpg?v=9',
       alt: 'BACKYARD TAUPE',
       isPrimary: true,
       order: 1,
@@ -6029,15 +5816,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-twist-41820504',
     name: '0504 TWIST',
-    slug: 'creation-55-twist-41820504',
-    sku: '0504',
+    slug: 'creation-55-twist-41820504', sku: '0504',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - TWIST',
     description: 'Gerflor Creation 55 - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-55-twist-41820504-img-1',
-      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/0504-twist-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/0504-twist-pod.jpg?v=9',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -6056,15 +5842,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-twist-41970504',
     name: '0504 TWIST',
-    slug: 'creation-55-twist-41970504',
-    sku: '0504',
+    slug: 'creation-55-twist-41970504', sku: '0504',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 - TWIST',
     description: 'Gerflor Creation 55 - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-55-twist-41970504-img-1',
-      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/0504-twist-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/0504-twist-pod.jpg?v=9',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -6110,15 +5895,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-blond-60661704',
     name: '1704 AQUINOAH BLOND',
-    slug: 'creation-55-clic-blond-60661704',
-    sku: '1704',
+    slug: 'creation-55-clic-blond-60661704', sku: '1704',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic - AQUINOAH BLOND',
     description: 'Gerflor Creation 55 Clic - AQUINOAH BLOND (Šifra: 1704)',
     images: [{
       id: 'creation-55-clic-blond-60661704-img-1',
-      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/1704-aquinoah-blond-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic/1704-aquinoah-blond/pod/61196 - JPG 72 dpi-Aquinoah-Blond-sky-view-pod.jpg?v=9',
       alt: 'AQUINOAH BLOND',
       isPrimary: true,
       order: 1,
@@ -6137,15 +5921,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-brown-60661597',
     name: '1597 QUARTET DARK BROWN',
-    slug: 'creation-55-clic-brown-60661597',
-    sku: '1597',
+    slug: 'creation-55-clic-brown-60661597', sku: '1597',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic - QUARTET DARK BROWN',
     description: 'Gerflor Creation 55 Clic - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-55-clic-brown-60661597-img-1',
-      url: '/images/products/lvt/colors/creation-55/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic/1597-quartet-dark-brown/pod/61156 - JPG 72 dpi-Creation 1597 Quartet Dark Brown Sky View-pod.jpg?v=9',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -6245,15 +6028,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-clear-60661701',
     name: '1701 LINEAR WOOD CLEAR',
-    slug: 'creation-55-clic-clear-60661701',
-    sku: '1701',
+    slug: 'creation-55-clic-clear-60661701', sku: '1701',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic - LINEAR WOOD CLEAR',
     description: 'Gerflor Creation 55 Clic - LINEAR WOOD CLEAR (Šifra: 1701)',
     images: [{
       id: 'creation-55-clic-clear-60661701-img-1',
-      url: '/images/products/lvt/colors/creation-55/1701-linear-wood-clear/pod/1701-linear-wood-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic/1701-linear-wood-clear/pod/61136 - JPG 72 dpi-Linear wood clear - VDC-pod.jpg?v=9',
       alt: 'LINEAR WOOD CLEAR',
       isPrimary: true,
       order: 1,
@@ -6272,15 +6054,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-clear-60891599',
     name: '1599 BLOOM UNI CLEAR',
-    slug: 'creation-55-clic-clear-60891599',
-    sku: '1599',
+    slug: 'creation-55-clic-clear-60891599', sku: '1599',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic - BLOOM UNI CLEAR',
     description: 'Gerflor Creation 55 Clic - BLOOM UNI CLEAR (Šifra: 1599)',
     images: [{
       id: 'creation-55-clic-clear-60891599-img-1',
-      url: '/images/products/lvt/colors/creation-55/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic/1599-bloom-uni-clear/pod/61096 - JPG 72 dpi-Creation 1599 Bloom Uni Clear Sky View-pod.jpg?v=9',
       alt: 'BLOOM UNI CLEAR',
       isPrimary: true,
       order: 1,
@@ -6299,15 +6080,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-clear-60891603',
     name: '1603 CURTON STONE CLEAR',
-    slug: 'creation-55-clic-clear-60891603',
-    sku: '1603',
+    slug: 'creation-55-clic-clear-60891603', sku: '1603',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic - CURTON STONE CLEAR',
     description: 'Gerflor Creation 55 Clic - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-55-clic-clear-60891603-img-1',
-      url: '/images/products/lvt/colors/creation-55/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic/1603-curton-stone-clear/pod/61116 - JPG 72 dpi-Creation 1603 Curton Stone Clear Sky View-pod.jpg?v=9',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -6434,15 +6214,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-dark-60891601',
     name: '1601 BLOOM UNI DARK',
-    slug: 'creation-55-clic-dark-60891601',
-    sku: '1601',
+    slug: 'creation-55-clic-dark-60891601', sku: '1601',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic - BLOOM UNI DARK',
     description: 'Gerflor Creation 55 Clic - BLOOM UNI DARK (Šifra: 1601)',
     images: [{
       id: 'creation-55-clic-dark-60891601-img-1',
-      url: '/images/products/lvt/colors/creation-55/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic/1601-bloom-uni-dark/pod/61101 - JPG 72 dpi-Creation 1601 Bloom Uni Dark Sky View-pod.jpg?v=9',
       alt: 'BLOOM UNI DARK',
       isPrimary: true,
       order: 1,
@@ -6515,15 +6294,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-honey-60661706',
     name: '1706 AQUINOHA HONEY',
-    slug: 'creation-55-clic-honey-60661706',
-    sku: '1706',
+    slug: 'creation-55-clic-honey-60661706', sku: '1706',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic - AQUINOHA HONEY',
     description: 'Gerflor Creation 55 Clic - AQUINOHA HONEY (Šifra: 1706)',
     images: [{
       id: 'creation-55-clic-honey-60661706-img-1',
-      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/1706-aquinoah-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic/1706-aquinoha-honey/pod/61071 - JPG 72 dpi-Aquinoah-Honey-sky-view-pod.jpg?v=9',
       alt: 'AQUINOHA HONEY',
       isPrimary: true,
       order: 1,
@@ -6542,15 +6320,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-honey-60661709',
     name: '1709 SAVAGE OAK HONEY',
-    slug: 'creation-55-clic-honey-60661709',
-    sku: '1709',
+    slug: 'creation-55-clic-honey-60661709', sku: '1709',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic - SAVAGE OAK HONEY',
     description: 'Gerflor Creation 55 Clic - SAVAGE OAK HONEY (Šifra: 1709)',
     images: [{
       id: 'creation-55-clic-honey-60661709-img-1',
-      url: '/images/products/lvt/colors/creation-55/1709-savage-oak-honey/pod/1709-savage-oak-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic/1709-savage-oak-honey/pod/61176 - JPG 72 dpi-Savage-Pak-Honey-sky-view-pod.jpg?v=9',
       alt: 'SAVAGE OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -6623,15 +6400,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-natural-60621607',
     name: '1607 CEDAR NATURAL',
-    slug: 'creation-55-clic-natural-60621607',
-    sku: '1607',
+    slug: 'creation-55-clic-natural-60621607', sku: '1607',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic - CEDAR NATURAL',
     description: 'Gerflor Creation 55 Clic - CEDAR NATURAL (Šifra: 1607)',
     images: [{
       id: 'creation-55-clic-natural-60621607-img-1',
-      url: '/images/products/lvt/colors/creation-55/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic/1607-cedar-natural/pod/44526 - 0849-cedar-pure-pod.jpg?v=9',
       alt: 'CEDAR NATURAL',
       isPrimary: true,
       order: 1,
@@ -6650,15 +6426,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-natural-60660545',
     name: '0545 QUARTET NATURAL',
-    slug: 'creation-55-clic-natural-60660545',
-    sku: '0545',
+    slug: 'creation-55-clic-natural-60660545', sku: '0545',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic - QUARTET NATURAL',
     description: 'Gerflor Creation 55 Clic - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-55-clic-natural-60660545-img-1',
-      url: '/images/products/lvt/colors/creation-55/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic/0545-quartet-natural/pod/61166 - JPG 72 dpi-Quartet natural - VDC - 184x1219 - A4 - CMJN-pod.jpg?v=9',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -6704,15 +6479,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-nature-60661703',
     name: '1703 LINEAR WOOD NATURE',
-    slug: 'creation-55-clic-nature-60661703',
-    sku: '1703',
+    slug: 'creation-55-clic-nature-60661703', sku: '1703',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic - LINEAR WOOD NATURE',
     description: 'Gerflor Creation 55 Clic - LINEAR WOOD NATURE (Šifra: 1703)',
     images: [{
       id: 'creation-55-clic-nature-60661703-img-1',
-      url: '/images/products/lvt/colors/creation-55/1703-linear-wood-nature/pod/1703-linear-wood-nature-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic/1703-linear-wood-nature/pod/61146 - JPG 72 dpi-Linear-Wood-Nature-sky-view-pod.jpg?v=9',
       alt: 'LINEAR WOOD NATURE',
       isPrimary: true,
       order: 1,
@@ -6731,15 +6505,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-nature-60661707',
     name: '1707 AQUINOAH NATURE LUNA COBALT',
-    slug: 'creation-55-clic-nature-60661707',
-    sku: '1707',
+    slug: 'creation-55-clic-nature-60661707', sku: '1707',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic - AQUINOAH NATURE LUNA COBALT',
     description: 'Gerflor Creation 55 Clic - AQUINOAH NATURE LUNA COBALT (Šifra: 1707)',
     images: [{
       id: 'creation-55-clic-nature-60661707-img-1',
-      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-luna-cobalt/pod/1707-aquinoah-nature-hb-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic/1707-aquinoah-nature-luna-cobalt/pod/61081 - JPG 72 dpi-Aquinoah-Nature-sky-view-pod.jpg?v=9',
       alt: 'AQUINOAH NATURE LUNA COBALT',
       isPrimary: true,
       order: 1,
@@ -6758,15 +6531,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-pearl-60891602',
     name: '1602 BLOOM UNI PEARL',
-    slug: 'creation-55-clic-pearl-60891602',
-    sku: '1602',
+    slug: 'creation-55-clic-pearl-60891602', sku: '1602',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic - BLOOM UNI PEARL',
     description: 'Gerflor Creation 55 Clic - BLOOM UNI PEARL (Šifra: 1602)',
     images: [{
       id: 'creation-55-clic-pearl-60891602-img-1',
-      url: '/images/products/lvt/colors/creation-55/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic/1602-bloom-uni-pearl/pod/61106 - JPG 72 dpi-SV_Bloom Uni Pearl_Creation Core Collection-pod.jpg?v=9',
       alt: 'BLOOM UNI PEARL',
       isPrimary: true,
       order: 1,
@@ -6812,15 +6584,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-smoked-60661710',
     name: '1710 SAVAGE OAK SMOKE',
-    slug: 'creation-55-clic-smoked-60661710',
-    sku: '1710',
+    slug: 'creation-55-clic-smoked-60661710', sku: '1710',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic - SAVAGE OAK SMOKE',
     description: 'Gerflor Creation 55 Clic - SAVAGE OAK SMOKE (Šifra: 1710)',
     images: [{
       id: 'creation-55-clic-smoked-60661710-img-1',
-      url: '/images/products/lvt/colors/creation-55/1710-savage-oak-smoked/pod/1710-savage-oak-smoked-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic/1710-savage-oak-smoke/pod/61186 - JPG 72 dpi-Savage-Oak-Smoke-sky-view-pod.jpg?v=9',
       alt: 'SAVAGE OAK SMOKE',
       isPrimary: true,
       order: 1,
@@ -6839,15 +6610,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-taupe-60891604',
     name: '1604 CURTON STONE TAUPE',
-    slug: 'creation-55-clic-taupe-60891604',
-    sku: '1604',
+    slug: 'creation-55-clic-taupe-60891604', sku: '1604',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic - CURTON STONE TAUPE',
     description: 'Gerflor Creation 55 Clic - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-55-clic-taupe-60891604-img-1',
-      url: '/images/products/lvt/colors/creation-55/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic/1604-curton-stone-taupe/pod/61126 - JPG 72 dpi-Creation 1604 Curton Stone Taupe Sky View-pod.jpg?v=9',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -6893,15 +6663,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-amber-61261744',
     name: '1744 LIVING ROOM CONFETTI AMBER',
-    slug: 'creation-55-clic-acoustic-amber-61261744',
-    sku: '1744',
+    slug: 'creation-55-clic-acoustic-amber-61261744', sku: '1744',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - LIVING ROOM CONFETTI AMBER',
     description: 'Gerflor Creation 55 Clic Acoustic - LIVING ROOM CONFETTI AMBER (Šifra: 1744)',
     images: [{
       id: 'creation-55-clic-acoustic-amber-61261744-img-1',
-      url: '/images/products/lvt/colors/creation-55/1744-living-room-confetti-amber/pod/1744-living-room-confetti-amber-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1744-living-room-confetti-amber/pod/62976 - JPG 72 dpi-Confetti amber - 389x729 - VDC-pod.jpg?v=9',
       alt: 'LIVING ROOM CONFETTI AMBER',
       isPrimary: true,
       order: 1,
@@ -6920,15 +6689,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-ballerina-41920347',
     name: '0347 BALLERINA',
-    slug: 'creation-55-clic-acoustic-ballerina-41920347',
-    sku: '0347',
+    slug: 'creation-55-clic-acoustic-ballerina-41920347', sku: '0347',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - BALLERINA',
     description: 'Gerflor Creation 55 Clic Acoustic - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-55-clic-acoustic-ballerina-41920347-img-1',
-      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/0347-ballerina/pod/63016 - JPG 72 dpi-Creation 55 0347 Ballerina Herringbone Sky View-pod.jpg?v=9',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -6947,15 +6715,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-ballerina-61240347',
     name: '0347 BALLERINA',
-    slug: 'creation-55-clic-acoustic-ballerina-61240347',
-    sku: '0347',
+    slug: 'creation-55-clic-acoustic-ballerina-61240347', sku: '0347',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - BALLERINA',
     description: 'Gerflor Creation 55 Clic Acoustic - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-55-clic-acoustic-ballerina-61240347-img-1',
-      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/0347-ballerina/pod/63016 - JPG 72 dpi-Creation 55 0347 Ballerina Herringbone Sky View-pod.jpg?v=9',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -6974,15 +6741,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-beige-61240853',
     name: '0853 BOSTONIAN OAK BEIGE',
-    slug: 'creation-55-clic-acoustic-beige-61240853',
-    sku: '0853',
+    slug: 'creation-55-clic-acoustic-beige-61240853', sku: '0853',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - BOSTONIAN OAK BEIGE',
     description: 'Gerflor Creation 55 Clic Acoustic - BOSTONIAN OAK BEIGE (Šifra: 0853)',
     images: [{
       id: 'creation-55-clic-acoustic-beige-61240853-img-1',
-      url: '/images/products/lvt/colors/creation-55/0853-bostonian-oak-beige/pod/0853-bostonian-oak-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/0853-bostonian-oak-beige/pod/62646 - JPG 72 dpi-Creation 0853 Bostonian Oak Beige Sky View-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -7001,15 +6767,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-beige-61261712',
     name: '1712 BACKYARD LIGHT BEIGE',
-    slug: 'creation-55-clic-acoustic-beige-61261712',
-    sku: '1712',
+    slug: 'creation-55-clic-acoustic-beige-61261712', sku: '1712',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - BACKYARD LIGHT BEIGE',
     description: 'Gerflor Creation 55 Clic Acoustic - BACKYARD LIGHT BEIGE (Šifra: 1712)',
     images: [{
       id: 'creation-55-clic-acoustic-beige-61261712-img-1',
-      url: '/images/products/lvt/colors/creation-55/1712-backyard-light-beige/pod/1712-backyard-light-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1712-backyard-light-beige/pod/62916 - JPG 72 dpi-Backyard light beige - 389x729 - VDC-pod.jpg?v=9',
       alt: 'BACKYARD LIGHT BEIGE',
       isPrimary: true,
       order: 1,
@@ -7028,15 +6793,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-beige-61361272',
     name: '1272 LOUNGE OAK BEIGE',
-    slug: 'creation-55-clic-acoustic-beige-61361272',
-    sku: '1272',
+    slug: 'creation-55-clic-acoustic-beige-61361272', sku: '1272',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - LOUNGE OAK BEIGE',
     description: 'Gerflor Creation 55 Clic Acoustic - LOUNGE OAK BEIGE (Šifra: 1272)',
     images: [{
       id: 'creation-55-clic-acoustic-beige-61361272-img-1',
-      url: '/images/products/lvt/colors/creation-55/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1272-lounge-oak-beige/pod/62761 - JPG 72 dpi-Creation 1272 Lounge Oak Beige Sky View-pod.jpg?v=9',
       alt: 'LOUNGE OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -7055,15 +6819,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-beige-61401278',
     name: '1278 CHARMING OAK BEIGE',
-    slug: 'creation-55-clic-acoustic-beige-61401278',
-    sku: '1278',
+    slug: 'creation-55-clic-acoustic-beige-61401278', sku: '1278',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - CHARMING OAK BEIGE',
     description: 'Gerflor Creation 55 Clic Acoustic - CHARMING OAK BEIGE (Šifra: 1278)',
     images: [{
       id: 'creation-55-clic-acoustic-beige-61401278-img-1',
-      url: '/images/products/lvt/colors/creation-55/1278-charming-oak-beige/pod/1278-charming-oak-beige-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1278-charming-oak-beige/pod/63006 - JPG 72 dpi-RS74098_Charming oak beige - VDC-pod.jpg?v=9',
       alt: 'CHARMING OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -7082,15 +6845,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-blond-41921704',
     name: '1704 AQUINOAH BLOND HB VDC',
-    slug: 'creation-55-clic-acoustic-blond-41921704',
-    sku: '1704',
+    slug: 'creation-55-clic-acoustic-blond-41921704', sku: '1704',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - AQUINOAH BLOND HB VDC',
     description: 'Gerflor Creation 55 Clic Acoustic - AQUINOAH BLOND HB VDC (Šifra: 1704)',
     images: [{
       id: 'creation-55-clic-acoustic-blond-41921704-img-1',
-      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/1704-aquinoah-blond-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1704-aquinoah-blond/pod/61196 - JPG 72 dpi-Aquinoah-Blond-sky-view-pod.jpg?v=9',
       alt: 'AQUINOAH BLOND HB VDC',
       isPrimary: true,
       order: 1,
@@ -7109,15 +6871,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-blond-61241704',
     name: '1704 AQUINOAH BLOND',
-    slug: 'creation-55-clic-acoustic-blond-61241704',
-    sku: '1704',
+    slug: 'creation-55-clic-acoustic-blond-61241704', sku: '1704',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - AQUINOAH BLOND',
     description: 'Gerflor Creation 55 Clic Acoustic - AQUINOAH BLOND (Šifra: 1704)',
     images: [{
       id: 'creation-55-clic-acoustic-blond-61241704-img-1',
-      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/1704-aquinoah-blond-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1704-aquinoah-blond/pod/61196 - JPG 72 dpi-Aquinoah-Blond-sky-view-pod.jpg?v=9',
       alt: 'AQUINOAH BLOND',
       isPrimary: true,
       order: 1,
@@ -7136,15 +6897,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-board-61240455',
     name: '0455 LONG BOARD',
-    slug: 'creation-55-clic-acoustic-board-61240455',
-    sku: '0455',
+    slug: 'creation-55-clic-acoustic-board-61240455', sku: '0455',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - LONG BOARD',
     description: 'Gerflor Creation 55 Clic Acoustic - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-55-clic-acoustic-board-61240455-img-1',
-      url: '/images/products/lvt/colors/creation-55/0455-long-board/pod/0455-long-board-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/0455-long-board/pod/62666 - JPG 72 dpi-Creation 0455 Longboard Sky View-pod.jpg?v=9',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -7163,15 +6923,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-brown-61241568',
     name: '1568 TAMO LIGHT BROWN',
-    slug: 'creation-55-clic-acoustic-brown-61241568',
-    sku: '1568',
+    slug: 'creation-55-clic-acoustic-brown-61241568', sku: '1568',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - TAMO LIGHT BROWN',
     description: 'Gerflor Creation 55 Clic Acoustic - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-55-clic-acoustic-brown-61241568-img-1',
-      url: '/images/products/lvt/colors/creation-55/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1568-tamo-light-brown/pod/63026 - JPG 72 dpi-Creation 1568 Tamo Light Brown Sky View-pod.jpg?v=9',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -7190,15 +6949,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-brown-61241597',
     name: '1597 QUARTET DARK BROWN',
-    slug: 'creation-55-clic-acoustic-brown-61241597',
-    sku: '1597',
+    slug: 'creation-55-clic-acoustic-brown-61241597', sku: '1597',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - QUARTET DARK BROWN',
     description: 'Gerflor Creation 55 Clic Acoustic - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-55-clic-acoustic-brown-61241597-img-1',
-      url: '/images/products/lvt/colors/creation-55/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1597-quartet-dark-brown/pod/62676 - JPG 72 dpi-Creation 1597 Quartet Dark Brown Sky View-pod.jpg?v=9',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -7217,15 +6975,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-brown-61241705',
     name: '1705 AQUINOAH BROWN',
-    slug: 'creation-55-clic-acoustic-brown-61241705',
-    sku: '1705',
+    slug: 'creation-55-clic-acoustic-brown-61241705', sku: '1705',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - AQUINOAH BROWN',
     description: 'Gerflor Creation 55 Clic Acoustic - AQUINOAH BROWN (Šifra: 1705)',
     images: [{
       id: 'creation-55-clic-acoustic-brown-61241705-img-1',
-      url: '/images/products/lvt/colors/creation-55/1705-aquinoah-brown/pod/1705-aquinoah-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1705-aquinoah-brown/pod/62936 - JPG 72 dpi-Aquinoah-Brown-sky-view-pod.jpg?v=9',
       alt: 'AQUINOAH BROWN',
       isPrimary: true,
       order: 1,
@@ -7244,15 +7001,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-brown-61250850',
     name: '0850 CEDAR BROWN',
-    slug: 'creation-55-clic-acoustic-brown-61250850',
-    sku: '0850',
+    slug: 'creation-55-clic-acoustic-brown-61250850', sku: '0850',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - CEDAR BROWN',
     description: 'Gerflor Creation 55 Clic Acoustic - CEDAR BROWN (Šifra: 0850)',
     images: [{
       id: 'creation-55-clic-acoustic-brown-61250850-img-1',
-      url: '/images/products/lvt/colors/creation-55/0850-cedar-brown/pod/0850-cedar-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/0850-cedar-brown/pod/41426 - 0850-cedar-brown-pod.jpg?v=9',
       alt: 'CEDAR BROWN',
       isPrimary: true,
       order: 1,
@@ -7271,15 +7027,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-brown-61251605',
     name: '1605 CEDAR DARK BROWN',
-    slug: 'creation-55-clic-acoustic-brown-61251605',
-    sku: '1605',
+    slug: 'creation-55-clic-acoustic-brown-61251605', sku: '1605',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - CEDAR DARK BROWN',
     description: 'Gerflor Creation 55 Clic Acoustic - CEDAR DARK BROWN (Šifra: 1605)',
     images: [{
       id: 'creation-55-clic-acoustic-brown-61251605-img-1',
-      url: '/images/products/lvt/colors/creation-55/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1605-cedar-dark-brown/pod/62721 - JPG 72 dpi-Creation 1605 Cedar Dark Brown Sky View-pod.jpg?v=9',
       alt: 'CEDAR DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -7298,15 +7053,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-chestnut-61361274',
     name: '1274 LOUNGE OAK CHESTNUT',
-    slug: 'creation-55-clic-acoustic-chestnut-61361274',
-    sku: '1274',
+    slug: 'creation-55-clic-acoustic-chestnut-61361274', sku: '1274',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - LOUNGE OAK CHESTNUT',
     description: 'Gerflor Creation 55 Clic Acoustic - LOUNGE OAK CHESTNUT (Šifra: 1274)',
     images: [{
       id: 'creation-55-clic-acoustic-chestnut-61361274-img-1',
-      url: '/images/products/lvt/colors/creation-55/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1274-lounge-oak-chestnut/pod/61216 - JPG 72 dpi-Creation 1274 Lounge Oak Chestnut Sky View-pod.jpg?v=9',
       alt: 'LOUNGE OAK CHESTNUT',
       isPrimary: true,
       order: 1,
@@ -7325,15 +7079,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-clear-61241567',
     name: '1567 TAMO CLEAR',
-    slug: 'creation-55-clic-acoustic-clear-61241567',
-    sku: '1567',
+    slug: 'creation-55-clic-acoustic-clear-61241567', sku: '1567',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - TAMO CLEAR',
     description: 'Gerflor Creation 55 Clic Acoustic - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-55-clic-acoustic-clear-61241567-img-1',
-      url: '/images/products/lvt/colors/creation-55/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1567-tamo-clear/pod/62696 - JPG 72 dpi-Creation 1567 Tamo Clear Sky View-pod.jpg?v=9',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -7352,15 +7105,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-clear-61241701',
     name: '1701 LINEAR WOOD CLEAR',
-    slug: 'creation-55-clic-acoustic-clear-61241701',
-    sku: '1701',
+    slug: 'creation-55-clic-acoustic-clear-61241701', sku: '1701',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - LINEAR WOOD CLEAR',
     description: 'Gerflor Creation 55 Clic Acoustic - LINEAR WOOD CLEAR (Šifra: 1701)',
     images: [{
       id: 'creation-55-clic-acoustic-clear-61241701-img-1',
-      url: '/images/products/lvt/colors/creation-55/1701-linear-wood-clear/pod/1701-linear-wood-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1701-linear-wood-clear/pod/62951 - JPG 72 dpi-Linear wood clear - VDC-pod.jpg?v=9',
       alt: 'LINEAR WOOD CLEAR',
       isPrimary: true,
       order: 1,
@@ -7379,15 +7131,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-clear-61261599',
     name: '1599 BLOOM UNI CLEAR',
-    slug: 'creation-55-clic-acoustic-clear-61261599',
-    sku: '1599',
+    slug: 'creation-55-clic-acoustic-clear-61261599', sku: '1599',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - BLOOM UNI CLEAR',
     description: 'Gerflor Creation 55 Clic Acoustic - BLOOM UNI CLEAR (Šifra: 1599)',
     images: [{
       id: 'creation-55-clic-acoustic-clear-61261599-img-1',
-      url: '/images/products/lvt/colors/creation-55/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1599-bloom-uni-clear/pod/62536 - JPG 72 dpi-Creation 1599 Bloom Uni Clear Sky View-pod.jpg?v=9',
       alt: 'BLOOM UNI CLEAR',
       isPrimary: true,
       order: 1,
@@ -7406,15 +7157,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-clear-61261603',
     name: '1603 CURTON STONE CLEAR',
-    slug: 'creation-55-clic-acoustic-clear-61261603',
-    sku: '1603',
+    slug: 'creation-55-clic-acoustic-clear-61261603', sku: '1603',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - CURTON STONE CLEAR',
     description: 'Gerflor Creation 55 Clic Acoustic - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-55-clic-acoustic-clear-61261603-img-1',
-      url: '/images/products/lvt/colors/creation-55/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1603-curton-stone-clear/pod/62751 - JPG 72 dpi-Creation 1603 Curton Stone Clear Sky View-pod.jpg?v=9',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -7433,15 +7183,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-cobalt-61261745',
     name: '1745 CONFETTI COBALT',
-    slug: 'creation-55-clic-acoustic-cobalt-61261745',
-    sku: '1745',
+    slug: 'creation-55-clic-acoustic-cobalt-61261745', sku: '1745',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - CONFETTI COBALT',
     description: 'Gerflor Creation 55 Clic Acoustic - CONFETTI COBALT (Šifra: 1745)',
     images: [{
       id: 'creation-55-clic-acoustic-cobalt-61261745-img-1',
-      url: '/images/products/lvt/colors/creation-55/1745-confetti-cobalt/pod/1745-confetti-cobalt-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1745-confetti-cobalt/pod/62981 - JPG 72 dpi-Confetti cobalt - 610x610 - VDC-pod.jpg?v=9',
       alt: 'CONFETTI COBALT',
       isPrimary: true,
       order: 1,
@@ -7460,15 +7209,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-cream-61241598',
     name: '1598 TAMO CREAM',
-    slug: 'creation-55-clic-acoustic-cream-61241598',
-    sku: '1598',
+    slug: 'creation-55-clic-acoustic-cream-61241598', sku: '1598',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - TAMO CREAM',
     description: 'Gerflor Creation 55 Clic Acoustic - TAMO CREAM (Šifra: 1598)',
     images: [{
       id: 'creation-55-clic-acoustic-cream-61241598-img-1',
-      url: '/images/products/lvt/colors/creation-55/1598-tamo-cream/pod/1598-tamo-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1598-tamo-cream/pod/62701 - JPG 72 dpi-Creation 1598 Tamo Cream Sky View-pod.jpg?v=9',
       alt: 'TAMO CREAM',
       isPrimary: true,
       order: 1,
@@ -7487,15 +7235,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-cream-61261565',
     name: '1565 URBAN STREET CREAM',
-    slug: 'creation-55-clic-acoustic-cream-61261565',
-    sku: '1565',
+    slug: 'creation-55-clic-acoustic-cream-61261565', sku: '1565',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - URBAN STREET CREAM',
     description: 'Gerflor Creation 55 Clic Acoustic - URBAN STREET CREAM (Šifra: 1565)',
     images: [{
       id: 'creation-55-clic-acoustic-cream-61261565-img-1',
-      url: '/images/products/lvt/colors/creation-55/1565-creation-looselay-1565-urban-street-cream/pod/1565-creation-looselay-1565-urban-street-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1565-urban-street-cream/pod/62986 - JPG 72 dpi-Urban street cream - 389x729 - VDC-pod.jpg?v=9',
       alt: 'URBAN STREET CREAM',
       isPrimary: true,
       order: 1,
@@ -7514,15 +7261,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-cream-61261600',
     name: '1600 BLOOM UNI CREAM',
-    slug: 'creation-55-clic-acoustic-cream-61261600',
-    sku: '1600',
+    slug: 'creation-55-clic-acoustic-cream-61261600', sku: '1600',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - BLOOM UNI CREAM',
     description: 'Gerflor Creation 55 Clic Acoustic - BLOOM UNI CREAM (Šifra: 1600)',
     images: [{
       id: 'creation-55-clic-acoustic-cream-61261600-img-1',
-      url: '/images/products/lvt/colors/creation-55/1600-bloom-uni-cream/pod/1600-bloom-uni-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1600-bloom-uni-cream/pod/62736 - JPG 72 dpi-Creation 1600 Bloom Uni Cream Sky View-pod.jpg?v=9',
       alt: 'BLOOM UNI CREAM',
       isPrimary: true,
       order: 1,
@@ -7541,15 +7287,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-dark-61261601',
     name: '1601 BLOOM UNI DARK',
-    slug: 'creation-55-clic-acoustic-dark-61261601',
-    sku: '1601',
+    slug: 'creation-55-clic-acoustic-dark-61261601', sku: '1601',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - BLOOM UNI DARK',
     description: 'Gerflor Creation 55 Clic Acoustic - BLOOM UNI DARK (Šifra: 1601)',
     images: [{
       id: 'creation-55-clic-acoustic-dark-61261601-img-1',
-      url: '/images/products/lvt/colors/creation-55/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1601-bloom-uni-dark/pod/62741 - JPG 72 dpi-Creation 1601 Bloom Uni Dark Sky View-pod.jpg?v=9',
       alt: 'BLOOM UNI DARK',
       isPrimary: true,
       order: 1,
@@ -7568,15 +7313,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-dark-61261711',
     name: '1711 BACKYARD DARK3',
-    slug: 'creation-55-clic-acoustic-dark-61261711',
-    sku: '1711',
+    slug: 'creation-55-clic-acoustic-dark-61261711', sku: '1711',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - BACKYARD DARK3',
     description: 'Gerflor Creation 55 Clic Acoustic - BACKYARD DARK3 (Šifra: 1711)',
     images: [{
       id: 'creation-55-clic-acoustic-dark-61261711-img-1',
-      url: '/images/products/lvt/colors/creation-55/1711-backyard-dark3/pod/1711-backyard-dark3-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1711-backyard-dark3/pod/62906 - JPG 72 dpi-Backyard dark - 389x729 - VDC-pod.jpg?v=9',
       alt: 'BACKYARD DARK3',
       isPrimary: true,
       order: 1,
@@ -7595,15 +7339,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-golden-61251606',
     name: '1606 CEDAR GOLDEN',
-    slug: 'creation-55-clic-acoustic-golden-61251606',
-    sku: '1606',
+    slug: 'creation-55-clic-acoustic-golden-61251606', sku: '1606',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - CEDAR GOLDEN',
     description: 'Gerflor Creation 55 Clic Acoustic - CEDAR GOLDEN (Šifra: 1606)',
     images: [{
       id: 'creation-55-clic-acoustic-golden-61251606-img-1',
-      url: '/images/products/lvt/colors/creation-55/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1606-cedar-golden/pod/62726 - JPG 72 dpi-Creation 1606 Cedar Golden Sky View-pod.jpg?v=9',
       alt: 'CEDAR GOLDEN',
       isPrimary: true,
       order: 1,
@@ -7622,15 +7365,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-golden-61361271',
     name: '1271 LOUNGE OAK GOLDEN',
-    slug: 'creation-55-clic-acoustic-golden-61361271',
-    sku: '1271',
+    slug: 'creation-55-clic-acoustic-golden-61361271', sku: '1271',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - LOUNGE OAK GOLDEN',
     description: 'Gerflor Creation 55 Clic Acoustic - LOUNGE OAK GOLDEN (Šifra: 1271)',
     images: [{
       id: 'creation-55-clic-acoustic-golden-61361271-img-1',
-      url: '/images/products/lvt/colors/creation-55/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1271-lounge-oak-golden/pod/62771 - JPG 72 dpi-Creation 1271 Lounge Oak Golden Sky View-pod.jpg?v=9',
       alt: 'LOUNGE OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -7649,15 +7391,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-greige-61241708',
     name: '1708 SAVAGE OAK GREIGE 2',
-    slug: 'creation-55-clic-acoustic-greige-61241708',
-    sku: '1708',
+    slug: 'creation-55-clic-acoustic-greige-61241708', sku: '1708',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - SAVAGE OAK GREIGE 2',
     description: 'Gerflor Creation 55 Clic Acoustic - SAVAGE OAK GREIGE 2 (Šifra: 1708)',
     images: [{
       id: 'creation-55-clic-acoustic-greige-61241708-img-1',
-      url: '/images/products/lvt/colors/creation-55/1708-savage-oak-greige-2/pod/1708-savage-oak-greige-2-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1708-savage-oak-greige-2/pod/62961 - JPG 72 dpi-Savage-Oak-Greige sky view-pod.jpg?v=9',
       alt: 'SAVAGE OAK GREIGE 2',
       isPrimary: true,
       order: 1,
@@ -7676,15 +7417,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-grey-61401279',
     name: '1279 CHARMING OAK GREY',
-    slug: 'creation-55-clic-acoustic-grey-61401279',
-    sku: '1279',
+    slug: 'creation-55-clic-acoustic-grey-61401279', sku: '1279',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - CHARMING OAK GREY',
     description: 'Gerflor Creation 55 Clic Acoustic - CHARMING OAK GREY (Šifra: 1279)',
     images: [{
       id: 'creation-55-clic-acoustic-grey-61401279-img-1',
-      url: '/images/products/lvt/colors/creation-55/1279-charming-oak-grey/pod/1279-charming-oak-grey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1279-charming-oak-grey/pod/63011 - JPG 72 dpi-RS75070_Charming oak grey - VDC-pod.jpg?v=9',
       alt: 'CHARMING OAK GREY',
       isPrimary: true,
       order: 1,
@@ -7703,15 +7443,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-honey-41921706',
     name: '1706 AQUINOHA HONEY HB',
-    slug: 'creation-55-clic-acoustic-honey-41921706',
-    sku: '1706',
+    slug: 'creation-55-clic-acoustic-honey-41921706', sku: '1706',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - AQUINOHA HONEY HB',
     description: 'Gerflor Creation 55 Clic Acoustic - AQUINOHA HONEY HB (Šifra: 1706)',
     images: [{
       id: 'creation-55-clic-acoustic-honey-41921706-img-1',
-      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/1706-aquinoah-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1706-aquinoha-honey/pod/62941 - JPG 72 dpi-Aquinoah-Honey-sky-view-pod.jpg?v=9',
       alt: 'AQUINOHA HONEY HB',
       isPrimary: true,
       order: 1,
@@ -7730,15 +7469,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-honey-61240851',
     name: '0851 BOSTONIAN OAK HONEY',
-    slug: 'creation-55-clic-acoustic-honey-61240851',
-    sku: '0851',
+    slug: 'creation-55-clic-acoustic-honey-61240851', sku: '0851',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - BOSTONIAN OAK HONEY',
     description: 'Gerflor Creation 55 Clic Acoustic - BOSTONIAN OAK HONEY (Šifra: 0851)',
     images: [{
       id: 'creation-55-clic-acoustic-honey-61240851-img-1',
-      url: '/images/products/lvt/colors/creation-55/0851-bostonian-oak-honey/pod/0851-bostonian-oak-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/0851-bostonian-oak-honey/pod/62656 - JPG 72 dpi-Creation 0851 Bostonian Oak Honey Sky View-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -7757,15 +7495,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-honey-61240870',
     name: '0870 QUARTET HONEY',
-    slug: 'creation-55-clic-acoustic-honey-61240870',
-    sku: '0870',
+    slug: 'creation-55-clic-acoustic-honey-61240870', sku: '0870',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - QUARTET HONEY',
     description: 'Gerflor Creation 55 Clic Acoustic - QUARTET HONEY (Šifra: 0870)',
     images: [{
       id: 'creation-55-clic-acoustic-honey-61240870-img-1',
-      url: '/images/products/lvt/colors/creation-55/0870-quartet-honey/pod/0870-quartet-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/0870-quartet-honey/pod/62681 - JPG 72 dpi-Creation 0870 Quartet Honey Sky View-pod.jpg?v=9',
       alt: 'QUARTET HONEY',
       isPrimary: true,
       order: 1,
@@ -7784,15 +7521,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-honey-61241706',
     name: '1706 AQUINOHA HONEY',
-    slug: 'creation-55-clic-acoustic-honey-61241706',
-    sku: '1706',
+    slug: 'creation-55-clic-acoustic-honey-61241706', sku: '1706',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - AQUINOHA HONEY',
     description: 'Gerflor Creation 55 Clic Acoustic - AQUINOHA HONEY (Šifra: 1706)',
     images: [{
       id: 'creation-55-clic-acoustic-honey-61241706-img-1',
-      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/1706-aquinoah-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1706-aquinoha-honey/pod/62941 - JPG 72 dpi-Aquinoah-Honey-sky-view-pod.jpg?v=9',
       alt: 'AQUINOHA HONEY',
       isPrimary: true,
       order: 1,
@@ -7811,15 +7547,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-honey-61241709',
     name: '1709 SAVAGE OAK HONEY',
-    slug: 'creation-55-clic-acoustic-honey-61241709',
-    sku: '1709',
+    slug: 'creation-55-clic-acoustic-honey-61241709', sku: '1709',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - SAVAGE OAK HONEY',
     description: 'Gerflor Creation 55 Clic Acoustic - SAVAGE OAK HONEY (Šifra: 1709)',
     images: [{
       id: 'creation-55-clic-acoustic-honey-61241709-img-1',
-      url: '/images/products/lvt/colors/creation-55/1709-savage-oak-honey/pod/1709-savage-oak-honey-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1709-savage-oak-honey/pod/62966 - JPG 72 dpi-Savage-Pak-Honey-sky-view-pod.jpg?v=9',
       alt: 'SAVAGE OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -7838,15 +7573,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-light-61261283',
     name: '1283 LIVING ROOM URBAN STREET LIGHT MODERN RUSTIC',
-    slug: 'creation-55-clic-acoustic-light-61261283',
-    sku: '1283',
+    slug: 'creation-55-clic-acoustic-light-61261283', sku: '1283',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - LIVING ROOM URBAN STREET LIGHT MODERN RUSTIC',
     description: 'Gerflor Creation 55 Clic Acoustic - LIVING ROOM URBAN STREET LIGHT MODERN RUSTIC (Šifra: 1283)',
     images: [{
       id: 'creation-55-clic-acoustic-light-61261283-img-1',
-      url: '/images/products/lvt/colors/creation-55/1283-urban-street-light-vdc-c55/pod/1283-urban-street-light-vdc-c55-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1283-living-room-urban-street-light-modern-rustic/pod/62991 - JPG 72 dpi-URBAN STREET LIGHT-PURE CONCRETE LIGHT - 389x729 - VDC C55-pod.jpg?v=9',
       alt: 'LIVING ROOM URBAN STREET LIGHT MODERN RUSTIC',
       isPrimary: true,
       order: 1,
@@ -7865,15 +7599,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-lime-61240584',
     name: '0584 WHITE LIME',
-    slug: 'creation-55-clic-acoustic-lime-61240584',
-    sku: '0584',
+    slug: 'creation-55-clic-acoustic-lime-61240584', sku: '0584',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - WHITE LIME',
     description: 'Gerflor Creation 55 Clic Acoustic - WHITE LIME (Šifra: 0584)',
     images: [{
       id: 'creation-55-clic-acoustic-lime-61240584-img-1',
-      url: '/images/products/lvt/colors/creation-55/0584-white-lime/pod/0584-white-lime-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/0584-white-lime/pod/62716 - JPG 72 dpi-Creation 0584 White Lime Sky View-pod.jpg?v=9',
       alt: 'WHITE LIME',
       isPrimary: true,
       order: 1,
@@ -7892,15 +7625,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-marble-61261743',
     name: '1743 WHITE MARBLE TAMO CREAM',
-    slug: 'creation-55-clic-acoustic-marble-61261743',
-    sku: '1743',
+    slug: 'creation-55-clic-acoustic-marble-61261743', sku: '1743',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - WHITE MARBLE TAMO CREAM',
     description: 'Gerflor Creation 55 Clic Acoustic - WHITE MARBLE TAMO CREAM (Šifra: 1743)',
     images: [{
       id: 'creation-55-clic-acoustic-marble-61261743-img-1',
-      url: '/images/products/lvt/colors/creation-55/1743-white-marble-tamo-cream/pod/1743-white-marble-tamo-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1743-white-marble-tamo-cream/pod/63001 - JPG 72 dpi-White Marble - 389x729 - VDC-pod.jpg?v=9',
       alt: 'WHITE MARBLE TAMO CREAM',
       isPrimary: true,
       order: 1,
@@ -7919,15 +7651,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-medium-61261284',
     name: '1284 URBAN STREET MEDIUM',
-    slug: 'creation-55-clic-acoustic-medium-61261284',
-    sku: '1284',
+    slug: 'creation-55-clic-acoustic-medium-61261284', sku: '1284',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - URBAN STREET MEDIUM',
     description: 'Gerflor Creation 55 Clic Acoustic - URBAN STREET MEDIUM (Šifra: 1284)',
     images: [{
       id: 'creation-55-clic-acoustic-medium-61261284-img-1',
-      url: '/images/products/lvt/colors/creation-55/1284-urban-street-medium/pod/1284-urban-street-medium-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1284-urban-street-medium/pod/62996 - JPG 72 dpi-URBAN STREET MEDIUM - 389x729 - VDC C55-pod.jpg?v=9',
       alt: 'URBAN STREET MEDIUM',
       isPrimary: true,
       order: 1,
@@ -7946,15 +7677,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-natural-61240545',
     name: '0545 QUARTET NATURAL',
-    slug: 'creation-55-clic-acoustic-natural-61240545',
-    sku: '0545',
+    slug: 'creation-55-clic-acoustic-natural-61240545', sku: '0545',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - QUARTET NATURAL',
     description: 'Gerflor Creation 55 Clic Acoustic - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-55-clic-acoustic-natural-61240545-img-1',
-      url: '/images/products/lvt/colors/creation-55/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/0545-quartet-natural/pod/62686 - JPG 72 dpi-Quartet natural - VDC - 184x1219 - A4 - CMJN-pod.jpg?v=9',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -7973,15 +7703,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-natural-61241561',
     name: '1561 TAMO NATURAL',
-    slug: 'creation-55-clic-acoustic-natural-61241561',
-    sku: '1561',
+    slug: 'creation-55-clic-acoustic-natural-61241561', sku: '1561',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - TAMO NATURAL',
     description: 'Gerflor Creation 55 Clic Acoustic - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-55-clic-acoustic-natural-61241561-img-1',
-      url: '/images/products/lvt/colors/creation-55/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1561-tamo-natural/pod/62706 - JPG 72 dpi-Creation 1561 Tamo Natural Sky View-pod.jpg?v=9',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -8000,15 +7729,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-natural-61251607',
     name: '1607 CEDAR NATURAL',
-    slug: 'creation-55-clic-acoustic-natural-61251607',
-    sku: '1607',
+    slug: 'creation-55-clic-acoustic-natural-61251607', sku: '1607',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - CEDAR NATURAL',
     description: 'Gerflor Creation 55 Clic Acoustic - CEDAR NATURAL (Šifra: 1607)',
     images: [{
       id: 'creation-55-clic-acoustic-natural-61251607-img-1',
-      url: '/images/products/lvt/colors/creation-55/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1607-cedar-natural/pod/62731 - JPG 72 dpi-Creation 1607 Cedar Natural Sky View-pod.jpg?v=9',
       alt: 'CEDAR NATURAL',
       isPrimary: true,
       order: 1,
@@ -8027,15 +7755,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-natural-61361273',
     name: '1273 LOUNGE OAK NATURAL',
-    slug: 'creation-55-clic-acoustic-natural-61361273',
-    sku: '1273',
+    slug: 'creation-55-clic-acoustic-natural-61361273', sku: '1273',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - LOUNGE OAK NATURAL',
     description: 'Gerflor Creation 55 Clic Acoustic - LOUNGE OAK NATURAL (Šifra: 1273)',
     images: [{
       id: 'creation-55-clic-acoustic-natural-61361273-img-1',
-      url: '/images/products/lvt/colors/creation-55/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1273-lounge-oak-natural/pod/61211 - JPG 72 dpi-Creation 1273 Lounge Oak Natural Sky View-pod.jpg?v=9',
       alt: 'LOUNGE OAK NATURAL',
       isPrimary: true,
       order: 1,
@@ -8054,15 +7781,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-nature-41921707',
     name: '1707 AQUINOAH NATURE HB',
-    slug: 'creation-55-clic-acoustic-nature-41921707',
-    sku: '1707',
+    slug: 'creation-55-clic-acoustic-nature-41921707', sku: '1707',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - AQUINOAH NATURE HB',
     description: 'Gerflor Creation 55 Clic Acoustic - AQUINOAH NATURE HB (Šifra: 1707)',
     images: [{
       id: 'creation-55-clic-acoustic-nature-41921707-img-1',
-      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-luna-cobalt/pod/1707-aquinoah-nature-hb-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1707-aquinoah-nature-luna-cobalt/pod/62946 - JPG 72 dpi-Aquinoah-Nature-sky-view-pod.jpg?v=9',
       alt: 'AQUINOAH NATURE HB',
       isPrimary: true,
       order: 1,
@@ -8081,15 +7807,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-nature-61241703',
     name: '1703 LINEAR WOOD NATURE',
-    slug: 'creation-55-clic-acoustic-nature-61241703',
-    sku: '1703',
+    slug: 'creation-55-clic-acoustic-nature-61241703', sku: '1703',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - LINEAR WOOD NATURE',
     description: 'Gerflor Creation 55 Clic Acoustic - LINEAR WOOD NATURE (Šifra: 1703)',
     images: [{
       id: 'creation-55-clic-acoustic-nature-61241703-img-1',
-      url: '/images/products/lvt/colors/creation-55/1703-linear-wood-nature/pod/1703-linear-wood-nature-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1703-linear-wood-nature/pod/62956 - JPG 72 dpi-Linear-Wood-Nature-sky-view-pod.jpg?v=9',
       alt: 'LINEAR WOOD NATURE',
       isPrimary: true,
       order: 1,
@@ -8108,15 +7833,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-nature-61241707',
     name: '1707 AQUINOAH NATURE LUNA COBALT',
-    slug: 'creation-55-clic-acoustic-nature-61241707',
-    sku: '1707',
+    slug: 'creation-55-clic-acoustic-nature-61241707', sku: '1707',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - AQUINOAH NATURE LUNA COBALT',
     description: 'Gerflor Creation 55 Clic Acoustic - AQUINOAH NATURE LUNA COBALT (Šifra: 1707)',
     images: [{
       id: 'creation-55-clic-acoustic-nature-61241707-img-1',
-      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-luna-cobalt/pod/1707-aquinoah-nature-hb-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1707-aquinoah-nature-luna-cobalt/pod/62946 - JPG 72 dpi-Aquinoah-Nature-sky-view-pod.jpg?v=9',
       alt: 'AQUINOAH NATURE LUNA COBALT',
       isPrimary: true,
       order: 1,
@@ -8135,15 +7859,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-oak-61240441',
     name: '0441 HONEY OAK',
-    slug: 'creation-55-clic-acoustic-oak-61240441',
-    sku: '0441',
+    slug: 'creation-55-clic-acoustic-oak-61240441', sku: '0441',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - HONEY OAK',
     description: 'Gerflor Creation 55 Clic Acoustic - HONEY OAK (Šifra: 0441)',
     images: [{
       id: 'creation-55-clic-acoustic-oak-61240441-img-1',
-      url: '/images/products/lvt/colors/creation-55/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/0441-honey-oak/pod/62661 - JPG 72 dpi-Creation 0441 Honey Oak Sky View-pod.jpg?v=9',
       alt: 'HONEY OAK',
       isPrimary: true,
       order: 1,
@@ -8162,15 +7885,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-pearl-61261602',
     name: '1602 BLOOM UNI PEARL',
-    slug: 'creation-55-clic-acoustic-pearl-61261602',
-    sku: '1602',
+    slug: 'creation-55-clic-acoustic-pearl-61261602', sku: '1602',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - BLOOM UNI PEARL',
     description: 'Gerflor Creation 55 Clic Acoustic - BLOOM UNI PEARL (Šifra: 1602)',
     images: [{
       id: 'creation-55-clic-acoustic-pearl-61261602-img-1',
-      url: '/images/products/lvt/colors/creation-55/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1602-bloom-uni-pearl/pod/62746 - JPG 72 dpi-SV_Bloom Uni Pearl_Creation Core Collection-pod.jpg?v=9',
       alt: 'BLOOM UNI PEARL',
       isPrimary: true,
       order: 1,
@@ -8189,15 +7911,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-quartet-41920503',
     name: '0503 QUARTET',
-    slug: 'creation-55-clic-acoustic-quartet-41920503',
-    sku: '0503',
+    slug: 'creation-55-clic-acoustic-quartet-41920503', sku: '0503',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - QUARTET',
     description: 'Gerflor Creation 55 Clic Acoustic - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-55-clic-acoustic-quartet-41920503-img-1',
-      url: '/images/products/lvt/colors/creation-55/0503-quartet/pod/0503-quartet-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/0503-quartet/pod/63021 - JPG 72 dpi-0503 Quartet Herringbone-pod.jpg?v=9',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -8216,15 +7937,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-quartet-61240503',
     name: '0503 QUARTET',
-    slug: 'creation-55-clic-acoustic-quartet-61240503',
-    sku: '0503',
+    slug: 'creation-55-clic-acoustic-quartet-61240503', sku: '0503',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - QUARTET',
     description: 'Gerflor Creation 55 Clic Acoustic - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-55-clic-acoustic-quartet-61240503-img-1',
-      url: '/images/products/lvt/colors/creation-55/0503-quartet/pod/0503-quartet-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/0503-quartet/pod/63021 - JPG 72 dpi-0503 Quartet Herringbone-pod.jpg?v=9',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -8243,15 +7963,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-ranch-61240456',
     name: '0456 RANCH',
-    slug: 'creation-55-clic-acoustic-ranch-61240456',
-    sku: '0456',
+    slug: 'creation-55-clic-acoustic-ranch-61240456', sku: '0456',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - RANCH',
     description: 'Gerflor Creation 55 Clic Acoustic - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-55-clic-acoustic-ranch-61240456-img-1',
-      url: '/images/products/lvt/colors/creation-55/0456-ranch/pod/0456-ranch-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/0456-ranch/pod/62691 - JPG 72 dpi-Creation 0456 Ranch Sky View-pod.jpg?v=9',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -8270,15 +7989,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-smoked-61241710',
     name: '1710 SAVAGE OAK SMOKED',
-    slug: 'creation-55-clic-acoustic-smoked-61241710',
-    sku: '1710',
+    slug: 'creation-55-clic-acoustic-smoked-61241710', sku: '1710',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - SAVAGE OAK SMOKED',
     description: 'Gerflor Creation 55 Clic Acoustic - SAVAGE OAK SMOKED (Šifra: 1710)',
     images: [{
       id: 'creation-55-clic-acoustic-smoked-61241710-img-1',
-      url: '/images/products/lvt/colors/creation-55/1710-savage-oak-smoked/pod/1710-savage-oak-smoked-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1710-savage-oak-smoked/pod/62971 - JPG 72 dpi-Savage-Oak-Smoke-sky-view-pod.jpg?v=9',
       alt: 'SAVAGE OAK SMOKED',
       isPrimary: true,
       order: 1,
@@ -8297,15 +8015,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-taupe-61261604',
     name: '1604 CURTON STONE TAUPE',
-    slug: 'creation-55-clic-acoustic-taupe-61261604',
-    sku: '1604',
+    slug: 'creation-55-clic-acoustic-taupe-61261604', sku: '1604',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - CURTON STONE TAUPE',
     description: 'Gerflor Creation 55 Clic Acoustic - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-55-clic-acoustic-taupe-61261604-img-1',
-      url: '/images/products/lvt/colors/creation-55/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1604-curton-stone-taupe/pod/62756 - JPG 72 dpi-Creation 1604 Curton Stone Taupe Sky View-pod.jpg?v=9',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -8324,15 +8041,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-taupe-61261713',
     name: '1713 BACKYARD TAUPE',
-    slug: 'creation-55-clic-acoustic-taupe-61261713',
-    sku: '1713',
+    slug: 'creation-55-clic-acoustic-taupe-61261713', sku: '1713',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - BACKYARD TAUPE',
     description: 'Gerflor Creation 55 Clic Acoustic - BACKYARD TAUPE (Šifra: 1713)',
     images: [{
       id: 'creation-55-clic-acoustic-taupe-61261713-img-1',
-      url: '/images/products/lvt/colors/creation-55/1713-backyard-taupe/pod/1713-backyard-taupe-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/1713-backyard-taupe/pod/62926 - JPG 72 dpi-Backyard taupe - 389x729 - VDC-pod.jpg?v=9',
       alt: 'BACKYARD TAUPE',
       isPrimary: true,
       order: 1,
@@ -8351,15 +8067,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-twist-41920504',
     name: '0504 TWIST',
-    slug: 'creation-55-clic-acoustic-twist-41920504',
-    sku: '0504',
+    slug: 'creation-55-clic-acoustic-twist-41920504', sku: '0504',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - TWIST',
     description: 'Gerflor Creation 55 Clic Acoustic - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-55-clic-acoustic-twist-41920504-img-1',
-      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/0504-twist-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/0504-twist/pod/62061 - JPG 72 dpi-Creation 55 0504 Twist Herringbone Sky View-pod.jpg?v=9',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -8378,15 +8093,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-clic-acoustic-twist-61240504',
     name: '0504 TWIST',
-    slug: 'creation-55-clic-acoustic-twist-61240504',
-    sku: '0504',
+    slug: 'creation-55-clic-acoustic-twist-61240504', sku: '0504',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Clic Acoustic - TWIST',
     description: 'Gerflor Creation 55 Clic Acoustic - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-55-clic-acoustic-twist-61240504-img-1',
-      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/0504-twist-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-clic-acoustic/0504-twist/pod/62061 - JPG 72 dpi-Creation 55 0504 Twist Herringbone Sky View-pod.jpg?v=9',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -8405,15 +8119,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-ballerina-39750347',
     name: '0347 BALLERINA',
-    slug: 'creation-55-looselay-ballerina-39750347',
-    sku: '0347',
+    slug: 'creation-55-looselay-ballerina-39750347', sku: '0347',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - BALLERINA',
     description: 'Gerflor Creation 55 Looselay - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-55-looselay-ballerina-39750347-img-1',
-      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/0347-ballerina/pod/49501 - JPG 72 dpi-RS56128_Ballerina - VDC - C55-pod.jpg?v=9',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -8432,15 +8145,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-board-39750455',
     name: '0455 LONG BOARD',
-    slug: 'creation-55-looselay-board-39750455',
-    sku: '0455',
+    slug: 'creation-55-looselay-board-39750455', sku: '0455',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - LONG BOARD',
     description: 'Gerflor Creation 55 Looselay - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-55-looselay-board-39750455-img-1',
-      url: '/images/products/lvt/colors/creation-55/0455-long-board/pod/0455-long-board-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/0455-long-board/pod/49516 - JPG 72 dpi-RS56174_Longboard - VDC - C55-pod.jpg?v=9',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -8459,15 +8171,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-brown-39751568',
     name: '1568 TAMO LIGHT BROWN',
-    slug: 'creation-55-looselay-brown-39751568',
-    sku: '1568',
+    slug: 'creation-55-looselay-brown-39751568', sku: '1568',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - TAMO LIGHT BROWN',
     description: 'Gerflor Creation 55 Looselay - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-55-looselay-brown-39751568-img-1',
-      url: '/images/products/lvt/colors/creation-55/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/1568-tamo-light-brown/pod/49536 - JPG 72 dpi-Creation Looselay 1568 Tamo Light Brown 229x1220 Sky View-pod.jpg?v=9',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -8486,15 +8197,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-brown-39781568',
     name: '1568 TAMO LIGHT BROWN',
-    slug: 'creation-55-looselay-brown-39781568',
-    sku: '1568',
+    slug: 'creation-55-looselay-brown-39781568', sku: '1568',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - TAMO LIGHT BROWN',
     description: 'Gerflor Creation 55 Looselay - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-55-looselay-brown-39781568-img-1',
-      url: '/images/products/lvt/colors/creation-55/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/1568-tamo-light-brown/pod/49536 - JPG 72 dpi-Creation Looselay 1568 Tamo Light Brown 229x1220 Sky View-pod.jpg?v=9',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -8513,15 +8223,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-clear-39751567',
     name: '1567 TAMO CLEAR',
-    slug: 'creation-55-looselay-clear-39751567',
-    sku: '1567',
+    slug: 'creation-55-looselay-clear-39751567', sku: '1567',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - TAMO CLEAR',
     description: 'Gerflor Creation 55 Looselay - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-55-looselay-clear-39751567-img-1',
-      url: '/images/products/lvt/colors/creation-55/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/1567-tamo-clear/pod/49531 - JPG 72 dpi-Creation Looselay 1567 Tamo clear 229x1220 Sky View-pod.jpg?v=9',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -8540,15 +8249,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-clear-39781567',
     name: '1567 TAMO CLEAR',
-    slug: 'creation-55-looselay-clear-39781567',
-    sku: '1567',
+    slug: 'creation-55-looselay-clear-39781567', sku: '1567',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - TAMO CLEAR',
     description: 'Gerflor Creation 55 Looselay - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-55-looselay-clear-39781567-img-1',
-      url: '/images/products/lvt/colors/creation-55/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/1567-tamo-clear/pod/49531 - JPG 72 dpi-Creation Looselay 1567 Tamo clear 229x1220 Sky View-pod.jpg?v=9',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -8567,15 +8275,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-cream-39741563',
     name: '1563 GENTLEMAN CREAM',
-    slug: 'creation-55-looselay-cream-39741563',
-    sku: '1563',
+    slug: 'creation-55-looselay-cream-39741563', sku: '1563',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - GENTLEMAN CREAM',
     description: 'Gerflor Creation 55 Looselay - GENTLEMAN CREAM (Šifra: 1563)',
     images: [{
       id: 'creation-55-looselay-cream-39741563-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay/cream-39741563.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/1563-gentleman-cream/pod/56761 - Gentleman cream-pod.jpg?v=9',
       alt: 'GENTLEMAN CREAM',
       isPrimary: true,
       order: 1,
@@ -8594,15 +8301,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-cream-39741565',
     name: '1565 URBAN STREET CREAM',
-    slug: 'creation-55-looselay-cream-39741565',
-    sku: '1565',
+    slug: 'creation-55-looselay-cream-39741565', sku: '1565',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - URBAN STREET CREAM',
     description: 'Gerflor Creation 55 Looselay - URBAN STREET CREAM (Šifra: 1565)',
     images: [{
       id: 'creation-55-looselay-cream-39741565-img-1',
-      url: '/images/products/lvt/colors/creation-55/1565-creation-looselay-1565-urban-street-cream/pod/1565-creation-looselay-1565-urban-street-cream-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/1565-urban-street-cream/pod/56776 - Urban Street Cream-pod.jpg?v=9',
       alt: 'URBAN STREET CREAM',
       isPrimary: true,
       order: 1,
@@ -8621,15 +8327,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-cream-39781563',
     name: '1563 GENTLEMAN CREAM',
-    slug: 'creation-55-looselay-cream-39781563',
-    sku: '1563',
+    slug: 'creation-55-looselay-cream-39781563', sku: '1563',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - GENTLEMAN CREAM',
     description: 'Gerflor Creation 55 Looselay - GENTLEMAN CREAM (Šifra: 1563)',
     images: [{
       id: 'creation-55-looselay-cream-39781563-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay/cream-39781563.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/1563-gentleman-cream/pod/56761 - Gentleman cream-pod.jpg?v=9',
       alt: 'GENTLEMAN CREAM',
       isPrimary: true,
       order: 1,
@@ -8648,15 +8353,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-dainty-39751560',
     name: '1560 TAMO DAINTY',
-    slug: 'creation-55-looselay-dainty-39751560',
-    sku: '1560',
+    slug: 'creation-55-looselay-dainty-39751560', sku: '1560',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - TAMO DAINTY',
     description: 'Gerflor Creation 55 Looselay - TAMO DAINTY (Šifra: 1560)',
     images: [{
       id: 'creation-55-looselay-dainty-39751560-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay/dainty-39751560.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/1560-tamo-dainty/pod/49556 - JPG 72 dpi-Creation Looselay 1560 Tamo Dainty 229x1220 Sky View-pod.jpg?v=9',
       alt: 'TAMO DAINTY',
       isPrimary: true,
       order: 1,
@@ -8675,15 +8379,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-golden-39750796',
     name: '0796 SWISS OAK GOLDEN',
-    slug: 'creation-55-looselay-golden-39750796',
-    sku: '0796',
+    slug: 'creation-55-looselay-golden-39750796', sku: '0796',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - SWISS OAK GOLDEN',
     description: 'Gerflor Creation 55 Looselay - SWISS OAK GOLDEN (Šifra: 0796)',
     images: [{
       id: 'creation-55-looselay-golden-39750796-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay/golden-39750796.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/0796-swiss-oak-golden/pod/49526 - JPG 72 dpi-RS56238_Swiss Oak Golden - VDC - C55-pod.jpg?v=9',
       alt: 'SWISS OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -8702,15 +8405,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-grey-39741058',
     name: '1058 GENTLEMAN GREY',
-    slug: 'creation-55-looselay-grey-39741058',
-    sku: '1058',
+    slug: 'creation-55-looselay-grey-39741058', sku: '1058',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - GENTLEMAN GREY',
     description: 'Gerflor Creation 55 Looselay - GENTLEMAN GREY (Šifra: 1058)',
     images: [{
       id: 'creation-55-looselay-grey-39741058-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay/grey-39741058.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/1058-creation-looselay-1058-gentleman-grey-crop/pod/49576 - JPG 72 dpi-Creation Looselay 1058 Gentleman grey 153x914 Sky View-pod.jpg?v=9',
       alt: 'GENTLEMAN GREY',
       isPrimary: true,
       order: 1,
@@ -8729,15 +8431,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-grey-39781058',
     name: '1058 CREATION LOOSELAY 1058 GENTLEMAN GREY CROP',
-    slug: 'creation-55-looselay-grey-39781058',
-    sku: '1058',
+    slug: 'creation-55-looselay-grey-39781058', sku: '1058',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - CREATION LOOSELAY 1058 GENTLEMAN GREY CROP',
     description: 'Gerflor Creation 55 Looselay - CREATION LOOSELAY 1058 GENTLEMAN GREY CROP (Šifra: 1058)',
     images: [{
       id: 'creation-55-looselay-grey-39781058-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay/grey-39781058.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/1058-creation-looselay-1058-gentleman-grey-crop/pod/49576 - JPG 72 dpi-Creation Looselay 1058 Gentleman grey 153x914 Sky View-pod.jpg?v=9',
       alt: 'CREATION LOOSELAY 1058 GENTLEMAN GREY CROP',
       isPrimary: true,
       order: 1,
@@ -8756,15 +8457,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-light-39751559',
     name: '1559 CREATION LOOSELAY 1559 TAMO LIGHT CROP',
-    slug: 'creation-55-looselay-light-39751559',
-    sku: '1559',
+    slug: 'creation-55-looselay-light-39751559', sku: '1559',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - CREATION LOOSELAY 1559 TAMO LIGHT CROP',
     description: 'Gerflor Creation 55 Looselay - CREATION LOOSELAY 1559 TAMO LIGHT CROP (Šifra: 1559)',
     images: [{
       id: 'creation-55-looselay-light-39751559-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay/light-39751559.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/1559-creation-looselay-1559-tamo-light-crop/pod/49541 - JPG 72 dpi-Creation Looselay 1559 Tamo light 229x1220 Sky View-pod.jpg?v=9',
       alt: 'CREATION LOOSELAY 1559 TAMO LIGHT CROP',
       isPrimary: true,
       order: 1,
@@ -8783,15 +8483,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-light-39781559',
     name: '1559 CREATION LOOSELAY 1559 TAMO LIGHT CROP',
-    slug: 'creation-55-looselay-light-39781559',
-    sku: '1559',
+    slug: 'creation-55-looselay-light-39781559', sku: '1559',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - CREATION LOOSELAY 1559 TAMO LIGHT CROP',
     description: 'Gerflor Creation 55 Looselay - CREATION LOOSELAY 1559 TAMO LIGHT CROP (Šifra: 1559)',
     images: [{
       id: 'creation-55-looselay-light-39781559-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay/light-39781559.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/1559-creation-looselay-1559-tamo-light-crop/pod/49541 - JPG 72 dpi-Creation Looselay 1559 Tamo light 229x1220 Sky View-pod.jpg?v=9',
       alt: 'CREATION LOOSELAY 1559 TAMO LIGHT CROP',
       isPrimary: true,
       order: 1,
@@ -8810,15 +8509,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-light-39791283',
     name: '1283 URBAN STREET LIGHT',
-    slug: 'creation-55-looselay-light-39791283',
-    sku: '1283',
+    slug: 'creation-55-looselay-light-39791283', sku: '1283',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - URBAN STREET LIGHT',
     description: 'Gerflor Creation 55 Looselay - URBAN STREET LIGHT (Šifra: 1283)',
     images: [{
       id: 'creation-55-looselay-light-39791283-img-1',
-      url: '/images/products/lvt/colors/creation-55/1283-urban-street-light-vdc-c55/pod/1283-urban-street-light-vdc-c55-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/1283-urban-street-light/pod/49431 - JPG 72 dpi-Creation 55 Looselay_1283 Urban Street Light_914x914-pod.jpg?v=9',
       alt: 'URBAN STREET LIGHT',
       isPrimary: true,
       order: 1,
@@ -8837,15 +8535,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-medium-39791284',
     name: '1284 URBAN STREET MEDIUM',
-    slug: 'creation-55-looselay-medium-39791284',
-    sku: '1284',
+    slug: 'creation-55-looselay-medium-39791284', sku: '1284',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - URBAN STREET MEDIUM',
     description: 'Gerflor Creation 55 Looselay - URBAN STREET MEDIUM (Šifra: 1284)',
     images: [{
       id: 'creation-55-looselay-medium-39791284-img-1',
-      url: '/images/products/lvt/colors/creation-55/1284-urban-street-medium/pod/1284-urban-street-medium-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/1284-urban-street-medium/pod/49421 - Creation 55 70 Looselay Urban street medium 914x914 sky view-pod.jpg?v=9',
       alt: 'URBAN STREET MEDIUM',
       isPrimary: true,
       order: 1,
@@ -8864,15 +8561,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-natural-39751561',
     name: '1561 TAMO NATURAL',
-    slug: 'creation-55-looselay-natural-39751561',
-    sku: '1561',
+    slug: 'creation-55-looselay-natural-39751561', sku: '1561',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - TAMO NATURAL',
     description: 'Gerflor Creation 55 Looselay - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-55-looselay-natural-39751561-img-1',
-      url: '/images/products/lvt/colors/creation-55/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/1561-tamo-natural/pod/49551 - JPG 72 dpi-Creation Looselay 1561 Tamo Natural 229x1220 Sky View-pod.jpg?v=9',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -8891,15 +8587,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-oak-39750441',
     name: '0441 HONEY OAK',
-    slug: 'creation-55-looselay-oak-39750441',
-    sku: '0441',
+    slug: 'creation-55-looselay-oak-39750441', sku: '0441',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - HONEY OAK',
     description: 'Gerflor Creation 55 Looselay - HONEY OAK (Šifra: 0441)',
     images: [{
       id: 'creation-55-looselay-oak-39750441-img-1',
-      url: '/images/products/lvt/colors/creation-55/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/0441-honey-oak/pod/49511 - JPG 72 dpi-RS58152_Honey Oak - VDC - C55-pod.jpg?v=9',
       alt: 'HONEY OAK',
       isPrimary: true,
       order: 1,
@@ -8918,15 +8613,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-ranch-39750456',
     name: '0456 RANCH',
-    slug: 'creation-55-looselay-ranch-39750456',
-    sku: '0456',
+    slug: 'creation-55-looselay-ranch-39750456', sku: '0456',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - RANCH',
     description: 'Gerflor Creation 55 Looselay - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-55-looselay-ranch-39750456-img-1',
-      url: '/images/products/lvt/colors/creation-55/0456-ranch/pod/0456-ranch-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/0456-ranch/pod/49521 - JPG 72 dpi-Creation 0456 Ranch-pod.jpg?v=9',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -8945,15 +8639,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-riverside-39740436',
     name: '0436 RIVERSIDE SQUARE TILE',
-    slug: 'creation-55-looselay-riverside-39740436',
-    sku: '0436',
+    slug: 'creation-55-looselay-riverside-39740436', sku: '0436',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - RIVERSIDE SQUARE TILE',
     description: 'Gerflor Creation 55 Looselay - RIVERSIDE SQUARE TILE (Šifra: 0436)',
     images: [{
       id: 'creation-55-looselay-riverside-39740436-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay/riverside-39740436.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/0436-riverside-square-tile/pod/49476 - JPG 72 dpi-RS78710_Riverside square tile-pod.jpg?v=9',
       alt: 'RIVERSIDE SQUARE TILE',
       isPrimary: true,
       order: 1,
@@ -8972,15 +8665,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-station-39790374',
     name: '0374 LOOSELAY 0374 PARKER STATION',
-    slug: 'creation-55-looselay-station-39790374',
-    sku: '0374',
+    slug: 'creation-55-looselay-station-39790374', sku: '0374',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - LOOSELAY 0374 PARKER STATION',
     description: 'Gerflor Creation 55 Looselay - LOOSELAY 0374 PARKER STATION (Šifra: 0374)',
     images: [{
       id: 'creation-55-looselay-station-39790374-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay/station-39790374.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/0374-looselay-0374-parker-station/pod/49426 - JPG 72 dpi-Creation 55 Looselay_0374 Parker Station_914x914-pod.jpg?v=9',
       alt: 'LOOSELAY 0374 PARKER STATION',
       isPrimary: true,
       order: 1,
@@ -8999,15 +8691,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-taupe-39740868',
     name: '0868 BLOOM UNI TAUPE SQUARE TILE',
-    slug: 'creation-55-looselay-taupe-39740868',
-    sku: '0868',
+    slug: 'creation-55-looselay-taupe-39740868', sku: '0868',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - BLOOM UNI TAUPE SQUARE TILE',
     description: 'Gerflor Creation 55 Looselay - BLOOM UNI TAUPE SQUARE TILE (Šifra: 0868)',
     images: [{
       id: 'creation-55-looselay-taupe-39740868-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay/taupe-39740868.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/0868-bloom-uni-taupe-square-tile/pod/49436 - JPG 72 dpi-Bloom uni Taupe square tile VDC-pod.jpg?v=9',
       alt: 'BLOOM UNI TAUPE SQUARE TILE',
       isPrimary: true,
       order: 1,
@@ -9026,15 +8717,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-taupe-39741083',
     name: '1083 CREATION LOOSELAY 0089 GENTLEMAN TAUPE',
-    slug: 'creation-55-looselay-taupe-39741083',
-    sku: '1083',
+    slug: 'creation-55-looselay-taupe-39741083', sku: '1083',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - CREATION LOOSELAY 0089 GENTLEMAN TAUPE',
     description: 'Gerflor Creation 55 Looselay - CREATION LOOSELAY 0089 GENTLEMAN TAUPE (Šifra: 1083)',
     images: [{
       id: 'creation-55-looselay-taupe-39741083-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay/taupe-39741083.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/1083-creation-looselay-0089-gentleman-taupe/pod/49456 - JPG 72 dpi-Creation Looselay 1083 Gentleman taupe 600x600 Sky View-pod.jpg?v=9',
       alt: 'CREATION LOOSELAY 0089 GENTLEMAN TAUPE',
       isPrimary: true,
       order: 1,
@@ -9053,15 +8743,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-taupe-39790087',
     name: '0087 0087 DOCK TAUPE CROP',
-    slug: 'creation-55-looselay-taupe-39790087',
-    sku: '0087',
+    slug: 'creation-55-looselay-taupe-39790087', sku: '0087',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - 0087 DOCK TAUPE CROP',
     description: 'Gerflor Creation 55 Looselay - 0087 DOCK TAUPE CROP (Šifra: 0087)',
     images: [{
       id: 'creation-55-looselay-taupe-39790087-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay/taupe-39790087.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/0087-0087-dock-taupe-crop/pod/49411 - JPG 72 dpi-Creation 55 Looselay_Dock Taupe 914x914-pod.jpg?v=9',
       alt: '0087 DOCK TAUPE CROP',
       isPrimary: true,
       order: 1,
@@ -9080,15 +8769,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-terra-39741564',
     name: '1564 GENTLEMAN TERRA',
-    slug: 'creation-55-looselay-terra-39741564',
-    sku: '1564',
+    slug: 'creation-55-looselay-terra-39741564', sku: '1564',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - GENTLEMAN TERRA',
     description: 'Gerflor Creation 55 Looselay - GENTLEMAN TERRA (Šifra: 1564)',
     images: [{
       id: 'creation-55-looselay-terra-39741564-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay/terra-39741564.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/1564-gentleman-terra/pod/49466 - JPG 72 dpi-Creation Looselay 1564 Gentleman terra 600x600 Sky View-pod.jpg?v=9',
       alt: 'GENTLEMAN TERRA',
       isPrimary: true,
       order: 1,
@@ -9107,15 +8795,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-terra-39741566',
     name: '1566 URBAN STREET TERRA',
-    slug: 'creation-55-looselay-terra-39741566',
-    sku: '1566',
+    slug: 'creation-55-looselay-terra-39741566', sku: '1566',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - URBAN STREET TERRA',
     description: 'Gerflor Creation 55 Looselay - URBAN STREET TERRA (Šifra: 1566)',
     images: [{
       id: 'creation-55-looselay-terra-39741566-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay/terra-39741566.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/1566-urban-street-terra/pod/49491 - JPG 72 dpi-Creation Looselay 1566 Urban Street Terra 600x600 Sky View-pod.jpg?v=9',
       alt: 'URBAN STREET TERRA',
       isPrimary: true,
       order: 1,
@@ -9134,15 +8821,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-twist-39750504',
     name: '0504 TWIST',
-    slug: 'creation-55-looselay-twist-39750504',
-    sku: '0504',
+    slug: 'creation-55-looselay-twist-39750504', sku: '0504',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay - TWIST',
     description: 'Gerflor Creation 55 Looselay - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-55-looselay-twist-39750504-img-1',
-      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/0504-twist-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/0504-twist/pod/49566 - JPG 72 dpi-RS56244_Twist - VDC - C55-pod.jpg?v=9',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -9161,15 +8847,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-acoustic-ballerina-36640347',
     name: '0347 BALLERINA',
-    slug: 'creation-55-looselay-acoustic-ballerina-36640347',
-    sku: '0347',
+    slug: 'creation-55-looselay-acoustic-ballerina-36640347', sku: '0347',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay Acoustic - BALLERINA',
     description: 'Gerflor Creation 55 Looselay Acoustic - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-55-looselay-acoustic-ballerina-36640347-img-1',
-      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/0347-ballerina/pod/49501 - JPG 72 dpi-RS56128_Ballerina - VDC - C55-pod.jpg?v=9',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -9188,15 +8873,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-acoustic-board-36640455',
     name: '0455 LONG BOARD',
-    slug: 'creation-55-looselay-acoustic-board-36640455',
-    sku: '0455',
+    slug: 'creation-55-looselay-acoustic-board-36640455', sku: '0455',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay Acoustic - LONG BOARD',
     description: 'Gerflor Creation 55 Looselay Acoustic - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-55-looselay-acoustic-board-36640455-img-1',
-      url: '/images/products/lvt/colors/creation-55/0455-long-board/pod/0455-long-board-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/0455-long-board/pod/49516 - JPG 72 dpi-RS56174_Longboard - VDC - C55-pod.jpg?v=9',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -9215,15 +8899,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-acoustic-dainty-36641560',
     name: '1560 TAMO DAINTY',
-    slug: 'creation-55-looselay-acoustic-dainty-36641560',
-    sku: '1560',
+    slug: 'creation-55-looselay-acoustic-dainty-36641560', sku: '1560',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay Acoustic - TAMO DAINTY',
     description: 'Gerflor Creation 55 Looselay Acoustic - TAMO DAINTY (Šifra: 1560)',
     images: [{
       id: 'creation-55-looselay-acoustic-dainty-36641560-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay-acoustic/dainty-36641560.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/1560-tamo-dainty/pod/49556 - JPG 72 dpi-Creation Looselay 1560 Tamo Dainty 229x1220 Sky View-pod.jpg?v=9',
       alt: 'TAMO DAINTY',
       isPrimary: true,
       order: 1,
@@ -9242,15 +8925,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-acoustic-light-36641559',
     name: '1559 CREATION LOOSELAY 1559 TAMO LIGHT CROP',
-    slug: 'creation-55-looselay-acoustic-light-36641559',
-    sku: '1559',
+    slug: 'creation-55-looselay-acoustic-light-36641559', sku: '1559',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay Acoustic - CREATION LOOSELAY 1559 TAMO LIGHT CROP',
     description: 'Gerflor Creation 55 Looselay Acoustic - CREATION LOOSELAY 1559 TAMO LIGHT CROP (Šifra: 1559)',
     images: [{
       id: 'creation-55-looselay-acoustic-light-36641559-img-1',
-      url: '/images/products/lvt/colors/creation-55-looselay-acoustic/light-36641559.jpg',
+      url: '/images/products/lvt/colors/creation-55-looselay/1559-creation-looselay-1559-tamo-light-crop/pod/49541 - JPG 72 dpi-Creation Looselay 1559 Tamo light 229x1220 Sky View-pod.jpg?v=9',
       alt: 'CREATION LOOSELAY 1559 TAMO LIGHT CROP',
       isPrimary: true,
       order: 1,
@@ -9269,15 +8951,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-acoustic-light-39831283',
     name: '1283 URBAN STREET LIGHT',
-    slug: 'creation-55-looselay-acoustic-light-39831283',
-    sku: '1283',
+    slug: 'creation-55-looselay-acoustic-light-39831283', sku: '1283',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay Acoustic - URBAN STREET LIGHT',
     description: 'Gerflor Creation 55 Looselay Acoustic - URBAN STREET LIGHT (Šifra: 1283)',
     images: [{
       id: 'creation-55-looselay-acoustic-light-39831283-img-1',
-      url: '/images/products/lvt/colors/creation-55/1283-urban-street-light-vdc-c55/pod/1283-urban-street-light-vdc-c55-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/1283-urban-street-light/pod/49431 - JPG 72 dpi-Creation 55 Looselay_1283 Urban Street Light_914x914-pod.jpg?v=9',
       alt: 'URBAN STREET LIGHT',
       isPrimary: true,
       order: 1,
@@ -9296,15 +8977,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-acoustic-medium-39831284',
     name: '1284 URBAN STREET MEDIUM',
-    slug: 'creation-55-looselay-acoustic-medium-39831284',
-    sku: '1284',
+    slug: 'creation-55-looselay-acoustic-medium-39831284', sku: '1284',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay Acoustic - URBAN STREET MEDIUM',
     description: 'Gerflor Creation 55 Looselay Acoustic - URBAN STREET MEDIUM (Šifra: 1284)',
     images: [{
       id: 'creation-55-looselay-acoustic-medium-39831284-img-1',
-      url: '/images/products/lvt/colors/creation-55/1284-urban-street-medium/pod/1284-urban-street-medium-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/1284-urban-street-medium/pod/49421 - Creation 55 70 Looselay Urban street medium 914x914 sky view-pod.jpg?v=9',
       alt: 'URBAN STREET MEDIUM',
       isPrimary: true,
       order: 1,
@@ -9323,15 +9003,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-acoustic-natural-36641561',
     name: '1561 TAMO NATURAL',
-    slug: 'creation-55-looselay-acoustic-natural-36641561',
-    sku: '1561',
+    slug: 'creation-55-looselay-acoustic-natural-36641561', sku: '1561',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay Acoustic - TAMO NATURAL',
     description: 'Gerflor Creation 55 Looselay Acoustic - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-55-looselay-acoustic-natural-36641561-img-1',
-      url: '/images/products/lvt/colors/creation-55/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/1561-tamo-natural/pod/49551 - JPG 72 dpi-Creation Looselay 1561 Tamo Natural 229x1220 Sky View-pod.jpg?v=9',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -9350,15 +9029,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-looselay-acoustic-ranch-36640456',
     name: '0456 RANCH',
-    slug: 'creation-55-looselay-acoustic-ranch-36640456',
-    sku: '0456',
+    slug: 'creation-55-looselay-acoustic-ranch-36640456', sku: '0456',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Looselay Acoustic - RANCH',
     description: 'Gerflor Creation 55 Looselay Acoustic - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-55-looselay-acoustic-ranch-36640456-img-1',
-      url: '/images/products/lvt/colors/creation-55/0456-ranch/pod/0456-ranch-pod.jpg?v=7',
+      url: '/images/products/lvt/colors/creation-55-looselay/0456-ranch/pod/49521 - JPG 72 dpi-Creation 0456 Ranch-pod.jpg?v=9',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -9377,15 +9055,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-anthracite-39290953',
     name: '0953 RANCH ANTHRACITE',
-    slug: 'creation-55-zen-anthracite-39290953',
-    sku: '0953',
+    slug: 'creation-55-zen-anthracite-39290953', sku: '0953',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - RANCH ANTHRACITE',
     description: 'Gerflor Creation 55 Zen - RANCH ANTHRACITE (Šifra: 0953)',
     images: [{
       id: 'creation-55-zen-anthracite-39290953-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/anthracite-39290953.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/0953-ranch-anthracite/pod/50796 - Ranch Anthracite 0953-pod.jpg?v=9',
       alt: 'RANCH ANTHRACITE',
       isPrimary: true,
       order: 1,
@@ -9404,15 +9081,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-beige-39291416',
     name: '1416 BOSTONIAN OAK BEIGE',
-    slug: 'creation-55-zen-beige-39291416',
-    sku: '1416',
+    slug: 'creation-55-zen-beige-39291416', sku: '1416',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - BOSTONIAN OAK BEIGE',
     description: 'Gerflor Creation 55 Zen - BOSTONIAN OAK BEIGE (Šifra: 1416)',
     images: [{
       id: 'creation-55-zen-beige-39291416-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/beige-39291416.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1416-bostonian-oak-beige/pod/50736 - Bostonian oak beige 1416-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -9431,15 +9107,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-beige-39291418',
     name: '1418 SWISS OAK BEIGE',
-    slug: 'creation-55-zen-beige-39291418',
-    sku: '1418',
+    slug: 'creation-55-zen-beige-39291418', sku: '1418',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - SWISS OAK BEIGE',
     description: 'Gerflor Creation 55 Zen - SWISS OAK BEIGE (Šifra: 1418)',
     images: [{
       id: 'creation-55-zen-beige-39291418-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/beige-39291418.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1418-swiss-oak-beige/pod/50771 - Swiss oak beige 1418-pod.jpg?v=9',
       alt: 'SWISS OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -9458,15 +9133,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-black-39301483',
     name: '1483 BLOOM UNI BLACK',
-    slug: 'creation-55-zen-black-39301483',
-    sku: '1483',
+    slug: 'creation-55-zen-black-39301483', sku: '1483',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - BLOOM UNI BLACK',
     description: 'Gerflor Creation 55 Zen - BLOOM UNI BLACK (Šifra: 1483)',
     images: [{
       id: 'creation-55-zen-black-39301483-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/black-39301483.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1483-bloom-uni-black/pod/51436 - Bloom Uni Black 1483-pod.jpg?v=9',
       alt: 'BLOOM UNI BLACK',
       isPrimary: true,
       order: 1,
@@ -9485,15 +9159,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-brown-39301063',
     name: '1063 FINESSE BROWN',
-    slug: 'creation-55-zen-brown-39301063',
-    sku: '1063',
+    slug: 'creation-55-zen-brown-39301063', sku: '1063',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - FINESSE BROWN',
     description: 'Gerflor Creation 55 Zen - FINESSE BROWN (Šifra: 1063)',
     images: [{
       id: 'creation-55-zen-brown-39301063-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/brown-39301063.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1063-finesse-brown/pod/51466 - Finesse brown 1063-pod.jpg?v=9',
       alt: 'FINESSE BROWN',
       isPrimary: true,
       order: 1,
@@ -9512,15 +9185,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-brown-39301484',
     name: '1484 BLOOM UNI BROWN',
-    slug: 'creation-55-zen-brown-39301484',
-    sku: '1484',
+    slug: 'creation-55-zen-brown-39301484', sku: '1484',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - BLOOM UNI BROWN',
     description: 'Gerflor Creation 55 Zen - BLOOM UNI BROWN (Šifra: 1484)',
     images: [{
       id: 'creation-55-zen-brown-39301484-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/brown-39301484.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1484-bloom-uni-brown/pod/51476 - Bloom uni brown 1484-pod.jpg?v=9',
       alt: 'BLOOM UNI BROWN',
       isPrimary: true,
       order: 1,
@@ -9539,15 +9211,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-clear-39301482',
     name: '1482 BLOOM UNI CLEAR',
-    slug: 'creation-55-zen-clear-39301482',
-    sku: '1482',
+    slug: 'creation-55-zen-clear-39301482', sku: '1482',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - BLOOM UNI CLEAR',
     description: 'Gerflor Creation 55 Zen - BLOOM UNI CLEAR (Šifra: 1482)',
     images: [{
       id: 'creation-55-zen-clear-39301482-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/clear-39301482.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1482-bloom-uni-clear/pod/51401 - Bloom Uni Clear 1482-pod.jpg?v=9',
       alt: 'BLOOM UNI CLEAR',
       isPrimary: true,
       order: 1,
@@ -9566,15 +9237,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-clear-39301486',
     name: '1486 PARKER CLEAR',
-    slug: 'creation-55-zen-clear-39301486',
-    sku: '1486',
+    slug: 'creation-55-zen-clear-39301486', sku: '1486',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - PARKER CLEAR',
     description: 'Gerflor Creation 55 Zen - PARKER CLEAR (Šifra: 1486)',
     images: [{
       id: 'creation-55-zen-clear-39301486-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/clear-39301486.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1486-parker-clear/pod/51351 - Parker Clear 1486-pod.jpg?v=9',
       alt: 'PARKER CLEAR',
       isPrimary: true,
       order: 1,
@@ -9593,15 +9263,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-dark-39291421',
     name: '1421 BOSTONIAN OAK DARK',
-    slug: 'creation-55-zen-dark-39291421',
-    sku: '1421',
+    slug: 'creation-55-zen-dark-39291421', sku: '1421',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - BOSTONIAN OAK DARK',
     description: 'Gerflor Creation 55 Zen - BOSTONIAN OAK DARK (Šifra: 1421)',
     images: [{
       id: 'creation-55-zen-dark-39291421-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/dark-39291421.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1421-bostonian-oak-dark/pod/50756 - Bostonian oak dark 1421-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK DARK',
       isPrimary: true,
       order: 1,
@@ -9620,15 +9289,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-denim-39301488',
     name: '1488 FINESSE DENIM',
-    slug: 'creation-55-zen-denim-39301488',
-    sku: '1488',
+    slug: 'creation-55-zen-denim-39301488', sku: '1488',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - FINESSE DENIM',
     description: 'Gerflor Creation 55 Zen - FINESSE DENIM (Šifra: 1488)',
     images: [{
       id: 'creation-55-zen-denim-39301488-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/denim-39301488.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1488-finesse-denim/pod/51441 - Finesse Denim 1488-pod.jpg?v=9',
       alt: 'FINESSE DENIM',
       isPrimary: true,
       order: 1,
@@ -9647,15 +9315,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-golden-39291419',
     name: '1419 SWISS OAK GOLDEN',
-    slug: 'creation-55-zen-golden-39291419',
-    sku: '1419',
+    slug: 'creation-55-zen-golden-39291419', sku: '1419',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - SWISS OAK GOLDEN',
     description: 'Gerflor Creation 55 Zen - SWISS OAK GOLDEN (Šifra: 1419)',
     images: [{
       id: 'creation-55-zen-golden-39291419-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/golden-39291419.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1419-swiss-oak-golden/pod/50781 - Swiss Oak Golden 1419-pod.jpg?v=9',
       alt: 'SWISS OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -9674,15 +9341,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-green-39301487',
     name: '1487 FINESSE GREEN',
-    slug: 'creation-55-zen-green-39301487',
-    sku: '1487',
+    slug: 'creation-55-zen-green-39301487', sku: '1487',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - FINESSE GREEN',
     description: 'Gerflor Creation 55 Zen - FINESSE GREEN (Šifra: 1487)',
     images: [{
       id: 'creation-55-zen-green-39301487-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/green-39301487.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1487-finesse-green/pod/51446 - Finesse Green 1487-pod.jpg?v=9',
       alt: 'FINESSE GREEN',
       isPrimary: true,
       order: 1,
@@ -9701,15 +9367,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-grey-39301413',
     name: '1413 BLOOM UNI GREY',
-    slug: 'creation-55-zen-grey-39301413',
-    sku: '1413',
+    slug: 'creation-55-zen-grey-39301413', sku: '1413',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - BLOOM UNI GREY',
     description: 'Gerflor Creation 55 Zen - BLOOM UNI GREY (Šifra: 1413)',
     images: [{
       id: 'creation-55-zen-grey-39301413-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/grey-39301413.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1413-bloom-uni-grey/pod/50721 - Bloom uni grey 1413-pod.jpg?v=9',
       alt: 'BLOOM UNI GREY',
       isPrimary: true,
       order: 1,
@@ -9728,15 +9393,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-grey-39301489',
     name: '1489 FINESSE GREY',
-    slug: 'creation-55-zen-grey-39301489',
-    sku: '1489',
+    slug: 'creation-55-zen-grey-39301489', sku: '1489',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - FINESSE GREY',
     description: 'Gerflor Creation 55 Zen - FINESSE GREY (Šifra: 1489)',
     images: [{
       id: 'creation-55-zen-grey-39301489-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/grey-39301489.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1489-finesse-grey/pod/51471 - Finesse Grey 1489-pod.jpg?v=9',
       alt: 'FINESSE GREY',
       isPrimary: true,
       order: 1,
@@ -9755,15 +9419,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-honey-39291480',
     name: '1480 NATURE OAK HONEY',
-    slug: 'creation-55-zen-honey-39291480',
-    sku: '1480',
+    slug: 'creation-55-zen-honey-39291480', sku: '1480',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - NATURE OAK HONEY',
     description: 'Gerflor Creation 55 Zen - NATURE OAK HONEY (Šifra: 1480)',
     images: [{
       id: 'creation-55-zen-honey-39291480-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/honey-39291480.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1480-nature-oak-honey/pod/51341 - Nature oak honey 1480-pod.jpg?v=9',
       alt: 'NATURE OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -9782,15 +9445,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-kraft-39291478',
     name: '1478 BOSTONIAN OAK KRAFT',
-    slug: 'creation-55-zen-kraft-39291478',
-    sku: '1478',
+    slug: 'creation-55-zen-kraft-39291478', sku: '1478',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - BOSTONIAN OAK KRAFT',
     description: 'Gerflor Creation 55 Zen - BOSTONIAN OAK KRAFT (Šifra: 1478)',
     images: [{
       id: 'creation-55-zen-kraft-39291478-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/kraft-39291478.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1478-bostonian-oak-kraft/pod/51326 - Bostonian Oak Kraft 1478-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK KRAFT',
       isPrimary: true,
       order: 1,
@@ -9809,15 +9471,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-kraft-39291479',
     name: '1479 NATURE OAK KRAFT',
-    slug: 'creation-55-zen-kraft-39291479',
-    sku: '1479',
+    slug: 'creation-55-zen-kraft-39291479', sku: '1479',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - NATURE OAK KRAFT',
     description: 'Gerflor Creation 55 Zen - NATURE OAK KRAFT (Šifra: 1479)',
     images: [{
       id: 'creation-55-zen-kraft-39291479-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/kraft-39291479.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1479-nature-oak-kraft/pod/51331 - Nature Oak Kraft 1479-pod.jpg?v=9',
       alt: 'NATURE OAK KRAFT',
       isPrimary: true,
       order: 1,
@@ -9836,15 +9497,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-medium-39291422',
     name: '1422 BOSTONIAN OAK MEDIUM',
-    slug: 'creation-55-zen-medium-39291422',
-    sku: '1422',
+    slug: 'creation-55-zen-medium-39291422', sku: '1422',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - BOSTONIAN OAK MEDIUM',
     description: 'Gerflor Creation 55 Zen - BOSTONIAN OAK MEDIUM (Šifra: 1422)',
     images: [{
       id: 'creation-55-zen-medium-39291422-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/medium-39291422.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1422-bostonian-oak-medium/pod/50761 - Bostonian oak medium 1422-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK MEDIUM',
       isPrimary: true,
       order: 1,
@@ -9863,15 +9523,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-metal-39300817',
     name: '0817 COCOON METAL',
-    slug: 'creation-55-zen-metal-39300817',
-    sku: '0817',
+    slug: 'creation-55-zen-metal-39300817', sku: '0817',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - COCOON METAL',
     description: 'Gerflor Creation 55 Zen - COCOON METAL (Šifra: 0817)',
     images: [{
       id: 'creation-55-zen-metal-39300817-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/metal-39300817.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/0817-cocoon-metal/pod/51486 - Cocoon metal 0817-pod.jpg?v=9',
       alt: 'COCOON METAL',
       isPrimary: true,
       order: 1,
@@ -9890,15 +9549,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-nature-39301064',
     name: '1064 FINESSE NATURE',
-    slug: 'creation-55-zen-nature-39301064',
-    sku: '1064',
+    slug: 'creation-55-zen-nature-39301064', sku: '1064',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - FINESSE NATURE',
     description: 'Gerflor Creation 55 Zen - FINESSE NATURE (Šifra: 1064)',
     images: [{
       id: 'creation-55-zen-nature-39301064-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/nature-39301064.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1064-finesse-nature/pod/51456 - Finesse nature 1064-pod.jpg?v=9',
       alt: 'FINESSE NATURE',
       isPrimary: true,
       order: 1,
@@ -9917,15 +9575,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-oak-39291415',
     name: '1415 BOSTONIAN OAK',
-    slug: 'creation-55-zen-oak-39291415',
-    sku: '1415',
+    slug: 'creation-55-zen-oak-39291415', sku: '1415',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - BOSTONIAN OAK',
     description: 'Gerflor Creation 55 Zen - BOSTONIAN OAK (Šifra: 1415)',
     images: [{
       id: 'creation-55-zen-oak-39291415-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/oak-39291415.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1415-bostonian-oak/pod/50746 - Bostonian oak 1415-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK',
       isPrimary: true,
       order: 1,
@@ -9944,15 +9601,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-pearl-39291420',
     name: '1420 SWISS OAK PEARL',
-    slug: 'creation-55-zen-pearl-39291420',
-    sku: '1420',
+    slug: 'creation-55-zen-pearl-39291420', sku: '1420',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - SWISS OAK PEARL',
     description: 'Gerflor Creation 55 Zen - SWISS OAK PEARL (Šifra: 1420)',
     images: [{
       id: 'creation-55-zen-pearl-39291420-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/pearl-39291420.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1420-swiss-oak-pearl/pod/50766 - Swiss oak pearl 1420-pod.jpg?v=9',
       alt: 'SWISS OAK PEARL',
       isPrimary: true,
       order: 1,
@@ -9971,15 +9627,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-perle-39300963',
     name: '0963 BLOOM UNI PERLE',
-    slug: 'creation-55-zen-perle-39300963',
-    sku: '0963',
+    slug: 'creation-55-zen-perle-39300963', sku: '0963',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - BLOOM UNI PERLE',
     description: 'Gerflor Creation 55 Zen - BLOOM UNI PERLE (Šifra: 0963)',
     images: [{
       id: 'creation-55-zen-perle-39300963-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/perle-39300963.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/0963-bloom-uni-perle/pod/51406 - Bloom uni perle 0963-pod.jpg?v=9',
       alt: 'BLOOM UNI PERLE',
       isPrimary: true,
       order: 1,
@@ -9998,15 +9653,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-poudre-39301066',
     name: '1066 FINESSE POUDRE',
-    slug: 'creation-55-zen-poudre-39301066',
-    sku: '1066',
+    slug: 'creation-55-zen-poudre-39301066', sku: '1066',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - FINESSE POUDRE',
     description: 'Gerflor Creation 55 Zen - FINESSE POUDRE (Šifra: 1066)',
     images: [{
       id: 'creation-55-zen-poudre-39301066-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/poudre-39301066.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1066-finesse-poudre/pod/51481 - Finesse Poudre 1066-pod.jpg?v=9',
       alt: 'FINESSE POUDRE',
       isPrimary: true,
       order: 1,
@@ -10025,15 +9679,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-ranch-39290773',
     name: '0773 RANCH',
-    slug: 'creation-55-zen-ranch-39290773',
-    sku: '0773',
+    slug: 'creation-55-zen-ranch-39290773', sku: '0773',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - RANCH',
     description: 'Gerflor Creation 55 Zen - RANCH (Šifra: 0773)',
     images: [{
       id: 'creation-55-zen-ranch-39290773-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/ranch-39290773.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/0773-ranch/pod/49056 - Ranch 0773-pod.jpg?v=9',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -10052,15 +9705,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-souris-39301485',
     name: '1485 BLOOM UNI SOURIS',
-    slug: 'creation-55-zen-souris-39301485',
-    sku: '1485',
+    slug: 'creation-55-zen-souris-39301485', sku: '1485',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - BLOOM UNI SOURIS',
     description: 'Gerflor Creation 55 Zen - BLOOM UNI SOURIS (Šifra: 1485)',
     images: [{
       id: 'creation-55-zen-souris-39301485-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/souris-39301485.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1485-bloom-uni-souris/pod/51356 - Bloom uni souris 1485-pod.jpg?v=9',
       alt: 'BLOOM UNI SOURIS',
       isPrimary: true,
       order: 1,
@@ -10079,15 +9731,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-station-39301414',
     name: '1414 PARKER STATION',
-    slug: 'creation-55-zen-station-39301414',
-    sku: '1414',
+    slug: 'creation-55-zen-station-39301414', sku: '1414',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - PARKER STATION',
     description: 'Gerflor Creation 55 Zen - PARKER STATION (Šifra: 1414)',
     images: [{
       id: 'creation-55-zen-station-39301414-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/station-39301414.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1414-parker-station/pod/50711 - Parker station 1414-pod.jpg?v=9',
       alt: 'PARKER STATION',
       isPrimary: true,
       order: 1,
@@ -10106,15 +9757,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-taupe-39291481',
     name: '1481 NATURE OAK TAUPE',
-    slug: 'creation-55-zen-taupe-39291481',
-    sku: '1481',
+    slug: 'creation-55-zen-taupe-39291481', sku: '1481',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - NATURE OAK TAUPE',
     description: 'Gerflor Creation 55 Zen - NATURE OAK TAUPE (Šifra: 1481)',
     images: [{
       id: 'creation-55-zen-taupe-39291481-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/taupe-39291481.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1481-nature-oak-taupe/pod/51346 - Nature oak taupe 1481-pod.jpg?v=9',
       alt: 'NATURE OAK TAUPE',
       isPrimary: true,
       order: 1,
@@ -10133,15 +9783,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-taupe-39301412',
     name: '1412 BLOOM UNI TAUPE',
-    slug: 'creation-55-zen-taupe-39301412',
-    sku: '1412',
+    slug: 'creation-55-zen-taupe-39301412', sku: '1412',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - BLOOM UNI TAUPE',
     description: 'Gerflor Creation 55 Zen - BLOOM UNI TAUPE (Šifra: 1412)',
     images: [{
       id: 'creation-55-zen-taupe-39301412-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/taupe-39301412.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1412-bloom-uni-taupe/pod/50726 - Bloom uni taupe 1484-pod.jpg?v=9',
       alt: 'BLOOM UNI TAUPE',
       isPrimary: true,
       order: 1,
@@ -10160,15 +9809,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-55-zen-twist-39291417',
     name: '1417 TWIST',
-    slug: 'creation-55-zen-twist-39291417',
-    sku: '1417',
+    slug: 'creation-55-zen-twist-39291417', sku: '1417',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 55 Zen - TWIST',
     description: 'Gerflor Creation 55 Zen - TWIST (Šifra: 1417)',
     images: [{
       id: 'creation-55-zen-twist-39291417-img-1',
-      url: '/images/products/lvt/colors/creation-55-zen/twist-39291417.jpg',
+      url: '/images/products/lvt/colors/creation-55-zen/1417-twist/pod/50806 - Twist 1417-pod.jpg?v=9',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -10187,15 +9835,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-albion-41860577',
     name: '0577 ALBION',
-    slug: 'creation-70-albion-41860577',
-    sku: '0577',
+    slug: 'creation-70-albion-41860577', sku: '0577',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - ALBION',
     description: 'Gerflor Creation 70 - ALBION (Šifra: 0577)',
     images: [{
       id: 'creation-70-albion-41860577-img-1',
-      url: '/images/products/lvt/colors/creation-70/albion-41860577.jpg',
+      url: '/images/products/lvt/colors/creation-70/0577-albion/pod/42936 - Albion-pod.jpg?v=9',
       alt: 'ALBION',
       isPrimary: true,
       order: 1,
@@ -10214,15 +9861,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-amber-42011724',
     name: '1724 CHIPS AMBER',
-    slug: 'creation-70-amber-42011724',
-    sku: '1724',
+    slug: 'creation-70-amber-42011724', sku: '1724',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - CHIPS AMBER',
     description: 'Gerflor Creation 70 - CHIPS AMBER (Šifra: 1724)',
     images: [{
       id: 'creation-70-amber-42011724-img-1',
-      url: '/images/products/lvt/colors/creation-70/amber-42011724.jpg',
+      url: '/images/products/lvt/colors/creation-70/1724-chips-amber/pod/61916 - JPG 72 dpi-Chips amber - 610x610 - CR70 VDC-pod.jpg?v=9',
       alt: 'CHIPS AMBER',
       isPrimary: true,
       order: 1,
@@ -10241,15 +9887,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-amber-42011726',
     name: '1726 URBAN STREET AMBER CONFETTI AMBER2',
-    slug: 'creation-70-amber-42011726',
-    sku: '1726',
+    slug: 'creation-70-amber-42011726', sku: '1726',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - URBAN STREET AMBER CONFETTI AMBER2',
     description: 'Gerflor Creation 70 - URBAN STREET AMBER CONFETTI AMBER2 (Šifra: 1726)',
     images: [{
       id: 'creation-70-amber-42011726-img-1',
-      url: '/images/products/lvt/colors/creation-70/amber-42011726.jpg',
+      url: '/images/products/lvt/colors/creation-70/1726-urban-street-amber-confetti-amber2/pod/61946 - JPG 72 dpi-Urban street amber - 610x610 - VDC-pod.jpg?v=9',
       alt: 'URBAN STREET AMBER CONFETTI AMBER2',
       isPrimary: true,
       order: 1,
@@ -10268,15 +9913,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-ballerina-41860347',
     name: '0347 BALLERINA',
-    slug: 'creation-70-ballerina-41860347',
-    sku: '0347',
+    slug: 'creation-70-ballerina-41860347', sku: '0347',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - BALLERINA',
     description: 'Gerflor Creation 70 - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-70-ballerina-41860347-img-1',
-      url: '/images/products/lvt/colors/creation-70/ballerina-41860347.jpg',
+      url: '/images/products/lvt/colors/creation-70/0347-ballerina/pod/61421 - JPG 72 dpi-Creation 0347 Ballerina Sky View-pod.jpg?v=9',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -10295,15 +9939,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-beige-42001272',
     name: '1272 LOUNGE OAK BEIGE',
-    slug: 'creation-70-beige-42001272',
-    sku: '1272',
+    slug: 'creation-70-beige-42001272', sku: '1272',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - LOUNGE OAK BEIGE',
     description: 'Gerflor Creation 70 - LOUNGE OAK BEIGE (Šifra: 1272)',
     images: [{
       id: 'creation-70-beige-42001272-img-1',
-      url: '/images/products/lvt/colors/creation-70/beige-42001272.jpg',
+      url: '/images/products/lvt/colors/creation-70/1272-lounge-oak-beige/pod/61221 - JPG 72 dpi-Creation 1272 Lounge Oak Beige Sky View-pod.jpg?v=9',
       alt: 'LOUNGE OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -10322,15 +9965,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-beige-42011712',
     name: '1712 BACKYARD LIGHT BEIGE',
-    slug: 'creation-70-beige-42011712',
-    sku: '1712',
+    slug: 'creation-70-beige-42011712', sku: '1712',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - BACKYARD LIGHT BEIGE',
     description: 'Gerflor Creation 70 - BACKYARD LIGHT BEIGE (Šifra: 1712)',
     images: [{
       id: 'creation-70-beige-42011712-img-1',
-      url: '/images/products/lvt/colors/creation-70/beige-42011712.jpg',
+      url: '/images/products/lvt/colors/creation-70/1712-backyard-light-beige/pod/61906 - JPG 72 dpi-Backyard-Light-Beige-sky-view-pod.jpg?v=9',
       alt: 'BACKYARD LIGHT BEIGE',
       isPrimary: true,
       order: 1,
@@ -10349,15 +9991,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-beige-42021068',
     name: '1068 1068 ETNA BEIGE PICTURE',
-    slug: 'creation-70-beige-42021068',
-    sku: '1068',
+    slug: 'creation-70-beige-42021068', sku: '1068',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - 1068 ETNA BEIGE PICTURE',
     description: 'Gerflor Creation 70 - 1068 ETNA BEIGE PICTURE (Šifra: 1068)',
     images: [{
       id: 'creation-70-beige-42021068-img-1',
-      url: '/images/products/lvt/colors/creation-70/beige-42021068.jpg',
+      url: '/images/products/lvt/colors/creation-70/1068-1068-etna-beige-picture/pod/42926 - JPG 72 dpi-Etna Beige 1068 Creation 70 _rectangular tile-pod.jpg?v=9',
       alt: '1068 ETNA BEIGE PICTURE',
       isPrimary: true,
       order: 1,
@@ -10376,15 +10017,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-beige-42031715',
     name: '1715 CITY OAK BEIGE CR70',
-    slug: 'creation-70-beige-42031715',
-    sku: '1715',
+    slug: 'creation-70-beige-42031715', sku: '1715',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - CITY OAK BEIGE CR70',
     description: 'Gerflor Creation 70 - CITY OAK BEIGE CR70 (Šifra: 1715)',
     images: [{
       id: 'creation-70-beige-42031715-img-1',
-      url: '/images/products/lvt/colors/creation-70/beige-42031715.jpg',
+      url: '/images/products/lvt/colors/creation-70/1715-city-oak-beige-cr70/pod/61791 - JPG 72 dpi-City oak beige - 230x1500 -CR70 VDC-pod.jpg?v=9',
       alt: 'CITY OAK BEIGE CR70',
       isPrimary: true,
       order: 1,
@@ -10403,15 +10043,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-black-41991722',
     name: '1722 MARBLE BLACK MARBLE LIGHT GREY',
-    slug: 'creation-70-black-41991722',
-    sku: '1722',
+    slug: 'creation-70-black-41991722', sku: '1722',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - MARBLE BLACK MARBLE LIGHT GREY',
     description: 'Gerflor Creation 70 - MARBLE BLACK MARBLE LIGHT GREY (Šifra: 1722)',
     images: [{
       id: 'creation-70-black-41991722-img-1',
-      url: '/images/products/lvt/colors/creation-70/black-41991722.jpg',
+      url: '/images/products/lvt/colors/creation-70/1722-marble-black-marble-light-grey/pod/61966 - JPG 72 dpi-Marble black - 914x914 -CR70 VDC-pod.jpg?v=9',
       alt: 'MARBLE BLACK MARBLE LIGHT GREY',
       isPrimary: true,
       order: 1,
@@ -10430,15 +10069,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-brown-41861597',
     name: '1597 QUARTET DARK BROWN',
-    slug: 'creation-70-brown-41861597',
-    sku: '1597',
+    slug: 'creation-70-brown-41861597', sku: '1597',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - QUARTET DARK BROWN',
     description: 'Gerflor Creation 70 - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-70-brown-41861597-img-1',
-      url: '/images/products/lvt/colors/creation-70/brown-41861597.jpg',
+      url: '/images/products/lvt/colors/creation-70/1597-quartet-dark-brown/pod/61271 - JPG 72 dpi-Creation 1597 Quartet Dark Brown Sky View-pod.jpg?v=9',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -10457,15 +10095,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-brown-42030850',
     name: '0850 CEDAR BROWN',
-    slug: 'creation-70-brown-42030850',
-    sku: '0850',
+    slug: 'creation-70-brown-42030850', sku: '0850',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - CEDAR BROWN',
     description: 'Gerflor Creation 70 - CEDAR BROWN (Šifra: 0850)',
     images: [{
       id: 'creation-70-brown-42030850-img-1',
-      url: '/images/products/lvt/colors/creation-70/brown-42030850.jpg',
+      url: '/images/products/lvt/colors/creation-70/0850-cedar-brown/pod/61326 - JPG 72 dpi-SV_Cedar Brown_Creation Core Collection-pod.jpg?v=9',
       alt: 'CEDAR BROWN',
       isPrimary: true,
       order: 1,
@@ -10484,15 +10121,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-brown-42031605',
     name: '1605 CEDAR DARK BROWN',
-    slug: 'creation-70-brown-42031605',
-    sku: '1605',
+    slug: 'creation-70-brown-42031605', sku: '1605',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - CEDAR DARK BROWN',
     description: 'Gerflor Creation 70 - CEDAR DARK BROWN (Šifra: 1605)',
     images: [{
       id: 'creation-70-brown-42031605-img-1',
-      url: '/images/products/lvt/colors/creation-70/brown-42031605.jpg',
+      url: '/images/products/lvt/colors/creation-70/1605-cedar-dark-brown/pod/61336 - Creation 1605 Cedar Dark Brown-pod.jpg?v=9',
       alt: 'CEDAR DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -10511,15 +10147,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-brown-42031716',
     name: '1716 CITY OAK BROWN',
-    slug: 'creation-70-brown-42031716',
-    sku: '1716',
+    slug: 'creation-70-brown-42031716', sku: '1716',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - CITY OAK BROWN',
     description: 'Gerflor Creation 70 - CITY OAK BROWN (Šifra: 1716)',
     images: [{
       id: 'creation-70-brown-42031716-img-1',
-      url: '/images/products/lvt/colors/creation-70/brown-42031716.jpg',
+      url: '/images/products/lvt/colors/creation-70/1716-city-oak-brown/pod/61801 - JPG 72 dpi-City oak brown - 230x1500 - CR70 VDC-pod.jpg?v=9',
       alt: 'CITY OAK BROWN',
       isPrimary: true,
       order: 1,
@@ -10538,15 +10173,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-brown-42031717',
     name: '1717 CITY OAK DARK BROWN2',
-    slug: 'creation-70-brown-42031717',
-    sku: '1717',
+    slug: 'creation-70-brown-42031717', sku: '1717',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - CITY OAK DARK BROWN2',
     description: 'Gerflor Creation 70 - CITY OAK DARK BROWN2 (Šifra: 1717)',
     images: [{
       id: 'creation-70-brown-42031717-img-1',
-      url: '/images/products/lvt/colors/creation-70/brown-42031717.jpg',
+      url: '/images/products/lvt/colors/creation-70/1717-city-oak-dark-brown2/pod/61811 - JPG 72 dpi-City oak dark brown - 230x1500 - CR70 VDC-pod.jpg?v=9',
       alt: 'CITY OAK DARK BROWN2',
       isPrimary: true,
       order: 1,
@@ -10565,15 +10199,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-caramel-42031720',
     name: '1720 ONKA CARAMEL',
-    slug: 'creation-70-caramel-42031720',
-    sku: '1720',
+    slug: 'creation-70-caramel-42031720', sku: '1720',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - ONKA CARAMEL',
     description: 'Gerflor Creation 70 - ONKA CARAMEL (Šifra: 1720)',
     images: [{
       id: 'creation-70-caramel-42031720-img-1',
-      url: '/images/products/lvt/colors/creation-70/caramel-42031720.jpg',
+      url: '/images/products/lvt/colors/creation-70/1720-onka-caramel/pod/61841 - JPG 72 dpi-Onka caramel - 230x1500 - CR70 VDC-pod.jpg?v=9',
       alt: 'ONKA CARAMEL',
       isPrimary: true,
       order: 1,
@@ -10592,15 +10225,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-chestnut-42001274',
     name: '1274 LOUNGE OAK CHESTNUT',
-    slug: 'creation-70-chestnut-42001274',
-    sku: '1274',
+    slug: 'creation-70-chestnut-42001274', sku: '1274',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - LOUNGE OAK CHESTNUT',
     description: 'Gerflor Creation 70 - LOUNGE OAK CHESTNUT (Šifra: 1274)',
     images: [{
       id: 'creation-70-chestnut-42001274-img-1',
-      url: '/images/products/lvt/colors/creation-70/chestnut-42001274.jpg',
+      url: '/images/products/lvt/colors/creation-70/1274-lounge-oak-chestnut/pod/61226 - JPG 72 dpi-Creation 1274 Lounge Oak Chestnut Sky View-pod.jpg?v=9',
       alt: 'LOUNGE OAK CHESTNUT',
       isPrimary: true,
       order: 1,
@@ -10619,15 +10251,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clear-41861701',
     name: '1701 LINEAR WOOD CLEAR',
-    slug: 'creation-70-clear-41861701',
-    sku: '1701',
+    slug: 'creation-70-clear-41861701', sku: '1701',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - LINEAR WOOD CLEAR',
     description: 'Gerflor Creation 70 - LINEAR WOOD CLEAR (Šifra: 1701)',
     images: [{
       id: 'creation-70-clear-41861701-img-1',
-      url: '/images/products/lvt/colors/creation-70/clear-41861701.jpg',
+      url: '/images/products/lvt/colors/creation-70/1701-linear-wood-clear/pod/61441 - JPG 72 dpi-Linear wood clear - VDC-pod.jpg?v=9',
       alt: 'LINEAR WOOD CLEAR',
       isPrimary: true,
       order: 1,
@@ -10646,15 +10277,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clear-41991755',
     name: '1755 MARBLE BLACK MARBLE LIGHT GREY',
-    slug: 'creation-70-clear-41991755',
-    sku: '1755',
+    slug: 'creation-70-clear-41991755', sku: '1755',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - MARBLE BLACK MARBLE LIGHT GREY',
     description: 'Gerflor Creation 70 - MARBLE BLACK MARBLE LIGHT GREY (Šifra: 1755)',
     images: [{
       id: 'creation-70-clear-41991755-img-1',
-      url: '/images/products/lvt/colors/creation-70/clear-41991755.jpg',
+      url: '/images/products/lvt/colors/creation-70/1755-marble-black-marble-light-grey/pod/62036 - JPG 72 dpi-Marble light grey - 914x914 - VDC-pod.jpg?v=9',
       alt: 'MARBLE BLACK MARBLE LIGHT GREY',
       isPrimary: true,
       order: 1,
@@ -10673,15 +10303,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clear-42021603',
     name: '1603 CURTON STONE CLEAR',
-    slug: 'creation-70-clear-42021603',
-    sku: '1603',
+    slug: 'creation-70-clear-42021603', sku: '1603',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - CURTON STONE CLEAR',
     description: 'Gerflor Creation 70 - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-70-clear-42021603-img-1',
-      url: '/images/products/lvt/colors/creation-70/clear-42021603.jpg',
+      url: '/images/products/lvt/colors/creation-70/1603-curton-stone-clear/pod/61861 - JPG 72 dpi-Creation 1603 Curton Stone Clear Sky View-pod.jpg?v=9',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -10700,15 +10329,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clifton-41860556',
     name: '0556 CLIFTON2',
-    slug: 'creation-70-clifton-41860556',
-    sku: '0556',
+    slug: 'creation-70-clifton-41860556', sku: '0556',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - CLIFTON2',
     description: 'Gerflor Creation 70 - CLIFTON2 (Šifra: 0556)',
     images: [{
       id: 'creation-70-clifton-41860556-img-1',
-      url: '/images/products/lvt/colors/creation-70/clifton-41860556.jpg',
+      url: '/images/products/lvt/colors/creation-70/0556-clifton2/pod/61431 - JPG 72 dpi-VDC - Clifton - 208x1243 - A4 - CMJN-pod.jpg?v=9',
       alt: 'CLIFTON2',
       isPrimary: true,
       order: 1,
@@ -10727,15 +10355,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-cobalt-42011725',
     name: '1725 CHIPS COBALT CR 70',
-    slug: 'creation-70-cobalt-42011725',
-    sku: '1725',
+    slug: 'creation-70-cobalt-42011725', sku: '1725',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - CHIPS COBALT CR 70',
     description: 'Gerflor Creation 70 - CHIPS COBALT CR 70 (Šifra: 1725)',
     images: [{
       id: 'creation-70-cobalt-42011725-img-1',
-      url: '/images/products/lvt/colors/creation-70/cobalt-42011725.jpg',
+      url: '/images/products/lvt/colors/creation-70/1725-chips-cobalt-cr-70/pod/61926 - JPG 72 dpi-Chips cobalt - 610x610 - CR 70 VDC-pod.jpg?v=9',
       alt: 'CHIPS COBALT CR 70',
       isPrimary: true,
       order: 1,
@@ -10754,15 +10381,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-cobalt-42011727',
     name: '1727 URBAN STREET COBALT ARTEFACTO C702',
-    slug: 'creation-70-cobalt-42011727',
-    sku: '1727',
+    slug: 'creation-70-cobalt-42011727', sku: '1727',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - URBAN STREET COBALT ARTEFACTO C702',
     description: 'Gerflor Creation 70 - URBAN STREET COBALT ARTEFACTO C702 (Šifra: 1727)',
     images: [{
       id: 'creation-70-cobalt-42011727-img-1',
-      url: '/images/products/lvt/colors/creation-70/cobalt-42011727.jpg',
+      url: '/images/products/lvt/colors/creation-70/1727-urban-street-cobalt-artefacto-c702/pod/61956 - JPG 72 dpi-Urban street cobalt - 610x610 - VDC-pod.jpg?v=9',
       alt: 'URBAN STREET COBALT ARTEFACTO C702',
       isPrimary: true,
       order: 1,
@@ -10781,15 +10407,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-cream-42011565',
     name: '1565 CREATION LOOSELAY 1565 URBAN STREET CREAM',
-    slug: 'creation-70-cream-42011565',
-    sku: '1565',
+    slug: 'creation-70-cream-42011565', sku: '1565',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - CREATION LOOSELAY 1565 URBAN STREET CREAM',
     description: 'Gerflor Creation 70 - CREATION LOOSELAY 1565 URBAN STREET CREAM (Šifra: 1565)',
     images: [{
       id: 'creation-70-cream-42011565-img-1',
-      url: '/images/products/lvt/colors/creation-70/cream-42011565.jpg',
+      url: '/images/products/lvt/colors/creation-70/1565-creation-looselay-1565-urban-street-cream/pod/59351 - JPG 72 dpi-Creation Looselay 1565 Urban Street Cream 600x600 Sky View-pod.jpg?v=9',
       alt: 'CREATION LOOSELAY 1565 URBAN STREET CREAM',
       isPrimary: true,
       order: 1,
@@ -10808,15 +10433,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-cream-42011575',
     name: '1575 STONY CREAM BIO LIVING C70',
-    slug: 'creation-70-cream-42011575',
-    sku: '1575',
+    slug: 'creation-70-cream-42011575', sku: '1575',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - STONY CREAM BIO LIVING C70',
     description: 'Gerflor Creation 70 - STONY CREAM BIO LIVING C70 (Šifra: 1575)',
     images: [{
       id: 'creation-70-cream-42011575-img-1',
-      url: '/images/products/lvt/colors/creation-70/cream-42011575.jpg',
+      url: '/images/products/lvt/colors/creation-70/1575-stony-cream-bio-living-c70/pod/61936 - JPG 72 dpi-Creation Looselay 1575 Stony Cream 600x600 Sky View-pod.jpg?v=9',
       alt: 'STONY CREAM BIO LIVING C70',
       isPrimary: true,
       order: 1,
@@ -10835,15 +10459,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-dark-42011711',
     name: '1711 BACKYARD DARK',
-    slug: 'creation-70-dark-42011711',
-    sku: '1711',
+    slug: 'creation-70-dark-42011711', sku: '1711',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - BACKYARD DARK',
     description: 'Gerflor Creation 70 - BACKYARD DARK (Šifra: 1711)',
     images: [{
       id: 'creation-70-dark-42011711-img-1',
-      url: '/images/products/lvt/colors/creation-70/dark-42011711.jpg',
+      url: '/images/products/lvt/colors/creation-70/1711-backyard-dark/pod/61886 - JPG 72 dpi-Backyard-Dark-sky-view-pod.jpg?v=9',
       alt: 'BACKYARD DARK',
       isPrimary: true,
       order: 1,
@@ -10862,15 +10485,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-dark-42021069',
     name: '1069 ETNA DARK',
-    slug: 'creation-70-dark-42021069',
-    sku: '1069',
+    slug: 'creation-70-dark-42021069', sku: '1069',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - ETNA DARK',
     description: 'Gerflor Creation 70 - ETNA DARK (Šifra: 1069)',
     images: [{
       id: 'creation-70-dark-42021069-img-1',
-      url: '/images/products/lvt/colors/creation-70/dark-42021069.jpg',
+      url: '/images/products/lvt/colors/creation-70/1069-etna-dark/pod/42931 - JPG 72 dpi-Etna Dark 1069 Creation 70_rectangular tile-pod.jpg?v=9',
       alt: 'ETNA DARK',
       isPrimary: true,
       order: 1,
@@ -10889,15 +10511,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-golden-42001271',
     name: '1271 LOUNGE OAK GOLDEN',
-    slug: 'creation-70-golden-42001271',
-    sku: '1271',
+    slug: 'creation-70-golden-42001271', sku: '1271',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - LOUNGE OAK GOLDEN',
     description: 'Gerflor Creation 70 - LOUNGE OAK GOLDEN (Šifra: 1271)',
     images: [{
       id: 'creation-70-golden-42001271-img-1',
-      url: '/images/products/lvt/colors/creation-70/golden-42001271.jpg',
+      url: '/images/products/lvt/colors/creation-70/1271-lounge-oak-golden/pod/61231 - JPG 72 dpi-Creation 1271 Lounge Oak Golden Sky View-pod.jpg?v=9',
       alt: 'LOUNGE OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -10916,15 +10537,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-golden-42031606',
     name: '1606 CEDAR GOLDEN',
-    slug: 'creation-70-golden-42031606',
-    sku: '1606',
+    slug: 'creation-70-golden-42031606', sku: '1606',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - CEDAR GOLDEN',
     description: 'Gerflor Creation 70 - CEDAR GOLDEN (Šifra: 1606)',
     images: [{
       id: 'creation-70-golden-42031606-img-1',
-      url: '/images/products/lvt/colors/creation-70/golden-42031606.jpg',
+      url: '/images/products/lvt/colors/creation-70/1606-cedar-golden/pod/61346 - JPG 72 dpi-Creation 1606 Cedar Golden Sky View-pod.jpg?v=9',
       alt: 'CEDAR GOLDEN',
       isPrimary: true,
       order: 1,
@@ -10943,15 +10563,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-greige-42031721',
     name: '1721 ONKA GREIGE CR70',
-    slug: 'creation-70-greige-42031721',
-    sku: '1721',
+    slug: 'creation-70-greige-42031721', sku: '1721',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - ONKA GREIGE CR70',
     description: 'Gerflor Creation 70 - ONKA GREIGE CR70 (Šifra: 1721)',
     images: [{
       id: 'creation-70-greige-42031721-img-1',
-      url: '/images/products/lvt/colors/creation-70/greige-42031721.jpg',
+      url: '/images/products/lvt/colors/creation-70/1721-onka-greige-cr70/pod/61851 - JPG 72 dpi-Onka greige - 230x1500 - CR70 VDC-pod.jpg?v=9',
       alt: 'ONKA GREIGE CR70',
       isPrimary: true,
       order: 1,
@@ -10970,15 +10589,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-grey-42011723',
     name: '1723 BACKYARD GREY',
-    slug: 'creation-70-grey-42011723',
-    sku: '1723',
+    slug: 'creation-70-grey-42011723', sku: '1723',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - BACKYARD GREY',
     description: 'Gerflor Creation 70 - BACKYARD GREY (Šifra: 1723)',
     images: [{
       id: 'creation-70-grey-42011723-img-1',
-      url: '/images/products/lvt/colors/creation-70/grey-42011723.jpg',
+      url: '/images/products/lvt/colors/creation-70/1723-backyard-grey/pod/61896 - JPG 72 dpi-Backyard grey - 610x610 - CR70 VDC-pod.jpg?v=9',
       alt: 'BACKYARD GREY',
       isPrimary: true,
       order: 1,
@@ -10997,15 +10615,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-grey-42020085',
     name: '0085 DOCK GREY RECTANGULAR TILE',
-    slug: 'creation-70-grey-42020085',
-    sku: '0085',
+    slug: 'creation-70-grey-42020085', sku: '0085',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - DOCK GREY RECTANGULAR TILE',
     description: 'Gerflor Creation 70 - DOCK GREY RECTANGULAR TILE (Šifra: 0085)',
     images: [{
       id: 'creation-70-grey-42020085-img-1',
-      url: '/images/products/lvt/colors/creation-70/grey-42020085.jpg',
+      url: '/images/products/lvt/colors/creation-70/0085-dock-grey-rectangular-tile/pod/41776 - 0085 dock grey - rectangular tile-pod.jpg?v=9',
       alt: 'DOCK GREY RECTANGULAR TILE',
       isPrimary: true,
       order: 1,
@@ -11024,15 +10641,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-grey-42031718',
     name: '1718 CITY OAK GREY',
-    slug: 'creation-70-grey-42031718',
-    sku: '1718',
+    slug: 'creation-70-grey-42031718', sku: '1718',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - CITY OAK GREY',
     description: 'Gerflor Creation 70 - CITY OAK GREY (Šifra: 1718)',
     images: [{
       id: 'creation-70-grey-42031718-img-1',
-      url: '/images/products/lvt/colors/creation-70/grey-42031718.jpg',
+      url: '/images/products/lvt/colors/creation-70/1718-city-oak-grey/pod/61821 - JPG 72 dpi-City oak grey - 230x1500 -CR70 VDC-pod.jpg?v=9',
       alt: 'CITY OAK GREY',
       isPrimary: true,
       order: 1,
@@ -11051,15 +10667,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-honey-41860870',
     name: '0870 QUARTET HONEY',
-    slug: 'creation-70-honey-41860870',
-    sku: '0870',
+    slug: 'creation-70-honey-41860870', sku: '0870',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - QUARTET HONEY',
     description: 'Gerflor Creation 70 - QUARTET HONEY (Šifra: 0870)',
     images: [{
       id: 'creation-70-honey-41860870-img-1',
-      url: '/images/products/lvt/colors/creation-70/honey-41860870.jpg',
+      url: '/images/products/lvt/colors/creation-70/0870-quartet-honey/pod/61281 - JPG 72 dpi-Creation 0870 Quartet Honey Sky View-pod.jpg?v=9',
       alt: 'QUARTET HONEY',
       isPrimary: true,
       order: 1,
@@ -11078,15 +10693,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-honey-41861702',
     name: '1702 LINEAR WOOD HONEY',
-    slug: 'creation-70-honey-41861702',
-    sku: '1702',
+    slug: 'creation-70-honey-41861702', sku: '1702',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - LINEAR WOOD HONEY',
     description: 'Gerflor Creation 70 - LINEAR WOOD HONEY (Šifra: 1702)',
     images: [{
       id: 'creation-70-honey-41861702-img-1',
-      url: '/images/products/lvt/colors/creation-70/honey-41861702.jpg',
+      url: '/images/products/lvt/colors/creation-70/1702-linear-wood-honey/pod/61451 - JPG 72 dpi-Linear Wood Honey - VDC-pod.jpg?v=9',
       alt: 'LINEAR WOOD HONEY',
       isPrimary: true,
       order: 1,
@@ -11105,15 +10719,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-honey-42031719',
     name: '1719 CITY OAK HONEY',
-    slug: 'creation-70-honey-42031719',
-    sku: '1719',
+    slug: 'creation-70-honey-42031719', sku: '1719',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - CITY OAK HONEY',
     description: 'Gerflor Creation 70 - CITY OAK HONEY (Šifra: 1719)',
     images: [{
       id: 'creation-70-honey-42031719-img-1',
-      url: '/images/products/lvt/colors/creation-70/honey-42031719.jpg',
+      url: '/images/products/lvt/colors/creation-70/1719-city-oak-honey/pod/61831 - JPG 72 dpi-City oak honey - 230x1500 - CR70 VDC-pod.jpg?v=9',
       alt: 'CITY OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -11132,15 +10745,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-island-41860455',
     name: '0455 LONG BOARD',
-    slug: 'creation-70-island-41860455',
-    sku: '0455',
+    slug: 'creation-70-island-41860455', sku: '0455',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - LONG BOARD',
     description: 'Gerflor Creation 70 - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-70-island-41860455-img-1',
-      url: '/images/products/lvt/colors/creation-70/island-41860455.jpg',
+      url: '/images/products/lvt/colors/creation-70/0455-long-board/pod/61256 - JPG 72 dpi-Creation 0455 Longboard Sky View-pod.jpg?v=9',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -11159,15 +10771,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-light-41991283',
     name: '1283 URBAN STREET LIGHT VDC C55',
-    slug: 'creation-70-light-41991283',
-    sku: '1283',
+    slug: 'creation-70-light-41991283', sku: '1283',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - URBAN STREET LIGHT VDC C55',
     description: 'Gerflor Creation 70 - URBAN STREET LIGHT VDC C55 (Šifra: 1283)',
     images: [{
       id: 'creation-70-light-41991283-img-1',
-      url: '/images/products/lvt/colors/creation-70/light-41991283.jpg',
+      url: '/images/products/lvt/colors/creation-70/1283-urban-street-light-vdc-c55/pod/61741 - JPG 72 dpi-URBAN STREET LIGHT - 914x914 - VDC C55-pod.jpg?v=9',
       alt: 'URBAN STREET LIGHT VDC C55',
       isPrimary: true,
       order: 1,
@@ -11186,15 +10797,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-lime-41860584',
     name: '0584 WHITE LIME',
-    slug: 'creation-70-lime-41860584',
-    sku: '0584',
+    slug: 'creation-70-lime-41860584', sku: '0584',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - WHITE LIME',
     description: 'Gerflor Creation 70 - WHITE LIME (Šifra: 0584)',
     images: [{
       id: 'creation-70-lime-41860584-img-1',
-      url: '/images/products/lvt/colors/creation-70/lime-41860584.jpg',
+      url: '/images/products/lvt/colors/creation-70/0584-white-lime/pod/61466 - JPG 72 dpi-Creation 0584 White Lime Sky View-pod.jpg?v=9',
       alt: 'WHITE LIME',
       isPrimary: true,
       order: 1,
@@ -11213,15 +10823,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-medium-41991284',
     name: '1284 URBAN STREET MEDIUM VDC C55',
-    slug: 'creation-70-medium-41991284',
-    sku: '1284',
+    slug: 'creation-70-medium-41991284', sku: '1284',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - URBAN STREET MEDIUM VDC C55',
     description: 'Gerflor Creation 70 - URBAN STREET MEDIUM VDC C55 (Šifra: 1284)',
     images: [{
       id: 'creation-70-medium-41991284-img-1',
-      url: '/images/products/lvt/colors/creation-70/medium-41991284.jpg',
+      url: '/images/products/lvt/colors/creation-70/1284-urban-street-medium-vdc-c55/pod/61976 - JPG 72 dpi-URBAN STREET MEDIUM - 914x914 - VDC C55-pod.jpg?v=9',
       alt: 'URBAN STREET MEDIUM VDC C55',
       isPrimary: true,
       order: 1,
@@ -11240,15 +10849,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-midwest-41860504',
     name: '0504 TWIST',
-    slug: 'creation-70-midwest-41860504',
-    sku: '0504',
+    slug: 'creation-70-midwest-41860504', sku: '0504',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - TWIST',
     description: 'Gerflor Creation 70 - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-70-midwest-41860504-img-1',
-      url: '/images/products/lvt/colors/creation-70/midwest-41860504.jpg',
+      url: '/images/products/lvt/colors/creation-70/0504-twist/pod/61306 - JPG 72 dpi-Creation 0504 Twist Sky View-pod.jpg?v=9',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -11267,15 +10875,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-natural-42001273',
     name: '1273 LOUNGE OAK NATURAL',
-    slug: 'creation-70-natural-42001273',
-    sku: '1273',
+    slug: 'creation-70-natural-42001273', sku: '1273',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - LOUNGE OAK NATURAL',
     description: 'Gerflor Creation 70 - LOUNGE OAK NATURAL (Šifra: 1273)',
     images: [{
       id: 'creation-70-natural-42001273-img-1',
-      url: '/images/products/lvt/colors/creation-70/natural-42001273.jpg',
+      url: '/images/products/lvt/colors/creation-70/1273-lounge-oak-natural/pod/61236 - JPG 72 dpi-Creation 1273 Lounge Oak Natural Sky View-pod.jpg?v=9',
       alt: 'LOUNGE OAK NATURAL',
       isPrimary: true,
       order: 1,
@@ -11294,15 +10901,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-natural-42031607',
     name: '1607 CEDAR NATURAL',
-    slug: 'creation-70-natural-42031607',
-    sku: '1607',
+    slug: 'creation-70-natural-42031607', sku: '1607',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - CEDAR NATURAL',
     description: 'Gerflor Creation 70 - CEDAR NATURAL (Šifra: 1607)',
     images: [{
       id: 'creation-70-natural-42031607-img-1',
-      url: '/images/products/lvt/colors/creation-70/natural-42031607.jpg',
+      url: '/images/products/lvt/colors/creation-70/1607-cedar-natural/pod/61351 - JPG 72 dpi-Creation 1607 Cedar Natural Sky View-pod.jpg?v=9',
       alt: 'CEDAR NATURAL',
       isPrimary: true,
       order: 1,
@@ -11321,15 +10927,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-nature-41861703',
     name: '1703 LINEAR WOOD NATURE',
-    slug: 'creation-70-nature-41861703',
-    sku: '1703',
+    slug: 'creation-70-nature-41861703', sku: '1703',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - LINEAR WOOD NATURE',
     description: 'Gerflor Creation 70 - LINEAR WOOD NATURE (Šifra: 1703)',
     images: [{
       id: 'creation-70-nature-41861703-img-1',
-      url: '/images/products/lvt/colors/creation-70/nature-41861703.jpg',
+      url: '/images/products/lvt/colors/creation-70/1703-linear-wood-nature/pod/61461 - JPG 72 dpi-Linear-Wood-Nature-sky-view-pod.jpg?v=9',
       alt: 'LINEAR WOOD NATURE',
       isPrimary: true,
       order: 1,
@@ -11348,15 +10953,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-oak-41860441',
     name: '0441 HONEY OAK',
-    slug: 'creation-70-oak-41860441',
-    sku: '0441',
+    slug: 'creation-70-oak-41860441', sku: '0441',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - HONEY OAK',
     description: 'Gerflor Creation 70 - HONEY OAK (Šifra: 0441)',
     images: [{
       id: 'creation-70-oak-41860441-img-1',
-      url: '/images/products/lvt/colors/creation-70/oak-41860441.jpg',
+      url: '/images/products/lvt/colors/creation-70/0441-honey-oak/pod/61246 - JPG 72 dpi-Creation 0441 Honey Oak Sky View-pod.jpg?v=9',
       alt: 'HONEY OAK',
       isPrimary: true,
       order: 1,
@@ -11375,15 +10979,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-pearl-42031056',
     name: '1056 ONKA PEARL',
-    slug: 'creation-70-pearl-42031056',
-    sku: '1056',
+    slug: 'creation-70-pearl-42031056', sku: '1056',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - ONKA PEARL',
     description: 'Gerflor Creation 70 - ONKA PEARL (Šifra: 1056)',
     images: [{
       id: 'creation-70-pearl-42031056-img-1',
-      url: '/images/products/lvt/colors/creation-70/pearl-42031056.jpg',
+      url: '/images/products/lvt/colors/creation-70/1056-onka-pearl/pod/41896 - 1056-onka-pearl-pod.jpg?v=9',
       alt: 'ONKA PEARL',
       isPrimary: true,
       order: 1,
@@ -11402,15 +11005,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-pop-42131758',
     name: '1758 POP',
-    slug: 'creation-70-pop-42131758',
-    sku: '1758',
+    slug: 'creation-70-pop-42131758', sku: '1758',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - POP',
     description: 'Gerflor Creation 70 - POP (Šifra: 1758)',
     images: [{
       id: 'creation-70-pop-42131758-img-1',
-      url: '/images/products/lvt/colors/creation-70/pop-42131758.jpg',
+      url: '/images/products/lvt/colors/creation-70/1758-pop/pod/61876 - JPG 72 dpi-Pop - VDC-pod.jpg?v=9',
       alt: 'POP',
       isPrimary: true,
       order: 1,
@@ -11429,15 +11031,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-portobello-41860456',
     name: '0456 RANCH',
-    slug: 'creation-70-portobello-41860456',
-    sku: '0456',
+    slug: 'creation-70-portobello-41860456', sku: '0456',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - RANCH',
     description: 'Gerflor Creation 70 - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-70-portobello-41860456-img-1',
-      url: '/images/products/lvt/colors/creation-70/portobello-41860456.jpg',
+      url: '/images/products/lvt/colors/creation-70/0456-ranch/pod/61296 - JPG 72 dpi-Creation 0456 Ranch Sky View-pod.jpg?v=9',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -11456,15 +11057,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-quartet-41860503',
     name: '0503 QUARTET',
-    slug: 'creation-70-quartet-41860503',
-    sku: '0503',
+    slug: 'creation-70-quartet-41860503', sku: '0503',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - QUARTET',
     description: 'Gerflor Creation 70 - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-70-quartet-41860503-img-1',
-      url: '/images/products/lvt/colors/creation-70/quartet-41860503.jpg',
+      url: '/images/products/lvt/colors/creation-70/0503-quartet/pod/61261 - JPG 72 dpi-Creation 0503 Quartet Sky View-pod.jpg?v=9',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -11483,15 +11083,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-serena-41860545',
     name: '0545 QUARTET NATURAL',
-    slug: 'creation-70-serena-41860545',
-    sku: '0545',
+    slug: 'creation-70-serena-41860545', sku: '0545',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - QUARTET NATURAL',
     description: 'Gerflor Creation 70 - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-70-serena-41860545-img-1',
-      url: '/images/products/lvt/colors/creation-70/serena-41860545.jpg',
+      url: '/images/products/lvt/colors/creation-70/0545-quartet-natural/pod/61291 - JPG 72 dpi-Quartet natural - VDC - 184x1219 - A4 - CMJN-pod.jpg?v=9',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -11510,15 +11109,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-taupe-42011713',
     name: '1713 BACKYARD TAUPE',
-    slug: 'creation-70-taupe-42011713',
-    sku: '1713',
+    slug: 'creation-70-taupe-42011713', sku: '1713',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - BACKYARD TAUPE',
     description: 'Gerflor Creation 70 - BACKYARD TAUPE (Šifra: 1713)',
     images: [{
       id: 'creation-70-taupe-42011713-img-1',
-      url: '/images/products/lvt/colors/creation-70/taupe-42011713.jpg',
+      url: '/images/products/lvt/colors/creation-70/1713-backyard-taupe/pod/61911 - JPG 72 dpi-Backyard-Taupe-sky-view-pod.jpg?v=9',
       alt: 'BACKYARD TAUPE',
       isPrimary: true,
       order: 1,
@@ -11537,15 +11135,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-taupe-42020087',
     name: '0087 DOCK TAUPE RECTANGULAR TILE',
-    slug: 'creation-70-taupe-42020087',
-    sku: '0087',
+    slug: 'creation-70-taupe-42020087', sku: '0087',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - DOCK TAUPE RECTANGULAR TILE',
     description: 'Gerflor Creation 70 - DOCK TAUPE RECTANGULAR TILE (Šifra: 0087)',
     images: [{
       id: 'creation-70-taupe-42020087-img-1',
-      url: '/images/products/lvt/colors/creation-70/taupe-42020087.jpg',
+      url: '/images/products/lvt/colors/creation-70/0087-dock-taupe-rectangular-tile/pod/41781 - 0087-dock-taupe - rectangular tile-pod.jpg?v=9',
       alt: 'DOCK TAUPE RECTANGULAR TILE',
       isPrimary: true,
       order: 1,
@@ -11564,15 +11161,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-taupe-42021604',
     name: '1604 CURTON STONE TAUPE',
-    slug: 'creation-70-taupe-42021604',
-    sku: '1604',
+    slug: 'creation-70-taupe-42021604', sku: '1604',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - CURTON STONE TAUPE',
     description: 'Gerflor Creation 70 - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-70-taupe-42021604-img-1',
-      url: '/images/products/lvt/colors/creation-70/taupe-42021604.jpg',
+      url: '/images/products/lvt/colors/creation-70/1604-curton-stone-taupe/pod/61866 - JPG 72 dpi-Creation 1604 Curton Stone Taupe Sky View-pod.jpg?v=9',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -11591,15 +11187,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-village-42010522',
     name: '0522 EAST VILLAGE',
-    slug: 'creation-70-village-42010522',
-    sku: '0522',
+    slug: 'creation-70-village-42010522', sku: '0522',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 - EAST VILLAGE',
     description: 'Gerflor Creation 70 - EAST VILLAGE (Šifra: 0522)',
     images: [{
       id: 'creation-70-village-42010522-img-1',
-      url: '/images/products/lvt/colors/creation-70/village-42010522.jpg',
+      url: '/images/products/lvt/colors/creation-70/0522-east-village/pod/42026 - 0522-east-village-pod.jpg?v=9',
       alt: 'EAST VILLAGE',
       isPrimary: true,
       order: 1,
@@ -11618,15 +11213,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-albion-61270577',
     name: '0577 ALBION',
-    slug: 'creation-70-clic-albion-61270577',
-    sku: '0577',
+    slug: 'creation-70-clic-albion-61270577', sku: '0577',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - ALBION',
     description: 'Gerflor Creation 70 Clic - ALBION (Šifra: 0577)',
     images: [{
       id: 'creation-70-clic-albion-61270577-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/albion-61270577.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/0577-albion/pod/42936 - Albion-pod.jpg?v=9',
       alt: 'ALBION',
       isPrimary: true,
       order: 1,
@@ -11645,15 +11239,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-ballerina-61270347',
     name: '0347 BALLERINA',
-    slug: 'creation-70-clic-ballerina-61270347',
-    sku: '0347',
+    slug: 'creation-70-clic-ballerina-61270347', sku: '0347',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - BALLERINA',
     description: 'Gerflor Creation 70 Clic - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-70-clic-ballerina-61270347-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/ballerina-61270347.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/0347-ballerina/pod/61421 - JPG 72 dpi-Creation 0347 Ballerina Sky View-pod.jpg?v=9',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -11672,15 +11265,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-beige-61281715',
     name: '1715 CITY OAK BEIGE CR70',
-    slug: 'creation-70-clic-beige-61281715',
-    sku: '1715',
+    slug: 'creation-70-clic-beige-61281715', sku: '1715',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - CITY OAK BEIGE CR70',
     description: 'Gerflor Creation 70 Clic - CITY OAK BEIGE CR70 (Šifra: 1715)',
     images: [{
       id: 'creation-70-clic-beige-61281715-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/beige-61281715.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1715-city-oak-beige-cr70/pod/61791 - JPG 72 dpi-City oak beige - 230x1500 -CR70 VDC-pod.jpg?v=9',
       alt: 'CITY OAK BEIGE CR70',
       isPrimary: true,
       order: 1,
@@ -11699,15 +11291,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-beige-61331272',
     name: '1272 LOUNGE OAK BEIGE',
-    slug: 'creation-70-clic-beige-61331272',
-    sku: '1272',
+    slug: 'creation-70-clic-beige-61331272', sku: '1272',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - LOUNGE OAK BEIGE',
     description: 'Gerflor Creation 70 Clic - LOUNGE OAK BEIGE (Šifra: 1272)',
     images: [{
       id: 'creation-70-clic-beige-61331272-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/beige-61331272.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1272-lounge-oak-beige/pod/61221 - JPG 72 dpi-Creation 1272 Lounge Oak Beige Sky View-pod.jpg?v=9',
       alt: 'LOUNGE OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -11726,15 +11317,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-black-61291722',
     name: '1722 MARBLE BLACK MARBLE LIGHT GREY',
-    slug: 'creation-70-clic-black-61291722',
-    sku: '1722',
+    slug: 'creation-70-clic-black-61291722', sku: '1722',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - MARBLE BLACK MARBLE LIGHT GREY',
     description: 'Gerflor Creation 70 Clic - MARBLE BLACK MARBLE LIGHT GREY (Šifra: 1722)',
     images: [{
       id: 'creation-70-clic-black-61291722-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/black-61291722.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1722-marble-black-marble-light-grey/pod/61971 - JPG 72 dpi-Marble Black-Marble Light Grey-pod.jpg?v=9',
       alt: 'MARBLE BLACK MARBLE LIGHT GREY',
       isPrimary: true,
       order: 1,
@@ -11753,15 +11343,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-brown-61271597',
     name: '1597 QUARTET DARK BROWN',
-    slug: 'creation-70-clic-brown-61271597',
-    sku: '1597',
+    slug: 'creation-70-clic-brown-61271597', sku: '1597',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - QUARTET DARK BROWN',
     description: 'Gerflor Creation 70 Clic - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-70-clic-brown-61271597-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/brown-61271597.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1597-quartet-dark-brown/pod/61271 - JPG 72 dpi-Creation 1597 Quartet Dark Brown Sky View-pod.jpg?v=9',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -11780,15 +11369,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-brown-61280850',
     name: '0850 CEDAR BROWN',
-    slug: 'creation-70-clic-brown-61280850',
-    sku: '0850',
+    slug: 'creation-70-clic-brown-61280850', sku: '0850',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - CEDAR BROWN',
     description: 'Gerflor Creation 70 Clic - CEDAR BROWN (Šifra: 0850)',
     images: [{
       id: 'creation-70-clic-brown-61280850-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/brown-61280850.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/0850-cedar-brown/pod/61326 - JPG 72 dpi-SV_Cedar Brown_Creation Core Collection-pod.jpg?v=9',
       alt: 'CEDAR BROWN',
       isPrimary: true,
       order: 1,
@@ -11807,15 +11395,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-brown-61281605',
     name: '1605 CEDAR DARK BROWN',
-    slug: 'creation-70-clic-brown-61281605',
-    sku: '1605',
+    slug: 'creation-70-clic-brown-61281605', sku: '1605',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - CEDAR DARK BROWN',
     description: 'Gerflor Creation 70 Clic - CEDAR DARK BROWN (Šifra: 1605)',
     images: [{
       id: 'creation-70-clic-brown-61281605-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/brown-61281605.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1605-cedar-dark-brown/pod/61336 - Creation 1605 Cedar Dark Brown-pod.jpg?v=9',
       alt: 'CEDAR DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -11834,15 +11421,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-brown-61281717',
     name: '1717 CITY OAK DARK BROWN2',
-    slug: 'creation-70-clic-brown-61281717',
-    sku: '1717',
+    slug: 'creation-70-clic-brown-61281717', sku: '1717',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - CITY OAK DARK BROWN2',
     description: 'Gerflor Creation 70 Clic - CITY OAK DARK BROWN2 (Šifra: 1717)',
     images: [{
       id: 'creation-70-clic-brown-61281717-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/brown-61281717.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1717-city-oak-dark-brown2/pod/61811 - JPG 72 dpi-City oak dark brown - 230x1500 - CR70 VDC-pod.jpg?v=9',
       alt: 'CITY OAK DARK BROWN2',
       isPrimary: true,
       order: 1,
@@ -11861,15 +11447,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-caramel-61281720',
     name: '1720 ONKA CARAMEL',
-    slug: 'creation-70-clic-caramel-61281720',
-    sku: '1720',
+    slug: 'creation-70-clic-caramel-61281720', sku: '1720',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - ONKA CARAMEL',
     description: 'Gerflor Creation 70 Clic - ONKA CARAMEL (Šifra: 1720)',
     images: [{
       id: 'creation-70-clic-caramel-61281720-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/caramel-61281720.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1720-onka-caramel/pod/61841 - JPG 72 dpi-Onka caramel - 230x1500 - CR70 VDC-pod.jpg?v=9',
       alt: 'ONKA CARAMEL',
       isPrimary: true,
       order: 1,
@@ -11888,15 +11473,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-chestnut-61331274',
     name: '1274 LOUNGE OAK CHESTNUT',
-    slug: 'creation-70-clic-chestnut-61331274',
-    sku: '1274',
+    slug: 'creation-70-clic-chestnut-61331274', sku: '1274',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - LOUNGE OAK CHESTNUT',
     description: 'Gerflor Creation 70 Clic - LOUNGE OAK CHESTNUT (Šifra: 1274)',
     images: [{
       id: 'creation-70-clic-chestnut-61331274-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/chestnut-61331274.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1274-lounge-oak-chestnut/pod/61226 - JPG 72 dpi-Creation 1274 Lounge Oak Chestnut Sky View-pod.jpg?v=9',
       alt: 'LOUNGE OAK CHESTNUT',
       isPrimary: true,
       order: 1,
@@ -11915,15 +11499,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-clear-61291603',
     name: '1603 CURTON STONE CLEAR',
-    slug: 'creation-70-clic-clear-61291603',
-    sku: '1603',
+    slug: 'creation-70-clic-clear-61291603', sku: '1603',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - CURTON STONE CLEAR',
     description: 'Gerflor Creation 70 Clic - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-70-clic-clear-61291603-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/clear-61291603.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1603-curton-stone-clear/pod/61861 - JPG 72 dpi-Creation 1603 Curton Stone Clear Sky View-pod.jpg?v=9',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -11942,15 +11525,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-dark-61291711',
     name: '1711 BACKYARD DARK2',
-    slug: 'creation-70-clic-dark-61291711',
-    sku: '1711',
+    slug: 'creation-70-clic-dark-61291711', sku: '1711',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - BACKYARD DARK2',
     description: 'Gerflor Creation 70 Clic - BACKYARD DARK2 (Šifra: 1711)',
     images: [{
       id: 'creation-70-clic-dark-61291711-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/dark-61291711.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1711-backyard-dark2/pod/62801 - JPG 72 dpi-Backyard dark - 389x729 - VDC-pod.jpg?v=9',
       alt: 'BACKYARD DARK2',
       isPrimary: true,
       order: 1,
@@ -11969,15 +11551,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-golden-61281606',
     name: '1606 CEDAR GOLDEN',
-    slug: 'creation-70-clic-golden-61281606',
-    sku: '1606',
+    slug: 'creation-70-clic-golden-61281606', sku: '1606',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - CEDAR GOLDEN',
     description: 'Gerflor Creation 70 Clic - CEDAR GOLDEN (Šifra: 1606)',
     images: [{
       id: 'creation-70-clic-golden-61281606-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/golden-61281606.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1606-cedar-golden/pod/61346 - JPG 72 dpi-Creation 1606 Cedar Golden Sky View-pod.jpg?v=9',
       alt: 'CEDAR GOLDEN',
       isPrimary: true,
       order: 1,
@@ -11996,15 +11577,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-golden-61331271',
     name: '1271 LOUNGE OAK GOLDEN',
-    slug: 'creation-70-clic-golden-61331271',
-    sku: '1271',
+    slug: 'creation-70-clic-golden-61331271', sku: '1271',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - LOUNGE OAK GOLDEN',
     description: 'Gerflor Creation 70 Clic - LOUNGE OAK GOLDEN (Šifra: 1271)',
     images: [{
       id: 'creation-70-clic-golden-61331271-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/golden-61331271.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1271-lounge-oak-golden/pod/61231 - JPG 72 dpi-Creation 1271 Lounge Oak Golden Sky View-pod.jpg?v=9',
       alt: 'LOUNGE OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -12023,15 +11603,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-grey-61281718',
     name: '1718 CITY OAK GREY',
-    slug: 'creation-70-clic-grey-61281718',
-    sku: '1718',
+    slug: 'creation-70-clic-grey-61281718', sku: '1718',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - CITY OAK GREY',
     description: 'Gerflor Creation 70 Clic - CITY OAK GREY (Šifra: 1718)',
     images: [{
       id: 'creation-70-clic-grey-61281718-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/grey-61281718.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1718-city-oak-grey/pod/61821 - JPG 72 dpi-City oak grey - 230x1500 -CR70 VDC-pod.jpg?v=9',
       alt: 'CITY OAK GREY',
       isPrimary: true,
       order: 1,
@@ -12050,15 +11629,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-grey-61291723',
     name: '1723 BACKYARD GREY',
-    slug: 'creation-70-clic-grey-61291723',
-    sku: '1723',
+    slug: 'creation-70-clic-grey-61291723', sku: '1723',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - BACKYARD GREY',
     description: 'Gerflor Creation 70 Clic - BACKYARD GREY (Šifra: 1723)',
     images: [{
       id: 'creation-70-clic-grey-61291723-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/grey-61291723.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1723-backyard-grey/pod/62811 - JPG 72 dpi-Backyard grey - 389x729 - CR70 VDC-pod.jpg?v=9',
       alt: 'BACKYARD GREY',
       isPrimary: true,
       order: 1,
@@ -12077,15 +11655,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-honey-61270870',
     name: '0870 QUARTET HONEY',
-    slug: 'creation-70-clic-honey-61270870',
-    sku: '0870',
+    slug: 'creation-70-clic-honey-61270870', sku: '0870',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - QUARTET HONEY',
     description: 'Gerflor Creation 70 Clic - QUARTET HONEY (Šifra: 0870)',
     images: [{
       id: 'creation-70-clic-honey-61270870-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/honey-61270870.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/0870-quartet-honey/pod/61281 - JPG 72 dpi-Creation 0870 Quartet Honey Sky View-pod.jpg?v=9',
       alt: 'QUARTET HONEY',
       isPrimary: true,
       order: 1,
@@ -12104,15 +11681,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-island-61270455',
     name: '0455 LONG BOARD',
-    slug: 'creation-70-clic-island-61270455',
-    sku: '0455',
+    slug: 'creation-70-clic-island-61270455', sku: '0455',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - LONG BOARD',
     description: 'Gerflor Creation 70 Clic - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-70-clic-island-61270455-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/island-61270455.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/0455-long-board/pod/62781 - 0455 Long Board-pod.jpg?v=9',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -12131,15 +11707,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-light-61291283',
     name: '1283 LIVING ROOM URBAN STREET LIGHT MODERN RUSTIC',
-    slug: 'creation-70-clic-light-61291283',
-    sku: '1283',
+    slug: 'creation-70-clic-light-61291283', sku: '1283',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - LIVING ROOM URBAN STREET LIGHT MODERN RUSTIC',
     description: 'Gerflor Creation 70 Clic - LIVING ROOM URBAN STREET LIGHT MODERN RUSTIC (Šifra: 1283)',
     images: [{
       id: 'creation-70-clic-light-61291283-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/light-61291283.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1283-living-room-urban-street-light-modern-rustic/pod/62831 - JPG 72 dpi-URBAN STREET LIGHT-PURE CONCRETE LIGHT - 389x729 - VDC C55-pod.jpg?v=9',
       alt: 'LIVING ROOM URBAN STREET LIGHT MODERN RUSTIC',
       isPrimary: true,
       order: 1,
@@ -12158,15 +11733,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-lime-61270584',
     name: '0584 WHITE LIME',
-    slug: 'creation-70-clic-lime-61270584',
-    sku: '0584',
+    slug: 'creation-70-clic-lime-61270584', sku: '0584',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - WHITE LIME',
     description: 'Gerflor Creation 70 Clic - WHITE LIME (Šifra: 0584)',
     images: [{
       id: 'creation-70-clic-lime-61270584-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/lime-61270584.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/0584-white-lime/pod/61466 - JPG 72 dpi-Creation 0584 White Lime Sky View-pod.jpg?v=9',
       alt: 'WHITE LIME',
       isPrimary: true,
       order: 1,
@@ -12185,15 +11759,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-medium-61291284',
     name: '1284 URBAN STREET MEDIUM LIGHT',
-    slug: 'creation-70-clic-medium-61291284',
-    sku: '1284',
+    slug: 'creation-70-clic-medium-61291284', sku: '1284',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - URBAN STREET MEDIUM LIGHT',
     description: 'Gerflor Creation 70 Clic - URBAN STREET MEDIUM LIGHT (Šifra: 1284)',
     images: [{
       id: 'creation-70-clic-medium-61291284-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/medium-61291284.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1284-urban-street-medium-light/pod/62836 - JPG 72 dpi-URBAN STREET MEDIUM - 389x729 - VDC C55-pod.jpg?v=9',
       alt: 'URBAN STREET MEDIUM LIGHT',
       isPrimary: true,
       order: 1,
@@ -12212,15 +11785,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-midwest-61270504',
     name: '0504 TWIST',
-    slug: 'creation-70-clic-midwest-61270504',
-    sku: '0504',
+    slug: 'creation-70-clic-midwest-61270504', sku: '0504',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - TWIST',
     description: 'Gerflor Creation 70 Clic - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-70-clic-midwest-61270504-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/midwest-61270504.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/0504-twist/pod/45901 - 0504-twist-pod.jpg?v=9',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -12239,15 +11811,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-natural-61281607',
     name: '1607 CEDAR NATURAL',
-    slug: 'creation-70-clic-natural-61281607',
-    sku: '1607',
+    slug: 'creation-70-clic-natural-61281607', sku: '1607',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - CEDAR NATURAL',
     description: 'Gerflor Creation 70 Clic - CEDAR NATURAL (Šifra: 1607)',
     images: [{
       id: 'creation-70-clic-natural-61281607-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/natural-61281607.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1607-cedar-natural/pod/61351 - JPG 72 dpi-Creation 1607 Cedar Natural Sky View-pod.jpg?v=9',
       alt: 'CEDAR NATURAL',
       isPrimary: true,
       order: 1,
@@ -12266,15 +11837,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-natural-61331273',
     name: '1273 LOUNGE OAK NATURAL',
-    slug: 'creation-70-clic-natural-61331273',
-    sku: '1273',
+    slug: 'creation-70-clic-natural-61331273', sku: '1273',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - LOUNGE OAK NATURAL',
     description: 'Gerflor Creation 70 Clic - LOUNGE OAK NATURAL (Šifra: 1273)',
     images: [{
       id: 'creation-70-clic-natural-61331273-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/natural-61331273.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1273-lounge-oak-natural/pod/61236 - JPG 72 dpi-Creation 1273 Lounge Oak Natural Sky View-pod.jpg?v=9',
       alt: 'LOUNGE OAK NATURAL',
       isPrimary: true,
       order: 1,
@@ -12293,15 +11863,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-nature-61271703',
     name: '1703 LINEAR WOOD NATURE',
-    slug: 'creation-70-clic-nature-61271703',
-    sku: '1703',
+    slug: 'creation-70-clic-nature-61271703', sku: '1703',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - LINEAR WOOD NATURE',
     description: 'Gerflor Creation 70 Clic - LINEAR WOOD NATURE (Šifra: 1703)',
     images: [{
       id: 'creation-70-clic-nature-61271703-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/nature-61271703.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1703-linear-wood-nature/pod/61461 - JPG 72 dpi-Linear-Wood-Nature-sky-view-pod.jpg?v=9',
       alt: 'LINEAR WOOD NATURE',
       isPrimary: true,
       order: 1,
@@ -12320,15 +11889,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-oak-61270441',
     name: '0441 HONEY OAK',
-    slug: 'creation-70-clic-oak-61270441',
-    sku: '0441',
+    slug: 'creation-70-clic-oak-61270441', sku: '0441',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - HONEY OAK',
     description: 'Gerflor Creation 70 Clic - HONEY OAK (Šifra: 0441)',
     images: [{
       id: 'creation-70-clic-oak-61270441-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/oak-61270441.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/0441-honey-oak/pod/61246 - JPG 72 dpi-Creation 0441 Honey Oak Sky View-pod.jpg?v=9',
       alt: 'HONEY OAK',
       isPrimary: true,
       order: 1,
@@ -12347,15 +11915,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-pearl-61281056',
     name: '1056 ONKA PEARL',
-    slug: 'creation-70-clic-pearl-61281056',
-    sku: '1056',
+    slug: 'creation-70-clic-pearl-61281056', sku: '1056',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - ONKA PEARL',
     description: 'Gerflor Creation 70 Clic - ONKA PEARL (Šifra: 1056)',
     images: [{
       id: 'creation-70-clic-pearl-61281056-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/pearl-61281056.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1056-onka-pearl/pod/41896 - 1056-onka-pearl-pod.jpg?v=9',
       alt: 'ONKA PEARL',
       isPrimary: true,
       order: 1,
@@ -12374,15 +11941,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-portobello-61270456',
     name: '0456 RANCH',
-    slug: 'creation-70-clic-portobello-61270456',
-    sku: '0456',
+    slug: 'creation-70-clic-portobello-61270456', sku: '0456',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - RANCH',
     description: 'Gerflor Creation 70 Clic - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-70-clic-portobello-61270456-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/portobello-61270456.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/0456-ranch/pod/61296 - JPG 72 dpi-Creation 0456 Ranch Sky View-pod.jpg?v=9',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -12401,15 +11967,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-quartet-61270503',
     name: '0503 QUARTET',
-    slug: 'creation-70-clic-quartet-61270503',
-    sku: '0503',
+    slug: 'creation-70-clic-quartet-61270503', sku: '0503',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - QUARTET',
     description: 'Gerflor Creation 70 Clic - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-70-clic-quartet-61270503-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/quartet-61270503.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/0503-quartet/pod/61261 - JPG 72 dpi-Creation 0503 Quartet Sky View-pod.jpg?v=9',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -12428,15 +11993,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-serena-61270545',
     name: '0545 QUARTET NATURAL',
-    slug: 'creation-70-clic-serena-61270545',
-    sku: '0545',
+    slug: 'creation-70-clic-serena-61270545', sku: '0545',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - QUARTET NATURAL',
     description: 'Gerflor Creation 70 Clic - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-70-clic-serena-61270545-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/serena-61270545.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/0545-quartet-natural/pod/61291 - JPG 72 dpi-Quartet natural - VDC - 184x1219 - A4 - CMJN-pod.jpg?v=9',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -12455,15 +12019,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-taupe-61291604',
     name: '1604 CURTON STONE TAUPE',
-    slug: 'creation-70-clic-taupe-61291604',
-    sku: '1604',
+    slug: 'creation-70-clic-taupe-61291604', sku: '1604',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - CURTON STONE TAUPE',
     description: 'Gerflor Creation 70 Clic - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-70-clic-taupe-61291604-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/taupe-61291604.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1604-curton-stone-taupe/pod/61866 - JPG 72 dpi-Creation 1604 Curton Stone Taupe Sky View-pod.jpg?v=9',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -12482,15 +12045,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-clic-taupe-61291713',
     name: '1713 BACKYARD TAUPE',
-    slug: 'creation-70-clic-taupe-61291713',
-    sku: '1713',
+    slug: 'creation-70-clic-taupe-61291713', sku: '1713',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Clic - BACKYARD TAUPE',
     description: 'Gerflor Creation 70 Clic - BACKYARD TAUPE (Šifra: 1713)',
     images: [{
       id: 'creation-70-clic-taupe-61291713-img-1',
-      url: '/images/products/lvt/colors/creation-70-clic/taupe-61291713.jpg',
+      url: '/images/products/lvt/colors/creation-70-clic/1713-backyard-taupe/pod/62816 - JPG 72 dpi-Backyard taupe - 389x729 - VDC-pod.jpg?v=9',
       alt: 'BACKYARD TAUPE',
       isPrimary: true,
       order: 1,
@@ -12536,15 +12098,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-connect-beige-36900062',
     name: '0062 ROUGH TEXTILE BEIGE',
-    slug: 'creation-70-connect-beige-36900062',
-    sku: '0062',
+    slug: 'creation-70-connect-beige-36900062', sku: '0062',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Connect - ROUGH TEXTILE BEIGE',
     description: 'Gerflor Creation 70 Connect - ROUGH TEXTILE BEIGE (Šifra: 0062)',
     images: [{
       id: 'creation-70-connect-beige-36900062-img-1',
-      url: '/images/products/lvt/colors/creation-70-connect/beige-36900062.jpg',
+      url: '/images/products/lvt/colors/creation-70-connect/0062-rough-textile-beige/pod/41671 - 0062-rough-textile-beige-pod.jpg?v=9',
       alt: 'ROUGH TEXTILE BEIGE',
       isPrimary: true,
       order: 1,
@@ -12563,15 +12124,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-connect-burgundy-36901089',
     name: '1089 DALMA BURGUNDY',
-    slug: 'creation-70-connect-burgundy-36901089',
-    sku: '1089',
+    slug: 'creation-70-connect-burgundy-36901089', sku: '1089',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Connect - DALMA BURGUNDY',
     description: 'Gerflor Creation 70 Connect - DALMA BURGUNDY (Šifra: 1089)',
     images: [{
       id: 'creation-70-connect-burgundy-36901089-img-1',
-      url: '/images/products/lvt/colors/creation-70-connect/burgundy-36901089.jpg',
+      url: '/images/products/lvt/colors/creation-70-connect/1089-dalma-burgundy/pod/41686 - 1089-dalma-burgundy-pod.jpg?v=9',
       alt: 'DALMA BURGUNDY',
       isPrimary: true,
       order: 1,
@@ -12590,15 +12150,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-connect-golden-36901492',
     name: '1492 OAK GOLDEN CONNECT',
-    slug: 'creation-70-connect-golden-36901492',
-    sku: '1492',
+    slug: 'creation-70-connect-golden-36901492', sku: '1492',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Connect - OAK GOLDEN CONNECT',
     description: 'Gerflor Creation 70 Connect - OAK GOLDEN CONNECT (Šifra: 1492)',
     images: [{
       id: 'creation-70-connect-golden-36901492-img-1',
-      url: '/images/products/lvt/colors/creation-70-connect/golden-36901492.jpg',
+      url: '/images/products/lvt/colors/creation-70-connect/1492-oak-golden-connect/pod/46106 - Oak Golden - Creation 70 Connect -pod.jpg?v=9',
       alt: 'OAK GOLDEN CONNECT',
       isPrimary: true,
       order: 1,
@@ -12617,15 +12176,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-connect-grey-36900063',
     name: '0063 ROUGH TEXTILE GREY',
-    slug: 'creation-70-connect-grey-36900063',
-    sku: '0063',
+    slug: 'creation-70-connect-grey-36900063', sku: '0063',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Connect - ROUGH TEXTILE GREY',
     description: 'Gerflor Creation 70 Connect - ROUGH TEXTILE GREY (Šifra: 0063)',
     images: [{
       id: 'creation-70-connect-grey-36900063-img-1',
-      url: '/images/products/lvt/colors/creation-70-connect/grey-36900063.jpg',
+      url: '/images/products/lvt/colors/creation-70-connect/0063-rough-textile-grey/pod/41676 - 0063-rough-textile-grey-pod.jpg?v=9',
       alt: 'ROUGH TEXTILE GREY',
       isPrimary: true,
       order: 1,
@@ -12644,15 +12202,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-connect-grey-36900085',
     name: '0085 DOCK GREY',
-    slug: 'creation-70-connect-grey-36900085',
-    sku: '0085',
+    slug: 'creation-70-connect-grey-36900085', sku: '0085',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Connect - DOCK GREY',
     description: 'Gerflor Creation 70 Connect - DOCK GREY (Šifra: 0085)',
     images: [{
       id: 'creation-70-connect-grey-36900085-img-1',
-      url: '/images/products/lvt/colors/creation-70-connect/grey-36900085.jpg',
+      url: '/images/products/lvt/colors/creation-70-connect/0085-dock-grey/pod/46086 - 0085 Dock Grey-pod.jpg?v=9',
       alt: 'DOCK GREY',
       isPrimary: true,
       order: 1,
@@ -12671,15 +12228,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-connect-grey-36900088',
     name: '0088 GENTLEMAN GREY SQUARE TILE',
-    slug: 'creation-70-connect-grey-36900088',
-    sku: '0088',
+    slug: 'creation-70-connect-grey-36900088', sku: '0088',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Connect - GENTLEMAN GREY SQUARE TILE',
     description: 'Gerflor Creation 70 Connect - GENTLEMAN GREY SQUARE TILE (Šifra: 0088)',
     images: [{
       id: 'creation-70-connect-grey-36900088-img-1',
-      url: '/images/products/lvt/colors/creation-70-connect/grey-36900088.jpg',
+      url: '/images/products/lvt/colors/creation-70-connect/0088-gentleman-grey-square-tile/pod/42956 - Gentleman Grey - square tile-pod.jpg?v=9',
       alt: 'GENTLEMAN GREY SQUARE TILE',
       isPrimary: true,
       order: 1,
@@ -12698,15 +12254,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-connect-grey-36901088',
     name: '1088 DALMA GREY',
-    slug: 'creation-70-connect-grey-36901088',
-    sku: '1088',
+    slug: 'creation-70-connect-grey-36901088', sku: '1088',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Connect - DALMA GREY',
     description: 'Gerflor Creation 70 Connect - DALMA GREY (Šifra: 1088)',
     images: [{
       id: 'creation-70-connect-grey-36901088-img-1',
-      url: '/images/products/lvt/colors/creation-70-connect/grey-36901088.jpg',
+      url: '/images/products/lvt/colors/creation-70-connect/1088-dalma-grey/pod/41681 - 1088-dalma-grey-pod.jpg?v=9',
       alt: 'DALMA GREY',
       isPrimary: true,
       order: 1,
@@ -12725,15 +12280,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-connect-light-36900090',
     name: '0090 OAK LIGHT',
-    slug: 'creation-70-connect-light-36900090',
-    sku: '0090',
+    slug: 'creation-70-connect-light-36900090', sku: '0090',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Connect - OAK LIGHT',
     description: 'Gerflor Creation 70 Connect - OAK LIGHT (Šifra: 0090)',
     images: [{
       id: 'creation-70-connect-light-36900090-img-1',
-      url: '/images/products/lvt/colors/creation-70-connect/light-36900090.jpg',
+      url: '/images/products/lvt/colors/creation-70-connect/0090-oak-light/pod/46096 - oak light-pod.jpg?v=9',
       alt: 'OAK LIGHT',
       isPrimary: true,
       order: 1,
@@ -12752,15 +12306,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-connect-natural-36900091',
     name: '0091 2SCR D9CBFFB82C899A8',
-    slug: 'creation-70-connect-natural-36900091',
-    sku: '0091',
+    slug: 'creation-70-connect-natural-36900091', sku: '0091',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Connect - 2SCR D9CBFFB82C899A8',
     description: 'Gerflor Creation 70 Connect - 2SCR D9CBFFB82C899A8 (Šifra: 0091)',
     images: [{
       id: 'creation-70-connect-natural-36900091-img-1',
-      url: '/images/products/lvt/colors/creation-70-connect/natural-36900091.jpg',
+      url: '/images/products/lvt/colors/creation-70-connect/0091-2scr-d9cbffb82c899a8/pod/46101 - 78462scr_d9cbffb82c899a8-pod.jpg?v=9',
       alt: '2SCR D9CBFFB82C899A8',
       isPrimary: true,
       order: 1,
@@ -12779,15 +12332,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-connect-taupe-36900087',
     name: '0087 0087 DOCK TAUPE SCR',
-    slug: 'creation-70-connect-taupe-36900087',
-    sku: '0087',
+    slug: 'creation-70-connect-taupe-36900087', sku: '0087',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Connect - 0087 DOCK TAUPE SCR',
     description: 'Gerflor Creation 70 Connect - 0087 DOCK TAUPE SCR (Šifra: 0087)',
     images: [{
       id: 'creation-70-connect-taupe-36900087-img-1',
-      url: '/images/products/lvt/colors/creation-70-connect/taupe-36900087.jpg',
+      url: '/images/products/lvt/colors/creation-70-connect/0087-0087-dock-taupe-scr/pod/46091 - RS65048_ 0087 Dock Taupe-scr-pod.jpg?v=9',
       alt: '0087 DOCK TAUPE SCR',
       isPrimary: true,
       order: 1,
@@ -12806,15 +12358,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-connect-taupe-36900089',
     name: '0089 GENTLEMAN TAUPE',
-    slug: 'creation-70-connect-taupe-36900089',
-    sku: '0089',
+    slug: 'creation-70-connect-taupe-36900089', sku: '0089',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Connect - GENTLEMAN TAUPE',
     description: 'Gerflor Creation 70 Connect - GENTLEMAN TAUPE (Šifra: 0089)',
     images: [{
       id: 'creation-70-connect-taupe-36900089-img-1',
-      url: '/images/products/lvt/colors/creation-70-connect/taupe-36900089.jpg',
+      url: '/images/products/lvt/colors/creation-70-connect/0089-gentleman-taupe/pod/46081 - Gentleman Taupe-pod.jpg?v=9',
       alt: 'GENTLEMAN TAUPE',
       isPrimary: true,
       order: 1,
@@ -12833,15 +12384,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-arena-39770060',
     name: '0060 ARENA',
-    slug: 'creation-70-looselay-arena-39770060',
-    sku: '0060',
+    slug: 'creation-70-looselay-arena-39770060', sku: '0060',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - ARENA',
     description: 'Gerflor Creation 70 Looselay - ARENA (Šifra: 0060)',
     images: [{
       id: 'creation-70-looselay-arena-39770060-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/arena-39770060.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/0060-arena/pod/50126 - JPG 72 dpi-RS60608_Arena - VDC - C55LL-pod.jpg?v=9',
       alt: 'ARENA',
       isPrimary: true,
       order: 1,
@@ -12860,15 +12410,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-blue-39761572',
     name: '1572 CHIPS BLUE',
-    slug: 'creation-70-looselay-blue-39761572',
-    sku: '1572',
+    slug: 'creation-70-looselay-blue-39761572', sku: '1572',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - CHIPS BLUE',
     description: 'Gerflor Creation 70 Looselay - CHIPS BLUE (Šifra: 1572)',
     images: [{
       id: 'creation-70-looselay-blue-39761572-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/blue-39761572.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1572-chips-blue/pod/50136 - JPG 72 dpi-Creation Looselay 1572 Chips Blue 600x600 Sky View-pod.jpg?v=9',
       alt: 'CHIPS BLUE',
       isPrimary: true,
       order: 1,
@@ -12887,15 +12436,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-board-39770455',
     name: '0455 LONG BOARD',
-    slug: 'creation-70-looselay-board-39770455',
-    sku: '0455',
+    slug: 'creation-70-looselay-board-39770455', sku: '0455',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - LONG BOARD',
     description: 'Gerflor Creation 70 Looselay - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-70-looselay-board-39770455-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/board-39770455.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/0455-long-board/pod/49516 - JPG 72 dpi-RS56174_Longboard - VDC - C55-pod.jpg?v=9',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -12914,15 +12462,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-brown-39771568',
     name: '1568 TAMO LIGHT BROWN',
-    slug: 'creation-70-looselay-brown-39771568',
-    sku: '1568',
+    slug: 'creation-70-looselay-brown-39771568', sku: '1568',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - TAMO LIGHT BROWN',
     description: 'Gerflor Creation 70 Looselay - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-70-looselay-brown-39771568-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/brown-39771568.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1568-tamo-light-brown/pod/49536 - JPG 72 dpi-Creation Looselay 1568 Tamo Light Brown 229x1220 Sky View-pod.jpg?v=9',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -12941,15 +12488,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-brown-39821568',
     name: '1568 TAMO LIGHT BROWN',
-    slug: 'creation-70-looselay-brown-39821568',
-    sku: '1568',
+    slug: 'creation-70-looselay-brown-39821568', sku: '1568',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - TAMO LIGHT BROWN',
     description: 'Gerflor Creation 70 Looselay - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-70-looselay-brown-39821568-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/brown-39821568.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1568-tamo-light-brown/pod/49536 - JPG 72 dpi-Creation Looselay 1568 Tamo Light Brown 229x1220 Sky View-pod.jpg?v=9',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -12968,15 +12514,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-clear-39771567',
     name: '1567 TAMO CLEAR',
-    slug: 'creation-70-looselay-clear-39771567',
-    sku: '1567',
+    slug: 'creation-70-looselay-clear-39771567', sku: '1567',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - TAMO CLEAR',
     description: 'Gerflor Creation 70 Looselay - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-70-looselay-clear-39771567-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/clear-39771567.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1567-tamo-clear/pod/49531 - JPG 72 dpi-Creation Looselay 1567 Tamo clear 229x1220 Sky View-pod.jpg?v=9',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -12995,15 +12540,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-clear-39801569',
     name: '1569 MARBLE CLEAR',
-    slug: 'creation-70-looselay-clear-39801569',
-    sku: '1569',
+    slug: 'creation-70-looselay-clear-39801569', sku: '1569',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - MARBLE CLEAR',
     description: 'Gerflor Creation 70 Looselay - MARBLE CLEAR (Šifra: 1569)',
     images: [{
       id: 'creation-70-looselay-clear-39801569-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/clear-39801569.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1569-marble-clear/pod/50186 - Creation Looselay 1569 Marble Clear 914x914 Sky View-pod.jpg?v=9',
       alt: 'MARBLE CLEAR',
       isPrimary: true,
       order: 1,
@@ -13022,15 +12566,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-clear-39821567',
     name: '1567 TAMO CLEAR',
-    slug: 'creation-70-looselay-clear-39821567',
-    sku: '1567',
+    slug: 'creation-70-looselay-clear-39821567', sku: '1567',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - TAMO CLEAR',
     description: 'Gerflor Creation 70 Looselay - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-70-looselay-clear-39821567-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/clear-39821567.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1567-tamo-clear/pod/49531 - JPG 72 dpi-Creation Looselay 1567 Tamo clear 229x1220 Sky View-pod.jpg?v=9',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -13049,15 +12592,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-clear-39821569',
     name: '1569 MARBLE CLEAR',
-    slug: 'creation-70-looselay-clear-39821569',
-    sku: '1569',
+    slug: 'creation-70-looselay-clear-39821569', sku: '1569',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - MARBLE CLEAR',
     description: 'Gerflor Creation 70 Looselay - MARBLE CLEAR (Šifra: 1569)',
     images: [{
       id: 'creation-70-looselay-clear-39821569-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/clear-39821569.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1569-marble-clear/pod/50186 - Creation Looselay 1569 Marble Clear 914x914 Sky View-pod.jpg?v=9',
       alt: 'MARBLE CLEAR',
       isPrimary: true,
       order: 1,
@@ -13076,15 +12618,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-cream-39761565',
     name: '1565 LOOSELAY 1575 STONY CREAM 1565 URBAN STREET CREAM',
-    slug: 'creation-70-looselay-cream-39761565',
-    sku: '1565',
+    slug: 'creation-70-looselay-cream-39761565', sku: '1565',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - LOOSELAY 1575 STONY CREAM 1565 URBAN STREET CREAM',
     description: 'Gerflor Creation 70 Looselay - LOOSELAY 1575 STONY CREAM 1565 URBAN STREET CREAM (Šifra: 1565)',
     images: [{
       id: 'creation-70-looselay-cream-39761565-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/cream-39761565.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1565-looselay-1575-stony-cream-1565-urban-street-cream/pod/59351 - JPG 72 dpi-Creation Looselay 1565 Urban Street Cream 600x600 Sky View-pod.jpg?v=9',
       alt: 'LOOSELAY 1575 STONY CREAM 1565 URBAN STREET CREAM',
       isPrimary: true,
       order: 1,
@@ -13103,15 +12644,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-cream-39761575',
     name: '1575 CREATION LOOSELAY 1575 STONY CREAM CROP',
-    slug: 'creation-70-looselay-cream-39761575',
-    sku: '1575',
+    slug: 'creation-70-looselay-cream-39761575', sku: '1575',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - CREATION LOOSELAY 1575 STONY CREAM CROP',
     description: 'Gerflor Creation 70 Looselay - CREATION LOOSELAY 1575 STONY CREAM CROP (Šifra: 1575)',
     images: [{
       id: 'creation-70-looselay-cream-39761575-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/cream-39761575.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1575-creation-looselay-1575-stony-cream-crop/pod/50161 - JPG 72 dpi-Creation Looselay 1575 Stony Cream 600x600 Sky View-pod.jpg?v=9',
       alt: 'CREATION LOOSELAY 1575 STONY CREAM CROP',
       isPrimary: true,
       order: 1,
@@ -13130,15 +12670,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-dainty-39771560',
     name: '1560 LOOSELAY 1560 TAMO DAINTY',
-    slug: 'creation-70-looselay-dainty-39771560',
-    sku: '1560',
+    slug: 'creation-70-looselay-dainty-39771560', sku: '1560',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - LOOSELAY 1560 TAMO DAINTY',
     description: 'Gerflor Creation 70 Looselay - LOOSELAY 1560 TAMO DAINTY (Šifra: 1560)',
     images: [{
       id: 'creation-70-looselay-dainty-39771560-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/dainty-39771560.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1560-looselay-1560-tamo-dainty/pod/49556 - JPG 72 dpi-Creation Looselay 1560 Tamo Dainty 229x1220 Sky View-pod.jpg?v=9',
       alt: 'LOOSELAY 1560 TAMO DAINTY',
       isPrimary: true,
       order: 1,
@@ -13157,15 +12696,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-dark-39801570',
     name: '1570 MARBLE DARK',
-    slug: 'creation-70-looselay-dark-39801570',
-    sku: '1570',
+    slug: 'creation-70-looselay-dark-39801570', sku: '1570',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - MARBLE DARK',
     description: 'Gerflor Creation 70 Looselay - MARBLE DARK (Šifra: 1570)',
     images: [{
       id: 'creation-70-looselay-dark-39801570-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/dark-39801570.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1570-marble-dark/pod/50191 - JPG 72 dpi-Creation Looselay 1570 Marble Dark 914x914 Sky View-pod.jpg?v=9',
       alt: 'MARBLE DARK',
       isPrimary: true,
       order: 1,
@@ -13184,15 +12722,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-dark-39801577',
     name: '1577 URBAN STREET DARK',
-    slug: 'creation-70-looselay-dark-39801577',
-    sku: '1577',
+    slug: 'creation-70-looselay-dark-39801577', sku: '1577',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - URBAN STREET DARK',
     description: 'Gerflor Creation 70 Looselay - URBAN STREET DARK (Šifra: 1577)',
     images: [{
       id: 'creation-70-looselay-dark-39801577-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/dark-39801577.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1577-urban-street-dark/pod/50201 - JPG 72 dpi-Creation Looselay 1577 Urban street dark 914x914 Sky View-pod.jpg?v=9',
       alt: 'URBAN STREET DARK',
       isPrimary: true,
       order: 1,
@@ -13211,15 +12748,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-dark-39821570',
     name: '1570 MARBLE DARK',
-    slug: 'creation-70-looselay-dark-39821570',
-    sku: '1570',
+    slug: 'creation-70-looselay-dark-39821570', sku: '1570',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - MARBLE DARK',
     description: 'Gerflor Creation 70 Looselay - MARBLE DARK (Šifra: 1570)',
     images: [{
       id: 'creation-70-looselay-dark-39821570-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/dark-39821570.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1570-marble-dark/pod/50191 - JPG 72 dpi-Creation Looselay 1570 Marble Dark 914x914 Sky View-pod.jpg?v=9',
       alt: 'MARBLE DARK',
       isPrimary: true,
       order: 1,
@@ -13238,15 +12774,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-green-39761573',
     name: '1573 CHIPS GREEN',
-    slug: 'creation-70-looselay-green-39761573',
-    sku: '1573',
+    slug: 'creation-70-looselay-green-39761573', sku: '1573',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - CHIPS GREEN',
     description: 'Gerflor Creation 70 Looselay - CHIPS GREEN (Šifra: 1573)',
     images: [{
       id: 'creation-70-looselay-green-39761573-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/green-39761573.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1573-chips-green/pod/50141 - JPG 72 dpi-Creation Looselay 1573 Chips Green 600x600 Sky View-pod.jpg?v=9',
       alt: 'CHIPS GREEN',
       isPrimary: true,
       order: 1,
@@ -13265,15 +12800,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-green-39801571',
     name: '1571 MARBLE GREEN',
-    slug: 'creation-70-looselay-green-39801571',
-    sku: '1571',
+    slug: 'creation-70-looselay-green-39801571', sku: '1571',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - MARBLE GREEN',
     description: 'Gerflor Creation 70 Looselay - MARBLE GREEN (Šifra: 1571)',
     images: [{
       id: 'creation-70-looselay-green-39801571-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/green-39801571.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1571-marble-green/pod/50196 - JPG 72 dpi-Creation Looselay 1571 Marble Green 914x914 Sky View-pod.jpg?v=9',
       alt: 'MARBLE GREEN',
       isPrimary: true,
       order: 1,
@@ -13292,15 +12826,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-grey-39800085',
     name: '0085 DOCK GREY',
-    slug: 'creation-70-looselay-grey-39800085',
-    sku: '0085',
+    slug: 'creation-70-looselay-grey-39800085', sku: '0085',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - DOCK GREY',
     description: 'Gerflor Creation 70 Looselay - DOCK GREY (Šifra: 0085)',
     images: [{
       id: 'creation-70-looselay-grey-39800085-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/grey-39800085.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/0085-dock-grey/pod/50176 - JPG 72 dpi-Creation 70 Loosleay_0085 Dock Grey_914x914-pod.jpg?v=9',
       alt: 'DOCK GREY',
       isPrimary: true,
       order: 1,
@@ -13319,15 +12852,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-honey-39811578',
     name: '1578 LOOSELAY 1578 NAMOU LIGHT HONEY',
-    slug: 'creation-70-looselay-honey-39811578',
-    sku: '1578',
+    slug: 'creation-70-looselay-honey-39811578', sku: '1578',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - LOOSELAY 1578 NAMOU LIGHT HONEY',
     description: 'Gerflor Creation 70 Looselay - LOOSELAY 1578 NAMOU LIGHT HONEY (Šifra: 1578)',
     images: [{
       id: 'creation-70-looselay-honey-39811578-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/honey-39811578.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1578-looselay-1578-namou-light-honey/pod/50096 - JPG 72 dpi-Creation 70 Looselay 1578 Namou light honey-pod.jpg?v=9',
       alt: 'LOOSELAY 1578 NAMOU LIGHT HONEY',
       isPrimary: true,
       order: 1,
@@ -13346,15 +12878,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-honey-39811579',
     name: '1579 LOOSELAY 1579 NAMOU HONEY',
-    slug: 'creation-70-looselay-honey-39811579',
-    sku: '1579',
+    slug: 'creation-70-looselay-honey-39811579', sku: '1579',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - LOOSELAY 1579 NAMOU HONEY',
     description: 'Gerflor Creation 70 Looselay - LOOSELAY 1579 NAMOU HONEY (Šifra: 1579)',
     images: [{
       id: 'creation-70-looselay-honey-39811579-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/honey-39811579.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1579-looselay-1579-namou-honey/pod/50101 - JPG 72 dpi-Creation 70 Looselay 1579 Namou honey-pod.jpg?v=9',
       alt: 'LOOSELAY 1579 NAMOU HONEY',
       isPrimary: true,
       order: 1,
@@ -13373,15 +12904,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-honey-39811580',
     name: '1580 NAMOU DARK HONEY',
-    slug: 'creation-70-looselay-honey-39811580',
-    sku: '1580',
+    slug: 'creation-70-looselay-honey-39811580', sku: '1580',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - NAMOU DARK HONEY',
     description: 'Gerflor Creation 70 Looselay - NAMOU DARK HONEY (Šifra: 1580)',
     images: [{
       id: 'creation-70-looselay-honey-39811580-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/honey-39811580.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1580-namou-dark-honey/pod/50106 - Creation 70 Looselay 1580 Namou Dark honey-pod.jpg?v=9',
       alt: 'NAMOU DARK HONEY',
       isPrimary: true,
       order: 1,
@@ -13400,15 +12930,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-light-39771559',
     name: '1559 CREATION LOOSELAY 1559 TAMO LIGHT CROP',
-    slug: 'creation-70-looselay-light-39771559',
-    sku: '1559',
+    slug: 'creation-70-looselay-light-39771559', sku: '1559',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - CREATION LOOSELAY 1559 TAMO LIGHT CROP',
     description: 'Gerflor Creation 70 Looselay - CREATION LOOSELAY 1559 TAMO LIGHT CROP (Šifra: 1559)',
     images: [{
       id: 'creation-70-looselay-light-39771559-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/light-39771559.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1559-creation-looselay-1559-tamo-light-crop/pod/49541 - JPG 72 dpi-Creation Looselay 1559 Tamo light 229x1220 Sky View-pod.jpg?v=9',
       alt: 'CREATION LOOSELAY 1559 TAMO LIGHT CROP',
       isPrimary: true,
       order: 1,
@@ -13427,15 +12956,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-light-39801283',
     name: '1283 URBAN STREET LIGHT',
-    slug: 'creation-70-looselay-light-39801283',
-    sku: '1283',
+    slug: 'creation-70-looselay-light-39801283', sku: '1283',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - URBAN STREET LIGHT',
     description: 'Gerflor Creation 70 Looselay - URBAN STREET LIGHT (Šifra: 1283)',
     images: [{
       id: 'creation-70-looselay-light-39801283-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/light-39801283.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1283-urban-street-light/pod/49431 - JPG 72 dpi-Creation 55 Looselay_1283 Urban Street Light_914x914-pod.jpg?v=9',
       alt: 'URBAN STREET LIGHT',
       isPrimary: true,
       order: 1,
@@ -13454,15 +12982,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-light-39821559',
     name: '1559 CREATION LOOSELAY 1559 TAMO LIGHT CROP',
-    slug: 'creation-70-looselay-light-39821559',
-    sku: '1559',
+    slug: 'creation-70-looselay-light-39821559', sku: '1559',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - CREATION LOOSELAY 1559 TAMO LIGHT CROP',
     description: 'Gerflor Creation 70 Looselay - CREATION LOOSELAY 1559 TAMO LIGHT CROP (Šifra: 1559)',
     images: [{
       id: 'creation-70-looselay-light-39821559-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/light-39821559.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1559-creation-looselay-1559-tamo-light-crop/pod/49541 - JPG 72 dpi-Creation Looselay 1559 Tamo light 229x1220 Sky View-pod.jpg?v=9',
       alt: 'CREATION LOOSELAY 1559 TAMO LIGHT CROP',
       isPrimary: true,
       order: 1,
@@ -13481,15 +13008,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-medium-39761576',
     name: '1576 STONY MEDIUM',
-    slug: 'creation-70-looselay-medium-39761576',
-    sku: '1576',
+    slug: 'creation-70-looselay-medium-39761576', sku: '1576',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - STONY MEDIUM',
     description: 'Gerflor Creation 70 Looselay - STONY MEDIUM (Šifra: 1576)',
     images: [{
       id: 'creation-70-looselay-medium-39761576-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/medium-39761576.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1576-stony-medium/pod/50171 - JPG 72 dpi-Creation Looselay 1576 Stony Medium 600x600 Sky View-pod.jpg?v=9',
       alt: 'STONY MEDIUM',
       isPrimary: true,
       order: 1,
@@ -13508,15 +13034,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-medium-39801284',
     name: '1284 URBAN STREET MEDIUM',
-    slug: 'creation-70-looselay-medium-39801284',
-    sku: '1284',
+    slug: 'creation-70-looselay-medium-39801284', sku: '1284',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - URBAN STREET MEDIUM',
     description: 'Gerflor Creation 70 Looselay - URBAN STREET MEDIUM (Šifra: 1284)',
     images: [{
       id: 'creation-70-looselay-medium-39801284-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/medium-39801284.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1284-urban-street-medium/pod/49421 - Creation 55 70 Looselay Urban street medium 914x914 sky view-pod.jpg?v=9',
       alt: 'URBAN STREET MEDIUM',
       isPrimary: true,
       order: 1,
@@ -13535,15 +13060,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-natural-39771561',
     name: '1561 TAMO NATURAL',
-    slug: 'creation-70-looselay-natural-39771561',
-    sku: '1561',
+    slug: 'creation-70-looselay-natural-39771561', sku: '1561',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - TAMO NATURAL',
     description: 'Gerflor Creation 70 Looselay - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-70-looselay-natural-39771561-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/natural-39771561.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1561-tamo-natural/pod/49551 - JPG 72 dpi-Creation Looselay 1561 Tamo Natural 229x1220 Sky View-pod.jpg?v=9',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -13562,15 +13086,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-ranch-39770456',
     name: '0456 RANCH',
-    slug: 'creation-70-looselay-ranch-39770456',
-    sku: '0456',
+    slug: 'creation-70-looselay-ranch-39770456', sku: '0456',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - RANCH',
     description: 'Gerflor Creation 70 Looselay - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-70-looselay-ranch-39770456-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/ranch-39770456.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/0456-ranch/pod/49521 - JPG 72 dpi-Creation 0456 Ranch-pod.jpg?v=9',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -13589,15 +13112,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-terra-39761566',
     name: '1566 CREATION LOOSELAY 1566 URBAN STREET TERRA',
-    slug: 'creation-70-looselay-terra-39761566',
-    sku: '1566',
+    slug: 'creation-70-looselay-terra-39761566', sku: '1566',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - CREATION LOOSELAY 1566 URBAN STREET TERRA',
     description: 'Gerflor Creation 70 Looselay - CREATION LOOSELAY 1566 URBAN STREET TERRA (Šifra: 1566)',
     images: [{
       id: 'creation-70-looselay-terra-39761566-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/terra-39761566.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1566-creation-looselay-1566-urban-street-terra/pod/49491 - JPG 72 dpi-Creation Looselay 1566 Urban Street Terra 600x600 Sky View-pod.jpg?v=9',
       alt: 'CREATION LOOSELAY 1566 URBAN STREET TERRA',
       isPrimary: true,
       order: 1,
@@ -13616,15 +13138,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-terra-39761574',
     name: '1574 CHIPS TERRA',
-    slug: 'creation-70-looselay-terra-39761574',
-    sku: '1574',
+    slug: 'creation-70-looselay-terra-39761574', sku: '1574',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - CHIPS TERRA',
     description: 'Gerflor Creation 70 Looselay - CHIPS TERRA (Šifra: 1574)',
     images: [{
       id: 'creation-70-looselay-terra-39761574-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/terra-39761574.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/1574-chips-terra/pod/50156 - JPG 72 dpi-Creation Looselay 1574 Chips Terra 600x600 Sky View-pod.jpg?v=9',
       alt: 'CHIPS TERRA',
       isPrimary: true,
       order: 1,
@@ -13643,15 +13164,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-looselay-twist-39770504',
     name: '0504 TWIST',
-    slug: 'creation-70-looselay-twist-39770504',
-    sku: '0504',
+    slug: 'creation-70-looselay-twist-39770504', sku: '0504',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Looselay - TWIST',
     description: 'Gerflor Creation 70 Looselay - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-70-looselay-twist-39770504-img-1',
-      url: '/images/products/lvt/colors/creation-70-looselay/twist-39770504.jpg',
+      url: '/images/products/lvt/colors/creation-70-looselay/0504-twist/pod/49566 - JPG 72 dpi-RS56244_Twist - VDC - C55-pod.jpg?v=9',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -13670,15 +13190,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-albion-42180577',
     name: '0577 ALBION C70 MEGACLIC',
-    slug: 'creation-70-megaclic-albion-42180577',
-    sku: '0577',
+    slug: 'creation-70-megaclic-albion-42180577', sku: '0577',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - ALBION C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - ALBION C70 MEGACLIC (Šifra: 0577)',
     images: [{
       id: 'creation-70-megaclic-albion-42180577-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/albion-42180577.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/0577-albion-c70-megaclic/pod/65086 - ALBION SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'ALBION C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -13697,15 +13216,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-beige-42181762',
     name: '1762 ALBION BEIGE C70 MEGACLIC',
-    slug: 'creation-70-megaclic-beige-42181762',
-    sku: '1762',
+    slug: 'creation-70-megaclic-beige-42181762', sku: '1762',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - ALBION BEIGE C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - ALBION BEIGE C70 MEGACLIC (Šifra: 1762)',
     images: [{
       id: 'creation-70-megaclic-beige-42181762-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/beige-42181762.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1762-albion-beige-c70-megaclic/pod/65106 - ALBION-BEIGE SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'ALBION BEIGE C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -13724,15 +13242,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-beige-42201768',
     name: '1768 RAPOLANO LIGHT BEIGE C70 MEGACLIC',
-    slug: 'creation-70-megaclic-beige-42201768',
-    sku: '1768',
+    slug: 'creation-70-megaclic-beige-42201768', sku: '1768',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - RAPOLANO LIGHT BEIGE C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - RAPOLANO LIGHT BEIGE C70 MEGACLIC (Šifra: 1768)',
     images: [{
       id: 'creation-70-megaclic-beige-42201768-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/beige-42201768.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1768-rapolano-light-beige-c70-megaclic/pod/65201 - RAPOLANO-LIGHT-BEIGE SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'RAPOLANO LIGHT BEIGE C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -13751,15 +13268,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-chestnut-42181766',
     name: '1766 BODEGA CHESTNUT C70 MEGACLIC',
-    slug: 'creation-70-megaclic-chestnut-42181766',
-    sku: '1766',
+    slug: 'creation-70-megaclic-chestnut-42181766', sku: '1766',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - BODEGA CHESTNUT C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - BODEGA CHESTNUT C70 MEGACLIC (Šifra: 1766)',
     images: [{
       id: 'creation-70-megaclic-chestnut-42181766-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/chestnut-42181766.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1766-bodega-chestnut-c70-megaclic/pod/65156 - BODEGA-CHESTNUT SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'BODEGA CHESTNUT C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -13778,15 +13294,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-clear-42181764',
     name: '1764 NORDIC OAK CLEAR C70 MEGACLIC',
-    slug: 'creation-70-megaclic-clear-42181764',
-    sku: '1764',
+    slug: 'creation-70-megaclic-clear-42181764', sku: '1764',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - NORDIC OAK CLEAR C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - NORDIC OAK CLEAR C70 MEGACLIC (Šifra: 1764)',
     images: [{
       id: 'creation-70-megaclic-clear-42181764-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/clear-42181764.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1764-nordic-oak-clear-c70-megaclic/pod/65126 - NORDIC-OAK-CLEAR SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'NORDIC OAK CLEAR C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -13805,15 +13320,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-dark-42201069',
     name: '1069 ETNA DARK C70 MEGACLIC',
-    slug: 'creation-70-megaclic-dark-42201069',
-    sku: '1069',
+    slug: 'creation-70-megaclic-dark-42201069', sku: '1069',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - ETNA DARK C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - ETNA DARK C70 MEGACLIC (Šifra: 1069)',
     images: [{
       id: 'creation-70-megaclic-dark-42201069-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/dark-42201069.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1069-etna-dark-c70-megaclic/pod/65196 - ETNA DARK SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'ETNA DARK C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -13832,15 +13346,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-denim-42201769',
     name: '1769 TELA DENIM C70 MEGACLIC',
-    slug: 'creation-70-megaclic-denim-42201769',
-    sku: '1769',
+    slug: 'creation-70-megaclic-denim-42201769', sku: '1769',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - TELA DENIM C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - TELA DENIM C70 MEGACLIC (Šifra: 1769)',
     images: [{
       id: 'creation-70-megaclic-denim-42201769-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/denim-42201769.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1769-tela-denim-c70-megaclic/pod/65216 - JPG 72 dpi-TELA DENIM SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'TELA DENIM C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -13859,15 +13372,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-green-42201064',
     name: '1064 PRADO GREEN C70 MEGACLIC',
-    slug: 'creation-70-megaclic-green-42201064',
-    sku: '1064',
+    slug: 'creation-70-megaclic-green-42201064', sku: '1064',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - PRADO GREEN C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - PRADO GREEN C70 MEGACLIC (Šifra: 1064)',
     images: [{
       id: 'creation-70-megaclic-green-42201064-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/green-42201064.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1064-prado-green-c70-megaclic/pod/65191 - PRADO GREEN SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'PRADO GREEN C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -13886,15 +13398,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-grey-42200085',
     name: '0085 DOCK GREY C70 MEGACLIC',
-    slug: 'creation-70-megaclic-grey-42200085',
-    sku: '0085',
+    slug: 'creation-70-megaclic-grey-42200085', sku: '0085',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - DOCK GREY C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - DOCK GREY C70 MEGACLIC (Šifra: 0085)',
     images: [{
       id: 'creation-70-megaclic-grey-42200085-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/grey-42200085.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/0085-dock-grey-c70-megaclic/pod/65181 - DOCK GREY SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'DOCK GREY C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -13913,15 +13424,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-grey-42201770',
     name: '1770 CAMINO LIGHT GREY C70 MEGACLIC',
-    slug: 'creation-70-megaclic-grey-42201770',
-    sku: '1770',
+    slug: 'creation-70-megaclic-grey-42201770', sku: '1770',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - CAMINO LIGHT GREY C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - CAMINO LIGHT GREY C70 MEGACLIC (Šifra: 1770)',
     images: [{
       id: 'creation-70-megaclic-grey-42201770-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/grey-42201770.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1770-camino-light-grey-c70-megaclic/pod/65231 - CAMINO-LIGHT-GREY SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'CAMINO LIGHT GREY C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -13940,15 +13450,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-grey-42201771',
     name: '1771 CAMINO MEDIUM GREY C70 MEGACLIC',
-    slug: 'creation-70-megaclic-grey-42201771',
-    sku: '1771',
+    slug: 'creation-70-megaclic-grey-42201771', sku: '1771',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - CAMINO MEDIUM GREY C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - CAMINO MEDIUM GREY C70 MEGACLIC (Šifra: 1771)',
     images: [{
       id: 'creation-70-megaclic-grey-42201771-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/grey-42201771.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1771-camino-medium-grey-c70-megaclic/pod/65241 - CAMINO-MEDIUM-GREY SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'CAMINO MEDIUM GREY C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -13967,15 +13476,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-grey-42201772',
     name: '1772 CAMINO DARK GREY C70 MEGACLIC',
-    slug: 'creation-70-megaclic-grey-42201772',
-    sku: '1772',
+    slug: 'creation-70-megaclic-grey-42201772', sku: '1772',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - CAMINO DARK GREY C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - CAMINO DARK GREY C70 MEGACLIC (Šifra: 1772)',
     images: [{
       id: 'creation-70-megaclic-grey-42201772-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/grey-42201772.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1772-camino-dark-grey-c70-megaclic/pod/65251 - CAMINO-DARK-GREY SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'CAMINO DARK GREY C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -13994,15 +13502,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-grey-42201773',
     name: '1773 SHADY CONCRETE GREY C70 MEGACLIC',
-    slug: 'creation-70-megaclic-grey-42201773',
-    sku: '1773',
+    slug: 'creation-70-megaclic-grey-42201773', sku: '1773',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - SHADY CONCRETE GREY C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - SHADY CONCRETE GREY C70 MEGACLIC (Šifra: 1773)',
     images: [{
       id: 'creation-70-megaclic-grey-42201773-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/grey-42201773.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1773-shady-concrete-grey-c70-megaclic/pod/65261 - SHADY-CONCRETE-GREY SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'SHADY CONCRETE GREY C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -14021,15 +13528,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-grey-42201774',
     name: '1774 PRADO GREY C70 MEGACLIC',
-    slug: 'creation-70-megaclic-grey-42201774',
-    sku: '1774',
+    slug: 'creation-70-megaclic-grey-42201774', sku: '1774',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - PRADO GREY C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - PRADO GREY C70 MEGACLIC (Šifra: 1774)',
     images: [{
       id: 'creation-70-megaclic-grey-42201774-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/grey-42201774.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1774-prado-grey-c70-megaclic/pod/65271 - PRADO-GREY SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'PRADO GREY C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -14048,15 +13554,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-honey-42181763',
     name: '1763 ALBION HONEY C70 MEGACLIC',
-    slug: 'creation-70-megaclic-honey-42181763',
-    sku: '1763',
+    slug: 'creation-70-megaclic-honey-42181763', sku: '1763',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - ALBION HONEY C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - ALBION HONEY C70 MEGACLIC (Šifra: 1763)',
     images: [{
       id: 'creation-70-megaclic-honey-42181763-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/honey-42181763.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1763-albion-honey-c70-megaclic/pod/65116 - ALBION HONEY SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'ALBION HONEY C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -14075,15 +13580,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-island-42180358',
     name: '0358 MOON ISLAND C70 MEGACLIC',
-    slug: 'creation-70-megaclic-island-42180358',
-    sku: '0358',
+    slug: 'creation-70-megaclic-island-42180358', sku: '0358',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - MOON ISLAND C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - MOON ISLAND C70 MEGACLIC (Šifra: 0358)',
     images: [{
       id: 'creation-70-megaclic-island-42180358-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/island-42180358.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/0358-moon-island-c70-megaclic/pod/65066 - MOON ISLAND SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'MOON ISLAND C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -14102,15 +13606,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-midwest-42180538',
     name: '0538 MIDWEST C70 MEGACLIC',
-    slug: 'creation-70-megaclic-midwest-42180538',
-    sku: '0538',
+    slug: 'creation-70-megaclic-midwest-42180538', sku: '0538',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - MIDWEST C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - MIDWEST C70 MEGACLIC (Šifra: 0538)',
     images: [{
       id: 'creation-70-megaclic-midwest-42180538-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/midwest-42180538.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/0538-midwest-c70-megaclic/pod/65071 - MIDWEST SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'MIDWEST C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -14129,15 +13632,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-natural-42181765',
     name: '1765 NORDIC OAK NATURAL C70 MEGACLIC',
-    slug: 'creation-70-megaclic-natural-42181765',
-    sku: '1765',
+    slug: 'creation-70-megaclic-natural-42181765', sku: '1765',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - NORDIC OAK NATURAL C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - NORDIC OAK NATURAL C70 MEGACLIC (Šifra: 1765)',
     images: [{
       id: 'creation-70-megaclic-natural-42181765-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/natural-42181765.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1765-nordic-oak-natural-c70-megaclic/pod/65146 - NORDIC-OAK-NATURAL SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'NORDIC OAK NATURAL C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -14156,15 +13658,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-natural-42181767',
     name: '1767 BODEGA NATURAL C70 MEGACLIC',
-    slug: 'creation-70-megaclic-natural-42181767',
-    sku: '1767',
+    slug: 'creation-70-megaclic-natural-42181767', sku: '1767',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - BODEGA NATURAL C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - BODEGA NATURAL C70 MEGACLIC (Šifra: 1767)',
     images: [{
       id: 'creation-70-megaclic-natural-42181767-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/natural-42181767.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1767-bodega-natural-c70-megaclic/pod/65166 - BODEGA-NATURAL SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'BODEGA NATURAL C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -14183,15 +13684,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-portobello-42180357',
     name: '0357 PORTOBELLO C70 MEGACLIC',
-    slug: 'creation-70-megaclic-portobello-42180357',
-    sku: '0357',
+    slug: 'creation-70-megaclic-portobello-42180357', sku: '0357',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - PORTOBELLO C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - PORTOBELLO C70 MEGACLIC (Šifra: 0357)',
     images: [{
       id: 'creation-70-megaclic-portobello-42180357-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/portobello-42180357.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/0357-portobello-c70-megaclic/pod/65061 - PORTOBELLO SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'PORTOBELLO C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -14210,15 +13710,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-pure-42200088',
     name: '0088 OXYD PURE C70 MEGACLIC',
-    slug: 'creation-70-megaclic-pure-42200088',
-    sku: '0088',
+    slug: 'creation-70-megaclic-pure-42200088', sku: '0088',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - OXYD PURE C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - OXYD PURE C70 MEGACLIC (Šifra: 0088)',
     images: [{
       id: 'creation-70-megaclic-pure-42200088-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/pure-42200088.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/0088-oxyd-pure-c70-megaclic/pod/65186 - OXYD PURE SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'OXYD PURE C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -14237,15 +13736,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-roadster-42180800',
     name: '0800 TOASTED WOOD ROADSTER C70 MEGACLIC',
-    slug: 'creation-70-megaclic-roadster-42180800',
-    sku: '0800',
+    slug: 'creation-70-megaclic-roadster-42180800', sku: '0800',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - TOASTED WOOD ROADSTER C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - TOASTED WOOD ROADSTER C70 MEGACLIC (Šifra: 0800)',
     images: [{
       id: 'creation-70-megaclic-roadster-42180800-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/roadster-42180800.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/0800-toasted-wood-roadster-c70-megaclic/pod/65096 - TOASTED WOOD ROADSTER SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'TOASTED WOOD ROADSTER C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -14264,15 +13762,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-sand-42181052',
     name: '1052 MUSE SAND C70 MEGACLIC',
-    slug: 'creation-70-megaclic-sand-42181052',
-    sku: '1052',
+    slug: 'creation-70-megaclic-sand-42181052', sku: '1052',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - MUSE SAND C70 MEGACLIC',
     description: 'Gerflor Creation 70 Megaclic - MUSE SAND C70 MEGACLIC (Šifra: 1052)',
     images: [{
       id: 'creation-70-megaclic-sand-42181052-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/sand-42181052.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/1052-muse-sand-c70-megaclic/pod/65101 - MUSE-SAND SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'MUSE SAND C70 MEGACLIC',
       isPrimary: true,
       order: 1,
@@ -14291,15 +13788,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-megaclic-serena-42180545',
     name: '0545 QUARTET NATURAL',
-    slug: 'creation-70-megaclic-serena-42180545',
-    sku: '0545',
+    slug: 'creation-70-megaclic-serena-42180545', sku: '0545',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Megaclic - QUARTET NATURAL',
     description: 'Gerflor Creation 70 Megaclic - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-70-megaclic-serena-42180545-img-1',
-      url: '/images/products/lvt/colors/creation-70-megaclic/serena-42180545.jpg',
+      url: '/images/products/lvt/colors/creation-70-megaclic/0545-quartet-natural/pod/65081 - SERENA SKY VIEW - C70 MEGACLIC-pod.jpg?v=9',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -14318,15 +13814,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-anthracite-39220953',
     name: '0953 RANCH ANTHRACITE',
-    slug: 'creation-70-zen-anthracite-39220953',
-    sku: '0953',
+    slug: 'creation-70-zen-anthracite-39220953', sku: '0953',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - RANCH ANTHRACITE',
     description: 'Gerflor Creation 70 Zen - RANCH ANTHRACITE (Šifra: 0953)',
     images: [{
       id: 'creation-70-zen-anthracite-39220953-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/anthracite-39220953.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/0953-ranch-anthracite/pod/50796 - Ranch Anthracite 0953-pod.jpg?v=9',
       alt: 'RANCH ANTHRACITE',
       isPrimary: true,
       order: 1,
@@ -14345,15 +13840,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-beige-39221416',
     name: '1416 BOSTONIAN OAK',
-    slug: 'creation-70-zen-beige-39221416',
-    sku: '1416',
+    slug: 'creation-70-zen-beige-39221416', sku: '1416',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - BOSTONIAN OAK',
     description: 'Gerflor Creation 70 Zen - BOSTONIAN OAK (Šifra: 1416)',
     images: [{
       id: 'creation-70-zen-beige-39221416-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/beige-39221416.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1416-bostonian-oak/pod/50736 - Bostonian oak beige 1416-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK',
       isPrimary: true,
       order: 1,
@@ -14372,15 +13866,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-beige-39221418',
     name: '1418 SWISS OAK BEIGE',
-    slug: 'creation-70-zen-beige-39221418',
-    sku: '1418',
+    slug: 'creation-70-zen-beige-39221418', sku: '1418',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - SWISS OAK BEIGE',
     description: 'Gerflor Creation 70 Zen - SWISS OAK BEIGE (Šifra: 1418)',
     images: [{
       id: 'creation-70-zen-beige-39221418-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/beige-39221418.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1418-swiss-oak-beige/pod/50771 - Swiss oak beige 1418-pod.jpg?v=9',
       alt: 'SWISS OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -14399,15 +13892,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-black-39241483',
     name: '1483 BLOOM UNI BLACK',
-    slug: 'creation-70-zen-black-39241483',
-    sku: '1483',
+    slug: 'creation-70-zen-black-39241483', sku: '1483',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - BLOOM UNI BLACK',
     description: 'Gerflor Creation 70 Zen - BLOOM UNI BLACK (Šifra: 1483)',
     images: [{
       id: 'creation-70-zen-black-39241483-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/black-39241483.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1483-bloom-uni-black/pod/51436 - Bloom Uni Black 1483-pod.jpg?v=9',
       alt: 'BLOOM UNI BLACK',
       isPrimary: true,
       order: 1,
@@ -14426,15 +13918,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-brown-39241063',
     name: '1063 FINESSE BROWN',
-    slug: 'creation-70-zen-brown-39241063',
-    sku: '1063',
+    slug: 'creation-70-zen-brown-39241063', sku: '1063',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - FINESSE BROWN',
     description: 'Gerflor Creation 70 Zen - FINESSE BROWN (Šifra: 1063)',
     images: [{
       id: 'creation-70-zen-brown-39241063-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/brown-39241063.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1063-finesse-brown/pod/51466 - Finesse brown 1063-pod.jpg?v=9',
       alt: 'FINESSE BROWN',
       isPrimary: true,
       order: 1,
@@ -14453,15 +13944,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-brown-39241484',
     name: '1484 BLOOM UNI BROWN',
-    slug: 'creation-70-zen-brown-39241484',
-    sku: '1484',
+    slug: 'creation-70-zen-brown-39241484', sku: '1484',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - BLOOM UNI BROWN',
     description: 'Gerflor Creation 70 Zen - BLOOM UNI BROWN (Šifra: 1484)',
     images: [{
       id: 'creation-70-zen-brown-39241484-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/brown-39241484.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1484-bloom-uni-brown/pod/51476 - Bloom uni brown 1484-pod.jpg?v=9',
       alt: 'BLOOM UNI BROWN',
       isPrimary: true,
       order: 1,
@@ -14480,15 +13970,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-clear-39241482',
     name: '1482 BLOOM UNI CLEAR',
-    slug: 'creation-70-zen-clear-39241482',
-    sku: '1482',
+    slug: 'creation-70-zen-clear-39241482', sku: '1482',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - BLOOM UNI CLEAR',
     description: 'Gerflor Creation 70 Zen - BLOOM UNI CLEAR (Šifra: 1482)',
     images: [{
       id: 'creation-70-zen-clear-39241482-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/clear-39241482.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1482-bloom-uni-clear/pod/51401 - Bloom Uni Clear 1482-pod.jpg?v=9',
       alt: 'BLOOM UNI CLEAR',
       isPrimary: true,
       order: 1,
@@ -14507,15 +13996,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-clear-39241486',
     name: '1486 PARKER CLEAR',
-    slug: 'creation-70-zen-clear-39241486',
-    sku: '1486',
+    slug: 'creation-70-zen-clear-39241486', sku: '1486',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - PARKER CLEAR',
     description: 'Gerflor Creation 70 Zen - PARKER CLEAR (Šifra: 1486)',
     images: [{
       id: 'creation-70-zen-clear-39241486-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/clear-39241486.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1486-parker-clear/pod/51351 - Parker Clear 1486-pod.jpg?v=9',
       alt: 'PARKER CLEAR',
       isPrimary: true,
       order: 1,
@@ -14534,15 +14022,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-dark-39221421',
     name: '1421 BOSTONIAN OAK DARK',
-    slug: 'creation-70-zen-dark-39221421',
-    sku: '1421',
+    slug: 'creation-70-zen-dark-39221421', sku: '1421',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - BOSTONIAN OAK DARK',
     description: 'Gerflor Creation 70 Zen - BOSTONIAN OAK DARK (Šifra: 1421)',
     images: [{
       id: 'creation-70-zen-dark-39221421-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/dark-39221421.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1421-bostonian-oak-dark/pod/50756 - Bostonian oak dark 1421-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK DARK',
       isPrimary: true,
       order: 1,
@@ -14561,15 +14048,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-denim-39241488',
     name: '1488 FINESSE DENIM',
-    slug: 'creation-70-zen-denim-39241488',
-    sku: '1488',
+    slug: 'creation-70-zen-denim-39241488', sku: '1488',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - FINESSE DENIM',
     description: 'Gerflor Creation 70 Zen - FINESSE DENIM (Šifra: 1488)',
     images: [{
       id: 'creation-70-zen-denim-39241488-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/denim-39241488.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1488-finesse-denim/pod/51441 - Finesse Denim 1488-pod.jpg?v=9',
       alt: 'FINESSE DENIM',
       isPrimary: true,
       order: 1,
@@ -14588,15 +14074,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-golden-39221419',
     name: '1419 SWISS OAK GOLDEN',
-    slug: 'creation-70-zen-golden-39221419',
-    sku: '1419',
+    slug: 'creation-70-zen-golden-39221419', sku: '1419',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - SWISS OAK GOLDEN',
     description: 'Gerflor Creation 70 Zen - SWISS OAK GOLDEN (Šifra: 1419)',
     images: [{
       id: 'creation-70-zen-golden-39221419-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/golden-39221419.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1419-swiss-oak-golden/pod/50781 - Swiss Oak Golden 1419-pod.jpg?v=9',
       alt: 'SWISS OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -14615,15 +14100,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-green-39241487',
     name: '1487 FINESSE GREEN',
-    slug: 'creation-70-zen-green-39241487',
-    sku: '1487',
+    slug: 'creation-70-zen-green-39241487', sku: '1487',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - FINESSE GREEN',
     description: 'Gerflor Creation 70 Zen - FINESSE GREEN (Šifra: 1487)',
     images: [{
       id: 'creation-70-zen-green-39241487-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/green-39241487.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1487-finesse-green/pod/51446 - Finesse Green 1487-pod.jpg?v=9',
       alt: 'FINESSE GREEN',
       isPrimary: true,
       order: 1,
@@ -14642,15 +14126,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-grey-39241413',
     name: '1413 BLOOM UNI GREY',
-    slug: 'creation-70-zen-grey-39241413',
-    sku: '1413',
+    slug: 'creation-70-zen-grey-39241413', sku: '1413',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - BLOOM UNI GREY',
     description: 'Gerflor Creation 70 Zen - BLOOM UNI GREY (Šifra: 1413)',
     images: [{
       id: 'creation-70-zen-grey-39241413-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/grey-39241413.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1413-bloom-uni-grey/pod/50721 - Bloom uni grey 1413-pod.jpg?v=9',
       alt: 'BLOOM UNI GREY',
       isPrimary: true,
       order: 1,
@@ -14669,15 +14152,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-grey-39241489',
     name: '1489 FINESSE GREY',
-    slug: 'creation-70-zen-grey-39241489',
-    sku: '1489',
+    slug: 'creation-70-zen-grey-39241489', sku: '1489',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - FINESSE GREY',
     description: 'Gerflor Creation 70 Zen - FINESSE GREY (Šifra: 1489)',
     images: [{
       id: 'creation-70-zen-grey-39241489-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/grey-39241489.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1489-finesse-grey/pod/51471 - Finesse Grey 1489-pod.jpg?v=9',
       alt: 'FINESSE GREY',
       isPrimary: true,
       order: 1,
@@ -14696,15 +14178,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-honey-39221480',
     name: '1480 NATURE OAK HONEY',
-    slug: 'creation-70-zen-honey-39221480',
-    sku: '1480',
+    slug: 'creation-70-zen-honey-39221480', sku: '1480',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - NATURE OAK HONEY',
     description: 'Gerflor Creation 70 Zen - NATURE OAK HONEY (Šifra: 1480)',
     images: [{
       id: 'creation-70-zen-honey-39221480-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/honey-39221480.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1480-nature-oak-honey/pod/51341 - Nature oak honey 1480-pod.jpg?v=9',
       alt: 'NATURE OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -14723,15 +14204,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-kraft-39221478',
     name: '1478 BOSTONIAN OAK KRAFT',
-    slug: 'creation-70-zen-kraft-39221478',
-    sku: '1478',
+    slug: 'creation-70-zen-kraft-39221478', sku: '1478',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - BOSTONIAN OAK KRAFT',
     description: 'Gerflor Creation 70 Zen - BOSTONIAN OAK KRAFT (Šifra: 1478)',
     images: [{
       id: 'creation-70-zen-kraft-39221478-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/kraft-39221478.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1478-bostonian-oak-kraft/pod/51326 - Bostonian Oak Kraft 1478-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK KRAFT',
       isPrimary: true,
       order: 1,
@@ -14750,15 +14230,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-kraft-39221479',
     name: '1479 NATURE OAK KRAFT',
-    slug: 'creation-70-zen-kraft-39221479',
-    sku: '1479',
+    slug: 'creation-70-zen-kraft-39221479', sku: '1479',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - NATURE OAK KRAFT',
     description: 'Gerflor Creation 70 Zen - NATURE OAK KRAFT (Šifra: 1479)',
     images: [{
       id: 'creation-70-zen-kraft-39221479-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/kraft-39221479.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1479-nature-oak-kraft/pod/51331 - Nature Oak Kraft 1479-pod.jpg?v=9',
       alt: 'NATURE OAK KRAFT',
       isPrimary: true,
       order: 1,
@@ -14777,15 +14256,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-medium-39221422',
     name: '1422 BOSTONIAN OAK MEDIUM',
-    slug: 'creation-70-zen-medium-39221422',
-    sku: '1422',
+    slug: 'creation-70-zen-medium-39221422', sku: '1422',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - BOSTONIAN OAK MEDIUM',
     description: 'Gerflor Creation 70 Zen - BOSTONIAN OAK MEDIUM (Šifra: 1422)',
     images: [{
       id: 'creation-70-zen-medium-39221422-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/medium-39221422.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1422-bostonian-oak-medium/pod/50761 - Bostonian oak medium 1422-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK MEDIUM',
       isPrimary: true,
       order: 1,
@@ -14804,15 +14282,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-metal-39240817',
     name: '0817 COCOON METAL',
-    slug: 'creation-70-zen-metal-39240817',
-    sku: '0817',
+    slug: 'creation-70-zen-metal-39240817', sku: '0817',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - COCOON METAL',
     description: 'Gerflor Creation 70 Zen - COCOON METAL (Šifra: 0817)',
     images: [{
       id: 'creation-70-zen-metal-39240817-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/metal-39240817.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/0817-cocoon-metal/pod/51486 - Cocoon metal 0817-pod.jpg?v=9',
       alt: 'COCOON METAL',
       isPrimary: true,
       order: 1,
@@ -14831,15 +14308,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-nature-39241064',
     name: '1064 FINESSE NATURE',
-    slug: 'creation-70-zen-nature-39241064',
-    sku: '1064',
+    slug: 'creation-70-zen-nature-39241064', sku: '1064',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - FINESSE NATURE',
     description: 'Gerflor Creation 70 Zen - FINESSE NATURE (Šifra: 1064)',
     images: [{
       id: 'creation-70-zen-nature-39241064-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/nature-39241064.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1064-finesse-nature/pod/51456 - Finesse nature 1064-pod.jpg?v=9',
       alt: 'FINESSE NATURE',
       isPrimary: true,
       order: 1,
@@ -14858,15 +14334,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-oak-39221415',
     name: '1415 BOSTONIAN OAK',
-    slug: 'creation-70-zen-oak-39221415',
-    sku: '1415',
+    slug: 'creation-70-zen-oak-39221415', sku: '1415',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - BOSTONIAN OAK',
     description: 'Gerflor Creation 70 Zen - BOSTONIAN OAK (Šifra: 1415)',
     images: [{
       id: 'creation-70-zen-oak-39221415-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/oak-39221415.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1415-bostonian-oak/pod/50746 - Bostonian oak 1415-pod.jpg?v=9',
       alt: 'BOSTONIAN OAK',
       isPrimary: true,
       order: 1,
@@ -14885,15 +14360,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-pearl-39221420',
     name: '1420 SWISS OAK PEARL',
-    slug: 'creation-70-zen-pearl-39221420',
-    sku: '1420',
+    slug: 'creation-70-zen-pearl-39221420', sku: '1420',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - SWISS OAK PEARL',
     description: 'Gerflor Creation 70 Zen - SWISS OAK PEARL (Šifra: 1420)',
     images: [{
       id: 'creation-70-zen-pearl-39221420-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/pearl-39221420.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1420-swiss-oak-pearl/pod/50766 - Swiss oak pearl 1420-pod.jpg?v=9',
       alt: 'SWISS OAK PEARL',
       isPrimary: true,
       order: 1,
@@ -14912,15 +14386,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-perle-39240963',
     name: '0963 BLOOM UNI PERLE',
-    slug: 'creation-70-zen-perle-39240963',
-    sku: '0963',
+    slug: 'creation-70-zen-perle-39240963', sku: '0963',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - BLOOM UNI PERLE',
     description: 'Gerflor Creation 70 Zen - BLOOM UNI PERLE (Šifra: 0963)',
     images: [{
       id: 'creation-70-zen-perle-39240963-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/perle-39240963.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/0963-bloom-uni-perle/pod/51406 - Bloom uni perle 0963-pod.jpg?v=9',
       alt: 'BLOOM UNI PERLE',
       isPrimary: true,
       order: 1,
@@ -14939,15 +14412,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-poudre-39241066',
     name: '1066 FINESSE POUDRE',
-    slug: 'creation-70-zen-poudre-39241066',
-    sku: '1066',
+    slug: 'creation-70-zen-poudre-39241066', sku: '1066',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - FINESSE POUDRE',
     description: 'Gerflor Creation 70 Zen - FINESSE POUDRE (Šifra: 1066)',
     images: [{
       id: 'creation-70-zen-poudre-39241066-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/poudre-39241066.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1066-finesse-poudre/pod/51481 - Finesse Poudre 1066-pod.jpg?v=9',
       alt: 'FINESSE POUDRE',
       isPrimary: true,
       order: 1,
@@ -14966,15 +14438,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-ranch-39220773',
     name: '0773 RANCH (',
-    slug: 'creation-70-zen-ranch-39220773',
-    sku: '0773',
+    slug: 'creation-70-zen-ranch-39220773', sku: '0773',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - RANCH (',
     description: 'Gerflor Creation 70 Zen - RANCH ( (Šifra: 0773)',
     images: [{
       id: 'creation-70-zen-ranch-39220773-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/ranch-39220773.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/0773-ranch/pod/51386 - 0773 Ranch (Creation Zen) - Color scan-pod.jpg?v=9',
       alt: 'RANCH (',
       isPrimary: true,
       order: 1,
@@ -14993,15 +14464,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-souris-39241485',
     name: '1485 BLOOM UNI SOURIS',
-    slug: 'creation-70-zen-souris-39241485',
-    sku: '1485',
+    slug: 'creation-70-zen-souris-39241485', sku: '1485',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - BLOOM UNI SOURIS',
     description: 'Gerflor Creation 70 Zen - BLOOM UNI SOURIS (Šifra: 1485)',
     images: [{
       id: 'creation-70-zen-souris-39241485-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/souris-39241485.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1485-bloom-uni-souris/pod/51356 - Bloom uni souris 1485-pod.jpg?v=9',
       alt: 'BLOOM UNI SOURIS',
       isPrimary: true,
       order: 1,
@@ -15020,15 +14490,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-station-39241414',
     name: '1414 PARKER STATION',
-    slug: 'creation-70-zen-station-39241414',
-    sku: '1414',
+    slug: 'creation-70-zen-station-39241414', sku: '1414',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - PARKER STATION',
     description: 'Gerflor Creation 70 Zen - PARKER STATION (Šifra: 1414)',
     images: [{
       id: 'creation-70-zen-station-39241414-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/station-39241414.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1414-parker-station/pod/50711 - Parker station 1414-pod.jpg?v=9',
       alt: 'PARKER STATION',
       isPrimary: true,
       order: 1,
@@ -15047,15 +14516,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-taupe-39221481',
     name: '1481 NATURE OAK TAUPE',
-    slug: 'creation-70-zen-taupe-39221481',
-    sku: '1481',
+    slug: 'creation-70-zen-taupe-39221481', sku: '1481',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - NATURE OAK TAUPE',
     description: 'Gerflor Creation 70 Zen - NATURE OAK TAUPE (Šifra: 1481)',
     images: [{
       id: 'creation-70-zen-taupe-39221481-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/taupe-39221481.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1481-nature-oak-taupe/pod/51346 - Nature oak taupe 1481-pod.jpg?v=9',
       alt: 'NATURE OAK TAUPE',
       isPrimary: true,
       order: 1,
@@ -15074,15 +14542,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-taupe-39241412',
     name: '1412 BLOOM UNI TAUPE',
-    slug: 'creation-70-zen-taupe-39241412',
-    sku: '1412',
+    slug: 'creation-70-zen-taupe-39241412', sku: '1412',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - BLOOM UNI TAUPE',
     description: 'Gerflor Creation 70 Zen - BLOOM UNI TAUPE (Šifra: 1412)',
     images: [{
       id: 'creation-70-zen-taupe-39241412-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/taupe-39241412.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1412-bloom-uni-taupe/pod/50726 - Bloom uni taupe 1484-pod.jpg?v=9',
       alt: 'BLOOM UNI TAUPE',
       isPrimary: true,
       order: 1,
@@ -15101,15 +14568,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-70-zen-twist-39221417',
     name: '1417 TWIST',
-    slug: 'creation-70-zen-twist-39221417',
-    sku: '1417',
+    slug: 'creation-70-zen-twist-39221417', sku: '1417',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation 70 Zen - TWIST',
     description: 'Gerflor Creation 70 Zen - TWIST (Šifra: 1417)',
     images: [{
       id: 'creation-70-zen-twist-39221417-img-1',
-      url: '/images/products/lvt/colors/creation-70-zen/twist-39221417.jpg',
+      url: '/images/products/lvt/colors/creation-70-zen/1417-twist/pod/50806 - Twist 1417-pod.jpg?v=9',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -15128,15 +14594,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-abricot-35021581',
     name: '1581 GENTLEMAN ABRICOT',
-    slug: 'creation-saga2-abricot-35021581',
-    sku: '1581',
+    slug: 'creation-saga2-abricot-35021581', sku: '1581',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - GENTLEMAN ABRICOT',
     description: 'Gerflor Creation Saga2 - GENTLEMAN ABRICOT (Šifra: 1581)',
     images: [{
       id: 'creation-saga2-abricot-35021581-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/abricot-35021581.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1581-gentleman-abricot/pod/49986 - JPG 72 dpi-Creation Looselay 1581 Gentleman Abricot 500x500 Sky View-pod.jpg?v=9',
       alt: 'GENTLEMAN ABRICOT',
       isPrimary: true,
       order: 1,
@@ -15155,15 +14620,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-amande-35021584',
     name: '1584 TWEED CHINE AMANDE',
-    slug: 'creation-saga2-amande-35021584',
-    sku: '1584',
+    slug: 'creation-saga2-amande-35021584', sku: '1584',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - TWEED CHINE AMANDE',
     description: 'Gerflor Creation Saga2 - TWEED CHINE AMANDE (Šifra: 1584)',
     images: [{
       id: 'creation-saga2-amande-35021584-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/amande-35021584.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1584-tweed-chine-amande/pod/50026 - JPG 72 dpi-Creation Looselay 1584 Tweed Chine Amande 500x500 Sky View-pod.jpg?v=9',
       alt: 'TWEED CHINE AMANDE',
       isPrimary: true,
       order: 1,
@@ -15182,15 +14646,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-ancien-35021588',
     name: '1588 TWEED ROSE ANCIEN',
-    slug: 'creation-saga2-ancien-35021588',
-    sku: '1588',
+    slug: 'creation-saga2-ancien-35021588', sku: '1588',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - TWEED ROSE ANCIEN',
     description: 'Gerflor Creation Saga2 - TWEED ROSE ANCIEN (Šifra: 1588)',
     images: [{
       id: 'creation-saga2-ancien-35021588-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/ancien-35021588.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1588-tweed-rose-ancien/pod/50051 - JPG 72 dpi-Creation Looselay 1588 Tweed Rose Ancien 500x500 Sky View-pod.jpg?v=9',
       alt: 'TWEED ROSE ANCIEN',
       isPrimary: true,
       order: 1,
@@ -15209,15 +14672,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-beige-35021587',
     name: '1587 TWEED MEDIUM BEIGE CROP',
-    slug: 'creation-saga2-beige-35021587',
-    sku: '1587',
+    slug: 'creation-saga2-beige-35021587', sku: '1587',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - TWEED MEDIUM BEIGE CROP',
     description: 'Gerflor Creation Saga2 - TWEED MEDIUM BEIGE CROP (Šifra: 1587)',
     images: [{
       id: 'creation-saga2-beige-35021587-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/beige-35021587.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1587-tweed-medium-beige-crop/pod/50041 - JPG 72 dpi-Creation Looselay 1587 Tweed Medium Beige 500x500 Sky View-pod.jpg?v=9',
       alt: 'TWEED MEDIUM BEIGE CROP',
       isPrimary: true,
       order: 1,
@@ -15236,15 +14698,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-beige-39881608',
     name: '1608 OXYD LIGHT BEIGE',
-    slug: 'creation-saga2-beige-39881608',
-    sku: '1608',
+    slug: 'creation-saga2-beige-39881608', sku: '1608',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - OXYD LIGHT BEIGE',
     description: 'Gerflor Creation Saga2 - OXYD LIGHT BEIGE (Šifra: 1608)',
     images: [{
       id: 'creation-saga2-beige-39881608-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/beige-39881608.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1608-oxyd-light-beige/pod/50076 - JPG 72 dpi-Creation Looselay 1608 Oxyd Light Beige 500x500 Sky View-pod.jpg?v=9',
       alt: 'OXYD LIGHT BEIGE',
       isPrimary: true,
       order: 1,
@@ -15263,15 +14724,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-blue-35020030',
     name: '0030 GENTLEMAN BLUE',
-    slug: 'creation-saga2-blue-35020030',
-    sku: '0030',
+    slug: 'creation-saga2-blue-35020030', sku: '0030',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - GENTLEMAN BLUE',
     description: 'Gerflor Creation Saga2 - GENTLEMAN BLUE (Šifra: 0030)',
     images: [{
       id: 'creation-saga2-blue-35020030-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/blue-35020030.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/0030-gentleman-blue/pod/50686 - Saga 0030 Gentleman Blue-pod.jpg?v=9',
       alt: 'GENTLEMAN BLUE',
       isPrimary: true,
       order: 1,
@@ -15290,15 +14750,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-chine-35021582',
     name: '1582 GENTLEMAN JEAN CHINE',
-    slug: 'creation-saga2-chine-35021582',
-    sku: '1582',
+    slug: 'creation-saga2-chine-35021582', sku: '1582',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - GENTLEMAN JEAN CHINE',
     description: 'Gerflor Creation Saga2 - GENTLEMAN JEAN CHINE (Šifra: 1582)',
     images: [{
       id: 'creation-saga2-chine-35021582-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/chine-35021582.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1582-gentleman-jean-chine/pod/49996 - JPG 72 dpi-Creation Looselay 1582 Gentleman Jean Chine 500x500 Sky View-pod.jpg?v=9',
       alt: 'GENTLEMAN JEAN CHINE',
       isPrimary: true,
       order: 1,
@@ -15317,15 +14776,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-chine-35021585',
     name: '1585 TWEED GREEN CHINE',
-    slug: 'creation-saga2-chine-35021585',
-    sku: '1585',
+    slug: 'creation-saga2-chine-35021585', sku: '1585',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - TWEED GREEN CHINE',
     description: 'Gerflor Creation Saga2 - TWEED GREEN CHINE (Šifra: 1585)',
     images: [{
       id: 'creation-saga2-chine-35021585-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/chine-35021585.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1585-tweed-green-chine/pod/50031 - JPG 72 dpi-Creation Looselay 1585 Tweed Green Chine 500x500 Sky View-pod.jpg?v=9',
       alt: 'TWEED GREEN CHINE',
       isPrimary: true,
       order: 1,
@@ -15344,15 +14802,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-clear-35021567',
     name: '1567 TAMO CLEAR',
-    slug: 'creation-saga2-clear-35021567',
-    sku: '1567',
+    slug: 'creation-saga2-clear-35021567', sku: '1567',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - TAMO CLEAR',
     description: 'Gerflor Creation Saga2 - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-saga2-clear-35021567-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/clear-35021567.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1567-tamo-clear/pod/50006 - JPG 72 dpi-Creation Looselay 1567 Tamo Clear 500x500 Sky View-pod.jpg?v=9',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -15371,15 +14828,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-cream-35021563',
     name: '1563 CREATION LOOSELAY 1563 GENTLEMAN CREAM',
-    slug: 'creation-saga2-cream-35021563',
-    sku: '1563',
+    slug: 'creation-saga2-cream-35021563', sku: '1563',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - CREATION LOOSELAY 1563 GENTLEMAN CREAM',
     description: 'Gerflor Creation Saga2 - CREATION LOOSELAY 1563 GENTLEMAN CREAM (Šifra: 1563)',
     images: [{
       id: 'creation-saga2-cream-35021563-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/cream-35021563.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1563-creation-looselay-1563-gentleman-cream/pod/49991 - JPG 72 dpi-Creation Looselay 1563 Gentleman cream 500x500 Sky View-pod.jpg?v=9',
       alt: 'CREATION LOOSELAY 1563 GENTLEMAN CREAM',
       isPrimary: true,
       order: 1,
@@ -15398,15 +14854,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-cream-35021565',
     name: '1565 CREATION LOOSELAY 1565 URBAN STREET CREAM',
-    slug: 'creation-saga2-cream-35021565',
-    sku: '1565',
+    slug: 'creation-saga2-cream-35021565', sku: '1565',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - CREATION LOOSELAY 1565 URBAN STREET CREAM',
     description: 'Gerflor Creation Saga2 - CREATION LOOSELAY 1565 URBAN STREET CREAM (Šifra: 1565)',
     images: [{
       id: 'creation-saga2-cream-35021565-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/cream-35021565.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1565-creation-looselay-1565-urban-street-cream/pod/50056 - JPG 72 dpi-Creation Looselay 1565 Urban Street Cream 500x500 Sky View-pod.jpg?v=9',
       alt: 'CREATION LOOSELAY 1565 URBAN STREET CREAM',
       isPrimary: true,
       order: 1,
@@ -15425,15 +14880,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-dainty-35021560',
     name: '1560 TAMO DAINTY',
-    slug: 'creation-saga2-dainty-35021560',
-    sku: '1560',
+    slug: 'creation-saga2-dainty-35021560', sku: '1560',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - TAMO DAINTY',
     description: 'Gerflor Creation Saga2 - TAMO DAINTY (Šifra: 1560)',
     images: [{
       id: 'creation-saga2-dainty-35021560-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/dainty-35021560.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1560-tamo-dainty/pod/50011 - JPG 72 dpi-Creation Looselay 1560 Tamo Dainty 500x500 Sky View-pod.jpg?v=9',
       alt: 'TAMO DAINTY',
       isPrimary: true,
       order: 1,
@@ -15452,15 +14906,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-green-39881609',
     name: '1609 OXYD LIGHT GREEN',
-    slug: 'creation-saga2-green-39881609',
-    sku: '1609',
+    slug: 'creation-saga2-green-39881609', sku: '1609',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - OXYD LIGHT GREEN',
     description: 'Gerflor Creation Saga2 - OXYD LIGHT GREEN (Šifra: 1609)',
     images: [{
       id: 'creation-saga2-green-39881609-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/green-39881609.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1609-oxyd-light-green/pod/50081 - JPG 72 dpi-Creation Looselay 1609 Oxyd Light Green 500x500 Sky View-pod.jpg?v=9',
       alt: 'OXYD LIGHT GREEN',
       isPrimary: true,
       order: 1,
@@ -15479,15 +14932,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-grey-35020088',
     name: '0088 GENTLEMAN GREY',
-    slug: 'creation-saga2-grey-35020088',
-    sku: '0088',
+    slug: 'creation-saga2-grey-35020088', sku: '0088',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - GENTLEMAN GREY',
     description: 'Gerflor Creation Saga2 - GENTLEMAN GREY (Šifra: 0088)',
     images: [{
       id: 'creation-saga2-grey-35020088-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/grey-35020088.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/0088-gentleman-grey/pod/41371 - gentleman grey - Saga-pod.jpg?v=9',
       alt: 'GENTLEMAN GREY',
       isPrimary: true,
       order: 1,
@@ -15506,15 +14958,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-grey-35021586',
     name: '1586 CREATION LOOSELAY 1586 TWEED LIGHT GREY',
-    slug: 'creation-saga2-grey-35021586',
-    sku: '1586',
+    slug: 'creation-saga2-grey-35021586', sku: '1586',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - CREATION LOOSELAY 1586 TWEED LIGHT GREY',
     description: 'Gerflor Creation Saga2 - CREATION LOOSELAY 1586 TWEED LIGHT GREY (Šifra: 1586)',
     images: [{
       id: 'creation-saga2-grey-35021586-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/grey-35021586.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1586-creation-looselay-1586-tweed-light-grey/pod/50036 - JPG 72 dpi-Creation Looselay 1586 Tweed Light Grey 500x500 Sky View-pod.jpg?v=9',
       alt: 'CREATION LOOSELAY 1586 TWEED LIGHT GREY',
       isPrimary: true,
       order: 1,
@@ -15533,15 +14984,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-grey-39881610',
     name: '1610 OXYD LIGHT GREY',
-    slug: 'creation-saga2-grey-39881610',
-    sku: '1610',
+    slug: 'creation-saga2-grey-39881610', sku: '1610',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - OXYD LIGHT GREY',
     description: 'Gerflor Creation Saga2 - OXYD LIGHT GREY (Šifra: 1610)',
     images: [{
       id: 'creation-saga2-grey-39881610-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/grey-39881610.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1610-oxyd-light-grey/pod/50086 - JPG 72 dpi-Creation Looselay 1610 Oxyd Light Grey 500x500 Sky View-pod.jpg?v=9',
       alt: 'OXYD LIGHT GREY',
       isPrimary: true,
       order: 1,
@@ -15560,15 +15010,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-light-35021283',
     name: '1283 URBAN STREET LIGHT²',
-    slug: 'creation-saga2-light-35021283',
-    sku: '1283',
+    slug: 'creation-saga2-light-35021283', sku: '1283',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - URBAN STREET LIGHT²',
     description: 'Gerflor Creation Saga2 - URBAN STREET LIGHT² (Šifra: 1283)',
     images: [{
       id: 'creation-saga2-light-35021283-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/light-35021283.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1283-urban-street-light/pod/50061 - JPG 72 dpi-Creation Looselay 1283 Urban street light 500x500 Sky View-pod.jpg?v=9',
       alt: 'URBAN STREET LIGHT²',
       isPrimary: true,
       order: 1,
@@ -15587,15 +15036,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-light-35021559',
     name: '1559 TAMO LIGHT',
-    slug: 'creation-saga2-light-35021559',
-    sku: '1559',
+    slug: 'creation-saga2-light-35021559', sku: '1559',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - TAMO LIGHT',
     description: 'Gerflor Creation Saga2 - TAMO LIGHT (Šifra: 1559)',
     images: [{
       id: 'creation-saga2-light-35021559-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/light-35021559.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1559-tamo-light/pod/50016 - JPG 72 dpi-Creation Looselay 1559 Tamo light 500x500 Sky View-pod.jpg?v=9',
       alt: 'TAMO LIGHT',
       isPrimary: true,
       order: 1,
@@ -15614,15 +15062,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-medium-35021284',
     name: '1284 URBAN STREET MEDIUM',
-    slug: 'creation-saga2-medium-35021284',
-    sku: '1284',
+    slug: 'creation-saga2-medium-35021284', sku: '1284',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - URBAN STREET MEDIUM',
     description: 'Gerflor Creation Saga2 - URBAN STREET MEDIUM (Šifra: 1284)',
     images: [{
       id: 'creation-saga2-medium-35021284-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/medium-35021284.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1284-urban-street-medium/pod/50066 - JPG 72 dpi-Creation Looselay 1284 Urban street medium 500x500 Sky View-pod.jpg?v=9',
       alt: 'URBAN STREET MEDIUM',
       isPrimary: true,
       order: 1,
@@ -15641,15 +15088,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-natural-35021561',
     name: '1561 TAMO NATURAL',
-    slug: 'creation-saga2-natural-35021561',
-    sku: '1561',
+    slug: 'creation-saga2-natural-35021561', sku: '1561',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - TAMO NATURAL',
     description: 'Gerflor Creation Saga2 - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-saga2-natural-35021561-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/natural-35021561.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1561-tamo-natural/pod/50021 - JPG 72 dpi-Creation Looselay 1561 Tamo Natural 500x500 Sky View-pod.jpg?v=9',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -15668,15 +15114,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-taupe-35020089',
     name: '0089 GENTLEMAN TAUPE²',
-    slug: 'creation-saga2-taupe-35020089',
-    sku: '0089',
+    slug: 'creation-saga2-taupe-35020089', sku: '0089',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - GENTLEMAN TAUPE²',
     description: 'Gerflor Creation Saga2 - GENTLEMAN TAUPE² (Šifra: 0089)',
     images: [{
       id: 'creation-saga2-taupe-35020089-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/taupe-35020089.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/0089-gentleman-taupe/pod/41376 - gentleman taupe - Saga-pod.jpg?v=9',
       alt: 'GENTLEMAN TAUPE²',
       isPrimary: true,
       order: 1,
@@ -15695,15 +15140,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-terra-35021564',
     name: '1564 CREATION SAGA 1564 GENTLEMAN TERRA',
-    slug: 'creation-saga2-terra-35021564',
-    sku: '1564',
+    slug: 'creation-saga2-terra-35021564', sku: '1564',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - CREATION SAGA 1564 GENTLEMAN TERRA',
     description: 'Gerflor Creation Saga2 - CREATION SAGA 1564 GENTLEMAN TERRA (Šifra: 1564)',
     images: [{
       id: 'creation-saga2-terra-35021564-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/terra-35021564.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1564-creation-saga-1564-gentleman-terra/pod/50001 - Creation Saga 1564 Gentleman terra 500x500-pod.jpg?v=9',
       alt: 'CREATION SAGA 1564 GENTLEMAN TERRA',
       isPrimary: true,
       order: 1,
@@ -15722,15 +15166,14 @@ export const gerflor_products: Product[] = [
   {
     id: 'creation-saga2-terra-35021566',
     name: '1566 CREATION LOOSELAY 1566 URBAN STREET TERRA',
-    slug: 'creation-saga2-terra-35021566',
-    sku: '1566',
+    slug: 'creation-saga2-terra-35021566', sku: '1566',
     categoryId: '6',  // LVT category
     brandId: '6',  // Gerflor brand
     shortDescription: 'Gerflor Creation Saga2 - CREATION LOOSELAY 1566 URBAN STREET TERRA',
     description: 'Gerflor Creation Saga2 - CREATION LOOSELAY 1566 URBAN STREET TERRA (Šifra: 1566)',
     images: [{
       id: 'creation-saga2-terra-35021566-img-1',
-      url: '/images/products/lvt/colors/creation-saga2/terra-35021566.jpg',
+      url: '/images/products/lvt/colors/creation-saga2/1566-creation-looselay-1566-urban-street-terra/pod/50071 - JPG 72 dpi-Creation Looselay 1566 Urban Street Terra 500x500 Sky View-pod.jpg?v=9',
       alt: 'CREATION LOOSELAY 1566 URBAN STREET TERRA',
       isPrimary: true,
       order: 1,
