@@ -16,7 +16,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-30-ballerina-41870347-img-1',
-      url: '/images/products/lvt/colors/creation-30/0347-ballerina/pod/49041 - 0347 Ballerina -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -43,7 +43,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - BACKYARD LIGHT BEIGE (Šifra: 1712)',
     images: [{
       id: 'creation-30-beige-41741712-img-1',
-      url: '/images/products/lvt/colors/creation-30/1712-backyard-light-beige/pod/62346 - JPG 72 dpi-Backyard-Light-Beige-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1712-backyard-light-beige/pod/1712-backyard-light-beige-pod.jpg?v=7',
       alt: 'BACKYARD LIGHT BEIGE',
       isPrimary: true,
       order: 1,
@@ -70,7 +70,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - CHARMING OAK BEIGE (Šifra: 1278)',
     images: [{
       id: 'creation-30-beige-41751278-img-1',
-      url: '/images/products/lvt/colors/creation-30/1278-charming-oak-beige/pod/62366 - JPG 72 dpi-RS74098_Charming oak beige - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1278-charming-oak-beige/pod/1278-charming-oak-beige-pod.jpg?v=7',
       alt: 'CHARMING OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -97,7 +97,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - LOUNGE OAK BEIGE (Šifra: 1272)',
     images: [{
       id: 'creation-30-beige-41761272-img-1',
-      url: '/images/products/lvt/colors/creation-30/1272-lounge-oak-beige/pod/62231 - JPG 72 dpi-Creation 1272 Lounge Oak Beige Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=7',
       alt: 'LOUNGE OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -124,7 +124,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - BOSTONIAN OAK BEIGE (Šifra: 0853)',
     images: [{
       id: 'creation-30-beige-41870853-img-1',
-      url: '/images/products/lvt/colors/creation-30/0853-bostonian-oak-beige/pod/44416 - 0853-bostonian-oak-beige-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/0853-bostonian-oak-beige/pod/0853-bostonian-oak-beige-pod.jpg?v=7',
       alt: 'BOSTONIAN OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -151,7 +151,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - AQUINOAH BLOND (Šifra: 1704)',
     images: [{
       id: 'creation-30-blond-41871704-img-1',
-      url: '/images/products/lvt/colors/creation-30/1704-aquinoah-blond/pod/62291 - JPG 72 dpi-Aquinoah-Blond-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1704-aquinoah-blond/pod/1704-aquinoah-blond-pod.jpg?v=7',
       alt: 'AQUINOAH BLOND',
       isPrimary: true,
       order: 1,
@@ -178,7 +178,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-30-board-41870455-img-1',
-      url: '/images/products/lvt/colors/creation-30/0455-long-board/pod/41511 - 0455-longboard-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/0455-long-board/pod/0455-long-board-pod.jpg?v=7',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -205,7 +205,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - CEDAR BROWN (Šifra: 0850)',
     images: [{
       id: 'creation-30-brown-41730850-img-1',
-      url: '/images/products/lvt/colors/creation-30/0850-cedar-brown/pod/41426 - 0850-cedar-brown-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/0850-cedar-brown/pod/0850-cedar-brown-pod.jpg?v=7',
       alt: 'CEDAR BROWN',
       isPrimary: true,
       order: 1,
@@ -232,7 +232,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - CEDAR DARK BROWN (Šifra: 1605)',
     images: [{
       id: 'creation-30-brown-41731605-img-1',
-      url: '/images/products/lvt/colors/creation-30/1605-cedar-dark-brown/pod/62261 - JPG 72 dpi-Creation 1605 Cedar Dark Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=7',
       alt: 'CEDAR DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -259,7 +259,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-30-brown-41871568-img-1',
-      url: '/images/products/lvt/colors/creation-30/1568-tamo-light-brown/pod/60816 - JPG 72 dpi-Creation 1568 Tamo Light Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=7',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -286,7 +286,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-30-brown-41871597-img-1',
-      url: '/images/products/lvt/colors/creation-30/1597-quartet-dark-brown/pod/60916 - JPG 72 dpi-Creation 1597 Quartet Dark Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=7',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -313,7 +313,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - AQUINOAH BROWN (Šifra: 1705)',
     images: [{
       id: 'creation-30-brown-41871705-img-1',
-      url: '/images/products/lvt/colors/creation-30/1705-aquinoah-brown/pod/62296 - JPG 72 dpi-Aquinoah-Brown-sky-view-ilustracija.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1705-aquinoah-brown/pod/1705-aquinoah-brown-pod.jpg?v=7',
       alt: 'AQUINOAH BROWN',
       isPrimary: true,
       order: 1,
@@ -340,7 +340,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - LOUNGE OAK CHESTNUT (Šifra: 1274)',
     images: [{
       id: 'creation-30-chestnut-41761274-img-1',
-      url: '/images/products/lvt/colors/creation-30/1274-lounge-oak-chestnut/pod/62241 - JPG 72 dpi-Creation 1274 Lounge Oak Chestnut Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=7',
       alt: 'LOUNGE OAK CHESTNUT',
       isPrimary: true,
       order: 1,
@@ -367,7 +367,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - BLOOM UNI CLEAR (Šifra: 1599)',
     images: [{
       id: 'creation-30-clear-41831599-img-1',
-      url: '/images/products/lvt/colors/creation-30/1599-bloom-uni-clear/pod/62181 - JPG 72 dpi-Creation 1599 Bloom Uni Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=7',
       alt: 'BLOOM UNI CLEAR',
       isPrimary: true,
       order: 1,
@@ -394,7 +394,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-30-clear-41831603-img-1',
-      url: '/images/products/lvt/colors/creation-30/1603-curton-stone-clear/pod/62211 - JPG 72 dpi-Creation 1603 Curton Stone Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=7',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -421,7 +421,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-30-clear-41871567-img-1',
-      url: '/images/products/lvt/colors/creation-30/1567-tamo-clear/pod/60796 - JPG 72 dpi-Creation 1567 Tamo Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=7',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -448,7 +448,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - BLOOM UNI CREAM (Šifra: 1600)',
     images: [{
       id: 'creation-30-cream-41831600-img-1',
-      url: '/images/products/lvt/colors/creation-30/1600-bloom-uni-cream/pod/62186 - JPG 72 dpi-Creation 1600 Bloom Uni Cream Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1600-bloom-uni-cream/pod/1600-bloom-uni-cream-pod.jpg?v=7',
       alt: 'BLOOM UNI CREAM',
       isPrimary: true,
       order: 1,
@@ -475,7 +475,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - TAMO CREAM (Šifra: 1598)',
     images: [{
       id: 'creation-30-cream-41871598-img-1',
-      url: '/images/products/lvt/colors/creation-30/1598-tamo-cream/pod/60806 - JPG 72 dpi-Creation 1598 Tamo Cream Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1598-tamo-cream/pod/1598-tamo-cream-pod.jpg?v=7',
       alt: 'TAMO CREAM',
       isPrimary: true,
       order: 1,
@@ -502,7 +502,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - BACKYARD DARK (Šifra: 1711)',
     images: [{
       id: 'creation-30-dark-41741711-img-1',
-      url: '/images/products/lvt/colors/creation-30/1711-backyard-dark/pod/62331 - JPG 72 dpi-Backyard-Dark-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1711-backyard-dark/pod/1711-backyard-dark-pod.jpg?v=7',
       alt: 'BACKYARD DARK',
       isPrimary: true,
       order: 1,
@@ -529,7 +529,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - BLOOM UNI DARK (Šifra: 1601)',
     images: [{
       id: 'creation-30-dark-41831601-img-1',
-      url: '/images/products/lvt/colors/creation-30/1601-bloom-uni-dark/pod/62196 - JPG 72 dpi-Creation 1601 Bloom Uni Dark Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=7',
       alt: 'BLOOM UNI DARK',
       isPrimary: true,
       order: 1,
@@ -556,7 +556,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - CEDAR GOLDEN (Šifra: 1606)',
     images: [{
       id: 'creation-30-golden-41731606-img-1',
-      url: '/images/products/lvt/colors/creation-30/1606-cedar-golden/pod/62271 - JPG 72 dpi-Creation 1606 Cedar Golden Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=7',
       alt: 'CEDAR GOLDEN',
       isPrimary: true,
       order: 1,
@@ -583,7 +583,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - LOUNGE OAK GOLDEN (Šifra: 1271)',
     images: [{
       id: 'creation-30-golden-41761271-img-1',
-      url: '/images/products/lvt/colors/creation-30/1271-lounge-oak-golden/pod/62246 - JPG 72 dpi-Creation 1271 Lounge Oak Golden Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=7',
       alt: 'LOUNGE OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -610,7 +610,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - SAVAGE OAK GREIGE (Šifra: 1708)',
     images: [{
       id: 'creation-30-greige-41871708-img-1',
-      url: '/images/products/lvt/colors/creation-30/1708-savage-oak-greige/pod/62311 - JPG_72_dpi-Savage-Oak-Greige_sky_view[1]-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1708-savage-oak-greige/pod/1708-savage-oak-greige-pod.jpg?v=7',
       alt: 'SAVAGE OAK GREIGE',
       isPrimary: true,
       order: 1,
@@ -637,7 +637,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - CHARMING OAK GREY (Šifra: 1279)',
     images: [{
       id: 'creation-30-grey-41751279-img-1',
-      url: '/images/products/lvt/colors/creation-30/1279-charming-oak-grey/pod/62376 - JPG 72 dpi-RS75070_Charming oak grey - VDC (1)-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1279-charming-oak-grey/pod/1279-charming-oak-grey-pod.jpg?v=7',
       alt: 'CHARMING OAK GREY',
       isPrimary: true,
       order: 1,
@@ -664,7 +664,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - BOSTONIAN OAK HONEY (Šifra: 0851)',
     images: [{
       id: 'creation-30-honey-41870851-img-1',
-      url: '/images/products/lvt/colors/creation-30/0851-bostonian-oak-honey/pod/44406 - 0851-bostonian-oak-honey-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/0851-bostonian-oak-honey/pod/0851-bostonian-oak-honey-pod.jpg?v=7',
       alt: 'BOSTONIAN OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -691,7 +691,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - QUARTET HONEY (Šifra: 0870)',
     images: [{
       id: 'creation-30-honey-41870870-img-1',
-      url: '/images/products/lvt/colors/creation-30/0870-quartet-honey/pod/49046 - 0870 - Quartet Honey -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/0870-quartet-honey/pod/0870-quartet-honey-pod.jpg?v=7',
       alt: 'QUARTET HONEY',
       isPrimary: true,
       order: 1,
@@ -718,7 +718,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - AQUINOHA HONEY (Šifra: 1706)',
     images: [{
       id: 'creation-30-honey-41871706-img-1',
-      url: '/images/products/lvt/colors/creation-30/1706-aquinoha-honey/pod/62301 - JPG 72 dpi-Aquinoah-Honey-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1706-aquinoha-honey/pod/1706-aquinoha-honey-pod.jpg?v=7',
       alt: 'AQUINOHA HONEY',
       isPrimary: true,
       order: 1,
@@ -745,7 +745,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - SAVAGE OAK HONEY (Šifra: 1709)',
     images: [{
       id: 'creation-30-honey-41871709-img-1',
-      url: '/images/products/lvt/colors/creation-30/1709-savage-oak-honey/pod/62321 - JPG 72 dpi-Savage-Oak-Honey-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1709-savage-oak-honey/pod/1709-savage-oak-honey-pod.jpg?v=7',
       alt: 'SAVAGE OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -772,7 +772,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - WHITE LIME (Šifra: 0584)',
     images: [{
       id: 'creation-30-lime-41870584-img-1',
-      url: '/images/products/lvt/colors/creation-30/0584-white-lime/pod/44516 - 0584-white-lime-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/0584-white-lime/pod/0584-white-lime-pod.jpg?v=7',
       alt: 'WHITE LIME',
       isPrimary: true,
       order: 1,
@@ -799,7 +799,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - CEDAR NATURAL (Šifra: 1607)',
     images: [{
       id: 'creation-30-natural-41731607-img-1',
-      url: '/images/products/lvt/colors/creation-30/1607-cedar-natural/pod/62276 - JPG 72 dpi-Creation 1607 Cedar Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=7',
       alt: 'CEDAR NATURAL',
       isPrimary: true,
       order: 1,
@@ -826,7 +826,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - LOUNGE OAK NATURAL (Šifra: 1273)',
     images: [{
       id: 'creation-30-natural-41761273-img-1',
-      url: '/images/products/lvt/colors/creation-30/1273-lounge-oak-natural/pod/62251 - JPG 72 dpi-Creation 1273 Lounge Oak Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=7',
       alt: 'LOUNGE OAK NATURAL',
       isPrimary: true,
       order: 1,
@@ -853,7 +853,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-30-natural-41870545-img-1',
-      url: '/images/products/lvt/colors/creation-30/0545-quartet-natural/pod/62286 - JPG 72 dpi-Quartet natural - VDC - 184x1219 - A4 - CMJN-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=7',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -880,7 +880,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-30-natural-41871561-img-1',
-      url: '/images/products/lvt/colors/creation-30/1561-tamo-natural/pod/60926 - JPG 72 dpi-Creation 1561 Tamo Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=7',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -907,7 +907,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - AQUINOAH NATURE LUNA COBALT (Šifra: 1707)',
     images: [{
       id: 'creation-30-nature-41871707-img-1',
-      url: '/images/products/lvt/colors/creation-30/1707-aquinoah-nature-luna-cobalt/pod/62306 - JPG 72 dpi-Aquinoah-Nature-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1707-aquinoah-nature-luna-cobalt/pod/1707-aquinoah-nature-luna-cobalt-pod.jpg?v=7',
       alt: 'AQUINOAH NATURE LUNA COBALT',
       isPrimary: true,
       order: 1,
@@ -934,7 +934,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - HONEY OAK (Šifra: 0441)',
     images: [{
       id: 'creation-30-oak-41870441-img-1',
-      url: '/images/products/lvt/colors/creation-30/0441-honey-oak/pod/44456 - 0441-honey-oak-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=7',
       alt: 'HONEY OAK',
       isPrimary: true,
       order: 1,
@@ -961,7 +961,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - BLOOM UNI PEARL (Šifra: 1602)',
     images: [{
       id: 'creation-30-pearl-41831602-img-1',
-      url: '/images/products/lvt/colors/creation-30/1602-bloom-uni-pearl/pod/62206 - JPG 72 dpi-SV_Bloom Uni Pearl_Creation Core Collection-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=7',
       alt: 'BLOOM UNI PEARL',
       isPrimary: true,
       order: 1,
@@ -988,7 +988,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-30-quartet-41870503-img-1',
-      url: '/images/products/lvt/colors/creation-30/0503-quartet/pod/44491 - 0503-quartet-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/0503-quartet/pod/0503-quartet-pod.jpg?v=7',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -1015,7 +1015,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-30-ranch-41870456-img-1',
-      url: '/images/products/lvt/colors/creation-30/0456-ranch/pod/49051 - 0456 Ranch-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/0456-ranch/pod/0456-ranch-pod.jpg?v=7',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -1042,7 +1042,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - CHARMING OAK SMOKED (Šifra: 1714)',
     images: [{
       id: 'creation-30-smoked-41751714-img-1',
-      url: '/images/products/lvt/colors/creation-30/1714-charming-oak-smoked/pod/62381 - JPG 72 dpi-Charming oak smoke - C30_C55 VDC 1-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1714-charming-oak-smoked/pod/1714-charming-oak-smoked-pod.jpg?v=7',
       alt: 'CHARMING OAK SMOKED',
       isPrimary: true,
       order: 1,
@@ -1069,7 +1069,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - SAVAGE OAK SMOKED (Šifra: 1710)',
     images: [{
       id: 'creation-30-smoked-41871710-img-1',
-      url: '/images/products/lvt/colors/creation-30/1710-savage-oak-smoked/pod/62326 - JPG 72 dpi-Savage-Oak-Smoke-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1710-savage-oak-smoked/pod/1710-savage-oak-smoked-pod.jpg?v=7',
       alt: 'SAVAGE OAK SMOKED',
       isPrimary: true,
       order: 1,
@@ -1096,7 +1096,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - BACKYARD TAUPE (Šifra: 1713)',
     images: [{
       id: 'creation-30-taupe-41741713-img-1',
-      url: '/images/products/lvt/colors/creation-30/1713-backyard-taupe/pod/62356 - JPG 72 dpi-Backyard-Taupe-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1713-backyard-taupe/pod/1713-backyard-taupe-pod.jpg?v=7',
       alt: 'BACKYARD TAUPE',
       isPrimary: true,
       order: 1,
@@ -1123,7 +1123,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-30-taupe-41831604-img-1',
-      url: '/images/products/lvt/colors/creation-30/1604-curton-stone-taupe/pod/62221 - JPG 72 dpi-Creation 1604 Curton Stone Taupe Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=7',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -1150,7 +1150,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 30 - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-30-twist-41870504-img-1',
-      url: '/images/products/lvt/colors/creation-30/0504-twist/pod/45901 - 0504-twist-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-30/0504-twist/pod/0504-twist-pod.jpg?v=7',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -1177,7 +1177,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-40-ballerina-41840347-img-1',
-      url: '/images/products/lvt/colors/creation-40/0347-ballerina/pod/49041 - 0347 Ballerina -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -1204,7 +1204,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - BOSTONIAN OAK BEIGE (Šifra: 0853)',
     images: [{
       id: 'creation-40-beige-41840853-img-1',
-      url: '/images/products/lvt/colors/creation-40/0853-bostonian-oak-beige/pod/44416 - 0853-bostonian-oak-beige-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0853-bostonian-oak-beige/pod/0853-bostonian-oak-beige-pod.jpg?v=7',
       alt: 'BOSTONIAN OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -1231,7 +1231,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - LOUNGE OAK BEIGE (Šifra: 1272)',
     images: [{
       id: 'creation-40-beige-41891272-img-1',
-      url: '/images/products/lvt/colors/creation-40/1272-lounge-oak-beige/pod/60746 - JPG 72 dpi-Creation 1272 Lounge Oak Beige Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=7',
       alt: 'LOUNGE OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -1258,7 +1258,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-40-board-41840455-img-1',
-      url: '/images/products/lvt/colors/creation-40/0455-long-board/pod/41516 - 0455-long-board-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0455-long-board/pod/0455-long-board-pod.jpg?v=7',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -1285,7 +1285,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-40-brown-41841568-img-1',
-      url: '/images/products/lvt/colors/creation-40/1568-tamo-light-brown/pod/60816 - JPG 72 dpi-Creation 1568 Tamo Light Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=7',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -1312,7 +1312,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-40-brown-41841597-img-1',
-      url: '/images/products/lvt/colors/creation-40/1597-quartet-dark-brown/pod/60916 - JPG 72 dpi-Creation 1597 Quartet Dark Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=7',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -1339,7 +1339,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - CEDAR BROWN (Šifra: 0850)',
     images: [{
       id: 'creation-40-brown-41900850-img-1',
-      url: '/images/products/lvt/colors/creation-40/0850-cedar-brown/pod/41426 - 0850-cedar-brown-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0850-cedar-brown/pod/0850-cedar-brown-pod.jpg?v=7',
       alt: 'CEDAR BROWN',
       isPrimary: true,
       order: 1,
@@ -1366,7 +1366,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - CEDAR DARK BROWN (Šifra: 1605)',
     images: [{
       id: 'creation-40-brown-41901605-img-1',
-      url: '/images/products/lvt/colors/creation-40/1605-cedar-dark-brown/pod/60851 - JPG 72 dpi-Creation 1605 Cedar Dark Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=7',
       alt: 'CEDAR DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -1393,7 +1393,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - LOUNGE OAK CHESTNUT (Šifra: 1274)',
     images: [{
       id: 'creation-40-chestnut-41891274-img-1',
-      url: '/images/products/lvt/colors/creation-40/1274-lounge-oak-chestnut/pod/60756 - JPG 72 dpi-Creation 1274 Lounge Oak Chestnut Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=7',
       alt: 'LOUNGE OAK CHESTNUT',
       isPrimary: true,
       order: 1,
@@ -1420,7 +1420,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-40-clear-41841567-img-1',
-      url: '/images/products/lvt/colors/creation-40/1567-tamo-clear/pod/60796 - JPG 72 dpi-Creation 1567 Tamo Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=7',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -1447,7 +1447,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - BLOOM UNI CLEAR (Šifra: 1599)',
     images: [{
       id: 'creation-40-clear-41881599-img-1',
-      url: '/images/products/lvt/colors/creation-40/1599-bloom-uni-clear/pod/60871 - JPG 72 dpi-Creation 1599 Bloom Uni Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=7',
       alt: 'BLOOM UNI CLEAR',
       isPrimary: true,
       order: 1,
@@ -1474,7 +1474,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-40-clear-41881603-img-1',
-      url: '/images/products/lvt/colors/creation-40/1603-curton-stone-clear/pod/60896 - JPG 72 dpi-Creation 1603 Curton Stone Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=7',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -1501,7 +1501,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - TAMO CREAM (Šifra: 1598)',
     images: [{
       id: 'creation-40-cream-41841598-img-1',
-      url: '/images/products/lvt/colors/creation-40/1598-tamo-cream/pod/60806 - JPG 72 dpi-Creation 1598 Tamo Cream Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1598-tamo-cream/pod/1598-tamo-cream-pod.jpg?v=7',
       alt: 'TAMO CREAM',
       isPrimary: true,
       order: 1,
@@ -1528,7 +1528,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - BLOOM UNI CREAM (Šifra: 1600)',
     images: [{
       id: 'creation-40-cream-41881600-img-1',
-      url: '/images/products/lvt/colors/creation-40/1600-bloom-uni-cream/pod/60936 - JPG 72 dpi-Creation 1600 Bloom Uni Cream Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1600-bloom-uni-cream/pod/1600-bloom-uni-cream-pod.jpg?v=7',
       alt: 'BLOOM UNI CREAM',
       isPrimary: true,
       order: 1,
@@ -1555,7 +1555,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - BLOOM UNI DARK (Šifra: 1601)',
     images: [{
       id: 'creation-40-dark-41881601-img-1',
-      url: '/images/products/lvt/colors/creation-40/1601-bloom-uni-dark/pod/60886 - JPG 72 dpi-Creation 1601 Bloom Uni Dark Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=7',
       alt: 'BLOOM UNI DARK',
       isPrimary: true,
       order: 1,
@@ -1582,7 +1582,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - LOUNGE OAK GOLDEN (Šifra: 1271)',
     images: [{
       id: 'creation-40-golden-41891271-img-1',
-      url: '/images/products/lvt/colors/creation-40/1271-lounge-oak-golden/pod/60766 - JPG 72 dpi-Creation 1271 Lounge Oak Golden Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=7',
       alt: 'LOUNGE OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -1609,7 +1609,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - CEDAR GOLDEN (Šifra: 1606)',
     images: [{
       id: 'creation-40-golden-41901606-img-1',
-      url: '/images/products/lvt/colors/creation-40/1606-cedar-golden/pod/60861 - JPG 72 dpi-Creation 1606 Cedar Golden Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=7',
       alt: 'CEDAR GOLDEN',
       isPrimary: true,
       order: 1,
@@ -1636,7 +1636,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - BOSTONIAN OAK HONEY (Šifra: 0851)',
     images: [{
       id: 'creation-40-honey-41840851-img-1',
-      url: '/images/products/lvt/colors/creation-40/0851-bostonian-oak-honey/pod/44406 - 0851-bostonian-oak-honey-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0851-bostonian-oak-honey/pod/0851-bostonian-oak-honey-pod.jpg?v=7',
       alt: 'BOSTONIAN OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -1663,7 +1663,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - QUARTET HONEY (Šifra: 0870)',
     images: [{
       id: 'creation-40-honey-41840870-img-1',
-      url: '/images/products/lvt/colors/creation-40/0870-quartet-honey/pod/49046 - 0870 - Quartet Honey -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0870-quartet-honey/pod/0870-quartet-honey-pod.jpg?v=7',
       alt: 'QUARTET HONEY',
       isPrimary: true,
       order: 1,
@@ -1690,7 +1690,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - WHITE LIME (Šifra: 0584)',
     images: [{
       id: 'creation-40-lime-41840584-img-1',
-      url: '/images/products/lvt/colors/creation-40/0584-white-lime/pod/44516 - 0584-white-lime-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0584-white-lime/pod/0584-white-lime-pod.jpg?v=7',
       alt: 'WHITE LIME',
       isPrimary: true,
       order: 1,
@@ -1717,7 +1717,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-40-natural-41840545-img-1',
-      url: '/images/products/lvt/colors/creation-40/0545-quartet-natural/pod/60786 - JPG 72 dpi-Quartet natural - VDC - 184x1219 - A4 - CMJN-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=7',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -1744,7 +1744,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-40-natural-41841561-img-1',
-      url: '/images/products/lvt/colors/creation-40/1561-tamo-natural/pod/60926 - JPG 72 dpi-Creation 1561 Tamo Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=7',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -1771,7 +1771,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - LOUNGE OAK NATURAL (Šifra: 1273)',
     images: [{
       id: 'creation-40-natural-41891273-img-1',
-      url: '/images/products/lvt/colors/creation-40/1273-lounge-oak-natural/pod/60776 - JPG 72 dpi-Creation 1273 Lounge Oak Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=7',
       alt: 'LOUNGE OAK NATURAL',
       isPrimary: true,
       order: 1,
@@ -1798,7 +1798,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - CEDAR NATURAL (Šifra: 1607)',
     images: [{
       id: 'creation-40-natural-41901607-img-1',
-      url: '/images/products/lvt/colors/creation-40/1607-cedar-natural/pod/60841 - JPG 72 dpi-Creation 1607 Cedar Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=7',
       alt: 'CEDAR NATURAL',
       isPrimary: true,
       order: 1,
@@ -1825,7 +1825,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - HONEY OAK (Šifra: 0441)',
     images: [{
       id: 'creation-40-oak-41840441-img-1',
-      url: '/images/products/lvt/colors/creation-40/0441-honey-oak/pod/44456 - 0441-honey-oak-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=7',
       alt: 'HONEY OAK',
       isPrimary: true,
       order: 1,
@@ -1852,7 +1852,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - BLOOM UNI PEARL (Šifra: 1602)',
     images: [{
       id: 'creation-40-pearl-41881602-img-1',
-      url: '/images/products/lvt/colors/creation-40/1602-bloom-uni-pearl/pod/60946 - JPG 72 dpi-SV_Bloom Uni Pearl_Creation Core Collection-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=7',
       alt: 'BLOOM UNI PEARL',
       isPrimary: true,
       order: 1,
@@ -1879,7 +1879,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-40-quartet-41840503-img-1',
-      url: '/images/products/lvt/colors/creation-40/0503-quartet/pod/44491 - 0503-quartet-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0503-quartet/pod/0503-quartet-pod.jpg?v=7',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -1906,7 +1906,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-40-ranch-41840456-img-1',
-      url: '/images/products/lvt/colors/creation-40/0456-ranch/pod/49051 - 0456 Ranch-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0456-ranch/pod/0456-ranch-pod.jpg?v=7',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -1933,7 +1933,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-40-taupe-41881604-img-1',
-      url: '/images/products/lvt/colors/creation-40/1604-curton-stone-taupe/pod/60906 - JPG 72 dpi-Creation 1604 Curton Stone Taupe Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=7',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -1960,7 +1960,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-40-twist-41840504-img-1',
-      url: '/images/products/lvt/colors/creation-40/0504-twist/pod/45901 - 0504-twist-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0504-twist/pod/0504-twist-pod.jpg?v=7',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -1987,7 +1987,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic - LOUNGE OAK BEIGE (Šifra: 1272)',
     images: [{
       id: 'creation-40-clic-beige-61391272-img-1',
-      url: '/images/products/lvt/colors/creation-40/1272-lounge-oak-beige/pod/60746 - JPG 72 dpi-Creation 1272 Lounge Oak Beige Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=7',
       alt: 'LOUNGE OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -2014,7 +2014,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-40-clic-brown-60601597-img-1',
-      url: '/images/products/lvt/colors/creation-40/1597-quartet-dark-brown/pod/60916 - JPG 72 dpi-Creation 1597 Quartet Dark Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=7',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -2041,7 +2041,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic - CEDAR DARK BROWN (Šifra: 1605)',
     images: [{
       id: 'creation-40-clic-brown-60621605-img-1',
-      url: '/images/products/lvt/colors/creation-40/1605-cedar-dark-brown/pod/60851 - JPG 72 dpi-Creation 1605 Cedar Dark Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=7',
       alt: 'CEDAR DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -2122,7 +2122,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic - LOUNGE OAK CHESTNUT (Šifra: 1274)',
     images: [{
       id: 'creation-40-clic-chestnut-61391274-img-1',
-      url: '/images/products/lvt/colors/creation-40/1274-lounge-oak-chestnut/pod/60756 - JPG 72 dpi-Creation 1274 Lounge Oak Chestnut Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=7',
       alt: 'LOUNGE OAK CHESTNUT',
       isPrimary: true,
       order: 1,
@@ -2149,7 +2149,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-40-clic-clear-60611603-img-1',
-      url: '/images/products/lvt/colors/creation-40/1603-curton-stone-clear/pod/60896 - JPG 72 dpi-Creation 1603 Curton Stone Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=7',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -2284,7 +2284,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic - CEDAR GOLDEN (Šifra: 1606)',
     images: [{
       id: 'creation-40-clic-golden-60621606-img-1',
-      url: '/images/products/lvt/colors/creation-40/1606-cedar-golden/pod/60861 - JPG 72 dpi-Creation 1606 Cedar Golden Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=7',
       alt: 'CEDAR GOLDEN',
       isPrimary: true,
       order: 1,
@@ -2311,7 +2311,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic - LOUNGE OAK GOLDEN (Šifra: 1271)',
     images: [{
       id: 'creation-40-clic-golden-61391271-img-1',
-      url: '/images/products/lvt/colors/creation-40/1271-lounge-oak-golden/pod/60766 - JPG 72 dpi-Creation 1271 Lounge Oak Golden Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=7',
       alt: 'LOUNGE OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -2392,7 +2392,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-40-clic-natural-60600545-img-1',
-      url: '/images/products/lvt/colors/creation-40/0545-quartet-natural/pod/60786 - JPG 72 dpi-Quartet natural - VDC - 184x1219 - A4 - CMJN-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=7',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -2419,7 +2419,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic - LOUNGE OAK NATURAL (Šifra: 1273)',
     images: [{
       id: 'creation-40-clic-natural-61391273-img-1',
-      url: '/images/products/lvt/colors/creation-40/1273-lounge-oak-natural/pod/60776 - JPG 72 dpi-Creation 1273 Lounge Oak Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=7',
       alt: 'LOUNGE OAK NATURAL',
       isPrimary: true,
       order: 1,
@@ -2473,7 +2473,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-40-clic-taupe-60611604-img-1',
-      url: '/images/products/lvt/colors/creation-40/1604-curton-stone-taupe/pod/60906 - JPG 72 dpi-Creation 1604 Curton Stone Taupe Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=7',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -2527,7 +2527,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-40-clic-acoustic-ballerina-61300347-img-1',
-      url: '/images/products/lvt/colors/creation-40/0347-ballerina/pod/49041 - 0347 Ballerina -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -2554,7 +2554,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - BOSTONIAN OAK BEIGE (Šifra: 0853)',
     images: [{
       id: 'creation-40-clic-acoustic-beige-61300853-img-1',
-      url: '/images/products/lvt/colors/creation-40/0853-bostonian-oak-beige/pod/44416 - 0853-bostonian-oak-beige-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0853-bostonian-oak-beige/pod/0853-bostonian-oak-beige-pod.jpg?v=7',
       alt: 'BOSTONIAN OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -2608,7 +2608,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - LOUNGE OAK BEIGE (Šifra: 1272)',
     images: [{
       id: 'creation-40-clic-acoustic-beige-61351272-img-1',
-      url: '/images/products/lvt/colors/creation-40/1272-lounge-oak-beige/pod/60746 - JPG 72 dpi-Creation 1272 Lounge Oak Beige Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=7',
       alt: 'LOUNGE OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -2662,7 +2662,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-40-clic-acoustic-board-61300455-img-1',
-      url: '/images/products/lvt/colors/creation-40/0455-long-board/pod/41516 - 0455-long-board-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0455-long-board/pod/0455-long-board-pod.jpg?v=7',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -2689,7 +2689,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-40-clic-acoustic-brown-61301568-img-1',
-      url: '/images/products/lvt/colors/creation-40/1568-tamo-light-brown/pod/60816 - JPG 72 dpi-Creation 1568 Tamo Light Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=7',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -2716,7 +2716,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-40-clic-acoustic-brown-61301597-img-1',
-      url: '/images/products/lvt/colors/creation-40/1597-quartet-dark-brown/pod/60916 - JPG 72 dpi-Creation 1597 Quartet Dark Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=7',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -2770,7 +2770,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - CEDAR BROWN (Šifra: 0850)',
     images: [{
       id: 'creation-40-clic-acoustic-brown-61310850-img-1',
-      url: '/images/products/lvt/colors/creation-40/0850-cedar-brown/pod/41426 - 0850-cedar-brown-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0850-cedar-brown/pod/0850-cedar-brown-pod.jpg?v=7',
       alt: 'CEDAR BROWN',
       isPrimary: true,
       order: 1,
@@ -2797,7 +2797,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - CEDAR DARK BROWN (Šifra: 1605)',
     images: [{
       id: 'creation-40-clic-acoustic-brown-61311605-img-1',
-      url: '/images/products/lvt/colors/creation-40/1605-cedar-dark-brown/pod/60851 - JPG 72 dpi-Creation 1605 Cedar Dark Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=7',
       alt: 'CEDAR DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -2824,7 +2824,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - LOUNGE OAK CHESTNUT (Šifra: 1274)',
     images: [{
       id: 'creation-40-clic-acoustic-chestnut-61351274-img-1',
-      url: '/images/products/lvt/colors/creation-40/1274-lounge-oak-chestnut/pod/60756 - JPG 72 dpi-Creation 1274 Lounge Oak Chestnut Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=7',
       alt: 'LOUNGE OAK CHESTNUT',
       isPrimary: true,
       order: 1,
@@ -2851,7 +2851,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-40-clic-acoustic-clear-61301567-img-1',
-      url: '/images/products/lvt/colors/creation-40/1567-tamo-clear/pod/60796 - JPG 72 dpi-Creation 1567 Tamo Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=7',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -2878,7 +2878,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - BLOOM UNI CLEAR (Šifra: 1599)',
     images: [{
       id: 'creation-40-clic-acoustic-clear-61321599-img-1',
-      url: '/images/products/lvt/colors/creation-40/1599-bloom-uni-clear/pod/60871 - JPG 72 dpi-Creation 1599 Bloom Uni Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=7',
       alt: 'BLOOM UNI CLEAR',
       isPrimary: true,
       order: 1,
@@ -2905,7 +2905,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-40-clic-acoustic-clear-61321603-img-1',
-      url: '/images/products/lvt/colors/creation-40/1603-curton-stone-clear/pod/60896 - JPG 72 dpi-Creation 1603 Curton Stone Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=7',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -2932,7 +2932,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - TAMO CREAM (Šifra: 1598)',
     images: [{
       id: 'creation-40-clic-acoustic-cream-61301598-img-1',
-      url: '/images/products/lvt/colors/creation-40/1598-tamo-cream/pod/60806 - JPG 72 dpi-Creation 1598 Tamo Cream Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1598-tamo-cream/pod/1598-tamo-cream-pod.jpg?v=7',
       alt: 'TAMO CREAM',
       isPrimary: true,
       order: 1,
@@ -2959,7 +2959,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - BLOOM UNI CREAM (Šifra: 1600)',
     images: [{
       id: 'creation-40-clic-acoustic-cream-61321600-img-1',
-      url: '/images/products/lvt/colors/creation-40/1600-bloom-uni-cream/pod/60936 - JPG 72 dpi-Creation 1600 Bloom Uni Cream Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1600-bloom-uni-cream/pod/1600-bloom-uni-cream-pod.jpg?v=7',
       alt: 'BLOOM UNI CREAM',
       isPrimary: true,
       order: 1,
@@ -2986,7 +2986,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - BLOOM UNI DARK (Šifra: 1601)',
     images: [{
       id: 'creation-40-clic-acoustic-dark-61321601-img-1',
-      url: '/images/products/lvt/colors/creation-40/1601-bloom-uni-dark/pod/60886 - JPG 72 dpi-Creation 1601 Bloom Uni Dark Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=7',
       alt: 'BLOOM UNI DARK',
       isPrimary: true,
       order: 1,
@@ -3040,7 +3040,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - CEDAR GOLDEN (Šifra: 1606)',
     images: [{
       id: 'creation-40-clic-acoustic-golden-61311606-img-1',
-      url: '/images/products/lvt/colors/creation-40/1606-cedar-golden/pod/60861 - JPG 72 dpi-Creation 1606 Cedar Golden Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=7',
       alt: 'CEDAR GOLDEN',
       isPrimary: true,
       order: 1,
@@ -3067,7 +3067,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - LOUNGE OAK GOLDEN (Šifra: 1271)',
     images: [{
       id: 'creation-40-clic-acoustic-golden-61351271-img-1',
-      url: '/images/products/lvt/colors/creation-40/1271-lounge-oak-golden/pod/60766 - JPG 72 dpi-Creation 1271 Lounge Oak Golden Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=7',
       alt: 'LOUNGE OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -3121,7 +3121,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - BOSTONIAN OAK HONEY (Šifra: 0851)',
     images: [{
       id: 'creation-40-clic-acoustic-honey-61300851-img-1',
-      url: '/images/products/lvt/colors/creation-40/0851-bostonian-oak-honey/pod/44406 - 0851-bostonian-oak-honey-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0851-bostonian-oak-honey/pod/0851-bostonian-oak-honey-pod.jpg?v=7',
       alt: 'BOSTONIAN OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -3148,7 +3148,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - QUARTET HONEY (Šifra: 0870)',
     images: [{
       id: 'creation-40-clic-acoustic-honey-61300870-img-1',
-      url: '/images/products/lvt/colors/creation-40/0870-quartet-honey/pod/49046 - 0870 - Quartet Honey -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0870-quartet-honey/pod/0870-quartet-honey-pod.jpg?v=7',
       alt: 'QUARTET HONEY',
       isPrimary: true,
       order: 1,
@@ -3229,7 +3229,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - WHITE LIME (Šifra: 0584)',
     images: [{
       id: 'creation-40-clic-acoustic-lime-61300584-img-1',
-      url: '/images/products/lvt/colors/creation-40/0584-white-lime/pod/44516 - 0584-white-lime-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0584-white-lime/pod/0584-white-lime-pod.jpg?v=7',
       alt: 'WHITE LIME',
       isPrimary: true,
       order: 1,
@@ -3256,7 +3256,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-40-clic-acoustic-natural-61300545-img-1',
-      url: '/images/products/lvt/colors/creation-40/0545-quartet-natural/pod/60786 - JPG 72 dpi-Quartet natural - VDC - 184x1219 - A4 - CMJN-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=7',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -3283,7 +3283,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-40-clic-acoustic-natural-61301561-img-1',
-      url: '/images/products/lvt/colors/creation-40/1561-tamo-natural/pod/60926 - JPG 72 dpi-Creation 1561 Tamo Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=7',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -3310,7 +3310,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - CEDAR NATURAL (Šifra: 1607)',
     images: [{
       id: 'creation-40-clic-acoustic-natural-61311607-img-1',
-      url: '/images/products/lvt/colors/creation-40/1607-cedar-natural/pod/60841 - JPG 72 dpi-Creation 1607 Cedar Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=7',
       alt: 'CEDAR NATURAL',
       isPrimary: true,
       order: 1,
@@ -3337,7 +3337,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - LOUNGE OAK NATURAL (Šifra: 1273)',
     images: [{
       id: 'creation-40-clic-acoustic-natural-61351273-img-1',
-      url: '/images/products/lvt/colors/creation-40/1273-lounge-oak-natural/pod/60776 - JPG 72 dpi-Creation 1273 Lounge Oak Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=7',
       alt: 'LOUNGE OAK NATURAL',
       isPrimary: true,
       order: 1,
@@ -3391,7 +3391,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - HONEY OAK (Šifra: 0441)',
     images: [{
       id: 'creation-40-clic-acoustic-oak-61300441-img-1',
-      url: '/images/products/lvt/colors/creation-40/0441-honey-oak/pod/44456 - 0441-honey-oak-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=7',
       alt: 'HONEY OAK',
       isPrimary: true,
       order: 1,
@@ -3418,7 +3418,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - BLOOM UNI PEARL (Šifra: 1602)',
     images: [{
       id: 'creation-40-clic-acoustic-pearl-61321602-img-1',
-      url: '/images/products/lvt/colors/creation-40/1602-bloom-uni-pearl/pod/60946 - JPG 72 dpi-SV_Bloom Uni Pearl_Creation Core Collection-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=7',
       alt: 'BLOOM UNI PEARL',
       isPrimary: true,
       order: 1,
@@ -3445,7 +3445,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-40-clic-acoustic-quartet-61300503-img-1',
-      url: '/images/products/lvt/colors/creation-40/0503-quartet/pod/44491 - 0503-quartet-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0503-quartet/pod/0503-quartet-pod.jpg?v=7',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -3472,7 +3472,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-40-clic-acoustic-ranch-61300456-img-1',
-      url: '/images/products/lvt/colors/creation-40/0456-ranch/pod/49051 - 0456 Ranch-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0456-ranch/pod/0456-ranch-pod.jpg?v=7',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -3499,7 +3499,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-40-clic-acoustic-taupe-61321604-img-1',
-      url: '/images/products/lvt/colors/creation-40/1604-curton-stone-taupe/pod/60906 - JPG 72 dpi-Creation 1604 Curton Stone Taupe Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=7',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -3553,7 +3553,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 40 Clic Acoustic - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-40-clic-acoustic-twist-61300504-img-1',
-      url: '/images/products/lvt/colors/creation-40/0504-twist/pod/45901 - 0504-twist-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-40/0504-twist/pod/0504-twist-pod.jpg?v=7',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -4174,7 +4174,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - URBAN STREET AMBER CONFETTI AMBER2 (Šifra: 1726)',
     images: [{
       id: 'creation-55-amber-41931726-img-1',
-      url: '/images/products/lvt/colors/creation-55/1726-urban-street-amber-confetti-amber2/pod/61696 - JPG 72 dpi-Urban street amber - 610x610 - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1726-urban-street-amber-confetti-amber2/pod/1726-urban-street-amber-confetti-amber2-pod.jpg?v=7',
       alt: 'URBAN STREET AMBER CONFETTI AMBER2',
       isPrimary: true,
       order: 1,
@@ -4201,7 +4201,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - LIVING ROOM CONFETTI AMBER (Šifra: 1744)',
     images: [{
       id: 'creation-55-amber-41931744-img-1',
-      url: '/images/products/lvt/colors/creation-55/1744-living-room-confetti-amber/pod/61676 - JPG 72 dpi-Confetti amber - 389x729 - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1744-living-room-confetti-amber/pod/1744-living-room-confetti-amber-pod.jpg?v=7',
       alt: 'LIVING ROOM CONFETTI AMBER',
       isPrimary: true,
       order: 1,
@@ -4228,7 +4228,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - LUNA AMBER (Šifra: 1747)',
     images: [{
       id: 'creation-55-amber-41931747-img-1',
-      url: '/images/products/lvt/colors/creation-55/1747-luna-amber/pod/61986 - JPG 72 dpi-Luna amber - 610x610 - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1747-luna-amber/pod/1747-luna-amber-pod.jpg?v=7',
       alt: 'LUNA AMBER',
       isPrimary: true,
       order: 1,
@@ -4255,7 +4255,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-55-ballerina-41820347-img-1',
-      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/49041 - 0347 Ballerina -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -4282,7 +4282,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-55-ballerina-41970347-img-1',
-      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/49041 - 0347 Ballerina -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -4309,7 +4309,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - BOSTONIAN OAK BEIGE (Šifra: 0853)',
     images: [{
       id: 'creation-55-beige-41820853-img-1',
-      url: '/images/products/lvt/colors/creation-55/0853-bostonian-oak-beige/pod/44416 - 0853-bostonian-oak-beige-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0853-bostonian-oak-beige/pod/0853-bostonian-oak-beige-pod.jpg?v=7',
       alt: 'BOSTONIAN OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -4336,7 +4336,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - BACKYARD LIGHT BEIGE (Šifra: 1712)',
     images: [{
       id: 'creation-55-beige-41931712-img-1',
-      url: '/images/products/lvt/colors/creation-55/1712-backyard-light-beige/pod/61656 - JPG 72 dpi-Backyard-Light-Beige-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1712-backyard-light-beige/pod/1712-backyard-light-beige-pod.jpg?v=7',
       alt: 'BACKYARD LIGHT BEIGE',
       isPrimary: true,
       order: 1,
@@ -4363,7 +4363,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - LUNA BEIGE (Šifra: 1748)',
     images: [{
       id: 'creation-55-beige-41931748-img-1',
-      url: '/images/products/lvt/colors/creation-55/1748-luna-beige/pod/61996 - JPG 72 dpi-Luna beige - 610x610 - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1748-luna-beige/pod/1748-luna-beige-pod.jpg?v=7',
       alt: 'LUNA BEIGE',
       isPrimary: true,
       order: 1,
@@ -4390,7 +4390,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - AQUINOAH BLOND (Šifra: 1704)',
     images: [{
       id: 'creation-55-blond-41821704-img-1',
-      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/61761 - Aquinoah blond _HB _VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/1704-aquinoah-blond-pod.jpg?v=7',
       alt: 'AQUINOAH BLOND',
       isPrimary: true,
       order: 1,
@@ -4417,7 +4417,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - VERSAILLES BLOND (Šifra: 1751)',
     images: [{
       id: 'creation-55-blond-41931751-img-1',
-      url: '/images/products/lvt/colors/creation-55/1751-versailles-blond/pod/61731 - Versailles Blond - 610x610-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1751-versailles-blond/pod/1751-versailles-blond-pod.jpg?v=7',
       alt: 'VERSAILLES BLOND',
       isPrimary: true,
       order: 1,
@@ -4444,7 +4444,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - AQUINOAH BLOND HB VDC (Šifra: 1704)',
     images: [{
       id: 'creation-55-blond-41971704-img-1',
-      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/61761 - Aquinoah blond _HB _VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/1704-aquinoah-blond-pod.jpg?v=7',
       alt: 'AQUINOAH BLOND HB VDC',
       isPrimary: true,
       order: 1,
@@ -4471,7 +4471,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - AQUINOAH BLOND (Šifra: 1704)',
     images: [{
       id: 'creation-55-blond-42541704-img-1',
-      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/61761 - Aquinoah blond _HB _VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/1704-aquinoah-blond-pod.jpg?v=7',
       alt: 'AQUINOAH BLOND',
       isPrimary: true,
       order: 1,
@@ -4498,7 +4498,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-55-board-41820455-img-1',
-      url: '/images/products/lvt/colors/creation-55/0455-long-board/pod/41511 - 0455-longboard-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0455-long-board/pod/0455-long-board-pod.jpg?v=7',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -4525,7 +4525,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - PARADISO BONE (Šifra: 1729)',
     images: [{
       id: 'creation-55-bone-41811729-img-1',
-      url: '/images/products/lvt/colors/creation-55/1729-paradiso-bone/pod/61596 - JPG 72 dpi-Paradiso bone - 457x914 - CR55 CR70 VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1729-paradiso-bone/pod/1729-paradiso-bone-pod.jpg?v=7',
       alt: 'PARADISO BONE',
       isPrimary: true,
       order: 1,
@@ -4552,7 +4552,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-55-brown-41821568-img-1',
-      url: '/images/products/lvt/colors/creation-55/1568-tamo-light-brown/pod/61511 - JPG 72 dpi-Creation 1568 Tamo Light Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=7',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -4579,7 +4579,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-55-brown-41821597-img-1',
-      url: '/images/products/lvt/colors/creation-55/1597-quartet-dark-brown/pod/61551 - JPG 72 dpi-Creation 1597 Quartet Dark Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=7',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -4606,7 +4606,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - AQUINOAH BROWN (Šifra: 1705)',
     images: [{
       id: 'creation-55-brown-41821705-img-1',
-      url: '/images/products/lvt/colors/creation-55/1705-aquinoah-brown/pod/61531 - JPG 72 dpi-Aquinoah-Brown-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1705-aquinoah-brown/pod/1705-aquinoah-brown-pod.jpg?v=7',
       alt: 'AQUINOAH BROWN',
       isPrimary: true,
       order: 1,
@@ -4633,7 +4633,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - CEDAR BROWN (Šifra: 0850)',
     images: [{
       id: 'creation-55-brown-41910850-img-1',
-      url: '/images/products/lvt/colors/creation-55/0850-cedar-brown/pod/41426 - 0850-cedar-brown-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0850-cedar-brown/pod/0850-cedar-brown-pod.jpg?v=7',
       alt: 'CEDAR BROWN',
       isPrimary: true,
       order: 1,
@@ -4660,7 +4660,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - CEDAR DARK BROWN (Šifra: 1605)',
     images: [{
       id: 'creation-55-brown-41911605-img-1',
-      url: '/images/products/lvt/colors/creation-55/1605-cedar-dark-brown/pod/61061 - JPG 72 dpi-Creation 1605 Cedar Dark Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=7',
       alt: 'CEDAR DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -4687,7 +4687,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - BLOOM UNI CLEAR (Šifra: 1599)',
     images: [{
       id: 'creation-55-clear-41811599-img-1',
-      url: '/images/products/lvt/colors/creation-55/1599-bloom-uni-clear/pod/61361 - JPG 72 dpi-Creation 1599 Bloom Uni Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=7',
       alt: 'BLOOM UNI CLEAR',
       isPrimary: true,
       order: 1,
@@ -4714,7 +4714,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-55-clear-41811603-img-1',
-      url: '/images/products/lvt/colors/creation-55/1603-curton-stone-clear/pod/61371 - JPG 72 dpi-Creation 1603 Curton Stone Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=7',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -4741,7 +4741,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-55-clear-41821567-img-1',
-      url: '/images/products/lvt/colors/creation-55/1567-tamo-clear/pod/61491 - JPG 72 dpi-Creation 1567 Tamo Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=7',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -4768,7 +4768,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - LINEAR WOOD CLEAR (Šifra: 1701)',
     images: [{
       id: 'creation-55-clear-41821701-img-1',
-      url: '/images/products/lvt/colors/creation-55/1701-linear-wood-clear/pod/62016 - JPG 72 dpi-Linear wood clear - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1701-linear-wood-clear/pod/1701-linear-wood-clear-pod.jpg?v=7',
       alt: 'LINEAR WOOD CLEAR',
       isPrimary: true,
       order: 1,
@@ -4795,7 +4795,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - URBAN STREET COBALT ARTEFACTO C702 (Šifra: 1727)',
     images: [{
       id: 'creation-55-cobalt-41931727-img-1',
-      url: '/images/products/lvt/colors/creation-55/1727-urban-street-cobalt-artefacto-c702/pod/61706 - JPG 72 dpi-Urban street cobalt - 610x610 - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1727-urban-street-cobalt-artefacto-c702/pod/1727-urban-street-cobalt-artefacto-c702-pod.jpg?v=7',
       alt: 'URBAN STREET COBALT ARTEFACTO C702',
       isPrimary: true,
       order: 1,
@@ -4822,7 +4822,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - CONFETTI COBALT (Šifra: 1745)',
     images: [{
       id: 'creation-55-cobalt-41931745-img-1',
-      url: '/images/products/lvt/colors/creation-55/1745-confetti-cobalt/pod/61686 - JPG 72 dpi-Confetti cobalt - 389x729 - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1745-confetti-cobalt/pod/1745-confetti-cobalt-pod.jpg?v=7',
       alt: 'CONFETTI COBALT',
       isPrimary: true,
       order: 1,
@@ -4849,7 +4849,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - LUNA COBALT (Šifra: 1749)',
     images: [{
       id: 'creation-55-cobalt-41931749-img-1',
-      url: '/images/products/lvt/colors/creation-55/1749-luna-cobalt/pod/62006 - JPG 72 dpi-Luna cobalt - 610x610 - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1749-luna-cobalt/pod/1749-luna-cobalt-pod.jpg?v=7',
       alt: 'LUNA COBALT',
       isPrimary: true,
       order: 1,
@@ -4876,7 +4876,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - BLOOM UNI CREAM (Šifra: 1600)',
     images: [{
       id: 'creation-55-cream-41811600-img-1',
-      url: '/images/products/lvt/colors/creation-55/1600-bloom-uni-cream/pod/61586 - JPG 72 dpi-Creation 1600 Bloom Uni Cream Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1600-bloom-uni-cream/pod/1600-bloom-uni-cream-pod.jpg?v=7',
       alt: 'BLOOM UNI CREAM',
       isPrimary: true,
       order: 1,
@@ -4903,7 +4903,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - PARADISO CREAM (Šifra: 1730)',
     images: [{
       id: 'creation-55-cream-41811730-img-1',
-      url: '/images/products/lvt/colors/creation-55/1730-paradiso-cream/pod/61606 - JPG 72 dpi-Paradiso cream - 457x914 - CR55 CR70 VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1730-paradiso-cream/pod/1730-paradiso-cream-pod.jpg?v=7',
       alt: 'PARADISO CREAM',
       isPrimary: true,
       order: 1,
@@ -4930,7 +4930,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - TAMO CREAM (Šifra: 1598)',
     images: [{
       id: 'creation-55-cream-41821598-img-1',
-      url: '/images/products/lvt/colors/creation-55/1598-tamo-cream/pod/61501 - JPG 72 dpi-Creation 1598 Tamo Cream Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1598-tamo-cream/pod/1598-tamo-cream-pod.jpg?v=7',
       alt: 'TAMO CREAM',
       isPrimary: true,
       order: 1,
@@ -4957,7 +4957,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - CREATION LOOSELAY 1565 URBAN STREET CREAM (Šifra: 1565)',
     images: [{
       id: 'creation-55-cream-41931565-img-1',
-      url: '/images/products/lvt/colors/creation-55/1565-creation-looselay-1565-urban-street-cream/pod/59351 - JPG 72 dpi-Creation Looselay 1565 Urban Street Cream 600x600 Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1565-creation-looselay-1565-urban-street-cream/pod/1565-creation-looselay-1565-urban-street-cream-pod.jpg?v=7',
       alt: 'CREATION LOOSELAY 1565 URBAN STREET CREAM',
       isPrimary: true,
       order: 1,
@@ -4984,7 +4984,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - BLOOM UNI DARK (Šifra: 1601)',
     images: [{
       id: 'creation-55-dark-41811601-img-1',
-      url: '/images/products/lvt/colors/creation-55/1601-bloom-uni-dark/pod/61366 - JPG 72 dpi-Creation 1601 Bloom Uni Dark Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=7',
       alt: 'BLOOM UNI DARK',
       isPrimary: true,
       order: 1,
@@ -5011,7 +5011,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - BACKYARD DARK3 (Šifra: 1711)',
     images: [{
       id: 'creation-55-dark-41931711-img-1',
-      url: '/images/products/lvt/colors/creation-55/1711-backyard-dark3/pod/61646 - JPG 72 dpi-Backyard-Dark-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1711-backyard-dark3/pod/1711-backyard-dark3-pod.jpg?v=7',
       alt: 'BACKYARD DARK3',
       isPrimary: true,
       order: 1,
@@ -5038,7 +5038,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - CHARMING OAK BEIGE (Šifra: 1278)',
     images: [{
       id: 'creation-55-eir-41951278-img-1',
-      url: '/images/products/lvt/colors/creation-55/1278-charming-oak-beige/pod/49251 - 1278 - Charming oak beige -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1278-charming-oak-beige/pod/1278-charming-oak-beige-pod.jpg?v=7',
       alt: 'CHARMING OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -5065,7 +5065,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - CHARMING OAK GREY (Šifra: 1279)',
     images: [{
       id: 'creation-55-eir-41951279-img-1',
-      url: '/images/products/lvt/colors/creation-55/1279-charming-oak-grey/pod/49261 - 1279 - Charming oak grey -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1279-charming-oak-grey/pod/1279-charming-oak-grey-pod.jpg?v=7',
       alt: 'CHARMING OAK GREY',
       isPrimary: true,
       order: 1,
@@ -5092,7 +5092,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - LOUNGE OAK GOLDEN (Šifra: 1271)',
     images: [{
       id: 'creation-55-eir-41961271-img-1',
-      url: '/images/products/lvt/colors/creation-55/1271-lounge-oak-golden/pod/49291 - 1271 - Lounge oak golden -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=7',
       alt: 'LOUNGE OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -5119,7 +5119,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - LOUNGE OAK BEIGE (Šifra: 1272)',
     images: [{
       id: 'creation-55-eir-41961272-img-1',
-      url: '/images/products/lvt/colors/creation-55/1272-lounge-oak-beige/pod/49281 - 1272 - Lounge oak beige-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=7',
       alt: 'LOUNGE OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -5146,7 +5146,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - LOUNGE OAK NATURAL (Šifra: 1273)',
     images: [{
       id: 'creation-55-eir-41961273-img-1',
-      url: '/images/products/lvt/colors/creation-55/1273-lounge-oak-natural/pod/63916 - Creation 1273 Lounge Oak Natural-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=7',
       alt: 'LOUNGE OAK NATURAL',
       isPrimary: true,
       order: 1,
@@ -5173,7 +5173,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - LOUNGE OAK CHESTNUT (Šifra: 1274)',
     images: [{
       id: 'creation-55-eir-41961274-img-1',
-      url: '/images/products/lvt/colors/creation-55/1274-lounge-oak-chestnut/pod/49286 - 1274 - Lounge oak chestnut-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=7',
       alt: 'LOUNGE OAK CHESTNUT',
       isPrimary: true,
       order: 1,
@@ -5200,7 +5200,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - CEDAR GOLDEN (Šifra: 1606)',
     images: [{
       id: 'creation-55-golden-41911606-img-1',
-      url: '/images/products/lvt/colors/creation-55/1606-cedar-golden/pod/61391 - JPG 72 dpi-Creation 1606 Cedar Golden Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=7',
       alt: 'CEDAR GOLDEN',
       isPrimary: true,
       order: 1,
@@ -5227,7 +5227,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - SAVAGE OAK GREIGE 2 (Šifra: 1708)',
     images: [{
       id: 'creation-55-greige-41821708-img-1',
-      url: '/images/products/lvt/colors/creation-55/1708-savage-oak-greige-2/pod/61556 - JPG 72 dpi-Savage-Oak-Greige sky view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1708-savage-oak-greige-2/pod/1708-savage-oak-greige-2-pod.jpg?v=7',
       alt: 'SAVAGE OAK GREIGE 2',
       isPrimary: true,
       order: 1,
@@ -5254,7 +5254,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - BOSTONIAN OAK HONEY (Šifra: 0851)',
     images: [{
       id: 'creation-55-honey-41820851-img-1',
-      url: '/images/products/lvt/colors/creation-55/0851-bostonian-oak-honey/pod/44406 - 0851-bostonian-oak-honey-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0851-bostonian-oak-honey/pod/0851-bostonian-oak-honey-pod.jpg?v=7',
       alt: 'BOSTONIAN OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -5281,7 +5281,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - QUARTET HONEY (Šifra: 0870)',
     images: [{
       id: 'creation-55-honey-41820870-img-1',
-      url: '/images/products/lvt/colors/creation-55/0870-quartet-honey/pod/49046 - 0870 - Quartet Honey -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0870-quartet-honey/pod/0870-quartet-honey-pod.jpg?v=7',
       alt: 'QUARTET HONEY',
       isPrimary: true,
       order: 1,
@@ -5308,7 +5308,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - LINEAR WOOD HONEY (Šifra: 1702)',
     images: [{
       id: 'creation-55-honey-41821702-img-1',
-      url: '/images/products/lvt/colors/creation-55/1702-linear-wood-honey/pod/62021 - JPG 72 dpi-Linear Wood Honey - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1702-linear-wood-honey/pod/1702-linear-wood-honey-pod.jpg?v=7',
       alt: 'LINEAR WOOD HONEY',
       isPrimary: true,
       order: 1,
@@ -5335,7 +5335,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - AQUINOHA HONEY (Šifra: 1706)',
     images: [{
       id: 'creation-55-honey-41821706-img-1',
-      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/61771 - JPG 72 dpi-Aquinoah honey - 152x762 - A4 - CMJN-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/1706-aquinoah-honey-pod.jpg?v=7',
       alt: 'AQUINOHA HONEY',
       isPrimary: true,
       order: 1,
@@ -5362,7 +5362,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - SAVAGE OAK HONEY (Šifra: 1709)',
     images: [{
       id: 'creation-55-honey-41821709-img-1',
-      url: '/images/products/lvt/colors/creation-55/1709-savage-oak-honey/pod/61566 - JPG 72 dpi-Savage-Oak-Honey-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1709-savage-oak-honey/pod/1709-savage-oak-honey-pod.jpg?v=7',
       alt: 'SAVAGE OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -5389,7 +5389,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - VERSAILLE HONEY1750 (Šifra: 1750)',
     images: [{
       id: 'creation-55-honey-41931750-img-1',
-      url: '/images/products/lvt/colors/creation-55/1750-versaille-honey1750/pod/61721 - JPG 72 dpi-Versailles Honey - 610x610 - VDC2-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1750-versaille-honey1750/pod/1750-versaille-honey1750-pod.jpg?v=7',
       alt: 'VERSAILLE HONEY1750',
       isPrimary: true,
       order: 1,
@@ -5416,7 +5416,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - AQUINOHA HONEY HB (Šifra: 1706)',
     images: [{
       id: 'creation-55-honey-41971706-img-1',
-      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/61771 - JPG 72 dpi-Aquinoah honey - 152x762 - A4 - CMJN-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/1706-aquinoah-honey-pod.jpg?v=7',
       alt: 'AQUINOHA HONEY HB',
       isPrimary: true,
       order: 1,
@@ -5443,7 +5443,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - AQUINOAH HONEY (Šifra: 1706)',
     images: [{
       id: 'creation-55-honey-42541706-img-1',
-      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/61771 - JPG 72 dpi-Aquinoah honey - 152x762 - A4 - CMJN-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/1706-aquinoah-honey-pod.jpg?v=7',
       alt: 'AQUINOAH HONEY',
       isPrimary: true,
       order: 1,
@@ -5470,7 +5470,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - URBAN STREET LIGHT VDC C55 (Šifra: 1283)',
     images: [{
       id: 'creation-55-light-41941283-img-1',
-      url: '/images/products/lvt/colors/creation-55/1283-urban-street-light-vdc-c55/pod/61741 - JPG 72 dpi-URBAN STREET LIGHT - 914x914 - VDC C55-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1283-urban-street-light-vdc-c55/pod/1283-urban-street-light-vdc-c55-pod.jpg?v=7',
       alt: 'URBAN STREET LIGHT VDC C55',
       isPrimary: true,
       order: 1,
@@ -5497,7 +5497,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - WHITE LIME (Šifra: 0584)',
     images: [{
       id: 'creation-55-lime-41820584-img-1',
-      url: '/images/products/lvt/colors/creation-55/0584-white-lime/pod/44516 - 0584-white-lime-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0584-white-lime/pod/0584-white-lime-pod.jpg?v=7',
       alt: 'WHITE LIME',
       isPrimary: true,
       order: 1,
@@ -5524,7 +5524,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - WHITE MARBLE TAMO CREAM (Šifra: 1743)',
     images: [{
       id: 'creation-55-marble-41811743-img-1',
-      url: '/images/products/lvt/colors/creation-55/1743-white-marble-tamo-cream/pod/61626 - JPG 72 dpi-White Marble - 389x729 - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1743-white-marble-tamo-cream/pod/1743-white-marble-tamo-cream-pod.jpg?v=7',
       alt: 'WHITE MARBLE TAMO CREAM',
       isPrimary: true,
       order: 1,
@@ -5551,7 +5551,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - RESIN MARBLE (Šifra: 1757)',
     images: [{
       id: 'creation-55-marble-42101757-img-1',
-      url: '/images/products/lvt/colors/creation-55/1757-resin-marble/pod/61636 - JPG 72 dpi-Resin-Marble-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1757-resin-marble/pod/1757-resin-marble-pod.jpg?v=7',
       alt: 'RESIN MARBLE',
       isPrimary: true,
       order: 1,
@@ -5578,7 +5578,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - URBAN STREET MEDIUM (Šifra: 1284)',
     images: [{
       id: 'creation-55-medium-41941284-img-1',
-      url: '/images/products/lvt/colors/creation-55/1284-urban-street-medium/pod/61751 - JPG 72 dpi-URBAN STREET MEDIUM - 914x914 - VDC C55-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1284-urban-street-medium/pod/1284-urban-street-medium-pod.jpg?v=7',
       alt: 'URBAN STREET MEDIUM',
       isPrimary: true,
       order: 1,
@@ -5605,7 +5605,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-55-natural-41820545-img-1',
-      url: '/images/products/lvt/colors/creation-55/0545-quartet-natural/pod/61486 - JPG 72 dpi-Quartet natural - VDC - 184x1219 - A4 - CMJN-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=7',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -5632,7 +5632,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-55-natural-41821561-img-1',
-      url: '/images/products/lvt/colors/creation-55/1561-tamo-natural/pod/61576 - JPG 72 dpi-Creation 1561 Tamo Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=7',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -5659,7 +5659,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - CEDAR NATURAL (Šifra: 1607)',
     images: [{
       id: 'creation-55-natural-41911607-img-1',
-      url: '/images/products/lvt/colors/creation-55/1607-cedar-natural/pod/61581 - JPG 72 dpi-Creation 1607 Cedar Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=7',
       alt: 'CEDAR NATURAL',
       isPrimary: true,
       order: 1,
@@ -5686,7 +5686,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - LINEAR WOOD NATURE (Šifra: 1703)',
     images: [{
       id: 'creation-55-nature-41821703-img-1',
-      url: '/images/products/lvt/colors/creation-55/1703-linear-wood-nature/pod/62026 - JPG 72 dpi-Linear-Wood-Nature-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1703-linear-wood-nature/pod/1703-linear-wood-nature-pod.jpg?v=7',
       alt: 'LINEAR WOOD NATURE',
       isPrimary: true,
       order: 1,
@@ -5713,7 +5713,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - AQUINOAH NATURE LUNA COBALT (Šifra: 1707)',
     images: [{
       id: 'creation-55-nature-41821707-img-1',
-      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-luna-cobalt/pod/61546 - JPG 72 dpi-Aquinoah-Nature-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-luna-cobalt/pod/1707-aquinoah-nature-hb-pod.jpg?v=7',
       alt: 'AQUINOAH NATURE LUNA COBALT',
       isPrimary: true,
       order: 1,
@@ -5740,7 +5740,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - AQUINOAH NATURE HB (Šifra: 1707)',
     images: [{
       id: 'creation-55-nature-41971707-img-1',
-      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-luna-cobalt/pod/61546 - JPG 72 dpi-Aquinoah-Nature-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-luna-cobalt/pod/1707-aquinoah-nature-hb-pod.jpg?v=7',
       alt: 'AQUINOAH NATURE HB',
       isPrimary: true,
       order: 1,
@@ -5767,7 +5767,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - SAHARA NOIR (Šifra: 1742)',
     images: [{
       id: 'creation-55-noir-41811742-img-1',
-      url: '/images/products/lvt/colors/creation-55/1742-sahara-noir/pod/61616 - JPG 72 dpi-Sahara noir - 457x914 - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1742-sahara-noir/pod/1742-sahara-noir-pod.jpg?v=7',
       alt: 'SAHARA NOIR',
       isPrimary: true,
       order: 1,
@@ -5794,7 +5794,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - HONEY OAK (Šifra: 0441)',
     images: [{
       id: 'creation-55-oak-41820441-img-1',
-      url: '/images/products/lvt/colors/creation-55/0441-honey-oak/pod/44456 - 0441-honey-oak-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=7',
       alt: 'HONEY OAK',
       isPrimary: true,
       order: 1,
@@ -5821,7 +5821,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - BLOOM UNI PEARL (Šifra: 1602)',
     images: [{
       id: 'creation-55-pearl-41811602-img-1',
-      url: '/images/products/lvt/colors/creation-55/1602-bloom-uni-pearl/pod/61106 - JPG 72 dpi-SV_Bloom Uni Pearl_Creation Core Collection-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=7',
       alt: 'BLOOM UNI PEARL',
       isPrimary: true,
       order: 1,
@@ -5848,7 +5848,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-55-quartet-41820503-img-1',
-      url: '/images/products/lvt/colors/creation-55/0503-quartet/pod/44491 - 0503-quartet-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0503-quartet/pod/0503-quartet-pod.jpg?v=7',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -5875,7 +5875,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-55-quartet-41970503-img-1',
-      url: '/images/products/lvt/colors/creation-55/0503-quartet/pod/44491 - 0503-quartet-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0503-quartet/pod/0503-quartet-pod.jpg?v=7',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -5902,7 +5902,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-55-ranch-41820456-img-1',
-      url: '/images/products/lvt/colors/creation-55/0456-ranch/pod/61521 - JPG 72 dpi-Creation 0456 Ranch Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0456-ranch/pod/0456-ranch-pod.jpg?v=7',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -5929,7 +5929,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - SAVAGE OAK SMOKED (Šifra: 1710)',
     images: [{
       id: 'creation-55-smoked-41821710-img-1',
-      url: '/images/products/lvt/colors/creation-55/1710-savage-oak-smoked/pod/61571 - JPG 72 dpi-Savage-Oak-Smoke-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1710-savage-oak-smoked/pod/1710-savage-oak-smoked-pod.jpg?v=7',
       alt: 'SAVAGE OAK SMOKED',
       isPrimary: true,
       order: 1,
@@ -5956,7 +5956,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - CHARMING OAK SMOKED (Šifra: 1714)',
     images: [{
       id: 'creation-55-smoked-41951714-img-1',
-      url: '/images/products/lvt/colors/creation-55/1714-charming-oak-smoked/pod/61476 - JPG 72 dpi-Charming oak smoke - C30_C55 VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1714-charming-oak-smoked/pod/1714-charming-oak-smoked-pod.jpg?v=7',
       alt: 'CHARMING OAK SMOKED',
       isPrimary: true,
       order: 1,
@@ -5983,7 +5983,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-55-taupe-41811604-img-1',
-      url: '/images/products/lvt/colors/creation-55/1604-curton-stone-taupe/pod/61376 - JPG 72 dpi-Creation 1604 Curton Stone Taupe Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=7',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -6010,7 +6010,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - BACKYARD TAUPE (Šifra: 1713)',
     images: [{
       id: 'creation-55-taupe-41931713-img-1',
-      url: '/images/products/lvt/colors/creation-55/1713-backyard-taupe/pod/61666 - JPG 72 dpi-Backyard-Taupe-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1713-backyard-taupe/pod/1713-backyard-taupe-pod.jpg?v=7',
       alt: 'BACKYARD TAUPE',
       isPrimary: true,
       order: 1,
@@ -6037,7 +6037,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-55-twist-41820504-img-1',
-      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/45901 - 0504-twist-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/0504-twist-pod.jpg?v=7',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -6064,7 +6064,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-55-twist-41970504-img-1',
-      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/45901 - 0504-twist-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/0504-twist-pod.jpg?v=7',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -6118,7 +6118,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic - AQUINOAH BLOND (Šifra: 1704)',
     images: [{
       id: 'creation-55-clic-blond-60661704-img-1',
-      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/61761 - Aquinoah blond _HB _VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/1704-aquinoah-blond-pod.jpg?v=7',
       alt: 'AQUINOAH BLOND',
       isPrimary: true,
       order: 1,
@@ -6145,7 +6145,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-55-clic-brown-60661597-img-1',
-      url: '/images/products/lvt/colors/creation-55/1597-quartet-dark-brown/pod/61551 - JPG 72 dpi-Creation 1597 Quartet Dark Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=7',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -6253,7 +6253,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic - LINEAR WOOD CLEAR (Šifra: 1701)',
     images: [{
       id: 'creation-55-clic-clear-60661701-img-1',
-      url: '/images/products/lvt/colors/creation-55/1701-linear-wood-clear/pod/62016 - JPG 72 dpi-Linear wood clear - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1701-linear-wood-clear/pod/1701-linear-wood-clear-pod.jpg?v=7',
       alt: 'LINEAR WOOD CLEAR',
       isPrimary: true,
       order: 1,
@@ -6280,7 +6280,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic - BLOOM UNI CLEAR (Šifra: 1599)',
     images: [{
       id: 'creation-55-clic-clear-60891599-img-1',
-      url: '/images/products/lvt/colors/creation-55/1599-bloom-uni-clear/pod/61361 - JPG 72 dpi-Creation 1599 Bloom Uni Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=7',
       alt: 'BLOOM UNI CLEAR',
       isPrimary: true,
       order: 1,
@@ -6307,7 +6307,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-55-clic-clear-60891603-img-1',
-      url: '/images/products/lvt/colors/creation-55/1603-curton-stone-clear/pod/61371 - JPG 72 dpi-Creation 1603 Curton Stone Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=7',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -6442,7 +6442,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic - BLOOM UNI DARK (Šifra: 1601)',
     images: [{
       id: 'creation-55-clic-dark-60891601-img-1',
-      url: '/images/products/lvt/colors/creation-55/1601-bloom-uni-dark/pod/61366 - JPG 72 dpi-Creation 1601 Bloom Uni Dark Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=7',
       alt: 'BLOOM UNI DARK',
       isPrimary: true,
       order: 1,
@@ -6523,7 +6523,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic - AQUINOHA HONEY (Šifra: 1706)',
     images: [{
       id: 'creation-55-clic-honey-60661706-img-1',
-      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/61771 - JPG 72 dpi-Aquinoah honey - 152x762 - A4 - CMJN-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/1706-aquinoah-honey-pod.jpg?v=7',
       alt: 'AQUINOHA HONEY',
       isPrimary: true,
       order: 1,
@@ -6550,7 +6550,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic - SAVAGE OAK HONEY (Šifra: 1709)',
     images: [{
       id: 'creation-55-clic-honey-60661709-img-1',
-      url: '/images/products/lvt/colors/creation-55/1709-savage-oak-honey/pod/61566 - JPG 72 dpi-Savage-Oak-Honey-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1709-savage-oak-honey/pod/1709-savage-oak-honey-pod.jpg?v=7',
       alt: 'SAVAGE OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -6631,7 +6631,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic - CEDAR NATURAL (Šifra: 1607)',
     images: [{
       id: 'creation-55-clic-natural-60621607-img-1',
-      url: '/images/products/lvt/colors/creation-55/1607-cedar-natural/pod/61581 - JPG 72 dpi-Creation 1607 Cedar Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=7',
       alt: 'CEDAR NATURAL',
       isPrimary: true,
       order: 1,
@@ -6658,7 +6658,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-55-clic-natural-60660545-img-1',
-      url: '/images/products/lvt/colors/creation-55/0545-quartet-natural/pod/61486 - JPG 72 dpi-Quartet natural - VDC - 184x1219 - A4 - CMJN-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=7',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -6712,7 +6712,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic - LINEAR WOOD NATURE (Šifra: 1703)',
     images: [{
       id: 'creation-55-clic-nature-60661703-img-1',
-      url: '/images/products/lvt/colors/creation-55/1703-linear-wood-nature/pod/62026 - JPG 72 dpi-Linear-Wood-Nature-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1703-linear-wood-nature/pod/1703-linear-wood-nature-pod.jpg?v=7',
       alt: 'LINEAR WOOD NATURE',
       isPrimary: true,
       order: 1,
@@ -6739,7 +6739,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic - AQUINOAH NATURE LUNA COBALT (Šifra: 1707)',
     images: [{
       id: 'creation-55-clic-nature-60661707-img-1',
-      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-luna-cobalt/pod/61546 - JPG 72 dpi-Aquinoah-Nature-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-luna-cobalt/pod/1707-aquinoah-nature-hb-pod.jpg?v=7',
       alt: 'AQUINOAH NATURE LUNA COBALT',
       isPrimary: true,
       order: 1,
@@ -6766,7 +6766,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic - BLOOM UNI PEARL (Šifra: 1602)',
     images: [{
       id: 'creation-55-clic-pearl-60891602-img-1',
-      url: '/images/products/lvt/colors/creation-55/1602-bloom-uni-pearl/pod/61106 - JPG 72 dpi-SV_Bloom Uni Pearl_Creation Core Collection-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=7',
       alt: 'BLOOM UNI PEARL',
       isPrimary: true,
       order: 1,
@@ -6820,7 +6820,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic - SAVAGE OAK SMOKE (Šifra: 1710)',
     images: [{
       id: 'creation-55-clic-smoked-60661710-img-1',
-      url: '/images/products/lvt/colors/creation-55/1710-savage-oak-smoked/pod/61571 - JPG 72 dpi-Savage-Oak-Smoke-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1710-savage-oak-smoked/pod/1710-savage-oak-smoked-pod.jpg?v=7',
       alt: 'SAVAGE OAK SMOKE',
       isPrimary: true,
       order: 1,
@@ -6847,7 +6847,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-55-clic-taupe-60891604-img-1',
-      url: '/images/products/lvt/colors/creation-55/1604-curton-stone-taupe/pod/61376 - JPG 72 dpi-Creation 1604 Curton Stone Taupe Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=7',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -6901,7 +6901,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - LIVING ROOM CONFETTI AMBER (Šifra: 1744)',
     images: [{
       id: 'creation-55-clic-acoustic-amber-61261744-img-1',
-      url: '/images/products/lvt/colors/creation-55/1744-living-room-confetti-amber/pod/61676 - JPG 72 dpi-Confetti amber - 389x729 - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1744-living-room-confetti-amber/pod/1744-living-room-confetti-amber-pod.jpg?v=7',
       alt: 'LIVING ROOM CONFETTI AMBER',
       isPrimary: true,
       order: 1,
@@ -6928,7 +6928,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-55-clic-acoustic-ballerina-41920347-img-1',
-      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/49041 - 0347 Ballerina -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -6955,7 +6955,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-55-clic-acoustic-ballerina-61240347-img-1',
-      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/49041 - 0347 Ballerina -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -6982,7 +6982,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - BOSTONIAN OAK BEIGE (Šifra: 0853)',
     images: [{
       id: 'creation-55-clic-acoustic-beige-61240853-img-1',
-      url: '/images/products/lvt/colors/creation-55/0853-bostonian-oak-beige/pod/44416 - 0853-bostonian-oak-beige-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0853-bostonian-oak-beige/pod/0853-bostonian-oak-beige-pod.jpg?v=7',
       alt: 'BOSTONIAN OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -7009,7 +7009,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - BACKYARD LIGHT BEIGE (Šifra: 1712)',
     images: [{
       id: 'creation-55-clic-acoustic-beige-61261712-img-1',
-      url: '/images/products/lvt/colors/creation-55/1712-backyard-light-beige/pod/61656 - JPG 72 dpi-Backyard-Light-Beige-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1712-backyard-light-beige/pod/1712-backyard-light-beige-pod.jpg?v=7',
       alt: 'BACKYARD LIGHT BEIGE',
       isPrimary: true,
       order: 1,
@@ -7036,7 +7036,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - LOUNGE OAK BEIGE (Šifra: 1272)',
     images: [{
       id: 'creation-55-clic-acoustic-beige-61361272-img-1',
-      url: '/images/products/lvt/colors/creation-55/1272-lounge-oak-beige/pod/49281 - 1272 - Lounge oak beige-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1272-lounge-oak-beige/pod/1272-lounge-oak-beige-pod.jpg?v=7',
       alt: 'LOUNGE OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -7063,7 +7063,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - CHARMING OAK BEIGE (Šifra: 1278)',
     images: [{
       id: 'creation-55-clic-acoustic-beige-61401278-img-1',
-      url: '/images/products/lvt/colors/creation-55/1278-charming-oak-beige/pod/49251 - 1278 - Charming oak beige -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1278-charming-oak-beige/pod/1278-charming-oak-beige-pod.jpg?v=7',
       alt: 'CHARMING OAK BEIGE',
       isPrimary: true,
       order: 1,
@@ -7090,7 +7090,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - AQUINOAH BLOND HB VDC (Šifra: 1704)',
     images: [{
       id: 'creation-55-clic-acoustic-blond-41921704-img-1',
-      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/61761 - Aquinoah blond _HB _VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/1704-aquinoah-blond-pod.jpg?v=7',
       alt: 'AQUINOAH BLOND HB VDC',
       isPrimary: true,
       order: 1,
@@ -7117,7 +7117,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - AQUINOAH BLOND (Šifra: 1704)',
     images: [{
       id: 'creation-55-clic-acoustic-blond-61241704-img-1',
-      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/61761 - Aquinoah blond _HB _VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1704-aquinoah-blond-hb-vdc/pod/1704-aquinoah-blond-pod.jpg?v=7',
       alt: 'AQUINOAH BLOND',
       isPrimary: true,
       order: 1,
@@ -7144,7 +7144,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-55-clic-acoustic-board-61240455-img-1',
-      url: '/images/products/lvt/colors/creation-55/0455-long-board/pod/41511 - 0455-longboard-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0455-long-board/pod/0455-long-board-pod.jpg?v=7',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -7171,7 +7171,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-55-clic-acoustic-brown-61241568-img-1',
-      url: '/images/products/lvt/colors/creation-55/1568-tamo-light-brown/pod/61511 - JPG 72 dpi-Creation 1568 Tamo Light Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=7',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -7198,7 +7198,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - QUARTET DARK BROWN (Šifra: 1597)',
     images: [{
       id: 'creation-55-clic-acoustic-brown-61241597-img-1',
-      url: '/images/products/lvt/colors/creation-55/1597-quartet-dark-brown/pod/61551 - JPG 72 dpi-Creation 1597 Quartet Dark Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1597-quartet-dark-brown/pod/1597-quartet-dark-brown-pod.jpg?v=7',
       alt: 'QUARTET DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -7225,7 +7225,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - AQUINOAH BROWN (Šifra: 1705)',
     images: [{
       id: 'creation-55-clic-acoustic-brown-61241705-img-1',
-      url: '/images/products/lvt/colors/creation-55/1705-aquinoah-brown/pod/61531 - JPG 72 dpi-Aquinoah-Brown-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1705-aquinoah-brown/pod/1705-aquinoah-brown-pod.jpg?v=7',
       alt: 'AQUINOAH BROWN',
       isPrimary: true,
       order: 1,
@@ -7252,7 +7252,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - CEDAR BROWN (Šifra: 0850)',
     images: [{
       id: 'creation-55-clic-acoustic-brown-61250850-img-1',
-      url: '/images/products/lvt/colors/creation-55/0850-cedar-brown/pod/41426 - 0850-cedar-brown-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0850-cedar-brown/pod/0850-cedar-brown-pod.jpg?v=7',
       alt: 'CEDAR BROWN',
       isPrimary: true,
       order: 1,
@@ -7279,7 +7279,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - CEDAR DARK BROWN (Šifra: 1605)',
     images: [{
       id: 'creation-55-clic-acoustic-brown-61251605-img-1',
-      url: '/images/products/lvt/colors/creation-55/1605-cedar-dark-brown/pod/61061 - JPG 72 dpi-Creation 1605 Cedar Dark Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1605-cedar-dark-brown/pod/1605-cedar-dark-brown-pod.jpg?v=7',
       alt: 'CEDAR DARK BROWN',
       isPrimary: true,
       order: 1,
@@ -7306,7 +7306,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - LOUNGE OAK CHESTNUT (Šifra: 1274)',
     images: [{
       id: 'creation-55-clic-acoustic-chestnut-61361274-img-1',
-      url: '/images/products/lvt/colors/creation-55/1274-lounge-oak-chestnut/pod/49286 - 1274 - Lounge oak chestnut-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1274-lounge-oak-chestnut/pod/1274-lounge-oak-chestnut-pod.jpg?v=7',
       alt: 'LOUNGE OAK CHESTNUT',
       isPrimary: true,
       order: 1,
@@ -7333,7 +7333,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-55-clic-acoustic-clear-61241567-img-1',
-      url: '/images/products/lvt/colors/creation-55/1567-tamo-clear/pod/61491 - JPG 72 dpi-Creation 1567 Tamo Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=7',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -7360,7 +7360,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - LINEAR WOOD CLEAR (Šifra: 1701)',
     images: [{
       id: 'creation-55-clic-acoustic-clear-61241701-img-1',
-      url: '/images/products/lvt/colors/creation-55/1701-linear-wood-clear/pod/62016 - JPG 72 dpi-Linear wood clear - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1701-linear-wood-clear/pod/1701-linear-wood-clear-pod.jpg?v=7',
       alt: 'LINEAR WOOD CLEAR',
       isPrimary: true,
       order: 1,
@@ -7387,7 +7387,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - BLOOM UNI CLEAR (Šifra: 1599)',
     images: [{
       id: 'creation-55-clic-acoustic-clear-61261599-img-1',
-      url: '/images/products/lvt/colors/creation-55/1599-bloom-uni-clear/pod/61361 - JPG 72 dpi-Creation 1599 Bloom Uni Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1599-bloom-uni-clear/pod/1599-bloom-uni-clear-pod.jpg?v=7',
       alt: 'BLOOM UNI CLEAR',
       isPrimary: true,
       order: 1,
@@ -7414,7 +7414,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - CURTON STONE CLEAR (Šifra: 1603)',
     images: [{
       id: 'creation-55-clic-acoustic-clear-61261603-img-1',
-      url: '/images/products/lvt/colors/creation-55/1603-curton-stone-clear/pod/61371 - JPG 72 dpi-Creation 1603 Curton Stone Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1603-curton-stone-clear/pod/1603-curton-stone-clear-pod.jpg?v=7',
       alt: 'CURTON STONE CLEAR',
       isPrimary: true,
       order: 1,
@@ -7441,7 +7441,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - CONFETTI COBALT (Šifra: 1745)',
     images: [{
       id: 'creation-55-clic-acoustic-cobalt-61261745-img-1',
-      url: '/images/products/lvt/colors/creation-55/1745-confetti-cobalt/pod/61686 - JPG 72 dpi-Confetti cobalt - 389x729 - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1745-confetti-cobalt/pod/1745-confetti-cobalt-pod.jpg?v=7',
       alt: 'CONFETTI COBALT',
       isPrimary: true,
       order: 1,
@@ -7468,7 +7468,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - TAMO CREAM (Šifra: 1598)',
     images: [{
       id: 'creation-55-clic-acoustic-cream-61241598-img-1',
-      url: '/images/products/lvt/colors/creation-55/1598-tamo-cream/pod/61501 - JPG 72 dpi-Creation 1598 Tamo Cream Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1598-tamo-cream/pod/1598-tamo-cream-pod.jpg?v=7',
       alt: 'TAMO CREAM',
       isPrimary: true,
       order: 1,
@@ -7495,7 +7495,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - URBAN STREET CREAM (Šifra: 1565)',
     images: [{
       id: 'creation-55-clic-acoustic-cream-61261565-img-1',
-      url: '/images/products/lvt/colors/creation-55/1565-creation-looselay-1565-urban-street-cream/pod/59351 - JPG 72 dpi-Creation Looselay 1565 Urban Street Cream 600x600 Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1565-creation-looselay-1565-urban-street-cream/pod/1565-creation-looselay-1565-urban-street-cream-pod.jpg?v=7',
       alt: 'URBAN STREET CREAM',
       isPrimary: true,
       order: 1,
@@ -7522,7 +7522,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - BLOOM UNI CREAM (Šifra: 1600)',
     images: [{
       id: 'creation-55-clic-acoustic-cream-61261600-img-1',
-      url: '/images/products/lvt/colors/creation-55/1600-bloom-uni-cream/pod/61586 - JPG 72 dpi-Creation 1600 Bloom Uni Cream Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1600-bloom-uni-cream/pod/1600-bloom-uni-cream-pod.jpg?v=7',
       alt: 'BLOOM UNI CREAM',
       isPrimary: true,
       order: 1,
@@ -7549,7 +7549,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - BLOOM UNI DARK (Šifra: 1601)',
     images: [{
       id: 'creation-55-clic-acoustic-dark-61261601-img-1',
-      url: '/images/products/lvt/colors/creation-55/1601-bloom-uni-dark/pod/61366 - JPG 72 dpi-Creation 1601 Bloom Uni Dark Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1601-bloom-uni-dark/pod/1601-bloom-uni-dark-pod.jpg?v=7',
       alt: 'BLOOM UNI DARK',
       isPrimary: true,
       order: 1,
@@ -7576,7 +7576,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - BACKYARD DARK3 (Šifra: 1711)',
     images: [{
       id: 'creation-55-clic-acoustic-dark-61261711-img-1',
-      url: '/images/products/lvt/colors/creation-55/1711-backyard-dark3/pod/61646 - JPG 72 dpi-Backyard-Dark-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1711-backyard-dark3/pod/1711-backyard-dark3-pod.jpg?v=7',
       alt: 'BACKYARD DARK3',
       isPrimary: true,
       order: 1,
@@ -7603,7 +7603,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - CEDAR GOLDEN (Šifra: 1606)',
     images: [{
       id: 'creation-55-clic-acoustic-golden-61251606-img-1',
-      url: '/images/products/lvt/colors/creation-55/1606-cedar-golden/pod/61391 - JPG 72 dpi-Creation 1606 Cedar Golden Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1606-cedar-golden/pod/1606-cedar-golden-pod.jpg?v=7',
       alt: 'CEDAR GOLDEN',
       isPrimary: true,
       order: 1,
@@ -7630,7 +7630,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - LOUNGE OAK GOLDEN (Šifra: 1271)',
     images: [{
       id: 'creation-55-clic-acoustic-golden-61361271-img-1',
-      url: '/images/products/lvt/colors/creation-55/1271-lounge-oak-golden/pod/49291 - 1271 - Lounge oak golden -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1271-lounge-oak-golden/pod/1271-lounge-oak-golden-pod.jpg?v=7',
       alt: 'LOUNGE OAK GOLDEN',
       isPrimary: true,
       order: 1,
@@ -7657,7 +7657,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - SAVAGE OAK GREIGE 2 (Šifra: 1708)',
     images: [{
       id: 'creation-55-clic-acoustic-greige-61241708-img-1',
-      url: '/images/products/lvt/colors/creation-55/1708-savage-oak-greige-2/pod/61556 - JPG 72 dpi-Savage-Oak-Greige sky view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1708-savage-oak-greige-2/pod/1708-savage-oak-greige-2-pod.jpg?v=7',
       alt: 'SAVAGE OAK GREIGE 2',
       isPrimary: true,
       order: 1,
@@ -7684,7 +7684,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - CHARMING OAK GREY (Šifra: 1279)',
     images: [{
       id: 'creation-55-clic-acoustic-grey-61401279-img-1',
-      url: '/images/products/lvt/colors/creation-55/1279-charming-oak-grey/pod/49261 - 1279 - Charming oak grey -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1279-charming-oak-grey/pod/1279-charming-oak-grey-pod.jpg?v=7',
       alt: 'CHARMING OAK GREY',
       isPrimary: true,
       order: 1,
@@ -7711,7 +7711,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - AQUINOHA HONEY HB (Šifra: 1706)',
     images: [{
       id: 'creation-55-clic-acoustic-honey-41921706-img-1',
-      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/61771 - JPG 72 dpi-Aquinoah honey - 152x762 - A4 - CMJN-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/1706-aquinoah-honey-pod.jpg?v=7',
       alt: 'AQUINOHA HONEY HB',
       isPrimary: true,
       order: 1,
@@ -7738,7 +7738,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - BOSTONIAN OAK HONEY (Šifra: 0851)',
     images: [{
       id: 'creation-55-clic-acoustic-honey-61240851-img-1',
-      url: '/images/products/lvt/colors/creation-55/0851-bostonian-oak-honey/pod/44406 - 0851-bostonian-oak-honey-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0851-bostonian-oak-honey/pod/0851-bostonian-oak-honey-pod.jpg?v=7',
       alt: 'BOSTONIAN OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -7765,7 +7765,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - QUARTET HONEY (Šifra: 0870)',
     images: [{
       id: 'creation-55-clic-acoustic-honey-61240870-img-1',
-      url: '/images/products/lvt/colors/creation-55/0870-quartet-honey/pod/49046 - 0870 - Quartet Honey -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0870-quartet-honey/pod/0870-quartet-honey-pod.jpg?v=7',
       alt: 'QUARTET HONEY',
       isPrimary: true,
       order: 1,
@@ -7792,7 +7792,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - AQUINOHA HONEY (Šifra: 1706)',
     images: [{
       id: 'creation-55-clic-acoustic-honey-61241706-img-1',
-      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/61771 - JPG 72 dpi-Aquinoah honey - 152x762 - A4 - CMJN-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1706-aquinoha-honey-hb/pod/1706-aquinoah-honey-pod.jpg?v=7',
       alt: 'AQUINOHA HONEY',
       isPrimary: true,
       order: 1,
@@ -7819,7 +7819,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - SAVAGE OAK HONEY (Šifra: 1709)',
     images: [{
       id: 'creation-55-clic-acoustic-honey-61241709-img-1',
-      url: '/images/products/lvt/colors/creation-55/1709-savage-oak-honey/pod/61566 - JPG 72 dpi-Savage-Oak-Honey-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1709-savage-oak-honey/pod/1709-savage-oak-honey-pod.jpg?v=7',
       alt: 'SAVAGE OAK HONEY',
       isPrimary: true,
       order: 1,
@@ -7846,7 +7846,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - LIVING ROOM URBAN STREET LIGHT MODERN RUSTIC (Šifra: 1283)',
     images: [{
       id: 'creation-55-clic-acoustic-light-61261283-img-1',
-      url: '/images/products/lvt/colors/creation-55/1283-urban-street-light-vdc-c55/pod/61741 - JPG 72 dpi-URBAN STREET LIGHT - 914x914 - VDC C55-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1283-urban-street-light-vdc-c55/pod/1283-urban-street-light-vdc-c55-pod.jpg?v=7',
       alt: 'LIVING ROOM URBAN STREET LIGHT MODERN RUSTIC',
       isPrimary: true,
       order: 1,
@@ -7873,7 +7873,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - WHITE LIME (Šifra: 0584)',
     images: [{
       id: 'creation-55-clic-acoustic-lime-61240584-img-1',
-      url: '/images/products/lvt/colors/creation-55/0584-white-lime/pod/44516 - 0584-white-lime-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0584-white-lime/pod/0584-white-lime-pod.jpg?v=7',
       alt: 'WHITE LIME',
       isPrimary: true,
       order: 1,
@@ -7900,7 +7900,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - WHITE MARBLE TAMO CREAM (Šifra: 1743)',
     images: [{
       id: 'creation-55-clic-acoustic-marble-61261743-img-1',
-      url: '/images/products/lvt/colors/creation-55/1743-white-marble-tamo-cream/pod/61626 - JPG 72 dpi-White Marble - 389x729 - VDC-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1743-white-marble-tamo-cream/pod/1743-white-marble-tamo-cream-pod.jpg?v=7',
       alt: 'WHITE MARBLE TAMO CREAM',
       isPrimary: true,
       order: 1,
@@ -7927,7 +7927,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - URBAN STREET MEDIUM (Šifra: 1284)',
     images: [{
       id: 'creation-55-clic-acoustic-medium-61261284-img-1',
-      url: '/images/products/lvt/colors/creation-55/1284-urban-street-medium/pod/61751 - JPG 72 dpi-URBAN STREET MEDIUM - 914x914 - VDC C55-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1284-urban-street-medium/pod/1284-urban-street-medium-pod.jpg?v=7',
       alt: 'URBAN STREET MEDIUM',
       isPrimary: true,
       order: 1,
@@ -7954,7 +7954,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - QUARTET NATURAL (Šifra: 0545)',
     images: [{
       id: 'creation-55-clic-acoustic-natural-61240545-img-1',
-      url: '/images/products/lvt/colors/creation-55/0545-quartet-natural/pod/61486 - JPG 72 dpi-Quartet natural - VDC - 184x1219 - A4 - CMJN-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0545-quartet-natural/pod/0545-quartet-natural-pod.jpg?v=7',
       alt: 'QUARTET NATURAL',
       isPrimary: true,
       order: 1,
@@ -7981,7 +7981,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-55-clic-acoustic-natural-61241561-img-1',
-      url: '/images/products/lvt/colors/creation-55/1561-tamo-natural/pod/61576 - JPG 72 dpi-Creation 1561 Tamo Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=7',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -8008,7 +8008,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - CEDAR NATURAL (Šifra: 1607)',
     images: [{
       id: 'creation-55-clic-acoustic-natural-61251607-img-1',
-      url: '/images/products/lvt/colors/creation-55/1607-cedar-natural/pod/61581 - JPG 72 dpi-Creation 1607 Cedar Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1607-cedar-natural/pod/1607-cedar-natural-pod.jpg?v=7',
       alt: 'CEDAR NATURAL',
       isPrimary: true,
       order: 1,
@@ -8035,7 +8035,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - LOUNGE OAK NATURAL (Šifra: 1273)',
     images: [{
       id: 'creation-55-clic-acoustic-natural-61361273-img-1',
-      url: '/images/products/lvt/colors/creation-55/1273-lounge-oak-natural/pod/63916 - Creation 1273 Lounge Oak Natural-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1273-lounge-oak-natural/pod/1273-lounge-oak-natural-pod.jpg?v=7',
       alt: 'LOUNGE OAK NATURAL',
       isPrimary: true,
       order: 1,
@@ -8062,7 +8062,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - AQUINOAH NATURE HB (Šifra: 1707)',
     images: [{
       id: 'creation-55-clic-acoustic-nature-41921707-img-1',
-      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-luna-cobalt/pod/61546 - JPG 72 dpi-Aquinoah-Nature-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-luna-cobalt/pod/1707-aquinoah-nature-hb-pod.jpg?v=7',
       alt: 'AQUINOAH NATURE HB',
       isPrimary: true,
       order: 1,
@@ -8089,7 +8089,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - LINEAR WOOD NATURE (Šifra: 1703)',
     images: [{
       id: 'creation-55-clic-acoustic-nature-61241703-img-1',
-      url: '/images/products/lvt/colors/creation-55/1703-linear-wood-nature/pod/62026 - JPG 72 dpi-Linear-Wood-Nature-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1703-linear-wood-nature/pod/1703-linear-wood-nature-pod.jpg?v=7',
       alt: 'LINEAR WOOD NATURE',
       isPrimary: true,
       order: 1,
@@ -8116,7 +8116,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - AQUINOAH NATURE LUNA COBALT (Šifra: 1707)',
     images: [{
       id: 'creation-55-clic-acoustic-nature-61241707-img-1',
-      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-luna-cobalt/pod/61546 - JPG 72 dpi-Aquinoah-Nature-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1707-aquinoah-nature-luna-cobalt/pod/1707-aquinoah-nature-hb-pod.jpg?v=7',
       alt: 'AQUINOAH NATURE LUNA COBALT',
       isPrimary: true,
       order: 1,
@@ -8143,7 +8143,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - HONEY OAK (Šifra: 0441)',
     images: [{
       id: 'creation-55-clic-acoustic-oak-61240441-img-1',
-      url: '/images/products/lvt/colors/creation-55/0441-honey-oak/pod/44456 - 0441-honey-oak-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=7',
       alt: 'HONEY OAK',
       isPrimary: true,
       order: 1,
@@ -8170,7 +8170,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - BLOOM UNI PEARL (Šifra: 1602)',
     images: [{
       id: 'creation-55-clic-acoustic-pearl-61261602-img-1',
-      url: '/images/products/lvt/colors/creation-55/1602-bloom-uni-pearl/pod/61106 - JPG 72 dpi-SV_Bloom Uni Pearl_Creation Core Collection-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1602-bloom-uni-pearl/pod/1602-bloom-uni-pearl-pod.jpg?v=7',
       alt: 'BLOOM UNI PEARL',
       isPrimary: true,
       order: 1,
@@ -8197,7 +8197,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-55-clic-acoustic-quartet-41920503-img-1',
-      url: '/images/products/lvt/colors/creation-55/0503-quartet/pod/44491 - 0503-quartet-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0503-quartet/pod/0503-quartet-pod.jpg?v=7',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -8224,7 +8224,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - QUARTET (Šifra: 0503)',
     images: [{
       id: 'creation-55-clic-acoustic-quartet-61240503-img-1',
-      url: '/images/products/lvt/colors/creation-55/0503-quartet/pod/44491 - 0503-quartet-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0503-quartet/pod/0503-quartet-pod.jpg?v=7',
       alt: 'QUARTET',
       isPrimary: true,
       order: 1,
@@ -8251,7 +8251,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-55-clic-acoustic-ranch-61240456-img-1',
-      url: '/images/products/lvt/colors/creation-55/0456-ranch/pod/61521 - JPG 72 dpi-Creation 0456 Ranch Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0456-ranch/pod/0456-ranch-pod.jpg?v=7',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -8278,7 +8278,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - SAVAGE OAK SMOKED (Šifra: 1710)',
     images: [{
       id: 'creation-55-clic-acoustic-smoked-61241710-img-1',
-      url: '/images/products/lvt/colors/creation-55/1710-savage-oak-smoked/pod/61571 - JPG 72 dpi-Savage-Oak-Smoke-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1710-savage-oak-smoked/pod/1710-savage-oak-smoked-pod.jpg?v=7',
       alt: 'SAVAGE OAK SMOKED',
       isPrimary: true,
       order: 1,
@@ -8305,7 +8305,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - CURTON STONE TAUPE (Šifra: 1604)',
     images: [{
       id: 'creation-55-clic-acoustic-taupe-61261604-img-1',
-      url: '/images/products/lvt/colors/creation-55/1604-curton-stone-taupe/pod/61376 - JPG 72 dpi-Creation 1604 Curton Stone Taupe Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1604-curton-stone-taupe/pod/1604-curton-stone-taupe-pod.jpg?v=7',
       alt: 'CURTON STONE TAUPE',
       isPrimary: true,
       order: 1,
@@ -8332,7 +8332,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - BACKYARD TAUPE (Šifra: 1713)',
     images: [{
       id: 'creation-55-clic-acoustic-taupe-61261713-img-1',
-      url: '/images/products/lvt/colors/creation-55/1713-backyard-taupe/pod/61666 - JPG 72 dpi-Backyard-Taupe-sky-view-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1713-backyard-taupe/pod/1713-backyard-taupe-pod.jpg?v=7',
       alt: 'BACKYARD TAUPE',
       isPrimary: true,
       order: 1,
@@ -8359,7 +8359,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-55-clic-acoustic-twist-41920504-img-1',
-      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/45901 - 0504-twist-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/0504-twist-pod.jpg?v=7',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -8386,7 +8386,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Clic Acoustic - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-55-clic-acoustic-twist-61240504-img-1',
-      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/45901 - 0504-twist-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/0504-twist-pod.jpg?v=7',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -8413,7 +8413,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-55-looselay-ballerina-39750347-img-1',
-      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/49041 - 0347 Ballerina -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -8440,7 +8440,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-55-looselay-board-39750455-img-1',
-      url: '/images/products/lvt/colors/creation-55/0455-long-board/pod/41511 - 0455-longboard-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0455-long-board/pod/0455-long-board-pod.jpg?v=7',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -8467,7 +8467,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-55-looselay-brown-39751568-img-1',
-      url: '/images/products/lvt/colors/creation-55/1568-tamo-light-brown/pod/61511 - JPG 72 dpi-Creation 1568 Tamo Light Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=7',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -8494,7 +8494,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay - TAMO LIGHT BROWN (Šifra: 1568)',
     images: [{
       id: 'creation-55-looselay-brown-39781568-img-1',
-      url: '/images/products/lvt/colors/creation-55/1568-tamo-light-brown/pod/61511 - JPG 72 dpi-Creation 1568 Tamo Light Brown Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1568-tamo-light-brown/pod/1568-tamo-light-brown-pod.jpg?v=7',
       alt: 'TAMO LIGHT BROWN',
       isPrimary: true,
       order: 1,
@@ -8521,7 +8521,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-55-looselay-clear-39751567-img-1',
-      url: '/images/products/lvt/colors/creation-55/1567-tamo-clear/pod/61491 - JPG 72 dpi-Creation 1567 Tamo Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=7',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -8548,7 +8548,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay - TAMO CLEAR (Šifra: 1567)',
     images: [{
       id: 'creation-55-looselay-clear-39781567-img-1',
-      url: '/images/products/lvt/colors/creation-55/1567-tamo-clear/pod/61491 - JPG 72 dpi-Creation 1567 Tamo Clear Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1567-tamo-clear/pod/1567-tamo-clear-pod.jpg?v=7',
       alt: 'TAMO CLEAR',
       isPrimary: true,
       order: 1,
@@ -8602,7 +8602,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay - URBAN STREET CREAM (Šifra: 1565)',
     images: [{
       id: 'creation-55-looselay-cream-39741565-img-1',
-      url: '/images/products/lvt/colors/creation-55/1565-creation-looselay-1565-urban-street-cream/pod/59351 - JPG 72 dpi-Creation Looselay 1565 Urban Street Cream 600x600 Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1565-creation-looselay-1565-urban-street-cream/pod/1565-creation-looselay-1565-urban-street-cream-pod.jpg?v=7',
       alt: 'URBAN STREET CREAM',
       isPrimary: true,
       order: 1,
@@ -8818,7 +8818,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay - URBAN STREET LIGHT (Šifra: 1283)',
     images: [{
       id: 'creation-55-looselay-light-39791283-img-1',
-      url: '/images/products/lvt/colors/creation-55/1283-urban-street-light-vdc-c55/pod/61741 - JPG 72 dpi-URBAN STREET LIGHT - 914x914 - VDC C55-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1283-urban-street-light-vdc-c55/pod/1283-urban-street-light-vdc-c55-pod.jpg?v=7',
       alt: 'URBAN STREET LIGHT',
       isPrimary: true,
       order: 1,
@@ -8845,7 +8845,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay - URBAN STREET MEDIUM (Šifra: 1284)',
     images: [{
       id: 'creation-55-looselay-medium-39791284-img-1',
-      url: '/images/products/lvt/colors/creation-55/1284-urban-street-medium/pod/61751 - JPG 72 dpi-URBAN STREET MEDIUM - 914x914 - VDC C55-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1284-urban-street-medium/pod/1284-urban-street-medium-pod.jpg?v=7',
       alt: 'URBAN STREET MEDIUM',
       isPrimary: true,
       order: 1,
@@ -8872,7 +8872,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-55-looselay-natural-39751561-img-1',
-      url: '/images/products/lvt/colors/creation-55/1561-tamo-natural/pod/61576 - JPG 72 dpi-Creation 1561 Tamo Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=7',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -8899,7 +8899,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay - HONEY OAK (Šifra: 0441)',
     images: [{
       id: 'creation-55-looselay-oak-39750441-img-1',
-      url: '/images/products/lvt/colors/creation-55/0441-honey-oak/pod/44456 - 0441-honey-oak-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0441-honey-oak/pod/0441-honey-oak-pod.jpg?v=7',
       alt: 'HONEY OAK',
       isPrimary: true,
       order: 1,
@@ -8926,7 +8926,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-55-looselay-ranch-39750456-img-1',
-      url: '/images/products/lvt/colors/creation-55/0456-ranch/pod/61521 - JPG 72 dpi-Creation 0456 Ranch Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0456-ranch/pod/0456-ranch-pod.jpg?v=7',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
@@ -9142,7 +9142,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay - TWIST (Šifra: 0504)',
     images: [{
       id: 'creation-55-looselay-twist-39750504-img-1',
-      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/45901 - 0504-twist-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0504-twist/pod/0504-twist-pod.jpg?v=7',
       alt: 'TWIST',
       isPrimary: true,
       order: 1,
@@ -9169,7 +9169,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay Acoustic - BALLERINA (Šifra: 0347)',
     images: [{
       id: 'creation-55-looselay-acoustic-ballerina-36640347-img-1',
-      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/49041 - 0347 Ballerina -pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0347-ballerina/pod/0347-ballerina-pod.jpg?v=7',
       alt: 'BALLERINA',
       isPrimary: true,
       order: 1,
@@ -9196,7 +9196,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay Acoustic - LONG BOARD (Šifra: 0455)',
     images: [{
       id: 'creation-55-looselay-acoustic-board-36640455-img-1',
-      url: '/images/products/lvt/colors/creation-55/0455-long-board/pod/41511 - 0455-longboard-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0455-long-board/pod/0455-long-board-pod.jpg?v=7',
       alt: 'LONG BOARD',
       isPrimary: true,
       order: 1,
@@ -9277,7 +9277,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay Acoustic - URBAN STREET LIGHT (Šifra: 1283)',
     images: [{
       id: 'creation-55-looselay-acoustic-light-39831283-img-1',
-      url: '/images/products/lvt/colors/creation-55/1283-urban-street-light-vdc-c55/pod/61741 - JPG 72 dpi-URBAN STREET LIGHT - 914x914 - VDC C55-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1283-urban-street-light-vdc-c55/pod/1283-urban-street-light-vdc-c55-pod.jpg?v=7',
       alt: 'URBAN STREET LIGHT',
       isPrimary: true,
       order: 1,
@@ -9304,7 +9304,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay Acoustic - URBAN STREET MEDIUM (Šifra: 1284)',
     images: [{
       id: 'creation-55-looselay-acoustic-medium-39831284-img-1',
-      url: '/images/products/lvt/colors/creation-55/1284-urban-street-medium/pod/61751 - JPG 72 dpi-URBAN STREET MEDIUM - 914x914 - VDC C55-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1284-urban-street-medium/pod/1284-urban-street-medium-pod.jpg?v=7',
       alt: 'URBAN STREET MEDIUM',
       isPrimary: true,
       order: 1,
@@ -9331,7 +9331,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay Acoustic - TAMO NATURAL (Šifra: 1561)',
     images: [{
       id: 'creation-55-looselay-acoustic-natural-36641561-img-1',
-      url: '/images/products/lvt/colors/creation-55/1561-tamo-natural/pod/61576 - JPG 72 dpi-Creation 1561 Tamo Natural Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/1561-tamo-natural/pod/1561-tamo-natural-pod.jpg?v=7',
       alt: 'TAMO NATURAL',
       isPrimary: true,
       order: 1,
@@ -9358,7 +9358,7 @@ export const gerflor_products: Product[] = [
     description: 'Gerflor Creation 55 Looselay Acoustic - RANCH (Šifra: 0456)',
     images: [{
       id: 'creation-55-looselay-acoustic-ranch-36640456-img-1',
-      url: '/images/products/lvt/colors/creation-55/0456-ranch/pod/61521 - JPG 72 dpi-Creation 0456 Ranch Sky View-pod.jpg?v=6',
+      url: '/images/products/lvt/colors/creation-55/0456-ranch/pod/0456-ranch-pod.jpg?v=7',
       alt: 'RANCH',
       isPrimary: true,
       order: 1,
