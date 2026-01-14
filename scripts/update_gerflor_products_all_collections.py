@@ -14,29 +14,18 @@ def update_gerflor_products_images():
     json_path = Path('public/data/lvt_colors_complete.json')
     ts_path = Path('lib/data/gerflor-products-generated.ts')
     
-    # Kolekcije do creation-55
-    collections = [
-        'creation-30',
-        'creation-40',
-        'creation-40-clic',
-        'creation-40-clic-acoustic',
-        'creation-40-zen',
-        'creation-55',
-    ]
-    
     # Učitaj JSON fajl
     with open(json_path, 'r', encoding='utf-8') as f:
         json_data = json.load(f)
     
-    # Kreiraj mapu: (collection, code) -> texture_url
+    # Kreiraj mapu: (collection, code) -> texture_url za SVE kolekcije
     image_map = {}
     for color in json_data['colors']:
-        if color['collection'] in collections:
-            code = color['code']
-            collection = color['collection']
-            image_map[(collection, code)] = color['texture_url']
+        code = color['code']
+        collection = color['collection']
+        image_map[(collection, code)] = color['texture_url']
     
-    print(f"Pronadjeno {len(image_map)} proizvoda u kolekcijama do creation-55")
+    print(f"Pronadjeno {len(image_map)} proizvoda u svim kolekcijama")
     
     # Učitaj TypeScript fajl
     with open(ts_path, 'r', encoding='utf-8') as f:
