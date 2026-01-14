@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import Image from 'next/image';
 
 interface Color {
@@ -46,10 +46,12 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
       });
   }, [collectionSlug]);
 
-  const filteredColors = colors.filter(color =>
-    color.full_name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    color.code.includes(searchTerm)
-  );
+  const filteredColors = useMemo(() => {
+    return colors.filter(color =>
+      color.full_name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      color.code.includes(searchTerm)
+    );
+  }, [colors, searchTerm]);
 
   // Keyboard navigation
   useEffect(() => {
