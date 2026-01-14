@@ -33,18 +33,23 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
         // Extract collection name from slug
         // e.g., "gerflor-creation-30" → "creation-30"
         // e.g., "creation-saga2-terra-35021566" → "creation-saga2"
+        // e.g., "creation-55-clic-acoustic-ball-39750555" → "creation-55-clic-acoustic"
         let collectionName = collectionSlug.replace('gerflor-', '');
         
-        // If slug contains "creation-", extract collection name (first two parts)
+        // If slug contains "creation-", extract collection name
         if (collectionName.startsWith('creation-')) {
           const parts = collectionName.split('-');
-          // Take first two parts: "creation" + number/variant
           if (parts.length >= 2) {
-            // Handle cases like "creation-55-looselay" or "creation-70-megaclic"
-            // Take up to 3 parts if the third part is a variant (looselay, clic, zen, etc.)
-            if (parts.length >= 3 && ['looselay', 'clic', 'zen', 'connect', 'megaclic', 'saga2'].includes(parts[2])) {
+            // Handle 4-part collections like "creation-55-clic-acoustic"
+            if (parts.length >= 4 && parts[2] === 'clic' && parts[3] === 'acoustic') {
+              collectionName = parts.slice(0, 4).join('-');
+            }
+            // Handle 3-part collections like "creation-55-looselay" or "creation-70-megaclic"
+            else if (parts.length >= 3 && ['looselay', 'clic', 'zen', 'connect', 'megaclic', 'saga2'].includes(parts[2])) {
               collectionName = parts.slice(0, 3).join('-');
-            } else {
+            }
+            // Handle 2-part collections like "creation-30"
+            else {
               collectionName = parts.slice(0, 2).join('-');
             }
           }
@@ -53,6 +58,7 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
         const filtered = data.colors.filter(
           (c: Color) => c.collection === collectionName || c.collection === collectionSlug
         );
+        
         setColors(filtered);
         setLoading(false);
       })
