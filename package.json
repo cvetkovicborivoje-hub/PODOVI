@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "check:images": "node tools/check-images.js",
+    "normalize:colors": "node tools/normalize-json.js",
+    "suggest:unknowns": "node tools/suggest-fixes-unknowns.js"
   },
   "dependencies": {
     "next": "14.2.5",
