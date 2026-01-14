@@ -64,22 +64,20 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
         e.preventDefault();
         setSelectedColorIndex((prev) => {
           if (prev === null) return null;
-          const newIndex = (prev - 1 + filteredColors.length) % filteredColors.length;
-          return newIndex;
+          return (prev - 1 + filteredColors.length) % filteredColors.length;
         });
       } else if (e.key === 'ArrowRight') {
         e.preventDefault();
         setSelectedColorIndex((prev) => {
           if (prev === null) return null;
-          const newIndex = (prev + 1) % filteredColors.length;
-          return newIndex;
+          return (prev + 1) % filteredColors.length;
         });
       }
     };
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [selectedColorIndex, filteredColors.length]);
+  }, [selectedColorIndex, filteredColors]);
 
   if (loading) {
     return (
@@ -144,6 +142,8 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
                   fill
                   className="object-cover group-hover:scale-110 transition-transform duration-300"
                   sizes="(max-width: 768px) 50vw, (max-width: 1200px) 33vw, 20vw"
+                  quality={100}
+                  unoptimized
                 />
               ) : (
                 <div className="w-full h-full flex items-center justify-center text-gray-400 text-sm">
@@ -203,6 +203,8 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
                       className="object-contain"
                       sizes="90vw"
                       priority
+                      quality={100}
+                      unoptimized
                     />
                   </div>
                   <div className="p-6 bg-white">
@@ -267,6 +269,8 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
                       fill
                       className="object-cover"
                       sizes="(max-width: 768px) 20vw, 10vw"
+                      quality={100}
+                      unoptimized
                     />
                   </button>
                 ))}
