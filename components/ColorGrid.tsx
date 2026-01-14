@@ -32,7 +32,23 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
       .then(data => {
         // Extract collection name from slug
         // e.g., "gerflor-creation-30" → "creation-30"
-        const collectionName = collectionSlug.replace('gerflor-', '');
+        // e.g., "creation-saga2-terra-35021566" → "creation-saga2"
+        let collectionName = collectionSlug.replace('gerflor-', '');
+        
+        // If slug contains "creation-", extract collection name (first two parts)
+        if (collectionName.startsWith('creation-')) {
+          const parts = collectionName.split('-');
+          // Take first two parts: "creation" + number/variant
+          if (parts.length >= 2) {
+            // Handle cases like "creation-55-looselay" or "creation-70-megaclic"
+            // Take up to 3 parts if the third part is a variant (looselay, clic, zen, etc.)
+            if (parts.length >= 3 && ['looselay', 'clic', 'zen', 'connect', 'megaclic', 'saga2'].includes(parts[2])) {
+              collectionName = parts.slice(0, 3).join('-');
+            } else {
+              collectionName = parts.slice(0, 2).join('-');
+            }
+          }
+        }
         
         const filtered = data.colors.filter(
           (c: Color) => c.collection === collectionName || c.collection === collectionSlug
