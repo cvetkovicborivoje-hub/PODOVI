@@ -46,6 +46,11 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
       });
   }, [collectionSlug]);
 
+  const filteredColors = colors.filter(color =>
+    color.full_name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+    color.code.includes(searchTerm)
+  );
+
   // Keyboard navigation
   useEffect(() => {
     if (selectedColorIndex === null) return;
@@ -55,21 +60,24 @@ export default function ColorGrid({ collectionSlug }: ColorGridProps) {
         setSelectedColorIndex(null);
       } else if (e.key === 'ArrowLeft') {
         e.preventDefault();
-        setSelectedColorIndex((prev) => prev !== null ? (prev - 1 + colors.length) % colors.length : null);
+        setSelectedColorIndex((prev) => {
+          if (prev === null) return null;
+          const newIndex = (prev - 1 + filteredColors.length) % filteredColors.length;
+          return newIndex;
+        });
       } else if (e.key === 'ArrowRight') {
         e.preventDefault();
-        setSelectedColorIndex((prev) => prev !== null ? (prev + 1) % colors.length : null);
+        setSelectedColorIndex((prev) => {
+          if (prev === null) return null;
+          const newIndex = (prev + 1) % filteredColors.length;
+          return newIndex;
+        });
       }
     };
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [selectedColorIndex, colors.length]);
-
-  const filteredColors = colors.filter(color =>
-    color.full_name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    color.code.includes(searchTerm)
-  );
+  }, [selectedColorIndex, filteredColors.length]);
 
   if (loading) {
     return (
